@@ -1,0 +1,9 @@
+PathogenWatch auto-updater log
+==============================
+Each entry is a single run of scripts/update.js. New news items added by
+the bot are listed under the timestamp.
+
+[2026-05-12T14:00:00Z] initial seed
+  baseline data.json committed from manual research
+  sources: WHO DON600, CDC HAN, ECDC, RIVM, UKHSA, Italian MoH, Reuters,
+  CNN, AP, ABC News, Today.com, Wanted in Rome

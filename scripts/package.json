@@ -1,0 +1,16 @@
+{
+  "name": "pathogenwatch-updater",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cron-driven RSS scraper that updates ../data.json from WHO, CDC, ECDC and ProMED feeds.",
+  "main": "update.js",
+  "scripts": {
+    "update": "node update.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  }
+}
