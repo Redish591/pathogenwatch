@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-12T14:00:00Z",
+  "last_updated": "2026-05-13T11:35:14.863Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
-  "keywords": ["hantavirus", "andes virus", "andv", "hps", "hantaan", "sin nombre", "puumala", "seoul virus", "dobrava"],
+  "keywords": [
+    "hantavirus",
+    "andes virus",
+    "andv",
+    "hps",
+    "hantaan",
+    "sin nombre",
+    "puumala",
+    "seoul virus",
+    "dobrava"
+  ],
   "stats": {
     "confirmed_cases": 9,
     "deaths": 3,
@@ -9,348 +19,2788 @@
     "contacts_traced": 145
   },
   "transmission_chain": [
-    {"id":"case-000","label":"Index Case","name":"Dutch male, 70s","exposed":"Solo trekking in Patagonia (Chile/Argentina) Jan–Mar 2026; suspected rodent excreta contact","died":"2026-04-11","location":"On MV Hondius (at sea)","onboard":true},
-    {"id":"case-002","label":"Case 2","name":"Dutch female, 60s","parent":"case-000","exposed":"Spousal contact with index case on MV Hondius","died":"2026-04-26","location":"Johannesburg (post-disembark at St Helena → JNB)","onboard":true,"travelled_after_exposure":true},
-    {"id":"case-004","label":"Case 4","name":"German female","parent":"case-000","exposed":"Adjacent cabin to index case on MV Hondius","died":"2026-05-02","location":"On MV Hondius (at sea, post-Tristan da Cunha)","onboard":true},
-    {"id":"case-005","label":"Case 5","name":"French female","parent":"case-000","exposed":"MV Hondius passenger; symptoms developed on Paris repatriation flight","status":"PCR+ in ICU Paris (stable)","onboard":true},
-    {"id":"case-006","label":"Case 6","name":"American adult","parent":"case-000","exposed":"MV Hondius passenger","status":"PCR+ in Nebraska biocontainment unit","onboard":true},
-    {"id":"case-007","label":"Case 7","name":"Swiss adult","parent":"case-000","exposed":"MV Hondius passenger","status":"PCR+ home quarantine; genome published 8 May","onboard":true},
-    {"id":"case-008","label":"Case 8","name":"British national","parent":"case-000","exposed":"Disembarked Tristan da Cunha; evacuated via Ascension","status":"PCR+ in ICU Johannesburg (clinically improving)","onboard":true},
-    {"id":"case-009","label":"Case 9 (suspected)","name":"British national","parent":"case-000","exposed":"Did not disembark at Tristan da Cunha; remained at Edinburgh of the Seven Seas","status":"Suspected, oxygen support; RAF medics parachuted in","onboard":false}
+    {
+      "id": "case-000",
+      "label": "Index Case",
+      "name": "Dutch male, 70s",
+      "exposed": "Solo trekking in Patagonia (Chile/Argentina) Jan–Mar 2026; suspected rodent excreta contact",
+      "died": "2026-04-11",
+      "location": "On MV Hondius (at sea)",
+      "onboard": true
+    },
+    {
+      "id": "case-002",
+      "label": "Case 2",
+      "name": "Dutch female, 60s",
+      "parent": "case-000",
+      "exposed": "Spousal contact with index case on MV Hondius",
+      "died": "2026-04-26",
+      "location": "Johannesburg (post-disembark at St Helena → JNB)",
+      "onboard": true,
+      "travelled_after_exposure": true
+    },
+    {
+      "id": "case-004",
+      "label": "Case 4",
+      "name": "German female",
+      "parent": "case-000",
+      "exposed": "Adjacent cabin to index case on MV Hondius",
+      "died": "2026-05-02",
+      "location": "On MV Hondius (at sea, post-Tristan da Cunha)",
+      "onboard": true
+    },
+    {
+      "id": "case-005",
+      "label": "Case 5",
+      "name": "French female",
+      "parent": "case-000",
+      "exposed": "MV Hondius passenger; symptoms developed on Paris repatriation flight",
+      "status": "PCR+ in ICU Paris (stable)",
+      "onboard": true
+    },
+    {
+      "id": "case-006",
+      "label": "Case 6",
+      "name": "American adult",
+      "parent": "case-000",
+      "exposed": "MV Hondius passenger",
+      "status": "PCR+ in Nebraska biocontainment unit",
+      "onboard": true
+    },
+    {
+      "id": "case-007",
+      "label": "Case 7",
+      "name": "Swiss adult",
+      "parent": "case-000",
+      "exposed": "MV Hondius passenger",
+      "status": "PCR+ home quarantine; genome published 8 May",
+      "onboard": true
+    },
+    {
+      "id": "case-008",
+      "label": "Case 8",
+      "name": "British national",
+      "parent": "case-000",
+      "exposed": "Disembarked Tristan da Cunha; evacuated via Ascension",
+      "status": "PCR+ in ICU Johannesburg (clinically improving)",
+      "onboard": true
+    },
+    {
+      "id": "case-009",
+      "label": "Case 9 (suspected)",
+      "name": "British national",
+      "parent": "case-000",
+      "exposed": "Did not disembark at Tristan da Cunha; remained at Edinburgh of the Seven Seas",
+      "status": "Suspected, oxygen support; RAF medics parachuted in",
+      "onboard": false
+    }
   ],
   "cases": [
-    {"name":"Netherlands","flag":"🇳🇱","status":"confirmed","cases":3,"deaths":1,"city":"Amsterdam / Eindhoven","lat":52.35,"lon":4.9,"note":"Index case (Dutch man, ~70) died 11 Apr on ship. Wife died 26 Apr Johannesburg. 3rd evacuee in ICU. 8 Dutch nationals in 6-week self-quarantine. Dutch Govt flight landed Eindhoven 10 May.","iso":"528","sources":[{"l":"WHO DON600","u":"https://www.who.int/emergencies/disease-outbreak-news"},{"l":"RIVM","u":"https://www.rivm.nl/en/"}]},
-    {"name":"South Africa","flag":"🇿🇦","status":"confirmed","cases":2,"deaths":0,"city":"Johannesburg","lat":-26.2,"lon":28.04,"note":"2 lab-confirmed at NICD. British national evacuated from Ascension Island; in ICU Johannesburg. Dutch woman died here 26 Apr. Clinical improvement 11 May.","iso":"710","sources":[{"l":"NICD SA","u":"https://www.nicd.ac.za/"},{"l":"WHO DON600","u":"https://www.who.int/emergencies/disease-outbreak-news"}]},
-    {"name":"Switzerland","flag":"🇨🇭","status":"confirmed","cases":1,"deaths":0,"city":"Zürich","lat":47.37,"lon":8.54,"note":"1 confirmed after disembarkation. Viral genome published virological.org 8 May: 'ANDV/Switzerland/Hu-3337/2026'. Nextstrain phylogenetics live.","iso":"756","sources":[{"l":"virological.org","u":"https://virological.org/"},{"l":"FOPH","u":"https://www.bag.admin.ch/"}]},
-    {"name":"France","flag":"🇫🇷","status":"confirmed","cases":1,"deaths":0,"city":"Paris (Hôpital)","lat":48.85,"lon":2.35,"note":"French evacuee PCR positive; symptoms on return flight. In ICU, stable. 5 French nationals hospitalised. 8 flight contacts under investigation.","iso":"250","sources":[{"l":"Santé publique France","u":"https://www.santepubliquefrance.fr/"},{"l":"Reuters","u":"https://www.reuters.com/health/"}]},
-    {"name":"United States","flag":"🇺🇸","status":"confirmed","cases":1,"deaths":0,"city":"Omaha NE / Atlanta GA","lat":39.5,"lon":-98.35,"note":"1 American PCR+ in biocontainment at Nebraska Medicine NQU. 1 symptomatic at Emory Atlanta. 16 others in quarantine. CDC Level 3 response. Contacts traced across 8 states.","iso":"840","sources":[{"l":"CDC HAN","u":"https://emergency.cdc.gov/han/"},{"l":"Nebraska Med","u":"https://www.nebraskamed.com/"}]},
-    {"name":"Germany","flag":"🇩🇪","status":"confirmed","cases":1,"deaths":1,"city":"Died at sea (PCR confirmed)","lat":51.16,"lon":10.45,"note":"German national (adult female, Case 4) died on board 2 May. PCR-confirmed ANDV per WHO DON600.","iso":"276","sources":[{"l":"WHO DON600","u":"https://www.who.int/emergencies/disease-outbreak-news"},{"l":"RKI","u":"https://www.rki.de/"}]},
-    {"name":"Tristan da Cunha","flag":"🇸🇭","status":"suspected","cases":1,"deaths":0,"city":"Edinburgh of the Seven Seas","lat":-37.06,"lon":-12.31,"note":"1 suspected case. British Army paratroopers + medics parachuted onto island 10 May via RAF. Oxygen and equipment air-dropped.","iso":null,"sources":[{"l":"UK MOD","u":"https://www.gov.uk/government/organisations/ministry-of-defence"},{"l":"UKHSA","u":"https://www.gov.uk/government/organisations/uk-health-security-agency"}]},
-    {"name":"Spain","flag":"🇪🇸","status":"suspected","cases":1,"deaths":0,"city":"Madrid (Hospital Militar)","lat":40.42,"lon":-3.7,"note":"Spanish nationals first to disembark in Tenerife. Flown to Madrid military hospital. At least 1 suspected case under investigation.","iso":"724","sources":[{"l":"ISCIII Spain","u":"https://www.isciii.es/"},{"l":"Reuters","u":"https://www.reuters.com/health/"}]},
-    {"name":"United Kingdom","flag":"🇬🇧","status":"monitoring","cases":0,"deaths":0,"city":"Arrowe Park Hospital, Wirral","lat":53.37,"lon":-3.1,"note":"20 British nationals at Arrowe Park for 72-hr assessment (11 May). 45-day home isolation follows. 2 British nationals confirmed positive abroad.","iso":"826","sources":[{"l":"UKHSA","u":"https://www.gov.uk/government/organisations/uk-health-security-agency"},{"l":"NHS England","u":"https://www.england.nhs.uk/"}]},
-    {"name":"Canada","flag":"🇨🇦","status":"monitoring","cases":0,"deaths":0,"city":"Bagotville QC → British Columbia","lat":48.33,"lon":-71.0,"note":"4 Canadians flown to Bagotville QC 10 May; transferred to BC for 21-day self-isolation.","iso":"124","sources":[{"l":"PHAC Canada","u":"https://www.canada.ca/en/public-health.html"}]},
-    {"name":"Singapore","flag":"🇸🇬","status":"monitoring","cases":0,"deaths":0,"city":"NCID Singapore","lat":1.33,"lon":103.85,"note":"2 residents at NCID. Both tested negative. 30-day quarantine per CDA protocol.","iso":"702","sources":[{"l":"CDA Singapore","u":"https://www.cda.gov.sg/"}]},
-    {"name":"Australia","flag":"🇦🇺","status":"monitoring","cases":0,"deaths":0,"city":"Sydney","lat":-33.87,"lon":151.21,"note":"Evacuation plane sent for Australian and New Zealand nationals. Last group departed Tenerife 11 May.","iso":"036","sources":[{"l":"AHPPC","u":"https://www.health.gov.au/"}]},
-    {"name":"New Zealand","flag":"🇳🇿","status":"monitoring","cases":0,"deaths":0,"city":"Auckland","lat":-36.85,"lon":174.76,"note":"Evacuated on Australian government plane. Self-monitoring at home under NZ health authority guidance.","iso":"554","sources":[{"l":"NZ MoH","u":"https://www.health.govt.nz/"}]},
-    {"name":"Denmark","flag":"🇩🇰","status":"monitoring","cases":0,"deaths":0,"city":"Copenhagen","lat":55.68,"lon":12.57,"note":"WHO notified Danish IHR focal point. Nationals self-monitoring per health authority guidance.","iso":"208","sources":[{"l":"SSI Denmark","u":"https://en.ssi.dk/"}]},
-    {"name":"Sweden","flag":"🇸🇪","status":"monitoring","cases":0,"deaths":0,"city":"Stockholm","lat":59.33,"lon":18.07,"note":"WHO notified Swedish IHR focal point. Nationals on 42-day monitoring per ECDC guidance.","iso":"752","sources":[{"l":"Folkhälsomyndigheten","u":"https://www.folkhalsomyndigheten.se/"},{"l":"ECDC","u":"https://www.ecdc.europa.eu/"}]},
-    {"name":"Japan","flag":"🇯🇵","status":"contact","cases":0,"deaths":0,"city":"Tokyo (via UK)","lat":35.68,"lon":139.69,"note":"1 Japanese national at Arrowe Park Hospital at Japan's request. Asymptomatic, repatriated after 72-hr assessment.","iso":"392","sources":[{"l":"NIID Japan","u":"https://www.niid.go.jp/niid/en/"}]},
-    {"name":"Philippines","flag":"🇵🇭","status":"contact","cases":0,"deaths":0,"city":"Manila","lat":14.6,"lon":121.0,"note":"38 Filipino crew members aboard MV Hondius. None ill as of 5 May. DOH coordinating with Dutch authorities.","iso":"608","sources":[{"l":"DOH Philippines","u":"https://www.doh.gov.ph/"}]},
-    {"name":"India","flag":"🇮🇳","status":"contact","cases":0,"deaths":0,"city":"New Delhi","lat":28.64,"lon":77.22,"note":"Indian nationals aboard Dutch evacuation flight (Eindhoven 10 May). Returned home under self-monitoring guidance.","iso":"356","sources":[{"l":"ICMR","u":"https://www.icmr.gov.in/"}]},
-    {"name":"Belgium","flag":"🇧🇪","status":"contact","cases":0,"deaths":0,"city":"Brussels","lat":50.85,"lon":4.35,"note":"Belgian nationals aboard Dutch evacuation flight. Home self-monitoring per ECDC protocols.","iso":"056","sources":[{"l":"Sciensano Belgium","u":"https://www.sciensano.be/"}]},
-    {"name":"Greece","flag":"🇬🇷","status":"contact","cases":0,"deaths":0,"city":"Athens","lat":37.98,"lon":23.73,"note":"Greek nationals aboard Dutch evacuation flight. Monitoring ongoing per ECDC guidance.","iso":"300","sources":[{"l":"EODY Greece","u":"https://eody.gov.gr/"}]},
-    {"name":"Portugal","flag":"🇵🇹","status":"contact","cases":0,"deaths":0,"city":"Lisbon","lat":38.72,"lon":-9.14,"note":"Portuguese nationals aboard Dutch evacuation flight. Home monitoring.","iso":"620","sources":[{"l":"DGS Portugal","u":"https://www.dgs.pt/"}]},
-    {"name":"Ukraine","flag":"🇺🇦","status":"contact","cases":0,"deaths":0,"city":"Kyiv","lat":50.45,"lon":30.52,"note":"Ukrainian nationals aboard Dutch evacuation flight. Monitoring per national protocols.","iso":"804","sources":[{"l":"MoH Ukraine","u":"https://www.moz.gov.ua/"}]},
-    {"name":"Italy","flag":"🇮🇹","status":"contact","cases":0,"deaths":0,"city":"Tuscany, Calabria, Campania, Veneto","lat":41.87,"lon":12.57,"note":"4 contacts placed under 42-day active surveillance by Italian Ministry of Health. Arrived via Rome Fiumicino on KLM flight segment. Dispersed to Tuscany, Calabria, Campania and Veneto. All asymptomatic as of 12 May.","iso":"380","sources":[{"l":"Italian MoH","u":"https://www.salute.gov.it/"},{"l":"Wanted in Rome","u":"https://www.wantedinrome.com/news/italy-places-four-under-observation-after-hantavirus-flight-contact.html"}]},
-    {"name":"Argentina","flag":"🇦🇷","status":"contact","cases":101,"deaths":0,"city":"Patagonia / Ushuaia","lat":-41.1,"lon":-71.3,"note":"Endemic ANDV region. 101 confirmed endemic cases since June 2025. Index case spent 4 months in Chile, Uruguay, Argentina before boarding. Rodent trapping ongoing.","iso":"032","sources":[{"l":"ANLIS Argentina","u":"https://www.anlis.gob.ar/"},{"l":"PAHO","u":"https://www.paho.org/"}]}
+    {
+      "name": "Netherlands",
+      "flag": "🇳🇱",
+      "status": "confirmed",
+      "cases": 3,
+      "deaths": 1,
+      "city": "Amsterdam / Eindhoven",
+      "lat": 52.35,
+      "lon": 4.9,
+      "note": "Index case (Dutch man, ~70) died 11 Apr on ship. Wife died 26 Apr Johannesburg. 3rd evacuee in ICU. 8 Dutch nationals in 6-week self-quarantine. Dutch Govt flight landed Eindhoven 10 May.",
+      "iso": "528",
+      "sources": [
+        {
+          "l": "WHO DON600",
+          "u": "https://www.who.int/emergencies/disease-outbreak-news"
+        },
+        {
+          "l": "RIVM",
+          "u": "https://www.rivm.nl/en/"
+        }
+      ]
+    },
+    {
+      "name": "South Africa",
+      "flag": "🇿🇦",
+      "status": "confirmed",
+      "cases": 2,
+      "deaths": 0,
+      "city": "Johannesburg",
+      "lat": -26.2,
+      "lon": 28.04,
+      "note": "2 lab-confirmed at NICD. British national evacuated from Ascension Island; in ICU Johannesburg. Dutch woman died here 26 Apr. Clinical improvement 11 May.",
+      "iso": "710",
+      "sources": [
+        {
+          "l": "NICD SA",
+          "u": "https://www.nicd.ac.za/"
+        },
+        {
+          "l": "WHO DON600",
+          "u": "https://www.who.int/emergencies/disease-outbreak-news"
+        }
+      ]
+    },
+    {
+      "name": "Switzerland",
+      "flag": "🇨🇭",
+      "status": "confirmed",
+      "cases": 1,
+      "deaths": 0,
+      "city": "Zürich",
+      "lat": 47.37,
+      "lon": 8.54,
+      "note": "1 confirmed after disembarkation. Viral genome published virological.org 8 May: 'ANDV/Switzerland/Hu-3337/2026'. Nextstrain phylogenetics live.",
+      "iso": "756",
+      "sources": [
+        {
+          "l": "virological.org",
+          "u": "https://virological.org/"
+        },
+        {
+          "l": "FOPH",
+          "u": "https://www.bag.admin.ch/"
+        }
+      ]
+    },
+    {
+      "name": "France",
+      "flag": "🇫🇷",
+      "status": "confirmed",
+      "cases": 1,
+      "deaths": 0,
+      "city": "Paris (Hôpital)",
+      "lat": 48.85,
+      "lon": 2.35,
+      "note": "French evacuee PCR positive; symptoms on return flight. In ICU, stable. 5 French nationals hospitalised. 8 flight contacts under investigation.",
+      "iso": "250",
+      "sources": [
+        {
+          "l": "Santé publique France",
+          "u": "https://www.santepubliquefrance.fr/"
+        },
+        {
+          "l": "Reuters",
+          "u": "https://www.reuters.com/health/"
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "flag": "🇺🇸",
+      "status": "confirmed",
+      "cases": 1,
+      "deaths": 0,
+      "city": "Omaha NE / Atlanta GA",
+      "lat": 39.5,
+      "lon": -98.35,
+      "note": "1 American PCR+ in biocontainment at Nebraska Medicine NQU. 1 symptomatic at Emory Atlanta. 16 others in quarantine. CDC Level 3 response. Contacts traced across 8 states.",
+      "iso": "840",
+      "sources": [
+        {
+          "l": "CDC HAN",
+          "u": "https://emergency.cdc.gov/han/"
+        },
+        {
+          "l": "Nebraska Med",
+          "u": "https://www.nebraskamed.com/"
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "flag": "🇩🇪",
+      "status": "confirmed",
+      "cases": 1,
+      "deaths": 1,
+      "city": "Died at sea (PCR confirmed)",
+      "lat": 51.16,
+      "lon": 10.45,
+      "note": "German national (adult female, Case 4) died on board 2 May. PCR-confirmed ANDV per WHO DON600.",
+      "iso": "276",
+      "sources": [
+        {
+          "l": "WHO DON600",
+          "u": "https://www.who.int/emergencies/disease-outbreak-news"
+        },
+        {
+          "l": "RKI",
+          "u": "https://www.rki.de/"
+        }
+      ]
+    },
+    {
+      "name": "Tristan da Cunha",
+      "flag": "🇸🇭",
+      "status": "suspected",
+      "cases": 1,
+      "deaths": 0,
+      "city": "Edinburgh of the Seven Seas",
+      "lat": -37.06,
+      "lon": -12.31,
+      "note": "1 suspected case. British Army paratroopers + medics parachuted onto island 10 May via RAF. Oxygen and equipment air-dropped.",
+      "iso": null,
+      "sources": [
+        {
+          "l": "UK MOD",
+          "u": "https://www.gov.uk/government/organisations/ministry-of-defence"
+        },
+        {
+          "l": "UKHSA",
+          "u": "https://www.gov.uk/government/organisations/uk-health-security-agency"
+        }
+      ]
+    },
+    {
+      "name": "Spain",
+      "flag": "🇪🇸",
+      "status": "suspected",
+      "cases": 1,
+      "deaths": 0,
+      "city": "Madrid (Hospital Militar)",
+      "lat": 40.42,
+      "lon": -3.7,
+      "note": "Spanish nationals first to disembark in Tenerife. Flown to Madrid military hospital. At least 1 suspected case under investigation.",
+      "iso": "724",
+      "sources": [
+        {
+          "l": "ISCIII Spain",
+          "u": "https://www.isciii.es/"
+        },
+        {
+          "l": "Reuters",
+          "u": "https://www.reuters.com/health/"
+        }
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "flag": "🇬🇧",
+      "status": "monitoring",
+      "cases": 0,
+      "deaths": 0,
+      "city": "Arrowe Park Hospital, Wirral",
+      "lat": 53.37,
+      "lon": -3.1,
+      "note": "20 British nationals at Arrowe Park for 72-hr assessment (11 May). 45-day home isolation follows. 2 British nationals confirmed positive abroad.",
+      "iso": "826",
+      "sources": [
+        {
+          "l": "UKHSA",
+          "u": "https://www.gov.uk/government/organisations/uk-health-security-agency"
+        },
+        {
+          "l": "NHS England",
+          "u": "https://www.england.nhs.uk/"
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "flag": "🇨🇦",
+      "status": "monitoring",
+      "cases": 0,
+      "deaths": 0,
+      "city": "Bagotville QC → British Columbia",
+      "lat": 48.33,
+      "lon": -71,
+      "note": "4 Canadians flown to Bagotville QC 10 May; transferred to BC for 21-day self-isolation.",
+      "iso": "124",
+      "sources": [
+        {
+          "l": "PHAC Canada",
+          "u": "https://www.canada.ca/en/public-health.html"
+        }
+      ]
+    },
+    {
+      "name": "Singapore",
+      "flag": "🇸🇬",
+      "status": "monitoring",
+      "cases": 0,
+      "deaths": 0,
+      "city": "NCID Singapore",
+      "lat": 1.33,
+      "lon": 103.85,
+      "note": "2 residents at NCID. Both tested negative. 30-day quarantine per CDA protocol.",
+      "iso": "702",
+      "sources": [
+        {
+          "l": "CDA Singapore",
+          "u": "https://www.cda.gov.sg/"
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "flag": "🇦🇺",
+      "status": "monitoring",
+      "cases": 0,
+      "deaths": 0,
+      "city": "Sydney",
+      "lat": -33.87,
+      "lon": 151.21,
+      "note": "Evacuation plane sent for Australian and New Zealand nationals. Last group departed Tenerife 11 May.",
+      "iso": "036",
+      "sources": [
+        {
+          "l": "AHPPC",
+          "u": "https://www.health.gov.au/"
+        }
+      ]
+    },
+    {
+      "name": "New Zealand",
+      "flag": "🇳🇿",
+      "status": "monitoring",
+      "cases": 0,
+      "deaths": 0,
+      "city": "Auckland",
+      "lat": -36.85,
+      "lon": 174.76,
+      "note": "Evacuated on Australian government plane. Self-monitoring at home under NZ health authority guidance.",
+      "iso": "554",
+      "sources": [
+        {
+          "l": "NZ MoH",
+          "u": "https://www.health.govt.nz/"
+        }
+      ]
+    },
+    {
+      "name": "Denmark",
+      "flag": "🇩🇰",
+      "status": "monitoring",
+      "cases": 0,
+      "deaths": 0,
+      "city": "Copenhagen",
+      "lat": 55.68,
+      "lon": 12.57,
+      "note": "WHO notified Danish IHR focal point. Nationals self-monitoring per health authority guidance.",
+      "iso": "208",
+      "sources": [
+        {
+          "l": "SSI Denmark",
+          "u": "https://en.ssi.dk/"
+        }
+      ]
+    },
+    {
+      "name": "Sweden",
+      "flag": "🇸🇪",
+      "status": "monitoring",
+      "cases": 0,
+      "deaths": 0,
+      "city": "Stockholm",
+      "lat": 59.33,
+      "lon": 18.07,
+      "note": "WHO notified Swedish IHR focal point. Nationals on 42-day monitoring per ECDC guidance.",
+      "iso": "752",
+      "sources": [
+        {
+          "l": "Folkhälsomyndigheten",
+          "u": "https://www.folkhalsomyndigheten.se/"
+        },
+        {
+          "l": "ECDC",
+          "u": "https://www.ecdc.europa.eu/"
+        }
+      ]
+    },
+    {
+      "name": "Japan",
+      "flag": "🇯🇵",
+      "status": "contact",
+      "cases": 0,
+      "deaths": 0,
+      "city": "Tokyo (via UK)",
+      "lat": 35.68,
+      "lon": 139.69,
+      "note": "1 Japanese national at Arrowe Park Hospital at Japan's request. Asymptomatic, repatriated after 72-hr assessment.",
+      "iso": "392",
+      "sources": [
+        {
+          "l": "NIID Japan",
+          "u": "https://www.niid.go.jp/niid/en/"
+        }
+      ]
+    },
+    {
+      "name": "Philippines",
+      "flag": "🇵🇭",
+      "status": "contact",
+      "cases": 0,
+      "deaths": 0,
+      "city": "Manila",
+      "lat": 14.6,
+      "lon": 121,
+      "note": "38 Filipino crew members aboard MV Hondius. None ill as of 5 May. DOH coordinating with Dutch authorities.",
+      "iso": "608",
+      "sources": [
+        {
+          "l": "DOH Philippines",
+          "u": "https://www.doh.gov.ph/"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "flag": "🇮🇳",
+      "status": "contact",
+      "cases": 0,
+      "deaths": 0,
+      "city": "New Delhi",
+      "lat": 28.64,
+      "lon": 77.22,
+      "note": "Indian nationals aboard Dutch evacuation flight (Eindhoven 10 May). Returned home under self-monitoring guidance.",
+      "iso": "356",
+      "sources": [
+        {
+          "l": "ICMR",
+          "u": "https://www.icmr.gov.in/"
+        }
+      ]
+    },
+    {
+      "name": "Belgium",
+      "flag": "🇧🇪",
+      "status": "contact",
+      "cases": 0,
+      "deaths": 0,
+      "city": "Brussels",
+      "lat": 50.85,
+      "lon": 4.35,
+      "note": "Belgian nationals aboard Dutch evacuation flight. Home self-monitoring per ECDC protocols.",
+      "iso": "056",
+      "sources": [
+        {
+          "l": "Sciensano Belgium",
+          "u": "https://www.sciensano.be/"
+        }
+      ]
+    },
+    {
+      "name": "Greece",
+      "flag": "🇬🇷",
+      "status": "contact",
+      "cases": 0,
+      "deaths": 0,
+      "city": "Athens",
+      "lat": 37.98,
+      "lon": 23.73,
+      "note": "Greek nationals aboard Dutch evacuation flight. Monitoring ongoing per ECDC guidance.",
+      "iso": "300",
+      "sources": [
+        {
+          "l": "EODY Greece",
+          "u": "https://eody.gov.gr/"
+        }
+      ]
+    },
+    {
+      "name": "Portugal",
+      "flag": "🇵🇹",
+      "status": "contact",
+      "cases": 0,
+      "deaths": 0,
+      "city": "Lisbon",
+      "lat": 38.72,
+      "lon": -9.14,
+      "note": "Portuguese nationals aboard Dutch evacuation flight. Home monitoring.",
+      "iso": "620",
+      "sources": [
+        {
+          "l": "DGS Portugal",
+          "u": "https://www.dgs.pt/"
+        }
+      ]
+    },
+    {
+      "name": "Ukraine",
+      "flag": "🇺🇦",
+      "status": "contact",
+      "cases": 0,
+      "deaths": 0,
+      "city": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "note": "Ukrainian nationals aboard Dutch evacuation flight. Monitoring per national protocols.",
+      "iso": "804",
+      "sources": [
+        {
+          "l": "MoH Ukraine",
+          "u": "https://www.moz.gov.ua/"
+        }
+      ]
+    },
+    {
+      "name": "Italy",
+      "flag": "🇮🇹",
+      "status": "contact",
+      "cases": 0,
+      "deaths": 0,
+      "city": "Tuscany, Calabria, Campania, Veneto",
+      "lat": 41.87,
+      "lon": 12.57,
+      "note": "4 contacts placed under 42-day active surveillance by Italian Ministry of Health. Arrived via Rome Fiumicino on KLM flight segment. Dispersed to Tuscany, Calabria, Campania and Veneto. All asymptomatic as of 12 May.",
+      "iso": "380",
+      "sources": [
+        {
+          "l": "Italian MoH",
+          "u": "https://www.salute.gov.it/"
+        },
+        {
+          "l": "Wanted in Rome",
+          "u": "https://www.wantedinrome.com/news/italy-places-four-under-observation-after-hantavirus-flight-contact.html"
+        }
+      ]
+    },
+    {
+      "name": "Argentina",
+      "flag": "🇦🇷",
+      "status": "contact",
+      "cases": 101,
+      "deaths": 0,
+      "city": "Patagonia / Ushuaia",
+      "lat": -41.1,
+      "lon": -71.3,
+      "note": "Endemic ANDV region. 101 confirmed endemic cases since June 2025. Index case spent 4 months in Chile, Uruguay, Argentina before boarding. Rodent trapping ongoing.",
+      "iso": "032",
+      "sources": [
+        {
+          "l": "ANLIS Argentina",
+          "u": "https://www.anlis.gob.ar/"
+        },
+        {
+          "l": "PAHO",
+          "u": "https://www.paho.org/"
+        }
+      ]
+    }
   ],
   "contacts": [
     {
-      "id":"CT-IT-01","city":"Florence, Tuscany","country":"Italy","region_id":"IT-52","flag":"🇮🇹","lat":43.77,"lng":11.25,"count":1,"status":"monitoring",
-      "exposure":{"linked_to":"Case 2 — Dutch female, 60s (deceased 26 Apr Johannesburg)","linked_case_id":"case-002","date":"2026-04-25","location":"KLM592 Johannesburg → Amsterdam","type":"Same flight segment as briefly-boarded index case"},
-      "track":[
-        {"date":"2026-04-25","label":"Boarded KL592 — Johannesburg OR Tambo","lat":-26.13,"lng":28.24,"icon":"plane"},
-        {"date":"2026-04-26","label":"Transit at Rome Fiumicino","lat":41.80,"lng":12.25,"icon":"transit"},
-        {"date":"2026-04-26","label":"Returned home — Florence, Tuscany","lat":43.77,"lng":11.25,"icon":"home"}
+      "id": "CT-IT-01",
+      "city": "Florence, Tuscany",
+      "country": "Italy",
+      "region_id": "IT-52",
+      "flag": "🇮🇹",
+      "lat": 43.77,
+      "lng": 11.25,
+      "count": 1,
+      "status": "monitoring",
+      "exposure": {
+        "linked_to": "Case 2 — Dutch female, 60s (deceased 26 Apr Johannesburg)",
+        "linked_case_id": "case-002",
+        "date": "2026-04-25",
+        "location": "KLM592 Johannesburg → Amsterdam",
+        "type": "Same flight segment as briefly-boarded index case"
+      },
+      "track": [
+        {
+          "date": "2026-04-25",
+          "label": "Boarded KL592 — Johannesburg OR Tambo",
+          "lat": -26.13,
+          "lng": 28.24,
+          "icon": "plane"
+        },
+        {
+          "date": "2026-04-26",
+          "label": "Transit at Rome Fiumicino",
+          "lat": 41.8,
+          "lng": 12.25,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-04-26",
+          "label": "Returned home — Florence, Tuscany",
+          "lat": 43.77,
+          "lng": 11.25,
+          "icon": "home"
+        }
       ],
-      "monitoring":{"day":17,"total":42,"symptomatic":false,"last_check":"2026-05-12"},
-      "note":"Under 42-day surveillance by Tuscany regional health unit. Asymptomatic as of 12 May.",
-      "source":"Italian Ministry of Health","url":"https://www.wantedinrome.com/news/italy-places-four-under-observation-after-hantavirus-flight-contact.html"
+      "monitoring": {
+        "day": 17,
+        "total": 42,
+        "symptomatic": false,
+        "last_check": "2026-05-12"
+      },
+      "note": "Under 42-day surveillance by Tuscany regional health unit. Asymptomatic as of 12 May.",
+      "source": "Italian Ministry of Health",
+      "url": "https://www.wantedinrome.com/news/italy-places-four-under-observation-after-hantavirus-flight-contact.html"
     },
     {
-      "id":"CT-IT-02","city":"Catanzaro, Calabria","country":"Italy","region_id":"IT-78","flag":"🇮🇹","lat":38.90,"lng":16.60,"count":1,"status":"monitoring",
-      "exposure":{"linked_to":"Case 2 — Dutch female, 60s (deceased 26 Apr Johannesburg)","linked_case_id":"case-002","date":"2026-04-25","location":"KLM592 Johannesburg → Amsterdam","type":"Same flight segment as briefly-boarded index case"},
-      "track":[
-        {"date":"2026-04-25","label":"Boarded KL592 — Johannesburg OR Tambo","lat":-26.13,"lng":28.24,"icon":"plane"},
-        {"date":"2026-04-26","label":"Transit at Rome Fiumicino","lat":41.80,"lng":12.25,"icon":"transit"},
-        {"date":"2026-04-26","label":"Returned home — Calabria","lat":38.90,"lng":16.60,"icon":"home"}
+      "id": "CT-IT-02",
+      "city": "Catanzaro, Calabria",
+      "country": "Italy",
+      "region_id": "IT-78",
+      "flag": "🇮🇹",
+      "lat": 38.9,
+      "lng": 16.6,
+      "count": 1,
+      "status": "monitoring",
+      "exposure": {
+        "linked_to": "Case 2 — Dutch female, 60s (deceased 26 Apr Johannesburg)",
+        "linked_case_id": "case-002",
+        "date": "2026-04-25",
+        "location": "KLM592 Johannesburg → Amsterdam",
+        "type": "Same flight segment as briefly-boarded index case"
+      },
+      "track": [
+        {
+          "date": "2026-04-25",
+          "label": "Boarded KL592 — Johannesburg OR Tambo",
+          "lat": -26.13,
+          "lng": 28.24,
+          "icon": "plane"
+        },
+        {
+          "date": "2026-04-26",
+          "label": "Transit at Rome Fiumicino",
+          "lat": 41.8,
+          "lng": 12.25,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-04-26",
+          "label": "Returned home — Calabria",
+          "lat": 38.9,
+          "lng": 16.6,
+          "icon": "home"
+        }
       ],
-      "monitoring":{"day":17,"total":42,"symptomatic":false,"last_check":"2026-05-12"},
-      "note":"Under 42-day surveillance by Calabria regional health unit. Asymptomatic as of 12 May.",
-      "source":"Italian Ministry of Health","url":"https://www.wantedinrome.com/news/italy-places-four-under-observation-after-hantavirus-flight-contact.html"
+      "monitoring": {
+        "day": 17,
+        "total": 42,
+        "symptomatic": false,
+        "last_check": "2026-05-12"
+      },
+      "note": "Under 42-day surveillance by Calabria regional health unit. Asymptomatic as of 12 May.",
+      "source": "Italian Ministry of Health",
+      "url": "https://www.wantedinrome.com/news/italy-places-four-under-observation-after-hantavirus-flight-contact.html"
     },
     {
-      "id":"CT-IT-03","city":"Naples, Campania","country":"Italy","region_id":"IT-72","flag":"🇮🇹","lat":40.84,"lng":14.25,"count":1,"status":"monitoring",
-      "exposure":{"linked_to":"Case 2 — Dutch female, 60s (deceased 26 Apr Johannesburg)","linked_case_id":"case-002","date":"2026-04-25","location":"KLM592 Johannesburg → Amsterdam","type":"Same flight segment as briefly-boarded index case"},
-      "track":[
-        {"date":"2026-04-25","label":"Boarded KL592 — Johannesburg OR Tambo","lat":-26.13,"lng":28.24,"icon":"plane"},
-        {"date":"2026-04-26","label":"Transit at Rome Fiumicino","lat":41.80,"lng":12.25,"icon":"transit"},
-        {"date":"2026-04-26","label":"Returned home — Campania","lat":40.84,"lng":14.25,"icon":"home"}
+      "id": "CT-IT-03",
+      "city": "Naples, Campania",
+      "country": "Italy",
+      "region_id": "IT-72",
+      "flag": "🇮🇹",
+      "lat": 40.84,
+      "lng": 14.25,
+      "count": 1,
+      "status": "monitoring",
+      "exposure": {
+        "linked_to": "Case 2 — Dutch female, 60s (deceased 26 Apr Johannesburg)",
+        "linked_case_id": "case-002",
+        "date": "2026-04-25",
+        "location": "KLM592 Johannesburg → Amsterdam",
+        "type": "Same flight segment as briefly-boarded index case"
+      },
+      "track": [
+        {
+          "date": "2026-04-25",
+          "label": "Boarded KL592 — Johannesburg OR Tambo",
+          "lat": -26.13,
+          "lng": 28.24,
+          "icon": "plane"
+        },
+        {
+          "date": "2026-04-26",
+          "label": "Transit at Rome Fiumicino",
+          "lat": 41.8,
+          "lng": 12.25,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-04-26",
+          "label": "Returned home — Campania",
+          "lat": 40.84,
+          "lng": 14.25,
+          "icon": "home"
+        }
       ],
-      "monitoring":{"day":17,"total":42,"symptomatic":false,"last_check":"2026-05-12"},
-      "note":"Under 42-day surveillance by Campania regional health unit. Asymptomatic as of 12 May.",
-      "source":"Italian Ministry of Health","url":"https://www.wantedinrome.com/news/italy-places-four-under-observation-after-hantavirus-flight-contact.html"
+      "monitoring": {
+        "day": 17,
+        "total": 42,
+        "symptomatic": false,
+        "last_check": "2026-05-12"
+      },
+      "note": "Under 42-day surveillance by Campania regional health unit. Asymptomatic as of 12 May.",
+      "source": "Italian Ministry of Health",
+      "url": "https://www.wantedinrome.com/news/italy-places-four-under-observation-after-hantavirus-flight-contact.html"
     },
     {
-      "id":"CT-IT-04","city":"Venice, Veneto","country":"Italy","region_id":"IT-34","flag":"🇮🇹","lat":45.44,"lng":12.31,"count":1,"status":"monitoring",
-      "exposure":{"linked_to":"Case 2 — Dutch female, 60s (deceased 26 Apr Johannesburg)","linked_case_id":"case-002","date":"2026-04-25","location":"KLM592 Johannesburg → Amsterdam","type":"Same flight segment as briefly-boarded index case"},
-      "track":[
-        {"date":"2026-04-25","label":"Boarded KL592 — Johannesburg OR Tambo","lat":-26.13,"lng":28.24,"icon":"plane"},
-        {"date":"2026-04-26","label":"Transit at Rome Fiumicino","lat":41.80,"lng":12.25,"icon":"transit"},
-        {"date":"2026-04-26","label":"Returned home — Veneto","lat":45.44,"lng":12.31,"icon":"home"}
+      "id": "CT-IT-04",
+      "city": "Venice, Veneto",
+      "country": "Italy",
+      "region_id": "IT-34",
+      "flag": "🇮🇹",
+      "lat": 45.44,
+      "lng": 12.31,
+      "count": 1,
+      "status": "monitoring",
+      "exposure": {
+        "linked_to": "Case 2 — Dutch female, 60s (deceased 26 Apr Johannesburg)",
+        "linked_case_id": "case-002",
+        "date": "2026-04-25",
+        "location": "KLM592 Johannesburg → Amsterdam",
+        "type": "Same flight segment as briefly-boarded index case"
+      },
+      "track": [
+        {
+          "date": "2026-04-25",
+          "label": "Boarded KL592 — Johannesburg OR Tambo",
+          "lat": -26.13,
+          "lng": 28.24,
+          "icon": "plane"
+        },
+        {
+          "date": "2026-04-26",
+          "label": "Transit at Rome Fiumicino",
+          "lat": 41.8,
+          "lng": 12.25,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-04-26",
+          "label": "Returned home — Veneto",
+          "lat": 45.44,
+          "lng": 12.31,
+          "icon": "home"
+        }
       ],
-      "monitoring":{"day":17,"total":42,"symptomatic":false,"last_check":"2026-05-12"},
-      "note":"Under 42-day surveillance by Veneto regional health unit. Asymptomatic as of 12 May.",
-      "source":"Italian Ministry of Health","url":"https://www.wantedinrome.com/news/italy-places-four-under-observation-after-hantavirus-flight-contact.html"
+      "monitoring": {
+        "day": 17,
+        "total": 42,
+        "symptomatic": false,
+        "last_check": "2026-05-12"
+      },
+      "note": "Under 42-day surveillance by Veneto regional health unit. Asymptomatic as of 12 May.",
+      "source": "Italian Ministry of Health",
+      "url": "https://www.wantedinrome.com/news/italy-places-four-under-observation-after-hantavirus-flight-contact.html"
     },
     {
-      "id":"CT-US-01","city":"Omaha, Nebraska","country":"United States","region_id":"US-NE","flag":"🇺🇸","lat":41.26,"lng":-95.94,"count":16,"status":"confirmed",
-      "exposure":{"linked_to":"MV Hondius shipboard cluster (index case + Case 4 onboard)","linked_case_id":"case-000","date":"2026-04-01 onwards","location":"MV Hondius — multiple cabins/decks","type":"Direct shipboard contact for 4–6 weeks"},
-      "track":[
-        {"date":"2026-04-01","label":"Boarded MV Hondius at Ushuaia","lat":-54.81,"lng":-68.30,"icon":"ship"},
-        {"date":"2026-05-10","label":"Disembarked at Tenerife (Canary Islands)","lat":28.29,"lng":-16.63,"icon":"transit"},
-        {"date":"2026-05-10","label":"CDC chartered flight → Omaha","lat":41.26,"lng":-95.94,"icon":"plane"},
-        {"date":"2026-05-10","label":"University of Nebraska Medical Center NQU/Quarantine","lat":41.26,"lng":-95.94,"icon":"hospital"}
+      "id": "CT-US-01",
+      "city": "Omaha, Nebraska",
+      "country": "United States",
+      "region_id": "US-NE",
+      "flag": "🇺🇸",
+      "lat": 41.26,
+      "lng": -95.94,
+      "count": 16,
+      "status": "confirmed",
+      "exposure": {
+        "linked_to": "MV Hondius shipboard cluster (index case + Case 4 onboard)",
+        "linked_case_id": "case-000",
+        "date": "2026-04-01 onwards",
+        "location": "MV Hondius — multiple cabins/decks",
+        "type": "Direct shipboard contact for 4–6 weeks"
+      },
+      "track": [
+        {
+          "date": "2026-04-01",
+          "label": "Boarded MV Hondius at Ushuaia",
+          "lat": -54.81,
+          "lng": -68.3,
+          "icon": "ship"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Disembarked at Tenerife (Canary Islands)",
+          "lat": 28.29,
+          "lng": -16.63,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "CDC chartered flight → Omaha",
+          "lat": 41.26,
+          "lng": -95.94,
+          "icon": "plane"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "University of Nebraska Medical Center NQU/Quarantine",
+          "lat": 41.26,
+          "lng": -95.94,
+          "icon": "hospital"
+        }
       ],
-      "monitoring":{"day":2,"total":42,"symptomatic":true,"last_check":"2026-05-12","detail":"1 PCR+ in biocontainment; 15 in quarantine unit"},
-      "note":"1 PCR+ in biocontainment unit. 15 others in quarantine unit at Nebraska Medical Center. CDC Level 3 response.",
-      "source":"CDC / Nebraska Medicine","url":"https://emergency.cdc.gov/han/"
+      "monitoring": {
+        "day": 2,
+        "total": 42,
+        "symptomatic": true,
+        "last_check": "2026-05-12",
+        "detail": "1 PCR+ in biocontainment; 15 in quarantine unit"
+      },
+      "note": "1 PCR+ in biocontainment unit. 15 others in quarantine unit at Nebraska Medical Center. CDC Level 3 response.",
+      "source": "CDC / Nebraska Medicine",
+      "url": "https://emergency.cdc.gov/han/"
     },
     {
-      "id":"CT-US-02","city":"Atlanta, Georgia","country":"United States","region_id":"US-GA","flag":"🇺🇸","lat":33.75,"lng":-84.39,"count":2,"status":"monitoring",
-      "exposure":{"linked_to":"MV Hondius shipboard cluster","linked_case_id":"case-000","date":"2026-04-01 onwards","location":"MV Hondius","type":"Direct shipboard contact"},
-      "track":[
-        {"date":"2026-04-01","label":"Boarded MV Hondius at Ushuaia","lat":-54.81,"lng":-68.30,"icon":"ship"},
-        {"date":"2026-05-10","label":"Disembarked at Tenerife","lat":28.29,"lng":-16.63,"icon":"transit"},
-        {"date":"2026-05-10","label":"CDC charter → Atlanta","lat":33.75,"lng":-84.39,"icon":"plane"},
-        {"date":"2026-05-10","label":"Emory University Hospital","lat":33.79,"lng":-84.32,"icon":"hospital"}
+      "id": "CT-US-02",
+      "city": "Atlanta, Georgia",
+      "country": "United States",
+      "region_id": "US-GA",
+      "flag": "🇺🇸",
+      "lat": 33.75,
+      "lng": -84.39,
+      "count": 2,
+      "status": "monitoring",
+      "exposure": {
+        "linked_to": "MV Hondius shipboard cluster",
+        "linked_case_id": "case-000",
+        "date": "2026-04-01 onwards",
+        "location": "MV Hondius",
+        "type": "Direct shipboard contact"
+      },
+      "track": [
+        {
+          "date": "2026-04-01",
+          "label": "Boarded MV Hondius at Ushuaia",
+          "lat": -54.81,
+          "lng": -68.3,
+          "icon": "ship"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Disembarked at Tenerife",
+          "lat": 28.29,
+          "lng": -16.63,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "CDC charter → Atlanta",
+          "lat": 33.75,
+          "lng": -84.39,
+          "icon": "plane"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Emory University Hospital",
+          "lat": 33.79,
+          "lng": -84.32,
+          "icon": "hospital"
+        }
       ],
-      "monitoring":{"day":2,"total":42,"symptomatic":true,"last_check":"2026-05-12","detail":"1 of 2 symptomatic"},
-      "note":"2 at Emory University Hospital. 1 symptomatic.",
-      "source":"CDC / Emory","url":"https://emergency.cdc.gov/han/"
+      "monitoring": {
+        "day": 2,
+        "total": 42,
+        "symptomatic": true,
+        "last_check": "2026-05-12",
+        "detail": "1 of 2 symptomatic"
+      },
+      "note": "2 at Emory University Hospital. 1 symptomatic.",
+      "source": "CDC / Emory",
+      "url": "https://emergency.cdc.gov/han/"
     },
     {
-      "id":"CT-US-03","city":"Texas","country":"United States","region_id":"US-TX","flag":"🇺🇸","lat":30.27,"lng":-97.74,"count":2,"status":"monitoring",
-      "exposure":{"linked_to":"MV Hondius — pre-outbreak disembarkation","linked_case_id":"case-000","date":"2026-04-15","location":"MV Hondius (during Patagonia leg)","type":"Shipboard contact prior to outbreak declaration"},
-      "track":[
-        {"date":"2026-04-01","label":"Boarded MV Hondius at Ushuaia","lat":-54.81,"lng":-68.30,"icon":"ship"},
-        {"date":"2026-04-15","label":"Disembarked at St Helena","lat":-15.93,"lng":-5.72,"icon":"transit"},
-        {"date":"2026-04-25","label":"Returned to Texas (commercial flight)","lat":30.27,"lng":-97.74,"icon":"home"}
+      "id": "CT-US-03",
+      "city": "Texas",
+      "country": "United States",
+      "region_id": "US-TX",
+      "flag": "🇺🇸",
+      "lat": 30.27,
+      "lng": -97.74,
+      "count": 2,
+      "status": "monitoring",
+      "exposure": {
+        "linked_to": "MV Hondius — pre-outbreak disembarkation",
+        "linked_case_id": "case-000",
+        "date": "2026-04-15",
+        "location": "MV Hondius (during Patagonia leg)",
+        "type": "Shipboard contact prior to outbreak declaration"
+      },
+      "track": [
+        {
+          "date": "2026-04-01",
+          "label": "Boarded MV Hondius at Ushuaia",
+          "lat": -54.81,
+          "lng": -68.3,
+          "icon": "ship"
+        },
+        {
+          "date": "2026-04-15",
+          "label": "Disembarked at St Helena",
+          "lat": -15.93,
+          "lng": -5.72,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-04-25",
+          "label": "Returned to Texas (commercial flight)",
+          "lat": 30.27,
+          "lng": -97.74,
+          "icon": "home"
+        }
       ],
-      "monitoring":{"day":17,"total":42,"symptomatic":false,"last_check":"2026-05-12"},
-      "note":"2 contacts in self-monitoring. Disembarked prior to outbreak declaration.",
-      "source":"CDC","url":"https://emergency.cdc.gov/han/"
+      "monitoring": {
+        "day": 17,
+        "total": 42,
+        "symptomatic": false,
+        "last_check": "2026-05-12"
+      },
+      "note": "2 contacts in self-monitoring. Disembarked prior to outbreak declaration.",
+      "source": "CDC",
+      "url": "https://emergency.cdc.gov/han/"
     },
     {
-      "id":"CT-US-04","city":"Virginia","country":"United States","region_id":"US-VA","flag":"🇺🇸","lat":37.43,"lng":-78.66,"count":1,"status":"monitoring",
-      "exposure":{"linked_to":"MV Hondius — pre-outbreak disembarkation","linked_case_id":"case-000","date":"2026-04-15","location":"MV Hondius","type":"Shipboard contact prior to outbreak"},
-      "track":[
-        {"date":"2026-04-01","label":"Boarded MV Hondius at Ushuaia","lat":-54.81,"lng":-68.30,"icon":"ship"},
-        {"date":"2026-04-15","label":"Disembarked at St Helena","lat":-15.93,"lng":-5.72,"icon":"transit"},
-        {"date":"2026-04-25","label":"Returned to Virginia","lat":37.43,"lng":-78.66,"icon":"home"}
+      "id": "CT-US-04",
+      "city": "Virginia",
+      "country": "United States",
+      "region_id": "US-VA",
+      "flag": "🇺🇸",
+      "lat": 37.43,
+      "lng": -78.66,
+      "count": 1,
+      "status": "monitoring",
+      "exposure": {
+        "linked_to": "MV Hondius — pre-outbreak disembarkation",
+        "linked_case_id": "case-000",
+        "date": "2026-04-15",
+        "location": "MV Hondius",
+        "type": "Shipboard contact prior to outbreak"
+      },
+      "track": [
+        {
+          "date": "2026-04-01",
+          "label": "Boarded MV Hondius at Ushuaia",
+          "lat": -54.81,
+          "lng": -68.3,
+          "icon": "ship"
+        },
+        {
+          "date": "2026-04-15",
+          "label": "Disembarked at St Helena",
+          "lat": -15.93,
+          "lng": -5.72,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-04-25",
+          "label": "Returned to Virginia",
+          "lat": 37.43,
+          "lng": -78.66,
+          "icon": "home"
+        }
       ],
-      "monitoring":{"day":17,"total":42,"symptomatic":false,"last_check":"2026-05-12"},
-      "note":"1 contact in self-monitoring.",
-      "source":"CDC","url":"https://emergency.cdc.gov/han/"
+      "monitoring": {
+        "day": 17,
+        "total": 42,
+        "symptomatic": false,
+        "last_check": "2026-05-12"
+      },
+      "note": "1 contact in self-monitoring.",
+      "source": "CDC",
+      "url": "https://emergency.cdc.gov/han/"
     },
     {
-      "id":"CT-US-05","city":"Phoenix, Arizona","country":"United States","region_id":"US-AZ","flag":"🇺🇸","lat":33.45,"lng":-112.07,"count":1,"status":"monitoring",
-      "exposure":{"linked_to":"MV Hondius — pre-outbreak disembarkation","linked_case_id":"case-000","date":"2026-04-15","location":"MV Hondius","type":"Shipboard contact prior to outbreak"},
-      "track":[
-        {"date":"2026-04-01","label":"Boarded MV Hondius at Ushuaia","lat":-54.81,"lng":-68.30,"icon":"ship"},
-        {"date":"2026-04-15","label":"Disembarked at St Helena","lat":-15.93,"lng":-5.72,"icon":"transit"},
-        {"date":"2026-04-25","label":"Returned to Phoenix","lat":33.45,"lng":-112.07,"icon":"home"}
+      "id": "CT-US-05",
+      "city": "Phoenix, Arizona",
+      "country": "United States",
+      "region_id": "US-AZ",
+      "flag": "🇺🇸",
+      "lat": 33.45,
+      "lng": -112.07,
+      "count": 1,
+      "status": "monitoring",
+      "exposure": {
+        "linked_to": "MV Hondius — pre-outbreak disembarkation",
+        "linked_case_id": "case-000",
+        "date": "2026-04-15",
+        "location": "MV Hondius",
+        "type": "Shipboard contact prior to outbreak"
+      },
+      "track": [
+        {
+          "date": "2026-04-01",
+          "label": "Boarded MV Hondius at Ushuaia",
+          "lat": -54.81,
+          "lng": -68.3,
+          "icon": "ship"
+        },
+        {
+          "date": "2026-04-15",
+          "label": "Disembarked at St Helena",
+          "lat": -15.93,
+          "lng": -5.72,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-04-25",
+          "label": "Returned to Phoenix",
+          "lat": 33.45,
+          "lng": -112.07,
+          "icon": "home"
+        }
       ],
-      "monitoring":{"day":17,"total":42,"symptomatic":false,"last_check":"2026-05-12"},
-      "note":"1 contact in self-monitoring.",
-      "source":"CDC","url":"https://emergency.cdc.gov/han/"
+      "monitoring": {
+        "day": 17,
+        "total": 42,
+        "symptomatic": false,
+        "last_check": "2026-05-12"
+      },
+      "note": "1 contact in self-monitoring.",
+      "source": "CDC",
+      "url": "https://emergency.cdc.gov/han/"
     },
     {
-      "id":"CT-US-06","city":"California","country":"United States","region_id":"US-CA","flag":"🇺🇸","lat":36.78,"lng":-119.42,"count":3,"status":"monitoring",
-      "exposure":{"linked_to":"MV Hondius pre-outbreak + KLM592 flight contact","linked_case_id":"case-002","date":"2026-04-15 / 2026-04-25","location":"MV Hondius / KLM592","type":"Mixed shipboard + flight exposure"},
-      "track":[
-        {"date":"2026-04-01","label":"2 of 3 boarded MV Hondius at Ushuaia","lat":-54.81,"lng":-68.30,"icon":"ship"},
-        {"date":"2026-04-15","label":"Disembarked at St Helena (pre-outbreak)","lat":-15.93,"lng":-5.72,"icon":"transit"},
-        {"date":"2026-04-25","label":"3rd contact: KLM592 flight from JNB","lat":-26.13,"lng":28.24,"icon":"plane"},
-        {"date":"2026-04-26","label":"Returned to California","lat":36.78,"lng":-119.42,"icon":"home"}
+      "id": "CT-US-06",
+      "city": "California",
+      "country": "United States",
+      "region_id": "US-CA",
+      "flag": "🇺🇸",
+      "lat": 36.78,
+      "lng": -119.42,
+      "count": 3,
+      "status": "monitoring",
+      "exposure": {
+        "linked_to": "MV Hondius pre-outbreak + KLM592 flight contact",
+        "linked_case_id": "case-002",
+        "date": "2026-04-15 / 2026-04-25",
+        "location": "MV Hondius / KLM592",
+        "type": "Mixed shipboard + flight exposure"
+      },
+      "track": [
+        {
+          "date": "2026-04-01",
+          "label": "2 of 3 boarded MV Hondius at Ushuaia",
+          "lat": -54.81,
+          "lng": -68.3,
+          "icon": "ship"
+        },
+        {
+          "date": "2026-04-15",
+          "label": "Disembarked at St Helena (pre-outbreak)",
+          "lat": -15.93,
+          "lng": -5.72,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-04-25",
+          "label": "3rd contact: KLM592 flight from JNB",
+          "lat": -26.13,
+          "lng": 28.24,
+          "icon": "plane"
+        },
+        {
+          "date": "2026-04-26",
+          "label": "Returned to California",
+          "lat": 36.78,
+          "lng": -119.42,
+          "icon": "home"
+        }
       ],
-      "monitoring":{"day":17,"total":42,"symptomatic":false,"last_check":"2026-05-12"},
-      "note":"3 contacts in self-monitoring across California.",
-      "source":"CDC","url":"https://emergency.cdc.gov/han/"
+      "monitoring": {
+        "day": 17,
+        "total": 42,
+        "symptomatic": false,
+        "last_check": "2026-05-12"
+      },
+      "note": "3 contacts in self-monitoring across California.",
+      "source": "CDC",
+      "url": "https://emergency.cdc.gov/han/"
     },
     {
-      "id":"CT-US-07","city":"New Jersey","country":"United States","region_id":"US-NJ","flag":"🇺🇸","lat":40.06,"lng":-74.41,"count":2,"status":"monitoring",
-      "exposure":{"linked_to":"Case 2 — Dutch female (briefly aboard KLM592)","linked_case_id":"case-002","date":"2026-04-25","location":"KLM592 Johannesburg → Amsterdam","type":"Same flight as briefly-boarded index case"},
-      "track":[
-        {"date":"2026-04-25","label":"Boarded KL592 — Johannesburg OR Tambo","lat":-26.13,"lng":28.24,"icon":"plane"},
-        {"date":"2026-04-26","label":"Transit at Amsterdam Schiphol","lat":52.31,"lng":4.76,"icon":"transit"},
-        {"date":"2026-04-26","label":"Returned to New Jersey (Newark)","lat":40.06,"lng":-74.41,"icon":"home"}
+      "id": "CT-US-07",
+      "city": "New Jersey",
+      "country": "United States",
+      "region_id": "US-NJ",
+      "flag": "🇺🇸",
+      "lat": 40.06,
+      "lng": -74.41,
+      "count": 2,
+      "status": "monitoring",
+      "exposure": {
+        "linked_to": "Case 2 — Dutch female (briefly aboard KLM592)",
+        "linked_case_id": "case-002",
+        "date": "2026-04-25",
+        "location": "KLM592 Johannesburg → Amsterdam",
+        "type": "Same flight as briefly-boarded index case"
+      },
+      "track": [
+        {
+          "date": "2026-04-25",
+          "label": "Boarded KL592 — Johannesburg OR Tambo",
+          "lat": -26.13,
+          "lng": 28.24,
+          "icon": "plane"
+        },
+        {
+          "date": "2026-04-26",
+          "label": "Transit at Amsterdam Schiphol",
+          "lat": 52.31,
+          "lng": 4.76,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-04-26",
+          "label": "Returned to New Jersey (Newark)",
+          "lat": 40.06,
+          "lng": -74.41,
+          "icon": "home"
+        }
       ],
-      "monitoring":{"day":7,"total":42,"symptomatic":false,"last_check":"2026-05-12"},
-      "note":"2 contacts traced from KLM592 flight. Self-monitoring.",
-      "source":"CDC","url":"https://emergency.cdc.gov/han/"
+      "monitoring": {
+        "day": 7,
+        "total": 42,
+        "symptomatic": false,
+        "last_check": "2026-05-12"
+      },
+      "note": "2 contacts traced from KLM592 flight. Self-monitoring.",
+      "source": "CDC",
+      "url": "https://emergency.cdc.gov/han/"
     },
     {
-      "id":"CT-US-08","city":"Maryland","country":"United States","region_id":"US-MD","flag":"🇺🇸","lat":39.05,"lng":-76.64,"count":2,"status":"monitoring",
-      "exposure":{"linked_to":"Case 2 — Dutch female (briefly aboard KLM592)","linked_case_id":"case-002","date":"2026-04-25","location":"KLM592 Johannesburg → Amsterdam","type":"Same flight as briefly-boarded index case"},
-      "track":[
-        {"date":"2026-04-25","label":"Boarded KL592 — Johannesburg OR Tambo","lat":-26.13,"lng":28.24,"icon":"plane"},
-        {"date":"2026-04-26","label":"Transit at Amsterdam Schiphol","lat":52.31,"lng":4.76,"icon":"transit"},
-        {"date":"2026-04-26","label":"Returned to Maryland (Baltimore)","lat":39.05,"lng":-76.64,"icon":"home"}
+      "id": "CT-US-08",
+      "city": "Maryland",
+      "country": "United States",
+      "region_id": "US-MD",
+      "flag": "🇺🇸",
+      "lat": 39.05,
+      "lng": -76.64,
+      "count": 2,
+      "status": "monitoring",
+      "exposure": {
+        "linked_to": "Case 2 — Dutch female (briefly aboard KLM592)",
+        "linked_case_id": "case-002",
+        "date": "2026-04-25",
+        "location": "KLM592 Johannesburg → Amsterdam",
+        "type": "Same flight as briefly-boarded index case"
+      },
+      "track": [
+        {
+          "date": "2026-04-25",
+          "label": "Boarded KL592 — Johannesburg OR Tambo",
+          "lat": -26.13,
+          "lng": 28.24,
+          "icon": "plane"
+        },
+        {
+          "date": "2026-04-26",
+          "label": "Transit at Amsterdam Schiphol",
+          "lat": 52.31,
+          "lng": 4.76,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-04-26",
+          "label": "Returned to Maryland (Baltimore)",
+          "lat": 39.05,
+          "lng": -76.64,
+          "icon": "home"
+        }
       ],
-      "monitoring":{"day":7,"total":42,"symptomatic":false,"last_check":"2026-05-12"},
-      "note":"2 contacts traced from KLM592 flight. Self-monitoring.",
-      "source":"CDC","url":"https://emergency.cdc.gov/han/"
+      "monitoring": {
+        "day": 7,
+        "total": 42,
+        "symptomatic": false,
+        "last_check": "2026-05-12"
+      },
+      "note": "2 contacts traced from KLM592 flight. Self-monitoring.",
+      "source": "CDC",
+      "url": "https://emergency.cdc.gov/han/"
     },
     {
-      "id":"CT-FR-01","city":"Paris","country":"France","flag":"🇫🇷","lat":48.87,"lng":2.33,"count":5,"status":"confirmed",
-      "exposure":{"linked_to":"MV Hondius shipboard cluster (one developed symptoms on repatriation flight)","linked_case_id":"case-005","date":"2026-04-01 onwards","location":"MV Hondius","type":"Direct shipboard contact"},
-      "track":[
-        {"date":"2026-04-01","label":"Boarded MV Hondius at Ushuaia","lat":-54.81,"lng":-68.30,"icon":"ship"},
-        {"date":"2026-05-10","label":"Disembarked at Tenerife","lat":28.29,"lng":-16.63,"icon":"transit"},
-        {"date":"2026-05-10","label":"Repatriation flight → Paris CDG (symptoms developed in-flight)","lat":49.01,"lng":2.55,"icon":"plane"},
-        {"date":"2026-05-10","label":"Hospitalised in Paris (1 PCR+ ICU)","lat":48.87,"lng":2.33,"icon":"hospital"}
+      "id": "CT-FR-01",
+      "city": "Paris",
+      "country": "France",
+      "flag": "🇫🇷",
+      "lat": 48.87,
+      "lng": 2.33,
+      "count": 5,
+      "status": "confirmed",
+      "exposure": {
+        "linked_to": "MV Hondius shipboard cluster (one developed symptoms on repatriation flight)",
+        "linked_case_id": "case-005",
+        "date": "2026-04-01 onwards",
+        "location": "MV Hondius",
+        "type": "Direct shipboard contact"
+      },
+      "track": [
+        {
+          "date": "2026-04-01",
+          "label": "Boarded MV Hondius at Ushuaia",
+          "lat": -54.81,
+          "lng": -68.3,
+          "icon": "ship"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Disembarked at Tenerife",
+          "lat": 28.29,
+          "lng": -16.63,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Repatriation flight → Paris CDG (symptoms developed in-flight)",
+          "lat": 49.01,
+          "lng": 2.55,
+          "icon": "plane"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Hospitalised in Paris (1 PCR+ ICU)",
+          "lat": 48.87,
+          "lng": 2.33,
+          "icon": "hospital"
+        }
       ],
-      "monitoring":{"day":2,"total":45,"symptomatic":true,"last_check":"2026-05-12","detail":"1 PCR+ in ICU stable; 4 hospitalised"},
-      "note":"1 PCR+ in ICU, stable. 4 others hospitalised 'until further orders'. 8 flight contacts under investigation.",
-      "source":"Santé publique France","url":"https://www.santepubliquefrance.fr/"
+      "monitoring": {
+        "day": 2,
+        "total": 45,
+        "symptomatic": true,
+        "last_check": "2026-05-12",
+        "detail": "1 PCR+ in ICU stable; 4 hospitalised"
+      },
+      "note": "1 PCR+ in ICU, stable. 4 others hospitalised 'until further orders'. 8 flight contacts under investigation.",
+      "source": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/"
     },
     {
-      "id":"CT-ES-01","city":"Madrid","country":"Spain","flag":"🇪🇸","lat":40.42,"lng":-3.70,"count":8,"status":"monitoring",
-      "exposure":{"linked_to":"MV Hondius shipboard cluster","linked_case_id":"case-000","date":"2026-04-01 onwards","location":"MV Hondius","type":"Direct shipboard contact"},
-      "track":[
-        {"date":"2026-04-01","label":"Boarded MV Hondius at Ushuaia","lat":-54.81,"lng":-68.30,"icon":"ship"},
-        {"date":"2026-05-10","label":"First disembarkation at Tenerife","lat":28.29,"lng":-16.63,"icon":"transit"},
-        {"date":"2026-05-10","label":"Spanish military flight → Madrid","lat":40.42,"lng":-3.70,"icon":"plane"},
-        {"date":"2026-05-10","label":"Madrid Military Hospital (Hospital Central de la Defensa)","lat":40.42,"lng":-3.70,"icon":"hospital"}
+      "id": "CT-ES-01",
+      "city": "Madrid",
+      "country": "Spain",
+      "flag": "🇪🇸",
+      "lat": 40.42,
+      "lng": -3.7,
+      "count": 8,
+      "status": "monitoring",
+      "exposure": {
+        "linked_to": "MV Hondius shipboard cluster",
+        "linked_case_id": "case-000",
+        "date": "2026-04-01 onwards",
+        "location": "MV Hondius",
+        "type": "Direct shipboard contact"
+      },
+      "track": [
+        {
+          "date": "2026-04-01",
+          "label": "Boarded MV Hondius at Ushuaia",
+          "lat": -54.81,
+          "lng": -68.3,
+          "icon": "ship"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "First disembarkation at Tenerife",
+          "lat": 28.29,
+          "lng": -16.63,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Spanish military flight → Madrid",
+          "lat": 40.42,
+          "lng": -3.7,
+          "icon": "plane"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Madrid Military Hospital (Hospital Central de la Defensa)",
+          "lat": 40.42,
+          "lng": -3.7,
+          "icon": "hospital"
+        }
       ],
-      "monitoring":{"day":2,"total":42,"symptomatic":false,"last_check":"2026-05-12","detail":"1 suspected under investigation"},
-      "note":"Spanish nationals in quarantine at Madrid military hospital. 1 suspected case under investigation.",
-      "source":"ISCIII Spain","url":"https://www.isciii.es/"
+      "monitoring": {
+        "day": 2,
+        "total": 42,
+        "symptomatic": false,
+        "last_check": "2026-05-12",
+        "detail": "1 suspected under investigation"
+      },
+      "note": "Spanish nationals in quarantine at Madrid military hospital. 1 suspected case under investigation.",
+      "source": "ISCIII Spain",
+      "url": "https://www.isciii.es/"
     },
     {
-      "id":"CT-ZA-01","city":"Johannesburg","country":"South Africa","flag":"🇿🇦","lat":-26.20,"lng":28.04,"count":62,"status":"monitoring",
-      "exposure":{"linked_to":"Case 2 — Dutch female who died in Johannesburg","linked_case_id":"case-002","date":"2026-04-22 / 2026-04-25","location":"Johannesburg hospital + KLM592 departure gate at OR Tambo","type":"Healthcare worker exposure + co-passenger exposure"},
-      "track":[
-        {"date":"2026-04-22","label":"Case 2 arrives via Airlink from St Helena","lat":-15.93,"lng":-5.72,"icon":"plane"},
-        {"date":"2026-04-22","label":"Hospitalised in Johannesburg","lat":-26.20,"lng":28.04,"icon":"hospital"},
-        {"date":"2026-04-25","label":"Case 2 boards KL592 at OR Tambo, returns","lat":-26.13,"lng":28.24,"icon":"transit"},
-        {"date":"2026-04-26","label":"Case 2 dies; contact tracing begins","lat":-26.20,"lng":28.04,"icon":"home"}
+      "id": "CT-ZA-01",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "flag": "🇿🇦",
+      "lat": -26.2,
+      "lng": 28.04,
+      "count": 62,
+      "status": "monitoring",
+      "exposure": {
+        "linked_to": "Case 2 — Dutch female who died in Johannesburg",
+        "linked_case_id": "case-002",
+        "date": "2026-04-22 / 2026-04-25",
+        "location": "Johannesburg hospital + KLM592 departure gate at OR Tambo",
+        "type": "Healthcare worker exposure + co-passenger exposure"
+      },
+      "track": [
+        {
+          "date": "2026-04-22",
+          "label": "Case 2 arrives via Airlink from St Helena",
+          "lat": -15.93,
+          "lng": -5.72,
+          "icon": "plane"
+        },
+        {
+          "date": "2026-04-22",
+          "label": "Hospitalised in Johannesburg",
+          "lat": -26.2,
+          "lng": 28.04,
+          "icon": "hospital"
+        },
+        {
+          "date": "2026-04-25",
+          "label": "Case 2 boards KL592 at OR Tambo, returns",
+          "lat": -26.13,
+          "lng": 28.24,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-04-26",
+          "label": "Case 2 dies; contact tracing begins",
+          "lat": -26.2,
+          "lng": 28.04,
+          "icon": "home"
+        }
       ],
-      "monitoring":{"day":17,"total":42,"symptomatic":false,"last_check":"2026-05-12","detail":"42 tested negative; 20 still being traced"},
-      "note":"62 contacts identified around Dutch woman who died in JNB and KLM592 departure. 42 tested negative. 20 still being traced.",
-      "source":"NICD South Africa","url":"https://www.nicd.ac.za/"
+      "monitoring": {
+        "day": 17,
+        "total": 42,
+        "symptomatic": false,
+        "last_check": "2026-05-12",
+        "detail": "42 tested negative; 20 still being traced"
+      },
+      "note": "62 contacts identified around Dutch woman who died in JNB and KLM592 departure. 42 tested negative. 20 still being traced.",
+      "source": "NICD South Africa",
+      "url": "https://www.nicd.ac.za/"
     },
     {
-      "id":"CT-GB-01","city":"Arrowe Park, Wirral","country":"United Kingdom","flag":"🇬🇧","lat":53.37,"lng":-3.05,"count":20,"status":"monitoring",
-      "exposure":{"linked_to":"MV Hondius shipboard cluster","linked_case_id":"case-000","date":"2026-04-01 onwards","location":"MV Hondius","type":"Direct shipboard contact"},
-      "track":[
-        {"date":"2026-04-01","label":"Boarded MV Hondius at Ushuaia","lat":-54.81,"lng":-68.30,"icon":"ship"},
-        {"date":"2026-05-10","label":"Disembarked at Tenerife","lat":28.29,"lng":-16.63,"icon":"transit"},
-        {"date":"2026-05-11","label":"RAF charter → Liverpool John Lennon Airport","lat":53.33,"lng":-2.85,"icon":"plane"},
-        {"date":"2026-05-11","label":"Arrowe Park Hospital (72-hr assessment)","lat":53.37,"lng":-3.05,"icon":"hospital"}
+      "id": "CT-GB-01",
+      "city": "Arrowe Park, Wirral",
+      "country": "United Kingdom",
+      "flag": "🇬🇧",
+      "lat": 53.37,
+      "lng": -3.05,
+      "count": 20,
+      "status": "monitoring",
+      "exposure": {
+        "linked_to": "MV Hondius shipboard cluster",
+        "linked_case_id": "case-000",
+        "date": "2026-04-01 onwards",
+        "location": "MV Hondius",
+        "type": "Direct shipboard contact"
+      },
+      "track": [
+        {
+          "date": "2026-04-01",
+          "label": "Boarded MV Hondius at Ushuaia",
+          "lat": -54.81,
+          "lng": -68.3,
+          "icon": "ship"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Disembarked at Tenerife",
+          "lat": 28.29,
+          "lng": -16.63,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-05-11",
+          "label": "RAF charter → Liverpool John Lennon Airport",
+          "lat": 53.33,
+          "lng": -2.85,
+          "icon": "plane"
+        },
+        {
+          "date": "2026-05-11",
+          "label": "Arrowe Park Hospital (72-hr assessment)",
+          "lat": 53.37,
+          "lng": -3.05,
+          "icon": "hospital"
+        }
       ],
-      "monitoring":{"day":1,"total":45,"symptomatic":false,"last_check":"2026-05-12"},
-      "note":"20 British nationals at Arrowe Park Hospital for 72-hr initial assessment, followed by 45-day home isolation.",
-      "source":"UKHSA","url":"https://www.gov.uk/government/organisations/uk-health-security-agency"
+      "monitoring": {
+        "day": 1,
+        "total": 45,
+        "symptomatic": false,
+        "last_check": "2026-05-12"
+      },
+      "note": "20 British nationals at Arrowe Park Hospital for 72-hr initial assessment, followed by 45-day home isolation.",
+      "source": "UKHSA",
+      "url": "https://www.gov.uk/government/organisations/uk-health-security-agency"
     },
     {
-      "id":"CT-NL-01","city":"Eindhoven","country":"Netherlands","flag":"🇳🇱","lat":51.44,"lng":5.48,"count":8,"status":"monitoring",
-      "exposure":{"linked_to":"MV Hondius shipboard cluster (multiple cases)","linked_case_id":"case-000","date":"2026-04-01 onwards","location":"MV Hondius","type":"Direct shipboard contact"},
-      "track":[
-        {"date":"2026-04-01","label":"Boarded MV Hondius at Ushuaia","lat":-54.81,"lng":-68.30,"icon":"ship"},
-        {"date":"2026-05-10","label":"Disembarked at Tenerife","lat":28.29,"lng":-16.63,"icon":"transit"},
-        {"date":"2026-05-10","label":"Dutch charter flight → Eindhoven Airport","lat":51.45,"lng":5.37,"icon":"plane"},
-        {"date":"2026-05-10","label":"Self-quarantine at home addresses","lat":51.44,"lng":5.48,"icon":"home"}
+      "id": "CT-NL-01",
+      "city": "Eindhoven",
+      "country": "Netherlands",
+      "flag": "🇳🇱",
+      "lat": 51.44,
+      "lng": 5.48,
+      "count": 8,
+      "status": "monitoring",
+      "exposure": {
+        "linked_to": "MV Hondius shipboard cluster (multiple cases)",
+        "linked_case_id": "case-000",
+        "date": "2026-04-01 onwards",
+        "location": "MV Hondius",
+        "type": "Direct shipboard contact"
+      },
+      "track": [
+        {
+          "date": "2026-04-01",
+          "label": "Boarded MV Hondius at Ushuaia",
+          "lat": -54.81,
+          "lng": -68.3,
+          "icon": "ship"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Disembarked at Tenerife",
+          "lat": 28.29,
+          "lng": -16.63,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Dutch charter flight → Eindhoven Airport",
+          "lat": 51.45,
+          "lng": 5.37,
+          "icon": "plane"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Self-quarantine at home addresses",
+          "lat": 51.44,
+          "lng": 5.48,
+          "icon": "home"
+        }
       ],
-      "monitoring":{"day":2,"total":42,"symptomatic":false,"last_check":"2026-05-12"},
-      "note":"Dutch charter flight landed Eindhoven 10 May carrying 8 Dutch nationals + 18 from other countries. All dispersing to home regions.",
-      "source":"RIVM","url":"https://www.rivm.nl/en/"
+      "monitoring": {
+        "day": 2,
+        "total": 42,
+        "symptomatic": false,
+        "last_check": "2026-05-12"
+      },
+      "note": "Dutch charter flight landed Eindhoven 10 May carrying 8 Dutch nationals + 18 from other countries. All dispersing to home regions.",
+      "source": "RIVM",
+      "url": "https://www.rivm.nl/en/"
     },
     {
-      "id":"CT-CA-01","city":"Bagotville, Quebec","country":"Canada","flag":"🇨🇦","lat":48.33,"lng":-70.99,"count":4,"status":"monitoring",
-      "exposure":{"linked_to":"MV Hondius shipboard cluster","linked_case_id":"case-000","date":"2026-04-01 onwards","location":"MV Hondius","type":"Direct shipboard contact"},
-      "track":[
-        {"date":"2026-04-01","label":"Boarded MV Hondius at Ushuaia","lat":-54.81,"lng":-68.30,"icon":"ship"},
-        {"date":"2026-05-10","label":"Disembarked at Tenerife","lat":28.29,"lng":-16.63,"icon":"transit"},
-        {"date":"2026-05-10","label":"CAF charter → CFB Bagotville, Quebec","lat":48.33,"lng":-70.99,"icon":"plane"},
-        {"date":"2026-05-11","label":"Transferred to British Columbia self-isolation","lat":53.73,"lng":-127.65,"icon":"home"}
+      "id": "CT-CA-01",
+      "city": "Bagotville, Quebec",
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "lat": 48.33,
+      "lng": -70.99,
+      "count": 4,
+      "status": "monitoring",
+      "exposure": {
+        "linked_to": "MV Hondius shipboard cluster",
+        "linked_case_id": "case-000",
+        "date": "2026-04-01 onwards",
+        "location": "MV Hondius",
+        "type": "Direct shipboard contact"
+      },
+      "track": [
+        {
+          "date": "2026-04-01",
+          "label": "Boarded MV Hondius at Ushuaia",
+          "lat": -54.81,
+          "lng": -68.3,
+          "icon": "ship"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Disembarked at Tenerife",
+          "lat": 28.29,
+          "lng": -16.63,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "CAF charter → CFB Bagotville, Quebec",
+          "lat": 48.33,
+          "lng": -70.99,
+          "icon": "plane"
+        },
+        {
+          "date": "2026-05-11",
+          "label": "Transferred to British Columbia self-isolation",
+          "lat": 53.73,
+          "lng": -127.65,
+          "icon": "home"
+        }
       ],
-      "monitoring":{"day":2,"total":21,"symptomatic":false,"last_check":"2026-05-12"},
-      "note":"4 Canadians flown to Bagotville QC 10 May; transferred to BC for 21-day self-isolation.",
-      "source":"PHAC Canada","url":"https://www.canada.ca/en/public-health.html"
+      "monitoring": {
+        "day": 2,
+        "total": 21,
+        "symptomatic": false,
+        "last_check": "2026-05-12"
+      },
+      "note": "4 Canadians flown to Bagotville QC 10 May; transferred to BC for 21-day self-isolation.",
+      "source": "PHAC Canada",
+      "url": "https://www.canada.ca/en/public-health.html"
     },
     {
-      "id":"CT-SG-01","city":"Singapore","country":"Singapore","flag":"🇸🇬","lat":1.33,"lng":103.82,"count":2,"status":"monitoring",
-      "exposure":{"linked_to":"MV Hondius shipboard cluster","linked_case_id":"case-000","date":"2026-04-01 onwards","location":"MV Hondius","type":"Direct shipboard contact"},
-      "track":[
-        {"date":"2026-04-01","label":"Boarded MV Hondius at Ushuaia","lat":-54.81,"lng":-68.30,"icon":"ship"},
-        {"date":"2026-05-10","label":"Disembarked at Tenerife","lat":28.29,"lng":-16.63,"icon":"transit"},
-        {"date":"2026-05-10","label":"Repatriation flight → Singapore Changi","lat":1.36,"lng":103.99,"icon":"plane"},
-        {"date":"2026-05-10","label":"NCID Singapore (30-day quarantine)","lat":1.33,"lng":103.82,"icon":"hospital"}
+      "id": "CT-SG-01",
+      "city": "Singapore",
+      "country": "Singapore",
+      "flag": "🇸🇬",
+      "lat": 1.33,
+      "lng": 103.82,
+      "count": 2,
+      "status": "monitoring",
+      "exposure": {
+        "linked_to": "MV Hondius shipboard cluster",
+        "linked_case_id": "case-000",
+        "date": "2026-04-01 onwards",
+        "location": "MV Hondius",
+        "type": "Direct shipboard contact"
+      },
+      "track": [
+        {
+          "date": "2026-04-01",
+          "label": "Boarded MV Hondius at Ushuaia",
+          "lat": -54.81,
+          "lng": -68.3,
+          "icon": "ship"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Disembarked at Tenerife",
+          "lat": 28.29,
+          "lng": -16.63,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Repatriation flight → Singapore Changi",
+          "lat": 1.36,
+          "lng": 103.99,
+          "icon": "plane"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "NCID Singapore (30-day quarantine)",
+          "lat": 1.33,
+          "lng": 103.82,
+          "icon": "hospital"
+        }
       ],
-      "monitoring":{"day":2,"total":30,"symptomatic":false,"last_check":"2026-05-12","detail":"Both PCR negative"},
-      "note":"2 residents at NCID, both PCR negative. Under 30-day quarantine per CDA protocol.",
-      "source":"CDA Singapore","url":"https://www.cda.gov.sg/"
+      "monitoring": {
+        "day": 2,
+        "total": 30,
+        "symptomatic": false,
+        "last_check": "2026-05-12",
+        "detail": "Both PCR negative"
+      },
+      "note": "2 residents at NCID, both PCR negative. Under 30-day quarantine per CDA protocol.",
+      "source": "CDA Singapore",
+      "url": "https://www.cda.gov.sg/"
     },
     {
-      "id":"CT-AU-01","city":"Sydney","country":"Australia","flag":"🇦🇺","lat":-33.87,"lng":151.21,"count":3,"status":"monitoring",
-      "exposure":{"linked_to":"MV Hondius shipboard cluster","linked_case_id":"case-000","date":"2026-04-01 onwards","location":"MV Hondius","type":"Direct shipboard contact"},
-      "track":[
-        {"date":"2026-04-01","label":"Boarded MV Hondius at Ushuaia","lat":-54.81,"lng":-68.30,"icon":"ship"},
-        {"date":"2026-05-11","label":"Disembarked at Tenerife (final group)","lat":28.29,"lng":-16.63,"icon":"transit"},
-        {"date":"2026-05-11","label":"Australian govt charter → Sydney","lat":-33.87,"lng":151.21,"icon":"plane"},
-        {"date":"2026-05-11","label":"Self-monitoring at home addresses","lat":-33.87,"lng":151.21,"icon":"home"}
+      "id": "CT-AU-01",
+      "city": "Sydney",
+      "country": "Australia",
+      "flag": "🇦🇺",
+      "lat": -33.87,
+      "lng": 151.21,
+      "count": 3,
+      "status": "monitoring",
+      "exposure": {
+        "linked_to": "MV Hondius shipboard cluster",
+        "linked_case_id": "case-000",
+        "date": "2026-04-01 onwards",
+        "location": "MV Hondius",
+        "type": "Direct shipboard contact"
+      },
+      "track": [
+        {
+          "date": "2026-04-01",
+          "label": "Boarded MV Hondius at Ushuaia",
+          "lat": -54.81,
+          "lng": -68.3,
+          "icon": "ship"
+        },
+        {
+          "date": "2026-05-11",
+          "label": "Disembarked at Tenerife (final group)",
+          "lat": 28.29,
+          "lng": -16.63,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-05-11",
+          "label": "Australian govt charter → Sydney",
+          "lat": -33.87,
+          "lng": 151.21,
+          "icon": "plane"
+        },
+        {
+          "date": "2026-05-11",
+          "label": "Self-monitoring at home addresses",
+          "lat": -33.87,
+          "lng": 151.21,
+          "icon": "home"
+        }
       ],
-      "monitoring":{"day":2,"total":42,"symptomatic":false,"last_check":"2026-05-12"},
-      "note":"Australian nationals repatriated on government plane. Self-monitoring at home.",
-      "source":"AHPPC","url":"https://www.health.gov.au/"
+      "monitoring": {
+        "day": 2,
+        "total": 42,
+        "symptomatic": false,
+        "last_check": "2026-05-12"
+      },
+      "note": "Australian nationals repatriated on government plane. Self-monitoring at home.",
+      "source": "AHPPC",
+      "url": "https://www.health.gov.au/"
     }
   ],
   "news": [
-    {"src":"HHS/CDC","time":"12 May 06:00","title":"18 US passengers repatriated; 1 PCR+ in biocontainment at Nebraska NQU, 1 symptomatic at Emory Atlanta, 16 in quarantine unit","tag":"u","url":"https://emergency.cdc.gov/han/"},
-    {"src":"Today.com","time":"11 May 20:00","title":"US contacts dispersed across 8 states: Texas, Virginia, Arizona, California, New Jersey, Maryland under self-monitoring in addition to Nebraska and Georgia","tag":"u","url":"https://www.today.com/health/disease/us-hantavirus-cruise-ship-outbreak-passengers-map-states-rcna344213"},
-    {"src":"UKHSA","time":"11 May 21:30","title":"MV Hondius departs Tenerife for Netherlands with remaining crew. 23-country evacuation complete","tag":"u","url":"https://www.gov.uk/government/organisations/uk-health-security-agency"},
-    {"src":"French PM","time":"11 May 18:00","title":"French evacuee confirmed PCR positive for Andes virus; ICU stable. 5 French passengers to remain hospitalised","tag":"c","url":"https://www.santepubliquefrance.fr/"},
-    {"src":"UK MOD","time":"11 May 14:00","title":"British Army paratroopers and medics successfully jump onto Tristan da Cunha to treat suspected hantavirus patient","tag":"u","url":"https://www.gov.uk/government/organisations/ministry-of-defence"},
-    {"src":"Reuters","time":"11 May 12:00","title":"South African British national in Johannesburg 'clinically improving but still ill' — SA Health Ministry","tag":"u","url":"https://www.reuters.com/health/"},
-    {"src":"WHO DG","time":"11 May 09:30","title":"Tedros to CNN: 'Incubation 6–8 weeks — we expect more cases. This is not another COVID.' Public risk remains low","tag":"w","url":"https://www.who.int/"},
-    {"src":"PBS/AP","time":"10 May 23:00","title":"All passengers evacuated from MV Hondius. Last group departed Tenerife delayed by strong winds","tag":"u","url":"https://apnews.com/health"},
-    {"src":"CDC","time":"10 May 18:00","title":"CDC Level 3 response activated. Epidemiologists deployed to Canary Islands for exposure risk assessment","tag":"u","url":"https://emergency.cdc.gov/han/"},
-    {"src":"Dutch MoH","time":"10 May 15:00","title":"Dutch charter flight (Eindhoven) carries 26 passengers: 8 Dutch + 18 from India, Germany, Argentina, Belgium, Greece, Portugal, Ukraine","tag":"u","url":"https://www.rivm.nl/en/"},
-    {"src":"Italian MoH","time":"9 May 14:00","title":"Italy places 4 under 42-day active surveillance: contacts dispersed to Tuscany, Calabria, Campania and Veneto following KLM flight exposure at Rome Fiumicino","tag":"u","url":"https://www.wantedinrome.com/news/italy-places-four-under-observation-after-hantavirus-flight-contact.html"},
-    {"src":"WHO","time":"8 May 17:00","title":"DON600: 8 cases (6 confirmed ANDV, 2 suspected), 3 deaths. CFR 38%. Human-to-human transmission confirmed","tag":"w","url":"https://www.who.int/emergencies/disease-outbreak-news"},
-    {"src":"virological.org","time":"8 May 09:00","title":"Viral sequence published: 'ANDV/Switzerland/Hu-3337/2026'. Nextstrain phylogenetic tree now live","tag":"u","url":"https://virological.org/"},
-    {"src":"WHO","time":"6 May 12:00","title":"WHO confirms causative agent as Andes virus (ANDV) — only hantavirus with documented person-to-person transmission","tag":"w","url":"https://www.who.int/emergencies/disease-outbreak-news"},
-    {"src":"AP / RIVM","time":"5 May 16:00","title":"KLM notified: Dutch woman briefly boarded KL592 Johannesburg before death. Passengers being contacted","tag":"c","url":"https://www.rivm.nl/en/"},
-    {"src":"WHO","time":"2 May 08:00","title":"WHO first notified by UK IHR focal point of severe respiratory cluster aboard Dutch-flagged cruise ship","tag":"w","url":"https://www.who.int/emergencies/disease-outbreak-news"},
-    {"src":"Ship log","time":"11 Apr 2026","title":"First death on board: Dutch male passenger (index case) — suspected ANDV from land activities in Patagonia","tag":"d","url":null}
+    {
+      "src": "CDC",
+      "time": "09 May 07:00",
+      "title": "About Andes Virus | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
+      "tag": "c",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fam80SXFuemRaRHh3M19hOE8taTRKYzFhV190R0JZWEgxNFY2YmxBRS1sMTk0OHRPczh3cGlvNXBBMkJhTzBiN1F5ZUdhVlk4T0d5cHNBcXVFX0NjWlZ4Nk1n?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:14.862Z"
+    },
+    {
+      "src": "CDC",
+      "time": "07 May 00:57",
+      "title": "Statement on the M/V Hondius Cruise Ship - Centers for Disease Control and Prevention | CDC (.gov)",
+      "tag": "c",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa09PaWdwTkdSZGd6YUNyejRSaDRjczd2akdkT0dTR3JEUGpjMDdERTdiaGEweUkwZ2YtbVFzSG9YVmRwVVQxQnQ3YmVZR3lwN1BsbGFTalhTejNjdkFkT1dDNmUzUkt0WlIwNXQ2a2VKLXg2QVNGRDFVNEhGNGx3YlNwbw?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:14.862Z"
+    },
+    {
+      "src": "CDC",
+      "time": "10 May 20:45",
+      "title": "Andes Virus Outbreak on a Cruise Ship: Frequently Asked Questions - Centers for Disease Control and Prevention | CDC (.gov)",
+      "tag": "c",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KejE3WWpITktMWTg3SVFQanQzUG5IYUF0MVg2SS0zOGRYMlBOQ0tkVGg3dTZFOUdrVGN0Xy1MZ3ByaFpVaXZfckpoYktKcG0ybWJnTnlRY3U?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:14.862Z"
+    },
+    {
+      "src": "CDC",
+      "time": "08 May 07:00",
+      "title": "Clinician Brief: Hantavirus Pulmonary Syndrome (HPS) - Centers for Disease Control and Prevention | CDC (.gov)",
+      "tag": "c",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wX092TTNnR1RIeHVwVEZ3OWJ0TzNtYmxOSzVaX2dGZ3R6S3ZlOGNkSFZZRjg4dWFzUVA1SWpQUllLV01hWVNjcmtSVnU5cWVkV3pYSG5yZ3RTaXhxRWFSWVRfVUI1ZmJvY2k1TFNR?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:14.862Z"
+    },
+    {
+      "src": "CDC",
+      "time": "23 Apr 07:00",
+      "title": "Reported Cases of Hantavirus Disease - Centers for Disease Control and Prevention | CDC (.gov)",
+      "tag": "c",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OSUtYZ1pOOXRDY1pWUTZBSHlKYUlpUzU2R3N5WTFmMlVYOFJPOUpGak1LdmFIa3FHVV9XaXFuWThWSVlLaFpaQmoybHYzR1NaNEFyMFhVNWdaUFJONnJJZkVYaE1idFpwX0VEanZ3?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:14.862Z"
+    },
+    {
+      "src": "CDC",
+      "time": "08 May 07:00",
+      "title": "Hantavirus Case Definition and Reporting - Centers for Disease Control and Prevention | CDC (.gov)",
+      "tag": "c",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12cHlGbGRNTTQ4RVV4TjZKWkhjcjNPa1hBRnVzazZJMG5oZ1ZGNzRYZEhKc3BXUlFsc09ZSm5vLXdVelczT2NvaGsxczFUQklwQnYyQ0NUdzY0MFh3RVVfTXotWG1XbUdBZFE?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:14.862Z"
+    },
+    {
+      "src": "CDC",
+      "time": "08 May 07:00",
+      "title": "Clinical Overview of Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
+      "tag": "c",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xTTdkOVlidTU1SEdqUl9WNUcyNWFHemI0OUhZRmdyTlJiVXRyUU9pWURBcDRsVk4yQm05a1h1MC1RMGZzanFoUmQxNlFEdy1tMFc2YVNJTzE2QVJsdUhtS0RaeDYtZ21VQnJOWDBkVlg?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:14.862Z"
+    },
+    {
+      "src": "CDC",
+      "time": "12 May 10:16",
+      "title": "Hantavirus Infection, Non-Hantavirus Pulmonary Syndrome: 2015 Case Definition - Centers for Disease Control and Prevention | CDC (.gov)",
+      "tag": "c",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40dnpKc1VTYmVfNGs5MHJGLUxJcU9kSnFGOGRJV0F5WWRyelBEalRySEdqUmFMa3l6eFNPTnZvMG1Da1UxczZJWUxnUnlSQnc?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:14.862Z"
+    },
+    {
+      "src": "CDC",
+      "time": "28 Apr 19:36",
+      "title": "Genomic Analysis of Sin Nombre Virus Sequences, Northwestern United States, 2023 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "tag": "c",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EU3FIMmM4M3hleUZjVzFLNTFuY2lXZkVOZjFWejRpa1FRNWlEVDJURUJwT2JKaFNtX240SGpvcGVOWTVLVEJVYkJmcXh4US1LWEw2cmN4ci1oWF9vZUNQTkZaNkw?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:14.862Z"
+    },
+    {
+      "src": "CDC",
+      "time": "05 May 07:00",
+      "title": "Hantavirus Spotlight - Centers for Disease Control and Prevention | CDC (.gov)",
+      "tag": "c",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vQS1BX3c2Um5TNFBWMkcwcnFTZ1U2SVIteG1MTDZ1RldCTWlFRWR5OGFDQ25MdWZlSHV1eUhhdXZ1MVVPb25BSU1tWEdURk4ySkhxdmJjOWpLUQ?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:14.862Z"
+    },
+    {
+      "src": "CDC",
+      "time": "09 May 22:47",
+      "title": "CDC Provides Update on Hantavirus Outbreak Linked to M/V Hondius Cruise Ship - Centers for Disease Control and Prevention | CDC (.gov)",
+      "tag": "c",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYzB0MDJHUkxCNWNFRDAyVXNhWk9rZ3M4bXZ0Und2c3lRckhyanNOYURpTjQ4dFVGTGR1TzFGVHd2ZFozdHdLQWYtY0NzM3lhVjl0dEVyQUh4dHBtQUpLQ1VnSlVneGdRQmZLLWZkcHQ2UVR4cDk1SS1uTHk0TkJTLVRSSFdPZmotaDNyMGpFTkR4RHFxTi16MHJ4UmpIMERZaElEc2ozNmZpMTFLMWVsaERwOFc5dW5DaDJycnJGbTdNUWdn?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:14.861Z"
+    },
+    {
+      "src": "CDC",
+      "time": "08 May 21:59",
+      "title": "Hantavirus Outbreak Toolkit - Centers for Disease Control and Prevention | CDC (.gov)",
+      "tag": "c",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03SG5ldVNCREhKUnQyVG96MUpEVTRkSlEyc0F5VzV0dDJWd1Y5V0Z0QjRPSmZ0UHRMX2dNWEFCVHpESkhEY1c5YmxjX3RPeGRfbGtnMVZhbXFKN0ZmZVE?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:14.861Z"
+    },
+    {
+      "src": "WHO",
+      "time": "09 May 22:52",
+      "title": "Hantavirus cluster linked to cruise ship travel, Multi-country - World Health Organization (WHO)",
+      "tag": "w",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CZkR6ZEZhWkRSUThHbUNNZnhoRnhwZjBMMS1BMW5PSGdzTVMtMnZNdXBvSHdMcWRYUFJQalloS2lzZmdIc1BzQTlpQ1VzejZNOFh5QnJyU09ZRmZaTE4yWXFhR2I1d2VxTTMxcUFpWDdRWnNHU0Vmalp3?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:14.249Z"
+    },
+    {
+      "src": "WHO",
+      "time": "12 May 09:16",
+      "title": "WHO Director-General's opening remarks at the media briefing on hantavirus – 12 May 2026 - World Health Organization (WHO)",
+      "tag": "w",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZno3YlV5QXBFSmxKS2FWWUxva0d0WU10d0NXdnFFU0IxeDJrdWI5aUNhRWxrbnFZWldCVUVGVTB2TU5zY1dObW5JbmJGcWxEUnVTNFFtOHVydE1CNVhrMUFCRktReGwzS2V3eDRjcHhRRzVWNHdWS0RDZTFMNE8tSlFyNkhoY05pZVJ2RlAzelpqMWNjUHRJNUFHVFBDZXRiR0RNQnRGNk54X0NwejVBWHZWVlFfbzgxYXZUSEZUeG9HejczV2RyWlJCZ3I?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:14.249Z"
+    },
+    {
+      "src": "WHO",
+      "time": "09 May 16:47",
+      "title": "Message by the WHO Director-General to the people of Tenerife regarding the hantavirus response - World Health Organization (WHO)",
+      "tag": "w",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNREdqQ0ZpU21Ga191WjJQWlgtZWJuTnNfbzdzUkJpSUhHM21hSVoyRWF4NHhmbXZqcUJNUUhxWWdOWm8zRTdjYUxkYUlMVWJWLWtscjlDSDVneHRpd3gtcFdMN3A0aFVmLTJPSUQtS0E4WGppeVFRVUFOUXk0d3ZWRGxwWlNuR3ZYYnJoRF9waEstSjhxaGtISmUzbVdNekhUS1VHbTE2YXo0M2EzZThaWjNMOXNKUjdoLTVOaXFzSlVIdFBrVTFMc0I2U2Z3UWlnUUE?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:14.249Z"
+    },
+    {
+      "src": "WHO",
+      "time": "06 May 07:00",
+      "title": "Hantavirus - World Health Organization (WHO)",
+      "tag": "w",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TVzVGZlF6OTdCTElrUlo3N1lUMVRwemxJWUNOSXNlUllUZE5WSURVRzUxRUhjY2xuRHJGZklrTTB6NWpwV0V2eHlHY1IxYWFhZWpUaEtmVWdIbm9ja25kU1NsQnJ6T2FzcUFz?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:14.249Z"
+    },
+    {
+      "src": "News",
+      "time": "09 May 00:15",
+      "title": "Anger and resignation in Tenerife as hantavirus ship approaches - BBC",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3ajFBVWtkZ0J3M1ljR2sydFBZY2FJNVFCQUVrZ3RJdThXUUZhVldKd2xSa01pRUx1cFl5TWQtSlVxcGcwZS1wMmJNZmxtbEZySTN6WmJJdXE0QQ?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.747Z"
+    },
+    {
+      "src": "News",
+      "time": "11 May 18:30",
+      "title": "Andes virus linked to cruise ship deaths raises concern over human-to-human spread - Fox News",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONm1uUFFXNEZ3UDhOY2xyMnloZTNvMWk0eXZ2V1kteGxqbjhMNmVac0xUSHFBM2k5Z1FkMzF1bHJaUGFtQklZV2NnenJOTmZld0lfQnUzTzQ0WEpmTTRKM2dmLVZBeTdDS1JEaWlVeTRhaU1NQnhlQl8xdzN4SGd1R25WY1BNMFozbG1FZ1BxMEV5SFFEZU9VbnBlNlpia2NVdEdnTW85bERNZGh0eFZv?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.747Z"
+    },
+    {
+      "src": "News",
+      "time": "10 May 16:51",
+      "title": "Bay Area health officials confirm resident exposed to hantavirus on MV Hondius cruise ship - CBS News",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNldpck5OVk5wMW5sZWVGWjdxdXY3NGtSRkxtOEpqZ0J4UkFmdzJUb21ZMmZZMWtTaUJMRi1GdzhIb2xPWmxITzlYNXFweG5PVmt1UVlhdWw1bVNpU196TkEwemJzbXRlbXhUdGhsTTlWTDZtamNIYXhLSEE1eFNtYURBVkRPSG1ZVjU1OXh1S3RHLV9ES2ZVT0REeE56dFVkaTNDamtqbFhoLWxuSjBCMW5hTjI2ZHhQbDBqSE9fMC1TdzJK?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.747Z"
+    },
+    {
+      "src": "News",
+      "time": "11 May 17:48",
+      "title": "Utah prepares for MV Hondius passengers' return, say public hantavirus risk low - Deseret News",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPXy1xTWpocWk3MUlod2hyMmRQZWdVeTFEZXJndzVUSnpZSWdKZ3RaMUhMZWplZkZoQjIzRDRaTUROQzJxTW5ZcEhTU1l6R3R2SDU5Y3Y2MERKemRxMGV5dzBSYU9VV3pmejZRX3h2MnNxWUtkOHRubUZLZG5mMG1jSnM5ZGwyYjFvRS00Y2FHbUh2VWdnQWxNb24wT1FCRkExWDhOVWxmN1hHVG0wa3N2cE9HMFdQd19Lak1zUEpMQ1RteTJsbElRMQ?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.747Z"
+    },
+    {
+      "src": "News",
+      "time": "07 May 09:15",
+      "title": "What Countries Are Linked to the Hantavirus Outbreak? - Time Magazine",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRUt3dklNYURBOV8wNmR4T0k4a212MWlveE9uMUxtRFlEdzlaZ3RaUlNSVkF5ODNtaTUxbVY2SUFibHlwU3pqS2hBTGpRZjRqc1k2YmFDOEx6dm9HRFVfT1FGMEN1VTBoLUQ3YlY4eV9HZ2I0UkhCRWw0aHNsU1RjdnJLZw?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.747Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 01:24",
+      "title": "MV Hondius passengers monitored at National Quarantine Unit after hantavirus outbreak - WMUR",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV01taUw3OG01VXRKa3gySmFTXzFhNzBNaWd0WGV4Wm5DTFktT2JjYkdjU3hXS1JCdGRvLURGZkpKQzZZaHlhTkI3VHFnRkx3aWppZ29Ua2c2SGZNSm83ZVI2Vi05R0NwX0pXV3FzeTJjQ0dSeGFJVDl3OGJjaW5CZDhEaEJITWdLME5XT25nZzg?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.747Z"
+    },
+    {
+      "src": "News",
+      "time": "07 May 16:28",
+      "title": "Virginia traveler on MV Hondius not showing signs of hantavirus; VDH says public risk is low - WTKR",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQanFHVU5Delk0c3RwUXpEZWVaSkpiTjhnX2NPcjhTTUUyTUdpQVp4RF9KT0NaR01wLWZOeHgzQ25DUldyUVdrNUhWc1B3Y01rTm9wWlozdllwSEFWLXB1b2ZLLWI5NUYxSVlQanhlR05jV05DeHQ0cVpVV0tUdGxSVlQ0bFJCZHJlMVZCQXRnWklJU1g3eUtGaVl0UEtlLWR5QzZtLWcxLTh6UkVmMm5pbUFNRmtYeDBqUmc?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.747Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 18:33",
+      "title": "Best photos of May 12: passenger leaving MV Hondius to the Epstein files in New York - The National",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVmtka1lpd2lnMFBUc1hmajlUdHFZNUVjX3RiaVNqSUtjYTRGcmFqbi1ueTNIZkZsN3VuUXRDMkh5Rl8yS29jWkdzVHM0RlZHSU1VMkNhTm5xM3N1VXFfM3ppY2p4Y1JNdWxfTHo2WDJjUWJQbE1pWU0xaVdpZDFqWWZRcmhCY3pZLTQwVmFQTW5ick12aGwxRlJsd2dMLThrcnRka3pEbVRrWFg5VHJ0SlhOYTNEQ19WWDRrODBWYVdaRmJxT19XT3NUNXc?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.747Z"
+    },
+    {
+      "src": "News",
+      "time": "07 May 22:00",
+      "title": "Argentina on the Andes virus on the MV Hondius - Outbreak News Today",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdU10eExQSm1BUjVSOFhDVnZzOVlYZTBpRnRwdzVVWENsRlhybHZfVFBRd0FuRUZydnBVMWNFU3lwRGJOd2dMSGFnY2x6dUZLNWhrRXNPUDdoN3dJWVJMQUlPR01idXBhemNGcVZ2dFZzbERMWFJJbjlEMV96NDlEbGFn?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.747Z"
+    },
+    {
+      "src": "News",
+      "time": "07 May 08:32",
+      "title": "Hantavirus on the rise in Argentina, where MV Hondius cruise ship set sail - France 24",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkljVjlJUW1IOXdhQTIza1pudHVyS3VrRlpJUXl0V1RUWTVaSjh6RXRXQlR1WG1oNzhRMDJ4SlMtQ2FmSVNpYmpkXzVRQmRTT2NDZEdvTlJfTjlEcm9wdEo0bHRzSFE1dlprNHQxSTBzc3NESW1HX3BnWUUwS0FpMDY3R0FZMURPUGdNODhEUnkwaFNuSW1sSy1sZE01WUFfcHRHakRaX3VWeUFmcjNQN3BB?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.747Z"
+    },
+    {
+      "src": "News",
+      "time": "09 May 23:46",
+      "title": "Utah resident is aboard MV Hondius amid hantavirus outbreak, DHHS confirms - KSL TV 5",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUxRR3RfOWhnMFE0TUoyMnItNXUxMEp4MHFFUWNESVpXeFVQTDc0T3JxbUR0ZkcxSGc5WXhaN0NzSlFKeHNXQmdlRzdrN0dIeG1tRTljZWVQSjRlSXNiaWhadlFlc1BmNllTY2pFeFFEUkNadi1XX3RWNGJZWHBFZnJoZ2JsNUpKbUMzaW41akJTQ3ZzbmVTMmZyejRxSGhybnpvVC1KSDJMd2R5S1Fn?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.747Z"
+    },
+    {
+      "src": "News",
+      "time": "11 May 07:27",
+      "title": "France confirms 1st hantavirus case linked to MV Hondius outbreak - Anadolu Ajansı",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZWpHbWZOVWcxNGo4cERwNlJ3LXpUbVRTLTFUYllkajVFQkhuZWpBZ1ExSEtyR2cyczd5VHJHVXJnYTdfMnlEaklGLUdUMVV6RWpLWWtOanFUZEdsU1Z2R1JMNmNGWVJnZ0xWVVpxN01FZW9ZSm91QVlBVDZpUkZhd1dVNVFZR1RhQzBjaWx2WFBsY1k0LXR6VHRnaUFmdi1PTm5Hc1pDN3Q?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.747Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 16:49",
+      "title": "US Monitors For Hantavirus As WHO Expects More Cases But 'Not Another COVID' - HealthDay",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRkRKOE5ScnJndkxJcmNJVGdWdlE4cUZWd0ZaV0VldjdyZFltWTNKeWZXLU8weUlWX0NWcl9UektEOG55SUlISEtIV3pmeDVJNUhjV1dvVnotZ3hvd2dYeVY5THlSOWxRelp1SzFBU1FhOVc3bTNrdkVUMnBOQWVpZDU0THVZd2pHQ2g4UTF4OEFMX09wM01xR3dsQlJkOXE4emIzM3NUN2hyUUJnT0U1aDhR?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.746Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 16:49",
+      "title": "Spain reports new hantavirus case in passenger evacuated from MV Hondius cruise ship - New York Post",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcGJBaV9YdXJMX0NJMzVTY0ZQS0JfczJkakphQ242NDE2RlF0Z3JneVdvY0ZrYm8xT3FGaF9sUUlsbUY2YUVBN0xUcGM5ZkxaT0x4OGxEX2tWdnhhUE1FVW1RSFIzdzZqZm5IZ2ZYSWN6UEpKNkhuNmo0TXJNN2xxNklEb2lXd3dUaWZQY0ZoRDktbWVSVEF4RDFORERYc3ZQc2Q0X0FQblN2eDkzNEpDUA?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.746Z"
+    },
+    {
+      "src": "News",
+      "time": "11 May 08:06",
+      "title": "Hantavirus: Spanish government pulls off political win with MV Hondius evacuation in Tenerife - Le Monde.fr",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObjBxQVRUZjJrd0ZuQm5Ca1QwMDQ1TDM4TExUcURNRmdWbnNLbE83cThJWnlJLXM5VFRGMW1sbzJIQ0tRSVUyS3pBMUZQbE9EMmJGa3owRFg5d1lFeHFDdEdoMzVoNFJSZTJ5Z2VHU3NmR2pwenBQVGVSS0duaHlXbk0xN1dwXzFPQW9ocDQ3ZDBUVktuS2hKNHdXamY0bGJ0a3RnR3lQaDhDVGRwNXNiWnZVM3lldTRZWGNOWEFzakp5TFBadmhCMmZubm1OTHRhbXlDYXMxTENrazZNYVAzZlJaeXRVVElNVVlSMkVPcFJURU05VTdHTDJ3?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.746Z"
+    },
+    {
+      "src": "News",
+      "time": "11 May 07:27",
+      "title": "Cruise Ship Outbreak Raises Andes Virus Spread Concerns - Medscape",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQWducjQ3Tkg0V3lNU1hvblpjTkpySGlCcDVoSFRhYkxYa29xcXU3SDU1cmowV0cwRkNKalNRWC1BbWIyS2ZKT2NaOWU0SkVQa1ItaEJpWkhWSE8zTmJRZEdUYmc2a3A5anRwdnR5OXZBOENhcElpUEd4RElidUVsQlBGUUN0Ml9wT1g0WHNzRlZIaXVXNnJxVWc4azNiOE1MNlU3ZXJIbVo?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.746Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 07:44",
+      "title": "What happens now to the ‘Hondius’ passengers? From Spain’s strict hospital isolation to home quarantine with walks in the Netherlands - EL PAÍS English",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNemh5NFFCTWZDOEoxcnJOM1A4UVRsT0lsYm9yOV8wdV85Q01hRmZnUUtJTHdtcGt4VFNhLVZHQ0IyTk1FejhMcW5DSmNKQjEyeG5uZVJVTVo2eTFCNmpZcTMxc0I2TnF5YkJyUHRmeS1oMVpDR0JrcnpOU3BnMmhfcmh3RXpKcHdUdnEzTUlySUNqaGppbXlqb3hSc3hpNmJiaE1QUVZaQmFKT21sUkl4SEdkRGk4dXNnendoQUxSZ1AyNFQwQXZPaWdrQmtvZ1JvZHJ5RjNVSDBJOUVxUUhTd3lIUV9qS0xKal90NzlPNGRRVFp4UmtSRzdtWWpzSmtwQ3BhcFRwOHJXWkXSAZ8CQVVfeXFMT1BMSDhzLWh1NXFmenQwdWFoZjNFZXBieXk2QzFndGZjd3pBT3hDSkJWRUZncUE4UFRubHpGaV9SM0U5LUw3Z1pLYXhGUWk4dzBlNDBXZU9mXzB4ME1lUFVZb2d3Vm9TanR1c2F1bGhYWDlWVTMwdFJBcW9ybVlIYXduN3BFc2prUWxwTkhoRTgydkRjNG80dGtYbTItZDE2ZlFJd3lfZWt4bl9PbUVPYjRaLU9XM2pURXJfZjlqbGZ5MXlUbGdVbXZUZ1ZaQmNFSTR3NEFMUjQwWHhvNmx2QzF0eDYzZkJlQ0x6YXI4dVB6Y2JVMEx2eHMtdmNZY0d0Q3JhSTJ4aTVRdThhaEp2bnQzdTlRWGhTMF9HNDQyOW8?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.746Z"
+    },
+    {
+      "src": "News",
+      "time": "07 May 15:31",
+      "title": "5 U.S. states monitoring passengers who departed cruise ship stricken by hantavirus - CBS News",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUzNyS2N0N2lfSWs4TXZxdTFLX3E3ZkdYbmowTEJEX3YyeXhBWHpuaXg2WjB2bWl2Mlk2M0VWdDhGNnhrakkzc2d6OHNBWTg0SEdURlpxT2ZHbnRYZnVjeDlOTnZGM0JaMUxuMVZlaWJSRGpQMXRlQlRkbFpaRjBuVC1CeHV2QlJ4WXRhTE5UMHpRajdHVXdzZDJGSEtvQdIBowFBVV95cUxOZms4dHdPR2lLLURkWk9kOWlBN0RONC1Sci1rVmJpcG9xVUJud3B2aHhRZ2YzN21PWUJ0SFI1RXZLWXFTTzBhcXZOdmt6ZzExYTIyWXNCVV9XMzc3RGdYRlBjNWVkVDc0R2NQNzJJZXZJTmdRS19ZYXlTNk0yTlNnSFh0bmJkTkpfdVppdEktRlQ4VFoyekg0aG1XLW44SFBxcWpr?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.746Z"
+    },
+    {
+      "src": "News",
+      "time": "07 May 21:03",
+      "title": "WHO’s response to hantavirus cases linked to a cruise ship - World Health Organization (WHO)",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelRHb3JINWxkUDFNQXF2SmExU2RscVB0YlJoTzFIdk9DTGFyMEtCS0llMzh5bHNXUkdUSWdNOWtGandBb19RLUtMd3hka0lLLVBBUjBXZHNXaTJUbWFhZmN2N1EyOGVNVlU3SmZHZmtGUXVjT3BSeHJEUGs1cHZ4Z3pmV0Q1ZTk2azlpYVJHQ0Y0dmp0OVlnVm9BSDg2eUcw?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.746Z"
+    },
+    {
+      "src": "News",
+      "time": "07 May 19:24",
+      "title": "What is the Andes virus? The hantavirus linked to a cruise ship outbreak is among the deadliest strains - NBC News",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQejZIVWZLTnlqbzF0dVAwVGR2VkZXdjdTYnFtaXV5eGR5MVhLRGptekt3UGRsMG5Jc0s2RHp3akFRQzRTV3lVZnJsaEwzcF82NjJNYVJlTFlXd25rcEN2M0tScnZpc2J6ejQ4Q3ExX2hVSzV6cTRSdVk1dEw5WDJnZTcxTkU1Ukw0VGI4RXR3RERvWWd3bW45cFlGU0VISGVBRHlHMkZseUt6WkZIN2V0cXFOSUs0TVNIMS00?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.746Z"
+    },
+    {
+      "src": "News",
+      "time": "11 May 03:29",
+      "title": "French national shows symptoms on return from hantavirus-hit ship - BBC",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MaHBPNUU2WkRCc1YzcFdPbzEzZ2ZNaU5ScEdfdm5wb0NDVWNoSUlTNEdqRUI3cmRIS3pzbV9NTEJzQ19OVWJZM1pyVUZyV1gzRVBWdFBNTDNhZw?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.746Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 19:30",
+      "title": "Officer suffers fatal heart attack while helping passengers disembark hantavirus-stricken MV Hondius - New York Post",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOelJlVC10T0p6WG5iZTFJNElzTkVXVHk5WWx6R3ZUcEhwT3hqVVZzT1B0b2tUNDhfSkVYekE5eHF1SUpsclJjcE1VWDNiVUk4a1JyRkZTNllfcV9NLWktWlQzOVcxZ2pKZU5hbG11MTFPem5QeGV6RXBqQUp4WEIyRXlrRDVScWkwWXhEd0dNVjV0UDF0OVpEZW4xYWxxYnlGZGZ2Zm41ajJLMlktVWRtLUliN1JWVnpXOTA0Z0I5UVFxNndaa2lRLThybWx4ZWtselhpYkVB?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.746Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 16:28",
+      "title": "First U.S. case confirmed in MV Hondius hantavirus outbreak - MSN",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUUZPenBOeW5wRVZzSjJlbklXVjQ0OFZfdk1SckZWYTB0alBPQktWNjJpM05sQjFadG5FczFpRkdMOGJWMzRDdFFKYjhNSS1COWswMzdLNjJBczZNdGlMWDhlUUktSFJTeGgwYmdGaU5RekdsVXd6QnhNOEtJSGx1QUh3dUxobjdtTktMRG9MaUxsUXR2dy1Cd1pZb0RoMTc3ZlUzNVl4NEdSSmVqdUc5YjVaeDZuVW9OTE1CSzRWeUVYYzdZUnBwRExOeEM5ZFhrMFZDd3JiUkdBQkV5WG5tbXV0Zw?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.745Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 20:29",
+      "title": "Hantavirus On The MV Hondius: A Traveler's Guide To The Outbreak - Travel Noire",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QTmFEZGx2ck90SDZmbVB0aGNKOXRyMmItY1RlQVFGbzdaeG9PbEhDY0NjTUU1cmw5UGpwcW40RUVaaExRdU5uay1ZY2d0XzJPQzJIVEhEN0F4alpfdGIxN3VTUFQ?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.745Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 00:46",
+      "title": "What to know about the hantavirus after deaths amid cruise ship outbreak - The Washington Post",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVmwwMTF2QXM2a2p3WGVxdGVqRTBRQk5GUkVTMlVJYnBPTlZ5cDB5cklFbkJCQ3hFLUtHUjdQVmhvOFJjeDVWNTQ1RWNSdVU4N2RRMHVLTXJVM0Ntd1V6aUZQNHBCbV85alN4VWdpNmpiOWxIZTM2eW9mZzVqVXZwN2pSMmxVM1JzeWMxa256M2VHRVQ1bUtrNkdn?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.745Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 18:28",
+      "title": "Best photos of May 12: a passenger leaving MV Hondius to the Epstein files in New York - The National",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2VJeWhBVmc3SGVwNm5uQ1Z0TnBNbFVQMzRZZ3V4MzI5eUp3UHExSzNiRnVRMHhSWnZnQ1B5UXc4OHdtWUVxV1ROTjE1QUx5Q3ctdUc2SlpwZWE0Tm52Q2F6Z0xvNWotUjJwcVhuX0JJb2g0SW9ocGQ2NHUyZkdzbTFWTkNnZkhCNWx0M2RVNVVVeTQ4YTViZ0dlM0VsYkotcjZ1NEJVQ3ZzUzlwaFMydDdjLUdFa1Q0TWdlZ2diMzRQb2NMQ21ad3JndDZiQ2c?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.745Z"
+    },
+    {
+      "src": "News",
+      "time": "09 May 17:18",
+      "title": "American Hondius Passengers to Head to Nebraska Quarantine Center - WSJ",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc0RRekVYaDlVeURhX2dONG1YSi1nNDVxZ1hldVRsREU2OEVCUFlMTjFHbWNaYU96VHYzNS01SFA1eVlhb2FBcDZ2QjRlTjVmNjdkZXUyREJyaGw4MHNMd2hXZHRhNzJyMV9GVktRN1Q4WWRIY1BOUjhCMjhVLVpydC12bG10WUFEeHpVc3RLbVpWWURSdnlLX1A5czBYOUhaQjR2amhuWnBwaE02X2FnQ0ln?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.745Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 14:21",
+      "title": "Photos: Plane with U.S. carrying passengers of the cruise ship MV Hondius arrives in Omaha - Arizona Daily Star",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMHd4LTRMNnViWm1KazduUUo0Z2tHOVVlRFh1LUQ2S3Itd1RfSGRCLTBCSDEtb3g3TjNiejBXOC00UzB1T3dsRXVHZkFTOXpTQUx3d3pCMDlsZmZiMzNzcFctMDQ1VmtENlp0eEQ0c0RrQzNzTnREWHdQbXFjOXVMVGt1SDJXeUh2bG8tR0NaUDF1ako3UXFfQ1Jmb2x6SDM3M3c?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.745Z"
+    },
+    {
+      "src": "News",
+      "time": "11 May 18:07",
+      "title": "Initial genetic analysis of the ‘MV Hondius’ hantavirus outbreak confirms it belongs to the Andes strain and rules out mutations - EL PAÍS English",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNRkpsX3BuVUlrYXhkWjhtUVBOQVo3ckpRQTM3bndJbjdoamk2TndFYUNDa3ZJQTBxaWc2ZUJfS09UQ09TLTVncTJITXRoXzN1OHlfYWtlSU9YcFdPaFdpZGREU3pkTGk4ZWxDNjNVcDFBY1VwUXVTbV85bHlXeWE1X2xvU0JBOUdIbWI4U3U3WnRqR0JtS1ZXOW5HRzJ4U1Zrc09ZQ1JyYWtSMncybldJcVRad3gxNmRlMnI5V3VBQ0tSTmRpc19JNTNCSlB6NzlWRU5hQ21PNEFNX2xnRTcydTF4WlotNGk2djR6b0lMclZPVXZ3RkVERFUxM3FLaEhiMVV2UFN6NNIBmwJBVV95cUxOQ0VLR0RrU1luVnJmR29UcFBtVXNUcUxwcUN0Wm9sd0ZXZUpJRl95RTl6SFNQWnB4TW40dUJCRHNoRnpoZDExQUdVVXdUNkJEUnhFNFJlWXR2N1FvU0Q2WUlLRV9HZm5SdTRBSjFKcmFUQ2pCUlR6bExKVndvN2ZMM3FhXzlWVlNSNkRLOFN4Q0RuQW9URkx2YllscGxDZDhPVGtHaUQ1WF9ydWVwSE9TNkRjdGFBUG1YRjdrVUhBdk96UUp1WG9KMHJFdk1YQU41NlVZMlBVNVZ2eGpZYzRvUVBKM1ZHYXdzaTk4VnBQWkp1SGRjbmJKeFowUzI0emU5bWN1ZUZ6QUR6dDZTTmxEbTY5WjE0MmwyWFl3?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.745Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 07:27",
+      "title": "What we know about the MV Hondius hantavirus outbreak (Video) - Social News XYZ",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMnlzQktPNkFrSFdUc3BLaTRSVnkydm1VX1BKLWNLMW8zQWFkeWU5enBkazBhRTB1R1AtSXAwVXRiQ2lyYzJ5YmV4dDJYaUZsOENnZWVJOUNfVkNFZUNiMkhHY0xRdmg3dWI5czZrR0RUY1UtYkxPYTZzVTlFUHJGQlpYa3dqMnU0T2U0TXNHOGRrMU0xb2l6c1pjSU5kajA?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.745Z"
+    },
+    {
+      "src": "News",
+      "time": "08 May 18:32",
+      "title": "As the MV Hondius heads to Tenerife, Melissa Bell breaks down what happens next for the virus-stricken ship - CNN",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRmVSUVRwei0xNjJfQzVGRHc3NFNGUWpDZC1rSWJGU0VUbEtXM1FtcnRXUUEtMnZkTEp6RC0yWHY1eENYdHpiek11emZTSHhyMGpDdGhPbDZPY1YxYVJEYnRkSUZFV2tQYklwOWk4WWxMZV9pQW54V2hzSlhvUkxXUXh3aC1Ic1Vsc3ZHYnlBVDdXei1VVy1ULUNJZTF1QURPMWN5UQ?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.745Z"
+    },
+    {
+      "src": "News",
+      "time": "07 May 13:09",
+      "title": "How was hantavirus transmitted? A visual explanation of the ‘MV Hondius’ outbreak - EL PAÍS English",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZmprX3FTTWVEaVRnYVhTMXJvV3ZaUUtLWFQwX1RBYzVzRzdVeHZwNlFheDhHbENKRG1ZMDl0WFN4RHVlTGlSVFQ0QS1Ka0cxb1J6dlozOEFjOFBxRXA2NGhvNGgxR1pReUFDS3U1N0VuNWZoMTcwOEN2Y0pNcW5tWlE1U3RCV3ZmYU5keWF1RV9FZWRoUUdrSzBFWHlVVFU5YkRtUnpHbDJ4TFdwa3FYY2xfY1BmaWJCbF9ENjRLTVRHMHZOZjlz0gHbAUFVX3lxTE9IMmlOQkpBWlkxRjh2a1RPODJEMzRTY1N2b3JIWUZkckEzak80ZUkzLVFZZnRLMGFleUhGWE5OSl94dkkzUnZSZWM3MGp6OXpwdFc3YWhMQm12OTUwUEZrenREbFJpQVBRdVFFNTdSdE5ZWEpZQnp6QjVNS0dwS2x0dk5Pdk5DZ3h2UWQ2MnBpcWVCbDZteXAxV1NUN3VoTVMzbnlNWmlPLUxvTUpMRWM4dm5rYnZPRXVGR3p6elJmbklZMHI0Ylk3d0E0NTE3OUJyRi01OURMNEF0UQ?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.745Z"
+    },
+    {
+      "src": "News",
+      "time": "11 May 17:51",
+      "title": "Hantavirus cruise ship captain delivers message to guests, crew - NewsNation",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV1ZfdkhBMmRwdzRjdEhfMVdRV0xUZHIyTWRNVlJweDRTRE1WdUlPQk4yTk85aEw1WUlBZ2E1aXp4X00tQUR3VmRDVFV3NURFdF9LOGF5N0t6WEhRd3RWV0ExM1c4a01fNmhEOWNrLW8tN044bEZ0SERaQ3lRbUxOQmJST28zNWl5WnfSAY8BQVVfeXFMUFR0endVT0ZfWXFEYjJCcmlybklCUmJuTlNEUkRoR3RRNjhXczRkTVBINjhvbGh3aDNkUzZIa2FtcVB2WGhpVldtaTAzZ2FqQlVYd3Qtbm1IYVV2bkVUM2F3UnN4Tm8wVVAyQVZ1QjJDVk9Oa25TU3A3blVvNl9lcmg1OUlmQURxV2o5Qmp0VlU?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.745Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 01:30",
+      "title": "‘A little boring after two weeks’: what awaits MV Hondius passengers quarantined for hantavirus? - The Guardian",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd2lVeTRqUmJ1cjN6QjJnUnN2WS1FamhLbFVEUGpXb1J6NFBwdUJ2TktDd0t0Z1hTaThMY2t2TkYyNDEtVWcwQ19tdnNvQk0wRzNTbTcyeTNwSTZ5b2lIRXhjN0g1M1cyUXg1ZGlsczNpSU5IMWdleXpWUm5rbkdwdzVfbzFROVBxTTFOMlhncVB4QW84MWZDcVR4ZWZjczM4Q2NfVVdCcjFaclVKcFpySEEzZzNnNzVuQXQ0ZmE2b2s?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.745Z"
+    },
+    {
+      "src": "News",
+      "time": "07 May 20:11",
+      "title": "Californians were aboard hantavirus-stricken cruise ship. Is there a risk to the public? - Los Angeles Times",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWlsaXp5QzZRaW9IQ3BucFNFWTh0eEIyQkhlZUxHSjFaYmRFTlpZWEhtVlEtbjA1QjktZjZzSUlGLTRjdjZMclQ2bFQtM09lc0JpekJrZ1F0WDJUREZmWFlfY0xaUU4wYzFRUUNWWnZLMDRkOVFXWXBmUjNyZHpZRGthd29ldUp4ejE1U0ZmVDV6TUpzdGRn?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.745Z"
+    },
+    {
+      "src": "News",
+      "time": "07 May 19:51",
+      "title": "Hantavirus outbreak on cruise ship raises transmission concerns - University of California, Riverside",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZUUwUEZnbloxa1VESjh1aTV3OExWTmtHZjBhRHViVk1zUjkyUE96YzBVR0FXQ0pkSXo2Nlo1MjAtZnFMZUF2RHVETDRxZXMyNW1KcmhwYlY1N29zaXRqejhLQmNXMDUxZzZtYTB6X1JjeGhMT1NYWkVRRngtaFRxYzlzbVRtaVBOaE1uWXhacHYxOWVaSjFveWFxQlRqSF9HcE9n?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.744Z"
+    },
+    {
+      "src": "News",
+      "time": "10 May 06:56",
+      "title": "Hantavirus-ridden MV Hondius cruise ship anchors in Canary Islands after deadly outbreak — as passengers evacuate - New York Post",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeGpxVTBjVE9NWlhDU2lINEdnVWhDYV9yejNFWjV2QVZqcU5FMGE1WFBYYXIwQjc1YnFFWE9XNTI3SGVjSk9LOXhGUk9kcG9seGRfUGkyV1c2NGhWVnE0RVdpT0xKYnVRanMxUEt4aE5Ld2cxenllRks1ZHA0VEtGQW1VeWtybF9uNVlZaXd3emFKWnNpMkx0Tlk3VjlpMFYxSzgyc0hvOUZxNXNhRFBkaU5XX3lNejctNExTMDdVMEg4cTZiYmVmeGJB?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.744Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 06:17",
+      "title": "Bay Area resident exposed to hantavirus on MV Hondius cruise showing no symptoms, California health officials say - CBS News",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeHNuLWdiV0FQUE8xbEU4RVRjR1ZIeTd4UWlkSUtDTFVaaHhnYkVJcFJCYzVMa2E1UmxNYjBJMmFteGp5cktkUGp2Y1kzV0k3bWNxeGhnd3FPeW9CcmhRc1NUVFFXMDh6eHhNc3FEWk9fUWZrRlZDcktpZl9JSU1Da2x5NjF0NUZmbkJpMmR5WENkQ2ZIODFPQS15RmFKcWV5cFNhM1otOEdhNkNRblRnbXJ2UjdhOTBzRGpNaGxFX0l1eG5jcnc?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.744Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 00:46",
+      "title": "State officials, Kinston residents speak on hantavirus outbreak - WITN",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMTVRV1ZNNzhpTWNuY1lzcEFQLUNBdjhTWERDV3puX2R3LWlmTGpNYkhWLTcwNWduNUY1S1JmYTQwUjA4b3E3YkxOWUN5cWVmc0xDWTdyOFRVNUdSX1l6d2ZuT3VTZnpXdXJzb2o3VDRySWRHbS1yWHhzRHNiWk9iR1dZNHZxVmgwOU8za2JVVkVtWmh0TEtz0gGrAUFVX3lxTE9LeWlpOU9lR25jZkc3Yy10QVhwdENfZTV6bDNQSUhkR2RJVG1DTXhReENoMlJMLWJ0bnRfUGFTRHBBYXFqZUFQV2N3QUZuV3RSTlRtaWw0Zi1veGVKMEVXTkd4bHR6SDBFR3F3T1JKd1MwLTBROS1LeTZPU1Jqd1ZMUW9fX1lodnhfb2ozMndwYTV0dlhlUXZrdExpdExRVlFxRlpNWm9ibEFEbw?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.744Z"
+    },
+    {
+      "src": "News",
+      "time": "09 May 18:52",
+      "title": "Cruise ship stricken with hantavirus heads for Tenerife - Al Jazeera",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeTRSRmsyWi1CcVVmNW9WWGJjemxLajRpYm4xeGFDVnYwQzVYZ0JtajZHTkNaZ0tRMjZyUXFGS2lUQnZVcVItUlJoUmZpVWk4cEphVFBaY0VFb3JwN1pjSGpaaUxaUFktaUpwTktlTEFHNl9yTWduOXJPb1NqTUw0THdpMlViRTRMYXdZcXo0TEVkUjJhTEoyTWhiRjVQbE9rb0R0aU9zUm14dGUzOGd6d1Vn0gG3AUFVX3lxTE13QUZOSkx6cHIyVzN2THhDUFgwVFgtMlVROHdyRW5XaW1QTmNOc3g0dU0tWHBMbU93QXVoNUxfSDVLYXBMUTZ5c3hpWnM2S2JnY0g1V3lRV3lZRFlNcUlYM3VGNF9Ob0txajZ6UFFFTE9hbzM4d1RDR0QxemlSY2RHX3ZzMGcwNTFrV2Z4Z3lXa3JjYmNpbERZVU5ZSjJCaFNFYThrNWw1UmljRnY1TnJnS05GVk8zcw?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.744Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 09:04",
+      "title": "Why hantavirus outbreak has health officials on edge - Times Herald-Record",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQXFEWWhwSF9sX3oxaW5VaXFacXBTdmU1RlZJMldpa1c0a0pHUE5YeFFMXzhRWDA0ZWc1YVFldlFra0EwbUVhQU03MlhySzdfd0xSWGdBa0Rxb3V6OHRScDVvbU1hOGo1QUYtMUI0c0tHZTRlR25qQUpQbVZneDRJSnZLdTR5SFFYVWt6REtiVGFZMjZsZE8tX2ljVXNmWDZFWDZ3c3dlVTFaRHJSaXFaVTJ6T2ZQekVGeGh4WVd1cE1JUGtiNFRIanNJanI?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.744Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 22:57",
+      "title": "British paratroopers drop onto remote island after suspected hantavirus case - Australian Broadcasting Corporation",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa0NjUUFGTWFkS0t0Qy1tbFJuSXAybWdyZWhIekhhbEZDSGJnRnExcUxBT21YM3hYMi14N1JlSjlQd3Yxck80MlkzVS1VV1Z2RnBYSU5wdTE4N3NONUVmRVVwNWxfRC1NMG1aZEZwdTJudUZDenV6WGNmcmJINGRteWlMQkNpTXptbG5CVUZIVU1DWG9VNmM4WW84T28wV29SNldIWUdOSm1JTmZT?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.744Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 19:08",
+      "title": "KDHE confirms Andes hantavirus exposure in Kansas - Spectrum News",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTRpd3NMZ2JhUW1oV0gzVW1GSkQ4NGs4UHFjdnNZZm5FZEdZeVZnVm5ienVMYTJ2cWN5cUIwSEdCVmdQTjB1dGdleVJ6cmNNTjdMX1RzM05OWTV4Y0U0dmRtaFFNLU1sU2xyUVZkVzB2aTF6akxES2NkR2tHNnZ6cXJKVndxNExHSEF3UWJhVVVkYVRPTHJESkZodw?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.744Z"
+    },
+    {
+      "src": "News",
+      "time": "11 May 01:42",
+      "title": "U.S. cruise passengers arrive in the U.S. after one tests positive for hantavirus - NPR",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQUt0bVlySmtVMThuWmRuMWVJMGlJMkMwVk92VTV6TjNHSTZLQ1Y3MmJiQ09pRWNWVXdJWlIzMkNudUJON1RNNFpnYjhTdE1OeklsMXZWV2hGa3ZnbTNISHZQR05WSFE2bTFfSVc4R3hlUmlrOHE0ekZzQnhEaVdkNENtb2xmWEJWVzhFNHNvTmtEYXlT?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.744Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 14:57",
+      "title": "US vs Europe: huge differences in protocol for passengers of hantavirus-hit ship - France 24",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMW1zenhDbHpQd2lZTkxNSUVyMklCcW1pZS00ZFZiVDJ0Vlg2eElLeUU4dElKVTZaZVliQkRweDIzNWlEenJIcHlFRnpFdGZjYmlfSS1DMjJlalJIVkVyQmk3Y1dOcFh2TG1uY0dtbk10T1VSS1hxTVNvUGg5TzM5RE1vaDNFcThzMHZ2NU4xV3hNTzNYSjR4aGF3UnR5TEx3UjBDNzh2YjJVZ1N1U2lwZUVXMUlHRTJ2TExyZjlDanc?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.744Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 22:37",
+      "title": "11 Hantavirus cases linked to MV Hondius cruise ship, experts warn number could rise - KUSA.com",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaWN1NHFBLS1IMXJMeFpReHRhekxDcUw5akxtZWxvWjdvUm5ER3NKdFprU3h4TWVpV1FlNXhYdkxraF94MTdlX1F1WjZydmVjc0RHWWtZS1JqTG5fTDg2LUpYY0dsRm02bDNaeDB0eFZaTGJLdWN6SUdoV3VaZTE2RFdnd1NrSW1oeGU3OWxYdDBEQUJ5WFZBMVhJYTdiOUxCU3hoZU5zaTVDdXhhZGNrMVhaTjQzelp6bzBtYjMzRzBZU19wUjdHYnNlODRiR2pX?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.744Z"
+    },
+    {
+      "src": "News",
+      "time": "08 May 07:46",
+      "title": "Live position of the hantavirus ship en route to the Canary Islands - Euronews.com",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNXEyUTR0cE9aNHU4cXRfNmp1b1VIMTJIMG05UnNMX1dDRkk4dlBBc1h0ejZHWkdRaW81bzBCVjc2dkgtTDktaDZPNFRzS3FudUxEOUEyU0ZNVWdJY2txUVIzYndZWWxRbXY1dklTcUlfclROTU9SOEFRTGwxcWlxaG90WWVlc3FJY1F5blBROGZ2TUNMZVhidlhqazktSGdlNU40NEFBLTlQVXpiamJ2aFdua0c?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.744Z"
+    },
+    {
+      "src": "News",
+      "time": "11 May 15:56",
+      "title": "US says 18 passengers flown back after hantavirus outbreak on ship - Reuters",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcl9yLWdrYmE5Q0FITXdDRVc4ZU9sSUl4WXF4ZFJHdEt2RDdtRmE1Z2F2Q3BkYnlUa1pBQUdwTXExQ2hCLXpWNVFlbVp4ZHFkR2F1V24wOTAzWXNrRHVtVm9oSDZ1UkFHSFpXTzBlMGJvVlY1dy12aFFKSldRa1c2TmdIZ0d3NDJCQTJyMTdBYzZSRllkQU5CV2xLWmVJRVFlTVNWNDgxb2hSc0dTUjd5UlEtZXBRY055S3ctSk1BRDhMQmdjVkZZU0kwNF9yWFQx?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.744Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 01:05",
+      "title": "Americans on both coasts who weren’t on MV Hondius being monitored for hantavirus after possible flight exposure - New York Post",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWW0zVnd6TGNXU19JQzAyellhOG9xWHRNT1dBN01JN0NxVk0zR3FNN1ctb1pNOTVQZzlsME5uVGxjVHpVdG9YTHFBdjUtbUJhVUlJNFVvTzd4bmg5S2UtMklRNU5RSTQ5YmtwNTdtcFBJblZHRGtZekNNZXZid1ljSmQ0NC0td2Q5SVRoLXhzbjdsd3F3SWhTWkpaZlZnaXJlSXZRd0pueVpBcGd1cHlwSXZKVGlicTRwY0NPaXkwVmdpaDVQSG5Zdm1ILVo0Rm5UeFJPV0pCNEV2WnAwN1FoYjJEaWw?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.743Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 10:50",
+      "title": "When can the MV Hondius sail again? | Morning in America - Yahoo",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYmtiR29HX05mcWx0LXA4UzBRX0FKa1Bkd2EwQ2JKcmFNTFdZX0pOWGdodzZLZkJBNXFLWlhtOW5fQjNKdEtkNllTVVV5VVlSQ3gxaFo4UXpZejlJMTBGRDdhSFcwSXN3eW9DN3pLcWVCY0N2RXFRRlZmMzBDUE01aldQbEI?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.743Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 18:29",
+      "title": "Deadly Andes Virus Exposure Prompts Monitoring of California Cruise Passengers - edhat",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM1hWM1BWcjlGVUthOFJYaUI4VnVLMTNOZFItaEtYdF9IM3czRG1JWUNGYnk0UDBlS3NFYTAyT1owMzFxMFdFZHgwaXVnd2tRQTNEQnItbTByZWJyUm9xUW1kT1VuX1pwTTJwTndQaDFUVXR2M0N6Rzl0ckNRNmZQemQxaU5sTG5MbnlERGMzS2ZqTmZ1T0lBeTEyMGVjTXliMndDYWtmOG1uM2FaQi1HYXp0TTVBTlNR?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.743Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 05:18",
+      "title": "Arizona monitors 2 residents after Andes virus cruise ship exposure - KVOA",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYVk0NDRzZDhyMmt0TGdBS2lyWVFzOWNuclBCWVU1TjJ1V2V1VVVaNXlMeXhWY2ZVM0N6TElvellXUEVZemZlcHZGdldjYl9QMkVMQVkyX3ZMTkd4dzFobnVSTlNhNHppb1lrVGRvTEl0MkVaSWpOajFQMzJXbVowY3oxNmp4bXRMTEFQYXlaQTAtb0xFai1hWFlhTWp0Y0NBVWVlbWt1RDM4dlhuQnZtTHRDM1NYc1FSd3JrVUhhYWRQdEhNbzhNRUhnNEc0cDFIV3ZyVmJIMUNmQQ?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.743Z"
+    },
+    {
+      "src": "News",
+      "time": "11 May 13:33",
+      "title": "Where did the hantavirus outbreak start, and where has it spread? - Al Jazeera",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmI4d0lyVkVqLU5NR0VZd0pRMzlMTDR6U2hMVUp6LXdlY2dZM3BUbnBIU0dzV3UtWl8wM2tXRFR0aGdNajRPaUczUGhZSlk3SXFEZFRtT3Z5UnRNeFdFZzVvaHJubjR0UDRicGFzVENSOTVsTnd3VkNxZXkxRE05TUhKdldIS0pvd3k2Skhzc3kzV0JQUlhZa1VBc2Qyd3Ffdkc4NWJCRdIBrAFBVV95cUxOdjk1enFUNVd3VUc1R01NeHQtXzBaX05STG5UTW80VUYtc2piMTB4WUF6Z3Uwb0tWdFppbHU4RlFKZ0NVRWFfYVBBbjZZbFYtV0xEWHVyVDcyOXlGdEUtOHpfTXIxSVI3dEI0OWVZOTZXTjlDaVJ0YW8tOUFUenJuT2NNaWw1dG8wakhzSUpHcFp3X1hwY1FtRGxyYkpXaDNmUHlnM0RHanM1UTh1?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.743Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 06:39",
+      "title": "Illinois case of hantavirus holds no link to MV Hondius cruise ship outbreak - The News International",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUXlmaHJvaXh4T3B4Y2lHMVZ0SDF2VU5JSUV0STlydEFtT3R6NFJVSXZUcXlBV3Jua054d0tyeVR4a0d5czF5WWxSZ2UwOVVZVDFHTkFwczhTUEtMSHJFSjJsaGRyb1ktSE1HTEVLTjIzRENOdE9BUWlXZnpLcE50ZVh5d19jXy1jS2xMaXNJZ3ZCSWU2STN4U1JkcHFMOE5ILTFjWnNnb0c5QmV5LWx0MW9JeXNjQ19BcEE?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.743Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 22:37",
+      "title": "Andes virus: What nurses need to know - National Nurses United",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5SHBQOEU3Ui1WRXZvSm1SNlJqcmpONjdQVDh1RkZHZGFFWXlpa1MzalcxenptYkNfZVAycjVPbGo4UEtEYjEyZGNjSFphX0hqNG1qbU94UWtuXy1lcGlpYXIyVWdOanR3RTEyc1N5bS1NUVh3aF9sc3RVMmNhQQ?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.743Z"
+    },
+    {
+      "src": "News",
+      "time": "11 May 17:35",
+      "title": "Tragedy at sea: MV Hondius captain praises unity amid hantavirus outbreak. - Al Jazeera",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbTJ4dGcxY1BmTjlwWTBZSFBPSlgwYVd1OFAwbXFZc2U2eDl0YUNXZllpSXJGMDRoWXQxM1pmUTZCMTYxM3Y2U3U5OFloaFRLRDc2dUEwSHVZdEpBTVR4WVdzdjdQU3N3d1BDdk5tVjl6eHVQOHk4aFIzdzg2NmpNMkNyajhZNGxZaEdkS0x1VUx2SW9EOW9aaWJCTWk5TTRXa1JRb0lIbkNSQi1UU3REb0tSSGpPa1FWaUJ5VmJxLUtvUEXSAcgBQVVfeXFMT1VPbTFpRURPWnFjcFJaVV9rSTRzUUdtRDlrdUQxWE9LZzZlcWliNHlHeTNKSWZyMzE2dlQyYVpSMXZ0dEU1dkkwZ1F1VDRtUGtGb1ZIZWpIY0dCVGRNOGxZZTdnS2gxc0JVQzVYOW4tVVJ6SWRXRkNxQzBndVVWUVByVllmWm40bkpWZ3dXaVpoNkxyakZITGcyVlJmQTlBMVpMM1FBa0h4VnE5NEtIdFJucmJvcW5mUFJ1MmpBNjVpMEs5M3lxWjI?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.743Z"
+    },
+    {
+      "src": "News",
+      "time": "11 May 06:36",
+      "title": "Hantavirus-hit ship sets sail for Netherlands as final passengers evacuated in Tenerife - Reuters",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQXhSWllhVGpLWXlNNEpYZ29fc3FPN0JZOWNQOTEtNjJwRWR0dEhFQ0N4WEJWS0tPdjFoRkpsY0hLUHVmSlhUbXFFa3hpTGtSdmhIZkhiOUFnQS14dDhGdWlVNDBFbkVvWVBvdnJ0RC1fN2VocV91WVpHb1NtQ0Z6eFlqR2hibjNBOWVNTGFiQ0ZkU3NJNjFCRFBLYTF0TkJCSDlyUENPSUZIOFNCMTFDemp3dVB1dVBWU0ZQNGlwejZINmdWVDhiQUNiQlM5RHZ2?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.743Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 02:34",
+      "title": "Hantavirus is very different to COVID. Here’s why the ‘Andes virus’ won’t cause the next pandemic - The Conversation",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNGZEaENxcDhDU3ZMZGxxd0QtdXRBRFZweFlnSFhTbkprZTYzeTVQa3M5UGRtVTc0TmJ6RW8yNWJvSTlHbkRxOTVpekpGbDNWM0dFYTFnOC1zTmpNY2w0Skh6V1B5c0lGLXVRTWp5Nkxod1dyQmdPTHJPUDA5bG1PeEVaaGZ2bE44d05CSzh5OTZpWDlFSlY1dEJBbDBBZ3kzeFhXdFhJeGZLVURXdUp6ZHU5ZG9pWWg1c0h2SHRLZnlkRzlMOUE?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.743Z"
+    },
+    {
+      "src": "News",
+      "time": "09 May 05:33",
+      "title": "Infected, at sea: how the deadly hantavirus turned a dream cruise into tragedy - The Guardian",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQTliZFdZNkd3WUJBVEhsNWRTcmN5ekc1Nnk4aFNxN0NrV1ZmU3paeWlEMVUxZmtwWTZvVU9fY2ppX1RqTVQ5M0g4RWUyaDhmcUZFX2pveEJydWpjLTJzZGQxa1A1WGU2M3J4SHNtRUlvc1RTOC1JSURvVk9KcGpUS1F2a3NFZGNvSE50NzlBdkFEYmNNSXk1WG5VSEg5ZE5fTHQzb0VTVHh3TExQcEFrYm5CMDFUQQ?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.743Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 20:15",
+      "title": "3 King County residents being monitored for hantavirus - KUOW",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWC1JSkV4eWRFWV9kWS1DNThPUy1JemcwaXFvMkVFOFFMTS10UkVuQlBjM1J5WV9ibmdOMVFtR0FPLThUaXZMTy0yeXozQ1YyZE5pZUZqSXV2ZDl6V2Q0M2xwc0pUUzd2UU02UDRhRGlaeDNkSng3WjJkREtvNHFCR01PcUhMdno4Z2htdDVkRjY?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.742Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 10:17",
+      "title": "Operator of hantavirus-hit ship is awaiting more information before deciding on vessel's cruises - AP News",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNblZROXhDSW5IOXRiUDRuc3dpdWNsRlpSOVBDOEtxcHBzUHNfcUQwYzh6VVRPVDc4MHoxTEk3ZXNHV3Jsb21CMmVDM3hkMUpMUlBzRXVtNFdHOG5CXzRVc1B3V3Z6dGxCelFOMmJOQ21jX2lXM0ZzYVlpZjM5SUY1WDdvM1hKR3RZMXZpTkJfNmpEdkJ2ZEVpa3BB?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.742Z"
+    },
+    {
+      "src": "News",
+      "time": "09 May 01:15",
+      "title": "What we know about the hantavirus outbreak - Johns Hopkins University",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yZXl4RGMxcGtQN0l1UWxDVHdDeU9ub2N5TnNSM0paNERSYXZvdUFyelZFMFJpZFRuOWRmc1RrT3Q0STM5WFp6WUs3U1k4Uzl6dlNxV2tzLXpfckloUkE5aGF6ZzZuanRGeng0bC1TVUlvZmVJeGJCUERn?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.742Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 15:12",
+      "title": "American passengers from hantavirus-hit cruise ship arrive back in the U.S. - NBC News",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNE5WMEJfMFpSR3NJZE5JUkUyOGtXZ25uWXBqVmhlcGs4ZWtMclVaN3dMWWlGbzdwUmt5TzZLcjRWY3h3bzRYcGlMc0RKak5zTlktNkFhTkV1QS1yNUdxUnRtaTJrM2Z4ZDRhTHdGajFDSzNFQ1c0ZE93cXk4MG4xVXVObW85MW1Sc2d4NU9jdnRRN1lTOVBfblFoaGkxNWJVRUtzMXZ5dUdsaFBmeWhIMnNneW5ZTk1xX0VF?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.742Z"
+    },
+    {
+      "src": "News",
+      "time": "11 May 12:01",
+      "title": "MV Hondius: Irish passengers returning home from virus-hit ship - BBC",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UZ1pnVXo2UmJXeFhuMzBZaV9HNHlDQWVma1EwenJBUUpSR3Vkd182czFkNXN3bm4yb3hmSmxZNElUemNUSEI4ZjNtalFEWTdndUNjMDlzUUN5UQ?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.742Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 11:24",
+      "title": "Hantavirus update: French passenger critically ill as WHO anticipates further MV Hondius-linked cases - itij.com",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcFpzWTNpRGt2ZENsMkswMEJuU0otZEVYMkNfUWxwQzVvelVudkt2Ty1lNzMxTTl3cENjUVRWRXdKWEZLbHpadWRycTNiUjdnNnlUT1hTOUFvOXpPU0ZJdlpodGNWc1JqUXBQMDRuYzZ4dnZlX1N5RWNPNTVlRTlnTTFLUXZvbU5lNGoyS1BuYmdXcDdMcmZybTZoMGs4aExvNGEyZTRscTlXNTE1RlNtNmpIUlgwTExH?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.742Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 10:46",
+      "title": "Opinion | The world was warned about hantavirus before - The Washington Post",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMHJJRUVKelNLY0pGQkRFZ3g2OXFfUUFCOUZzcGRfSDNpMEdKRll2V2lKSXkxR0lUVDlXZlY4d1gxeUNQMzZRQld0VlpHM2FDb2l4RWZrcGctUm5nV05zUlpMTmQ5MDlXcHhOZWd2NkQxemVGOEphUUpHU0tRV0VZWnFIOUhLQ040M3BXRFA3VlhkOUthTDNhdGg0cnVWUXNYeVlTQmFqbkg?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.742Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 14:40",
+      "title": "Hantavirus news: MV Hondius cruise ship passenger speaks out from quarantine unit in Nebraska - ABC30 Fresno",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUUd6b3dNVkR0ZG52cHMyRFp5T3FjOTcyLUNUd0hyWkNMbTg4X2NnUHJoNWQxU3ZZajlsWVUtRTY5M2FLX0tWX193VHJkNUhmQ0hic3l3LXBSYW1fbEs2Vnc2LWZoNnNhNXFUUEJZa1Q0NGFXdFl1OVJUbXpiZURKVTZodllwQ0FvS1FKYkJFVzlYYXZ1WXNsQmdwVmRpdVRha24taW4yTm5ZQ1NZQWczMjZCU1NaQmNO0gG4AUFVX3lxTE1RR3pvd01WRHRkbnZwczJEWnlPcWM5NzItQ1R3SHJaQ0xtODhfY2dQcmg1ZDFTdllqOWxZVS1FNjkzYUtfS1ZfX3dUcmQ1SGZDSGJzeXctcFJhbV9sSzZWdzYtZmg2c2E1cVRQQllrVDQ0YVd0WXU5UlRtemJlREpVNmh2WXBDQW9LUUpiQkVXOVhhdnVZc2xCZ3BWZGl1VGFrbi1pbjJObllDU1lBZzMyNkJTU1pCY04?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.742Z"
+    },
+    {
+      "src": "News",
+      "time": "09 May 12:25",
+      "title": "MV Hondius hantavirus outbreak: A luxury expedition cruise boom and new world of remote travel risks - CNBC",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQczNOaEcwd2h3bnM1QmR2RWtwS0lEQlNpNTVkVmt5V1FsTlMwaEQ1a1p4Y0RTSHJGbE9SN292MTNHTHBCSFY1LUpLODFpWWlFYWN4MnpfckdfREIzNjlFRl9DV18tZmw1SjZxelpQc2JWMUU3WHNfNGpiMjZlOUxuWm5wdDBjSTdGREN4c0RCbzMxYzVE0gGaAUFVX3lxTE1lcG9lZ0dXd091NlFKeGdYVkJSb1VUYW5DbzNwUHNDMEstdElwTkdTdXFIQ2RwRy1RSlRWRm5kNk56MUFUbUdjUjd4Rmk4dnhXajZaYnBsNGhER3hCUlI4NDVHdHBqUlIxQWxxRGVCRFFMa0s5bmo5YmlTSFNhbjlBREdxWTg0cGprWjF3QWtDbFZjeGVTUmJhdWc?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.742Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 07:59",
+      "title": "Finland designates Andes virus-related illness as ‘public health risk’ - Anadolu Ajansı",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYlV1QXB4SEVaRHMwMnFHejNLSGpqNXdwdTlKOUZJU2RPV0tZYlNhV3ZpUnJ5UDJZUlpvWkxNeThrdEVKNGVOS2pJNWxJTm1pYzZQM01DUDFndUtVYzUwaUtmcEtPd3lkUmpjcDgwSXZPa0lOWmwtVmRFTFRYVU9zRmpWemZ3WHo1WHZuaHBIazZlMVR3UVllYncwSkdSZy1QMC1EVnVqckk?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.742Z"
+    },
+    {
+      "src": "News",
+      "time": "10 May 15:13",
+      "title": "Bay Area resident exposed to hantavirus aboard MV Hondius cruise ship - SFGATE",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWjdJb1dVY194dUs3U2hxWWtHck1nV2dKSjVKejRvdGxJWm1IRXBDYnB4YU9kRXdqM3hBSWRscTdBQ3BXbnh6cjRQSVhQQzZ0SzVFa1E5amcwLTREUkF4WGFSaXp6dXhJR3hYTlpUbURlN2FwNVdxTlBpdjJ3YUU1eWcyYXhCMi1XRTF2dk1n?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.742Z"
+    },
+    {
+      "src": "News",
+      "time": "08 May 17:43",
+      "title": "Before Hantavirus Outbreak, This Cruise Attracted ‘a Different Type of Traveler’ - The New York Times",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CWnh1WDk1T3ZBbExFc2g1Xy1nWU51YlVTS3ZDb1NYUlZUVDVWNE9DUkdvN0VkVWdmZUp6MDZ0b0hRUlQ4Rlo4YkxYQUhzR3Y0Y2lHb193Zmp0WXFBM1B1S04zaHJJMzZiNjFvUzVJVzBUdWF2bk5nMjJnbDlrUVE?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.742Z"
+    },
+    {
+      "src": "News",
+      "time": "10 May 04:20",
+      "title": "MV Hondius: All passengers evacuated from cruise ship hit by deadly hantavirus - CNN",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUWlQaHNoaWNyYk5NYjBWRFQyQ3VjdGR5QjJCNnJhSnZOYldPS2pzQnVCa1d0ZzRmRVVYWE9GeGJiUjltNXlULUpKT3RLZ3ZVVEZTMFBUamdEX3lZNVZhUzlBbnRfaHBVQ0pmOWx4LUZMRGE2cGVHcmkxSHdINWZYTEFqeGpxTTg5M1VzRXpB?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.742Z"
+    },
+    {
+      "src": "News",
+      "time": "10 May 17:03",
+      "title": "Passengers evacuate MV Hondius cruise ship following hantavirus outbreak - PBS",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVBNLUlScGFKUW5aV3QxbGlsNEdlelFBX1ZrOWZEMF9GQlREeGp5UDVNNERDZkNxNTdSOVpfNUh4eDh1eFFfVS1QQ1ZadjQxNVEtQkNHVWtZeGlpMGw3TFRfcU9oZ0E0LXJDc1hrNXFYamVpZW04MGxJSExNaTBBXzhSd2wtd053TUswR2Y3TVEwYm9lUUgwUkZKZXkyQXIzLU4xRzd5WDVLRTg?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.741Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 08:36",
+      "title": "Hantavirus: How are countries responding to the cruise virus? - BBC",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BZVFHUG5DcXRqSUNEa3hxaW15N0RfVmhSM0ZUMGJjRWRnZkRodXhrOURNb2gtUHhUbWotOUVhR09OcTJ4ZjZQLUlZSndCM2t5ZTY0M0VHal94dw?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.741Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 08:54",
+      "title": "Possible Illinois hantavirus case not linked to outbreak on MV Hondius cruise ship - New York Post",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcE9XM1RUWDhBTUNqb2trN1lFQ1lBdG1peG9iZExLOUVlYTd3Q25KVWFnUHo4N3RadldySlVFV1l0RmU2MnRuV1FjTlFPVkNoa3hsU0pRalVPcTFkNklUakNpVnR1Tl9MbWRxcjdFb01BVnhJNVVMSXotbzlDZGdRZVdfSDhtcjhodGdXOTFDSDdPVEZJbFNMcGk0SDlBTXFNOVlRTTJFNnBNck52cmR2VWotVVdpVnZORGhhOG15Q1RoR1JhNDEwZEl6LUlEZw?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.741Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 05:58",
+      "title": "WHO confirms 11 hantavirus cases linked to MV Hondius cruise ship - VOV World",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYi1ieUp3bV95WmpTdnFiaTRKS2lyb3lUM2NqWjB6eV9XNkpGRkc3OGF3Wk5iaFA0WWRaMFpuRFI5bHhlOHE0bExmYldkb3c4bGU5N0h4cnpFU2RhOUxzN2J3eWFnYnpISlVSeWxKeTlUZnA4aTNEVWtMWFZENVp5Slp5VTBwdlNGcHd4dldMV1FhekI0YmFTWm02Rm02LWh2cWF3a0JR?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.741Z"
+    },
+    {
+      "src": "News",
+      "time": "11 May 09:23",
+      "title": "Evacuated US and French MV Hondius passengers test positive for hantavirus - The Guardian",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVkdZc2lRVkRBeHBQLVdvYkR5S3VvLXVLZ0NmNTlIb25IX01xOTV3WnFackFhenlnNGxaUzdDQ2hfdkxEVmthRTVaR1JKbi1BOWFQLVo4T3lrOERuTVBmc2FfYlZNSFdaZXE5dGpXdDQ4XzN4Qkc2TXFEMDlTQnNyR3ZCUGtkSjRBNnVmSl90eG1JQTZrN2RDMGUzSmlWZ0tFRTF4eWNaSzFJMHB1anN1Nkd4dHdVd0sxOVFtbFR1QThvLVlkTEtWM2QxQzU?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.741Z"
+    },
+    {
+      "src": "News",
+      "time": "11 May 18:14",
+      "title": "Utah health officials prepare for return of MV Hondius cruise passengers - KSL News",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa3EwRTVGQTU1YjMzYnM3Nk1vQ2NQNmkycmZzV1Q1Xy1Pb0w3aG1wSF9rSE13RHJtRzgwRnJ6anM3SkJCTzNlNFF2ZVd6MTlpbnZmcVFKR0g2WC1rOG9NY1pQaUd1SFczTlJrTzRkOVNlMWxITlozb1M4dnNpVHI2WEpvS2tMcHBVbXdTUjg3MWN5RGFYa0Q2T3duaU1acXY3dkFUMUZVWGJEVzVqOXc?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.741Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 00:43",
+      "title": "What Arizonans need to know about Andes Virus and Hantavirus concerns - KVOA",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUkFwT2pQS2x4VUh0VnNFa29OdTRMYWpPRXRTTV83VFBJSjJiQjc5MWVGeVVFTjBwV1JzclUtWmRQRzVZcExlU3A1UlVxY0d5VVYzNXJ4VTJqdkc2RUNkZWZEQVdHX3lOTE40VFBfOWpkcjJ0SU5FWWRzTVlBMWVIM3ZoTUpaNXRLYW04dGFBY3c1TllRb3pTQWk5YU5yZmJ2U2Q3WUpOUUlHWmJLekxhNmU0Tl9KWS1zTkxQUzMzdVBWTzJkUC1pSWZSMUV3QTZHaXBUZG1vTmRVTndiNUV2WGR4OGs?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.741Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 05:58",
+      "title": "Quarantined cruise passenger gives Nebraska room tour, denies hantavirus infection - AP News",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdVQ4cVNIR3ZHWUFCZ3NHd1hTa0h5cUxrNmF2QmRXTnFXRDVsUGhqWk42Y2FOY1IwVHI3cS1wX3o2czd6OGxjcXJLN1VWemJiblk4TDRJQXVJanNuU1BZemZvRjZRMThNdWpzMVNlMXlwRk13QnZOWGdvQTBfZ2IxNlRUam5yUHZoenhuaUxfLTlLYXY1bkdVN2lLNlZRUkpDY0R5SktLd1ZuX3A4ZVJacFlHN3VGaHp1bTU2MFFKQXdEby1scUJtbzJ4dUxxSzIwQVRCcW9B?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.241Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 11:15",
+      "title": "We’re asking the wrong question about the hantavirus outbreak - vox.com",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdnpTQThHQTFzTUdYNzBWYzdqWjN5dGJZTEZpWktnaUloSGhvWFFmODVqeW4yRkphVW8tY1JhSTZIb3owRkdteDFUV25LR0NOSGwxMjlQYzljQmJldTBucmJkNlNPcjJlekY2aHJpaTdpZUJVaXFsMTVWUDMzUEsydFFPMVdYZHE1aVBuZTc1ZE5fZUU?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.240Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 18:22",
+      "title": "KDHE confirms Hantavirus exposures in Kansas - KWCH",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJZzNQZkdudmFsLWEtZ2dRT01iaDJQamNFSVhPX2tCUTE0MkJ3VDFQU3dOdndCRU5uZ1RER2xRSW41c0d6c2FVeW9pMVpsZHJCdWxFcjQwRDhILVJuTThlcVUwYXVOaGV4NXhUWW1iLTV2NC1LNUtNQ1N2bGtqVUE?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.240Z"
+    },
+    {
+      "src": "News",
+      "time": "11 May 18:21",
+      "title": "Could Hantavirus Spread Like COVID-19? - UC San Diego Today",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBscnNQMXhYVVVpbHhsVVM3ZnFuTWJfV3lQa0c2Rzh3VmIzTFRtVEF5MmU5MlR0bjc2SjlET3pxcHpIWmJNUi1RdE4wSEpTRUxYY1Exa2FPcmlkRlBLeTJldzFyUWxzdHRSVTBfSnBCclhfekll?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.240Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 07:21",
+      "title": "Ex-CDC director: Hantavirus will be ‘dead end’ outbreak soon - NewsNation",
+      "tag": "u",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOVR2Y1N1S2pCTjV1bGdub0JBWVVVXzFFVnpnUFBYUHNheEJ4NnRXZG5DMG42TFY5VF9ibHBMSng0dWFRek45ZUdaaWxtUW1ZSXBua2dWTWNDakx1aHlCYlNpaVRWRUJSRFhWRDFpdFpIUnRoeXdkWTliSV82UkZiVkZpV3ZtclR6b1HSAY8BQVVfeXFMT0ZVZF9pcHNmLV9Mcm5xNm1wR3RsZ0RRU1AtQUZQRXNJVkNSVF9Sb0luRzlUdXFPQ1Z4MkM4MzFpY1pNUlVUS0E2R3RFdGdyblFIRG1adHQwNVR6MUh1N3JzWHkxUlh0SDdqQzNYM2dWbENOSXZSRkdpQV81bmt5ZDhzdXpibi1valJVdk15LVE?oc=5",
+      "live": true,
+      "added": "2026-05-13T11:35:13.240Z"
+    }
   ],
   "travel": [
-    {"name":"Argentina","flag":"🇦🇷","risk":"extreme","summary":"Endemic Andes virus region and source of the 2026 MV Hondius outbreak. 101 endemic ANDV cases since June 2025. Patagonia is the highest-risk zone globally.","rec":"Avoid all non-essential travel to Patagonia. If travelling: strict rodent avoidance, no camping in endemic areas, seek immediate care if fever + respiratory symptoms develop within 6 weeks."},
-    {"name":"Chile","flag":"🇨🇱","risk":"extreme","summary":"Co-endemic ANDV region. Index case spent extended time in Chile. Southern lake district carries identical risk to Argentine Patagonia.","rec":"Avoid rural and forested areas of southern Chile. Urban Santiago and northern Chile carry lower risk. Trekkers and campers in the south: extreme caution."},
-    {"name":"Netherlands","flag":"🇳🇱","risk":"high","summary":"3 confirmed cases (imported). Dutch nationals in 6-week self-quarantine. No local transmission identified.","rec":"General travel safe. Risk confined to MV Hondius passengers. No community spread."},
-    {"name":"Germany","flag":"🇩🇪","risk":"high","summary":"1 confirmed case (died at sea). Contacts traced and monitored. No ongoing local transmission.","rec":"General travel safe. No risk to general public."},
-    {"name":"France","flag":"🇫🇷","risk":"high","summary":"1 confirmed case in ICU. 5 French passengers hospitalised. 8 flight contacts under investigation.","rec":"General travel safe. Risk limited to MV Hondius passengers. No community transmission evidence."},
-    {"name":"United States","flag":"🇺🇸","risk":"high","summary":"1 confirmed case in biocontainment (Nebraska). 1 symptomatic at Emory. 16 in quarantine. Contacts traced across 8 states. CDC Level 3 response active.","rec":"General travel safe. ANDV risk limited to quarantined contacts. Sin Nombre virus (separate strain) endemic in US Southwest — avoid rodent contact in rural areas."},
-    {"name":"South Africa","flag":"🇿🇦","risk":"high","summary":"2 lab-confirmed cases at NICD Johannesburg. One patient deceased. British national clinically improving. 62 local contacts traced.","rec":"General travel safe. Cases are imported and isolated. No endemic HPS risk in South Africa."},
-    {"name":"Switzerland","flag":"🇨🇭","risk":"high","summary":"1 confirmed case, home quarantine. Viral genome sequenced and published.","rec":"General travel safe. Case is isolated. No ongoing transmission risk."},
-    {"name":"Spain","flag":"🇪🇸","risk":"moderate","summary":"1 suspected case under investigation. Spanish nationals quarantined in Madrid military hospital.","rec":"General travel safe. Canary Islands carry no local ANDV risk. Monitor Spanish health authority updates."},
-    {"name":"United Kingdom","flag":"🇬🇧","risk":"moderate","summary":"Monitoring status. 20+ passengers in 72-hr assessment. 2 British nationals confirmed positive abroad.","rec":"General travel safe. Rural UK has Puumala virus (bank voles) — very mild, different strain."},
-    {"name":"Canada","flag":"🇨🇦","risk":"moderate","summary":"4 Canadians under 21-day self-isolation. No confirmed cases.","rec":"General travel safe. Rural prairie areas carry standard Sin Nombre risk. Current ANDV risk limited to monitored evacuees."},
-    {"name":"Australia","flag":"🇦🇺","risk":"moderate","summary":"Passengers in quarantine. No confirmed cases.","rec":"General travel safe. Australia has no known endemic hantavirus."},
-    {"name":"Singapore","flag":"🇸🇬","risk":"moderate","summary":"2 residents at NCID, both PCR negative. Under 30-day quarantine.","rec":"General travel safe. No endemic hantavirus in Singapore."},
-    {"name":"New Zealand","flag":"🇳🇿","risk":"moderate","summary":"Passengers self-monitoring. No confirmed cases.","rec":"General travel safe. No endemic hantavirus in New Zealand."},
-    {"name":"Denmark","flag":"🇩🇰","risk":"moderate","summary":"IHR focal point notified. Nationals self-monitoring. Puumala virus endemic.","rec":"General travel safe. Rural/forested areas have vole-related PUUV risk — mild disease, different from ANDV."},
-    {"name":"Sweden","flag":"🇸🇪","risk":"moderate","summary":"Nationals on 42-day monitoring. Sweden has high Puumala virus rates — entirely separate from ANDV.","rec":"General travel safe. PUUV risk in northern forests: mild kidney disease, rarely fatal."},
-    {"name":"Italy","flag":"🇮🇹","risk":"moderate","summary":"4 contacts under 42-day active surveillance following KLM flight exposure at Rome Fiumicino. Contacts in Tuscany, Calabria, Campania, and Veneto. All asymptomatic.","rec":"General travel safe. No community transmission. Risk limited to identified KLM flight contacts already under surveillance by regional health units."},
-    {"name":"Japan","flag":"🇯🇵","risk":"low","summary":"1 Japanese national at UK hospital — asymptomatic, repatriated.","rec":"General travel safe. Seoul virus background risk is very low CFR."},
-    {"name":"Philippines","flag":"🇵🇭","risk":"low","summary":"38 Filipino crew under monitoring. None confirmed ill.","rec":"General travel safe. No endemic HPS in Philippines."},
-    {"name":"India","flag":"🇮🇳","risk":"low","summary":"Nationals returned via Dutch evacuation flight. Under self-monitoring.","rec":"General travel safe. No significant endemic hantavirus burden."},
-    {"name":"Belgium","flag":"🇧🇪","risk":"low","summary":"Nationals on Dutch evacuation flight. Puumala virus present.","rec":"General travel safe. PUUV in rural Belgium is separate from ANDV and rarely serious."},
-    {"name":"Greece","flag":"🇬🇷","risk":"low","summary":"Nationals on Dutch evacuation flight. Dobrava virus (DOBV) present.","rec":"General travel safe. DOBV in rural Greece is a low-level concern."},
-    {"name":"Portugal","flag":"🇵🇹","risk":"low","summary":"Nationals on Dutch evacuation flight. Home monitoring.","rec":"General travel safe. Risk limited to monitored evacuees."},
-    {"name":"Ukraine","flag":"🇺🇦","risk":"low","summary":"Nationals on Dutch evacuation flight. Dobrava/Puumala viruses present.","rec":"General travel safe with standard conflict-zone advisories."},
-    {"name":"Brazil","flag":"🇧🇷","risk":"low","summary":"No MV Hondius connection. Endemic HPS (Araraquara, Juquitiba strains) in SE states — ~40% CFR, separate from current outbreak.","rec":"Caution in rural São Paulo, Minas Gerais, Paraná. Urban travel is safe."},
-    {"name":"Bolivia","flag":"🇧🇴","risk":"low","summary":"Laguna Negra hantavirus endemic in Santa Cruz and lowland areas.","rec":"Avoid rural lowland areas. Highland cities are low risk."},
-    {"name":"Paraguay","flag":"🇵🇾","risk":"low","summary":"Laguna Negra virus endemic in Chaco and eastern regions.","rec":"Avoid rural areas. Urban Asunción is low risk."},
-    {"name":"Panama","flag":"🇵🇦","risk":"low","summary":"Choclo virus endemic in Azuero Peninsula — mild HPS, low CFR.","rec":"Standard precautions in rural Azuero. Panama City is low risk."},
-    {"name":"Norway","flag":"🇳🇴","risk":"minimal","summary":"No current connection. Puumala virus endemic — mild disease.","rec":"General travel safe. Rural/forest areas have vole-related PUUV risk."},
-    {"name":"Finland","flag":"🇫🇮","risk":"minimal","summary":"High Puumala virus rates — mild nephropathia epidemica, no current outbreak connection.","rec":"General travel safe. Forested rural areas have PUUV vole risk."},
-    {"name":"Russia","flag":"🇷🇺","risk":"minimal","summary":"Hantaan and Puumala endemic in Siberia and Ural regions. No current connection.","rec":"Standard precautions in rural Siberian farming areas."},
-    {"name":"China","flag":"🇨🇳","risk":"minimal","summary":"World's highest HFRS burden (Hantaan/Seoul viruses) — kidney-focused disease, no current outbreak connection.","rec":"Caution in rural farming regions. Cities and tourist sites are generally safe."},
-    {"name":"Mexico","flag":"🇲🇽","risk":"minimal","summary":"Sin Nombre variants present in northern border states. No current outbreak connection.","rec":"General travel safe. Standard rodent-avoidance in northern states."},
-    {"name":"Peru","flag":"🇵🇪","risk":"minimal","summary":"Limited surveillance. Some Andes-adjacent strains possible in southern regions.","rec":"General travel safe. Machu Picchu and highlands are low risk."},
-    {"name":"South Korea","flag":"🇰🇷","risk":"minimal","summary":"Hantaan virus historically endemic near DMZ. No current connection.","rec":"General travel safe. Seoul and tourist areas are low risk."}
+    {
+      "name": "Argentina",
+      "flag": "🇦🇷",
+      "risk": "extreme",
+      "summary": "Endemic Andes virus region and source of the 2026 MV Hondius outbreak. 101 endemic ANDV cases since June 2025. Patagonia is the highest-risk zone globally.",
+      "rec": "Avoid all non-essential travel to Patagonia. If travelling: strict rodent avoidance, no camping in endemic areas, seek immediate care if fever + respiratory symptoms develop within 6 weeks."
+    },
+    {
+      "name": "Chile",
+      "flag": "🇨🇱",
+      "risk": "extreme",
+      "summary": "Co-endemic ANDV region. Index case spent extended time in Chile. Southern lake district carries identical risk to Argentine Patagonia.",
+      "rec": "Avoid rural and forested areas of southern Chile. Urban Santiago and northern Chile carry lower risk. Trekkers and campers in the south: extreme caution."
+    },
+    {
+      "name": "Netherlands",
+      "flag": "🇳🇱",
+      "risk": "high",
+      "summary": "3 confirmed cases (imported). Dutch nationals in 6-week self-quarantine. No local transmission identified.",
+      "rec": "General travel safe. Risk confined to MV Hondius passengers. No community spread."
+    },
+    {
+      "name": "Germany",
+      "flag": "🇩🇪",
+      "risk": "high",
+      "summary": "1 confirmed case (died at sea). Contacts traced and monitored. No ongoing local transmission.",
+      "rec": "General travel safe. No risk to general public."
+    },
+    {
+      "name": "France",
+      "flag": "🇫🇷",
+      "risk": "high",
+      "summary": "1 confirmed case in ICU. 5 French passengers hospitalised. 8 flight contacts under investigation.",
+      "rec": "General travel safe. Risk limited to MV Hondius passengers. No community transmission evidence."
+    },
+    {
+      "name": "United States",
+      "flag": "🇺🇸",
+      "risk": "high",
+      "summary": "1 confirmed case in biocontainment (Nebraska). 1 symptomatic at Emory. 16 in quarantine. Contacts traced across 8 states. CDC Level 3 response active.",
+      "rec": "General travel safe. ANDV risk limited to quarantined contacts. Sin Nombre virus (separate strain) endemic in US Southwest — avoid rodent contact in rural areas."
+    },
+    {
+      "name": "South Africa",
+      "flag": "🇿🇦",
+      "risk": "high",
+      "summary": "2 lab-confirmed cases at NICD Johannesburg. One patient deceased. British national clinically improving. 62 local contacts traced.",
+      "rec": "General travel safe. Cases are imported and isolated. No endemic HPS risk in South Africa."
+    },
+    {
+      "name": "Switzerland",
+      "flag": "🇨🇭",
+      "risk": "high",
+      "summary": "1 confirmed case, home quarantine. Viral genome sequenced and published.",
+      "rec": "General travel safe. Case is isolated. No ongoing transmission risk."
+    },
+    {
+      "name": "Spain",
+      "flag": "🇪🇸",
+      "risk": "moderate",
+      "summary": "1 suspected case under investigation. Spanish nationals quarantined in Madrid military hospital.",
+      "rec": "General travel safe. Canary Islands carry no local ANDV risk. Monitor Spanish health authority updates."
+    },
+    {
+      "name": "United Kingdom",
+      "flag": "🇬🇧",
+      "risk": "moderate",
+      "summary": "Monitoring status. 20+ passengers in 72-hr assessment. 2 British nationals confirmed positive abroad.",
+      "rec": "General travel safe. Rural UK has Puumala virus (bank voles) — very mild, different strain."
+    },
+    {
+      "name": "Canada",
+      "flag": "🇨🇦",
+      "risk": "moderate",
+      "summary": "4 Canadians under 21-day self-isolation. No confirmed cases.",
+      "rec": "General travel safe. Rural prairie areas carry standard Sin Nombre risk. Current ANDV risk limited to monitored evacuees."
+    },
+    {
+      "name": "Australia",
+      "flag": "🇦🇺",
+      "risk": "moderate",
+      "summary": "Passengers in quarantine. No confirmed cases.",
+      "rec": "General travel safe. Australia has no known endemic hantavirus."
+    },
+    {
+      "name": "Singapore",
+      "flag": "🇸🇬",
+      "risk": "moderate",
+      "summary": "2 residents at NCID, both PCR negative. Under 30-day quarantine.",
+      "rec": "General travel safe. No endemic hantavirus in Singapore."
+    },
+    {
+      "name": "New Zealand",
+      "flag": "🇳🇿",
+      "risk": "moderate",
+      "summary": "Passengers self-monitoring. No confirmed cases.",
+      "rec": "General travel safe. No endemic hantavirus in New Zealand."
+    },
+    {
+      "name": "Denmark",
+      "flag": "🇩🇰",
+      "risk": "moderate",
+      "summary": "IHR focal point notified. Nationals self-monitoring. Puumala virus endemic.",
+      "rec": "General travel safe. Rural/forested areas have vole-related PUUV risk — mild disease, different from ANDV."
+    },
+    {
+      "name": "Sweden",
+      "flag": "🇸🇪",
+      "risk": "moderate",
+      "summary": "Nationals on 42-day monitoring. Sweden has high Puumala virus rates — entirely separate from ANDV.",
+      "rec": "General travel safe. PUUV risk in northern forests: mild kidney disease, rarely fatal."
+    },
+    {
+      "name": "Italy",
+      "flag": "🇮🇹",
+      "risk": "moderate",
+      "summary": "4 contacts under 42-day active surveillance following KLM flight exposure at Rome Fiumicino. Contacts in Tuscany, Calabria, Campania, and Veneto. All asymptomatic.",
+      "rec": "General travel safe. No community transmission. Risk limited to identified KLM flight contacts already under surveillance by regional health units."
+    },
+    {
+      "name": "Japan",
+      "flag": "🇯🇵",
+      "risk": "low",
+      "summary": "1 Japanese national at UK hospital — asymptomatic, repatriated.",
+      "rec": "General travel safe. Seoul virus background risk is very low CFR."
+    },
+    {
+      "name": "Philippines",
+      "flag": "🇵🇭",
+      "risk": "low",
+      "summary": "38 Filipino crew under monitoring. None confirmed ill.",
+      "rec": "General travel safe. No endemic HPS in Philippines."
+    },
+    {
+      "name": "India",
+      "flag": "🇮🇳",
+      "risk": "low",
+      "summary": "Nationals returned via Dutch evacuation flight. Under self-monitoring.",
+      "rec": "General travel safe. No significant endemic hantavirus burden."
+    },
+    {
+      "name": "Belgium",
+      "flag": "🇧🇪",
+      "risk": "low",
+      "summary": "Nationals on Dutch evacuation flight. Puumala virus present.",
+      "rec": "General travel safe. PUUV in rural Belgium is separate from ANDV and rarely serious."
+    },
+    {
+      "name": "Greece",
+      "flag": "🇬🇷",
+      "risk": "low",
+      "summary": "Nationals on Dutch evacuation flight. Dobrava virus (DOBV) present.",
+      "rec": "General travel safe. DOBV in rural Greece is a low-level concern."
+    },
+    {
+      "name": "Portugal",
+      "flag": "🇵🇹",
+      "risk": "low",
+      "summary": "Nationals on Dutch evacuation flight. Home monitoring.",
+      "rec": "General travel safe. Risk limited to monitored evacuees."
+    },
+    {
+      "name": "Ukraine",
+      "flag": "🇺🇦",
+      "risk": "low",
+      "summary": "Nationals on Dutch evacuation flight. Dobrava/Puumala viruses present.",
+      "rec": "General travel safe with standard conflict-zone advisories."
+    },
+    {
+      "name": "Brazil",
+      "flag": "🇧🇷",
+      "risk": "low",
+      "summary": "No MV Hondius connection. Endemic HPS (Araraquara, Juquitiba strains) in SE states — ~40% CFR, separate from current outbreak.",
+      "rec": "Caution in rural São Paulo, Minas Gerais, Paraná. Urban travel is safe."
+    },
+    {
+      "name": "Bolivia",
+      "flag": "🇧🇴",
+      "risk": "low",
+      "summary": "Laguna Negra hantavirus endemic in Santa Cruz and lowland areas.",
+      "rec": "Avoid rural lowland areas. Highland cities are low risk."
+    },
+    {
+      "name": "Paraguay",
+      "flag": "🇵🇾",
+      "risk": "low",
+      "summary": "Laguna Negra virus endemic in Chaco and eastern regions.",
+      "rec": "Avoid rural areas. Urban Asunción is low risk."
+    },
+    {
+      "name": "Panama",
+      "flag": "🇵🇦",
+      "risk": "low",
+      "summary": "Choclo virus endemic in Azuero Peninsula — mild HPS, low CFR.",
+      "rec": "Standard precautions in rural Azuero. Panama City is low risk."
+    },
+    {
+      "name": "Norway",
+      "flag": "🇳🇴",
+      "risk": "minimal",
+      "summary": "No current connection. Puumala virus endemic — mild disease.",
+      "rec": "General travel safe. Rural/forest areas have vole-related PUUV risk."
+    },
+    {
+      "name": "Finland",
+      "flag": "🇫🇮",
+      "risk": "minimal",
+      "summary": "High Puumala virus rates — mild nephropathia epidemica, no current outbreak connection.",
+      "rec": "General travel safe. Forested rural areas have PUUV vole risk."
+    },
+    {
+      "name": "Russia",
+      "flag": "🇷🇺",
+      "risk": "minimal",
+      "summary": "Hantaan and Puumala endemic in Siberia and Ural regions. No current connection.",
+      "rec": "Standard precautions in rural Siberian farming areas."
+    },
+    {
+      "name": "China",
+      "flag": "🇨🇳",
+      "risk": "minimal",
+      "summary": "World's highest HFRS burden (Hantaan/Seoul viruses) — kidney-focused disease, no current outbreak connection.",
+      "rec": "Caution in rural farming regions. Cities and tourist sites are generally safe."
+    },
+    {
+      "name": "Mexico",
+      "flag": "🇲🇽",
+      "risk": "minimal",
+      "summary": "Sin Nombre variants present in northern border states. No current outbreak connection.",
+      "rec": "General travel safe. Standard rodent-avoidance in northern states."
+    },
+    {
+      "name": "Peru",
+      "flag": "🇵🇪",
+      "risk": "minimal",
+      "summary": "Limited surveillance. Some Andes-adjacent strains possible in southern regions.",
+      "rec": "General travel safe. Machu Picchu and highlands are low risk."
+    },
+    {
+      "name": "South Korea",
+      "flag": "🇰🇷",
+      "risk": "minimal",
+      "summary": "Hantaan virus historically endemic near DMZ. No current connection.",
+      "rec": "General travel safe. Seoul and tourist areas are low risk."
+    }
   ]
 }

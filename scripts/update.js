@@ -22,11 +22,12 @@ const DATA_PATH = path.join(ROOT, 'data.json');
 const CHANGELOG_PATH = path.join(ROOT, 'changelog.txt');
 
 const FEEDS = [
-  { src: 'WHO',  tag: 'w', url: 'https://www.who.int/rss-feeds/news-releases.xml' },
-  { src: 'WHO DON', tag: 'w', url: 'https://www.who.int/feeds/entity/csr/don/en/rss.xml' },
-  { src: 'CDC HAN', tag: 'c', url: 'https://emergency.cdc.gov/han/han.rss' },
-  { src: 'ECDC', tag: 'u', url: 'https://www.ecdc.europa.eu/en/rss/news' },
-  { src: 'ProMED', tag: 'u', url: 'https://promedmail.org/feed/' },
+  // Google News keyword searches — aggregates WHO, CDC, ECDC, Reuters, AP, etc.
+  { src: 'News', tag: 'u', url: 'https://news.google.com/rss/search?q=hantavirus&hl=en-US&gl=US&ceid=US:en' },
+  { src: 'News', tag: 'u', url: 'https://news.google.com/rss/search?q=%22andes+virus%22+OR+hondius&hl=en-US&gl=US&ceid=US:en' },
+  // Official sources via Google News (for WHO/CDC tag classification)
+  { src: 'WHO', tag: 'w', url: 'https://news.google.com/rss/search?q=hantavirus+site%3Awho.int&hl=en-US&gl=US&ceid=US:en' },
+  { src: 'CDC', tag: 'c', url: 'https://news.google.com/rss/search?q=hantavirus+site%3Acdc.gov&hl=en-US&gl=US&ceid=US:en' },
 ];
 
 const KEYWORDS = /\b(hantavirus|hanta\s+virus|andes\s*virus|andv|hps|hantaan|sin\s*nombre|puumala|seoul\s*virus|dobrava|laguna\s*negra|hondius)\b/i;

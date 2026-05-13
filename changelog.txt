@@ -7,3 +7,198 @@ the bot are listed under the timestamp.
   baseline data.json committed from manual research
   sources: WHO DON600, CDC HAN, ECDC, RIVM, UKHSA, Italian MoH, Reuters,
   CNN, AP, ABC News, Today.com, Wanted in Rome
+
+[2026-05-13T11:35:14.864Z] +193 item(s):
+  + News | All passengers evacuated from hantavirus-hit cruise ship - CNN
+  + News | French hantavirus patient is critically ill as outbreak grows to 11 - 
+  + News | Hantavirus response raises readiness concerns - Axios
+  + News | Minnesota health officials monitoring possible hantavirus exposure, an
+  + News | Hantavirus protocol breach at Dutch hospital as medics race to curb sp
+  + News | How a Hantavirus Cruise Passenger Is Spending His Quarantine in Nebras
+  + News | Hantavirus is not Covid-19, but ‘calm-mongering’ risks triggering post
+  + News | Woman Diagnosed With Hantavirus After Being on Cruise Ship Now on an A
+  + News | Man shares footage from inside hantavirus quarantine - BBC
+  + News | Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus 
+  + News | Twenty-two people set to leave hospital after hantavirus isolation - B
+  + News | Hantavirus Cruise Ship Outbreak: What We Know So Far - the-scientist.c
+  + News | Five things to know about hantavirus from a Stanford Medicine expert -
+  + News | Explainer: Could cruise ship passengers sue over the hantavirus outbre
+  + News | What to know about hantavirus, the illness linked to a cruise ship out
+  + News | Should You Worry About Hantavirus? - The New York Times
+  + News | Are hantavirus cases spreading? French woman in critcial condition - E
+  + News | 2 new hantavirus exposures linked to SFO traveler, San Mateo County re
+  + News | Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP
+  + News | Hantavirus will test if the world learned anything from Covid - vox.co
+  + News | French hantavirus patient is critically ill and on an artificial lung 
+  + News | Hantavirus treatments are coming but not fast enough for this outbreak
+  + News | Health officials are monitoring Minnesotan potentially exposed to hant
+  + News | Italy says four people quarantined for hantavirus have all tested nega
+  + News | Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Shi
+  + News | 18 Americans quarantining after hantavirus outbreak: What we know - Ne
+  + News | Hantavirus cases rise to 11 as cruise ship passengers quarantine - NBC
+  + News | No sign of larger hantavirus outbreak, says UN health agency - BBC
+  + News | Could the Hantavirus Cruise Ship Outbreak Lead to a Pandemic? Experts 
+  + News | Is hantavirus in Illinois in 2026? IDPH investigating potential case i
+  + News | He was on the trip of a lifetime. Now he’s in a biocontainment unit in
+  + News | The Hantavirus Outbreak Is Resurrecting Covid-Era Misinformation Tacti
+  + News | Is the Hantavirus in the US? Map Shows States Where Passengers Have Re
+  + News | What the (rather brief) history of hantavirus reveals about its spread
+  + News | 'By all means, go travel': Public health agencies say hantavirus sprea
+  + News | What we know about hantavirus cases tied to deadly cruise ship outbrea
+  + News | France places hantavirus contacts under quarantine in Paris after repa
+  + News | Bend doctor in isolation after possible hantavirus exposure on cruise 
+  + News | MDH monitoring Minnesotan possibly exposed to hantavirus overseas - 5 
+  + News | Ten more people to be flown to UK for hantavirus monitoring after crui
+  + News | Minnesota monitoring possible hantavirus exposure linked to cruise out
+  + News | Kansas health officials monitoring 3 people with 'high-risk exposure' 
+  + News | Where should hantavirus cruise ship passengers quarantine? Experts are
+  + News | Three people from King County potentially exposed to hantavirus - KIRO
+  + News | Hantavirus takes a long time to show symptoms. Experts say more cases 
+  + News | Hantavirus outbreak tests Trump officials who criticized covid respons
+  + News | Hantavirus in Minnesota: Officials monitor person who might have been 
+  + News | 3 King County residents possibly exposed to hantavirus linked to infec
+  + News | Mapping the hantavirus outbreak as cruise ship passengers return to US
+  + News | How easily does the Andes hantavirus spread? What to know after cruise
+  + News | Is there anything to fear from Hantavirus? - University of Cincinnati
+  + News | No reason to worry about hantavirus in Wisconsin, health officials say
+  + News | Oregon doctor in isolation after positive hantavirus test - KPTV
+  + News | What is hantavirus, and why will cruise passengers spend so long in qu
+  + News | Hantavirus live updates: Patient in France presenting 'severe form' of
+  + News | Americans from hantavirus-hit cruise ship arrive in U.S., including 1 
+  + News | The hantavirus outbreak has been well-handled – but there are still da
+  + News | How did an Illinois resident potentially contract hantavirus? What we'
+  + News | Should Rhode Islanders worry about hantavirus? Experts say no. - The P
+  + News | Minnesotan monitored for hantavirus risk - kare11.com
+  + News | Cruise passenger shows life inside Nebraska quarantine after hantaviru
+  + News | It’s hantavirus season in Colorado. Here’s why that’s not as scary as 
+  + News | Minnesotan being monitored after hantavirus exposure - Star Tribune
+  + News | A Scientist’s Close Call with Hantavirus Aboard the M.V. Hondius Cruis
+  + News | CDC says one Oregon resident possibly exposed to hantavirus - KPTV
+  + News | How worried should we be about hantavirus? - BBC
+  + News | Can hantavirus spread person to person? What experts say after cruise 
+  + News | 3 King County residents potentially exposed to hantavirus linked to cr
+  + News | Doctor who tested positive for hantavirus speaks out from biocontainme
+  + News | Minnesota health department monitoring 1 who may have been exposed to 
+  + News | I’m a Doctor Who Treated Hantavirus in the 2012 Outbreak. 5 Things Peo
+  + News | Minnesotan being monitored for potential exposure to hantavirus - kare
+  + News | Kansas monitoring 3 people with possible hantavirus exposure - KCTV
+  + News | Why the hantavirus outbreak is different from COVID-19 - Al Jazeera
+  + News | Cruise ship passenger making best of quarantine in US after hantavirus
+  + News | How passengers from hantavirus-hit cruise ship are quarantining in U.S
+  + News | EMA actively monitoring cruise ship Hantavirus outbreak - European Med
+  + News | Spain reports new hantavirus case in passenger evacuated from cruise s
+  + News | US passengers of hantavirus cruise ship being monitored in Nebraska - 
+  + News | Hantavirus outbreak origin still a mystery, medical experts address th
+  + News | Can this cruise ship ever be safe again? Inside the hantavirus cleanup
+  + News | Map shows which states are monitoring for hantavirus cases in the US -
+  + News | Bend oncologist isolated in Nebraska after hantavirus exposure - Centr
+  + News | More hantavirus cases emerge as passengers debark cruise ship - CIDRAP
+  + News | We’re asking the wrong question about the hantavirus outbreak - vox.co
+  + News | KDHE confirms Hantavirus exposures in Kansas - KWCH
+  + News | Could Hantavirus Spread Like COVID-19? - UC San Diego Today
+  + News | Ex-CDC director: Hantavirus will be ‘dead end’ outbreak soon - NewsNat
+  + News | 3 King County residents possibly exposed to hantavirus linked to cruis
+  + News | Efforts to control hantavirus outbreak reach global scale while cases 
+  + News | DHS: Hantavirus risk in Wisconsin is low - WBAY
+  + News | These are the 7 U.S. states monitoring for hantavirus cases linked to 
+  + News | US Flies Back American Passengers from Cruise Ship Affected by Hantavi
+  + News | Hantavirus: What Madison experts want you to know - The Capital Times
+  + News | Medical epidemiologist explains what to know about the cruise ship han
+  + News | American cruise ship passenger tests positive for hantavirus after eva
+  + News | 2026 Multi-country Hantavirus Cluster Linked to Cruise Ship - Centers 
+  + News | Quarantined cruise passenger gives Nebraska room tour, denies hantavir
+  + News | Passengers evacuate MV Hondius cruise ship following hantavirus outbre
+  + News | Hantavirus: How are countries responding to the cruise virus? - BBC
+  + News | Possible Illinois hantavirus case not linked to outbreak on MV Hondius
+  + News | WHO confirms 11 hantavirus cases linked to MV Hondius cruise ship - VO
+  + News | Evacuated US and French MV Hondius passengers test positive for hantav
+  + News | Utah health officials prepare for return of MV Hondius cruise passenge
+  + News | What Arizonans need to know about Andes Virus and Hantavirus concerns 
+  + News | 3 King County residents being monitored for hantavirus - KUOW
+  + News | Operator of hantavirus-hit ship is awaiting more information before de
+  + News | What we know about the hantavirus outbreak - Johns Hopkins University
+  + News | American passengers from hantavirus-hit cruise ship arrive back in the
+  + News | MV Hondius: Irish passengers returning home from virus-hit ship - BBC
+  + News | Hantavirus update: French passenger critically ill as WHO anticipates 
+  + News | Opinion | The world was warned about hantavirus before - The Washingto
+  + News | Hantavirus news: MV Hondius cruise ship passenger speaks out from quar
+  + News | MV Hondius hantavirus outbreak: A luxury expedition cruise boom and ne
+  + News | Finland designates Andes virus-related illness as ‘public health risk’
+  + News | Bay Area resident exposed to hantavirus aboard MV Hondius cruise ship 
+  + News | Before Hantavirus Outbreak, This Cruise Attracted ‘a Different Type of
+  + News | MV Hondius: All passengers evacuated from cruise ship hit by deadly ha
+  + News | Americans on both coasts who weren’t on MV Hondius being monitored for
+  + News | When can the MV Hondius sail again? | Morning in America - Yahoo
+  + News | Deadly Andes Virus Exposure Prompts Monitoring of California Cruise Pa
+  + News | Arizona monitors 2 residents after Andes virus cruise ship exposure - 
+  + News | Where did the hantavirus outbreak start, and where has it spread? - Al
+  + News | Illinois case of hantavirus holds no link to MV Hondius cruise ship ou
+  + News | Andes virus: What nurses need to know - National Nurses United
+  + News | Tragedy at sea: MV Hondius captain praises unity amid hantavirus outbr
+  + News | Hantavirus-hit ship sets sail for Netherlands as final passengers evac
+  + News | Hantavirus is very different to COVID. Here’s why the ‘Andes virus’ wo
+  + News | Infected, at sea: how the deadly hantavirus turned a dream cruise into
+  + News | Hantavirus outbreak on cruise ship raises transmission concerns - Univ
+  + News | Hantavirus-ridden MV Hondius cruise ship anchors in Canary Islands aft
+  + News | Bay Area resident exposed to hantavirus on MV Hondius cruise showing n
+  + News | State officials, Kinston residents speak on hantavirus outbreak - WITN
+  + News | Cruise ship stricken with hantavirus heads for Tenerife - Al Jazeera
+  + News | Why hantavirus outbreak has health officials on edge - Times Herald-Re
+  + News | British paratroopers drop onto remote island after suspected hantaviru
+  + News | KDHE confirms Andes hantavirus exposure in Kansas - Spectrum News
+  + News | U.S. cruise passengers arrive in the U.S. after one tests positive for
+  + News | US vs Europe: huge differences in protocol for passengers of hantaviru
+  + News | 11 Hantavirus cases linked to MV Hondius cruise ship, experts warn num
+  + News | Live position of the hantavirus ship en route to the Canary Islands - 
+  + News | US says 18 passengers flown back after hantavirus outbreak on ship - R
+  + News | First U.S. case confirmed in MV Hondius hantavirus outbreak - MSN
+  + News | Hantavirus On The MV Hondius: A Traveler's Guide To The Outbreak - Tra
+  + News | What to know about the hantavirus after deaths amid cruise ship outbre
+  + News | Best photos of May 12: a passenger leaving MV Hondius to the Epstein f
+  + News | American Hondius Passengers to Head to Nebraska Quarantine Center - WS
+  + News | Photos: Plane with U.S. carrying passengers of the cruise ship MV Hond
+  + News | Initial genetic analysis of the ‘MV Hondius’ hantavirus outbreak confi
+  + News | What we know about the MV Hondius hantavirus outbreak (Video) - Social
+  + News | As the MV Hondius heads to Tenerife, Melissa Bell breaks down what hap
+  + News | How was hantavirus transmitted? A visual explanation of the ‘MV Hondiu
+  + News | Hantavirus cruise ship captain delivers message to guests, crew - News
+  + News | ‘A little boring after two weeks’: what awaits MV Hondius passengers q
+  + News | Californians were aboard hantavirus-stricken cruise ship. Is there a r
+  + News | US Monitors For Hantavirus As WHO Expects More Cases But 'Not Another 
+  + News | Spain reports new hantavirus case in passenger evacuated from MV Hondi
+  + News | Hantavirus: Spanish government pulls off political win with MV Hondius
+  + News | Cruise Ship Outbreak Raises Andes Virus Spread Concerns - Medscape
+  + News | What happens now to the ‘Hondius’ passengers? From Spain’s strict hosp
+  + News | 5 U.S. states monitoring passengers who departed cruise ship stricken 
+  + News | WHO’s response to hantavirus cases linked to a cruise ship - World Hea
+  + News | What is the Andes virus? The hantavirus linked to a cruise ship outbre
+  + News | French national shows symptoms on return from hantavirus-hit ship - BB
+  + News | Officer suffers fatal heart attack while helping passengers disembark 
+  + News | Anger and resignation in Tenerife as hantavirus ship approaches - BBC
+  + News | Andes virus linked to cruise ship deaths raises concern over human-to-
+  + News | Bay Area health officials confirm resident exposed to hantavirus on MV
+  + News | Utah prepares for MV Hondius passengers' return, say public hantavirus
+  + News | What Countries Are Linked to the Hantavirus Outbreak? - Time Magazine
+  + News | MV Hondius passengers monitored at National Quarantine Unit after hant
+  + News | Virginia traveler on MV Hondius not showing signs of hantavirus; VDH s
+  + News | Best photos of May 12: passenger leaving MV Hondius to the Epstein fil
+  + News | Argentina on the Andes virus on the MV Hondius - Outbreak News Today
+  + News | Hantavirus on the rise in Argentina, where MV Hondius cruise ship set 
+  + News | Utah resident is aboard MV Hondius amid hantavirus outbreak, DHHS conf
+  + News | France confirms 1st hantavirus case linked to MV Hondius outbreak - An
+  + WHO | Hantavirus cluster linked to cruise ship travel, Multi-country - World
+  + WHO | WHO Director-General's opening remarks at the media briefing on hantav
+  + WHO | Message by the WHO Director-General to the people of Tenerife regardin
+  + WHO | Hantavirus - World Health Organization (WHO)
+  + CDC | CDC Provides Update on Hantavirus Outbreak Linked to M/V Hondius Cruis
+  + CDC | Hantavirus Outbreak Toolkit - Centers for Disease Control and Preventi
+  + CDC | About Andes Virus | Hantavirus - Centers for Disease Control and Preve
+  + CDC | Statement on the M/V Hondius Cruise Ship - Centers for Disease Control
+  + CDC | Andes Virus Outbreak on a Cruise Ship: Frequently Asked Questions - Ce
+  + CDC | Clinician Brief: Hantavirus Pulmonary Syndrome (HPS) - Centers for Dis
+  + CDC | Reported Cases of Hantavirus Disease - Centers for Disease Control and
+  + CDC | Hantavirus Case Definition and Reporting - Centers for Disease Control
+  + CDC | Clinical Overview of Hantavirus - Centers for Disease Control and Prev
+  + CDC | Hantavirus Infection, Non-Hantavirus Pulmonary Syndrome: 2015 Case Def
+  + CDC | Genomic Analysis of Sin Nombre Virus Sequences, Northwestern United St
+  + CDC | Hantavirus Spotlight - Centers for Disease Control and Prevention | CD
