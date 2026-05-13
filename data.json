@@ -13,9 +13,9 @@
     "dobrava"
   ],
   "stats": {
-    "confirmed_cases": 9,
+    "confirmed_cases": 11,
     "deaths": 3,
-    "countries": 23,
+    "countries": 26,
     "contacts_traced": 145
   },
   "transmission_chain": [
@@ -253,13 +253,13 @@
     {
       "name": "Spain",
       "flag": "🇪🇸",
-      "status": "suspected",
+      "status": "confirmed",
       "cases": 1,
       "deaths": 0,
       "city": "Madrid (Hospital Militar)",
       "lat": 40.42,
       "lon": -3.7,
-      "note": "Spanish nationals first to disembark in Tenerife. Flown to Madrid military hospital. At least 1 suspected case under investigation.",
+      "note": "1 confirmed positive as of 11 May. 13 others tested negative. Spanish nationals among first to disembark in Tenerife, flown to Madrid military hospital.",
       "iso": "724",
       "sources": [
         {
@@ -275,13 +275,13 @@
     {
       "name": "United Kingdom",
       "flag": "🇬🇧",
-      "status": "monitoring",
-      "cases": 0,
+      "status": "confirmed",
+      "cases": 2,
       "deaths": 0,
       "city": "Arrowe Park Hospital, Wirral",
       "lat": 53.37,
       "lon": -3.1,
-      "note": "20 British nationals at Arrowe Park for 72-hr assessment (11 May). 45-day home isolation follows. 2 British nationals confirmed positive abroad.",
+      "note": "2 confirmed cases (one evacuated to Netherlands, one to South Africa). 20 British nationals at Arrowe Park for 72-hr assessment (11 May), 45-day home isolation follows.",
       "iso": "826",
       "sources": [
         {
@@ -309,6 +309,46 @@
         {
           "l": "PHAC Canada",
           "u": "https://www.canada.ca/en/public-health.html"
+        }
+      ]
+    },
+    {
+      "name": "Turkey",
+      "flag": "🇹🇷",
+      "status": "monitoring",
+      "cases": 0,
+      "deaths": 0,
+      "city": "Ankara / Istanbul",
+      "lat": 39.92,
+      "lon": 32.85,
+      "note": "3 Turkish nationals repatriated 10 May. One passenger who disembarked at Saint Helena attended public events before quarantine was imposed, drawing international attention.",
+      "iso": "792",
+      "sources": [
+        {
+          "l": "Turkish MoH",
+          "u": "https://www.saglik.gov.tr/"
+        },
+        {
+          "l": "WHO DON600",
+          "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON600"
+        }
+      ]
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "flag": "🇰🇳",
+      "status": "monitoring",
+      "cases": 0,
+      "deaths": 0,
+      "city": "Basseterre",
+      "lat": 17.3,
+      "lon": -62.72,
+      "note": "Listed by WHO among 12 countries with monitored contacts from MV Hondius passengers.",
+      "iso": "659",
+      "sources": [
+        {
+          "l": "WHO DON600",
+          "u": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON600"
         }
       ]
     },
