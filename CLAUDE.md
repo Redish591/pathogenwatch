@@ -57,12 +57,15 @@ All live data is in `data.json` (fetched on load via `fetch('./data.json')`). Th
 ### Contact trace layer
 
 `buildTraceLayer()` creates a `traceLayerGroup` (Leaflet LayerGroup) with:
-- Ship origin marker at Tenerife with CSS pulse animation
-- Hollow waypoint marker at Rome Fiumicino
-- One animated arc per contacts entry (quadratic Bézier via `arcPoints(from, to)`)
-- One `L.circleMarker` per node, radius scaled by `count`
+- Ship origin marker at Tenerife with CSS pulse animation + "MV HONDIUS" label
+- Rome Fiumicino hub marker (`.wp-hub` — larger violet circle with transit SVG + "FCO" label), auto-added if any contact's track contains a point within 0.15° of `ROME_FCO`
+- Arc segments per contact: first segment uses `ct-arc-line` (amber, "evacuation arc"), subsequent segments use `ct-arc-sub` (violet, "sub-arc from transit hub")
+- Waypoint markers for each intermediate `track[]` entry — 26px circles with SVG icons (plane/ship/transit/home/hospital) via `iconChar(t)`
+- Destination markers: hospital/plane final-track icons render as `.wp-dest` SVG markers (amber border, red if confirmed); other contacts get a `L.circleMarker` sized by `count`
 
-Toggled via `showTraceLayer()` / `hideTraceLayer()` from `setFilter('contacts', btn)`. Lazily built on first activation.
+Lazily built on first activation, guarded by `if(!traceLayerGroup)`. Toggled via `showRegionMode()` / `showCountryMode()` triggered by the `dt-country` / `dt-region` buttons (top-left of map) and the "Contact Trace" landing-page button (`enterApp('dashboard','region')`).
+
+**Icon system:** `iconChar(t)` returns inline SVG strings (Material Design paths, `fill="white"`) for keys `plane`/`ship`/`transit`/`home`/`hospital`. Default fallback is `'•'`. Used both in waypoint markers on the map and in the journey-track mini-list inside contact popups.
 
 ### Tab + filter state
 
@@ -112,6 +115,16 @@ Added to `<head>` of `index.html`:
 - Open Graph + Twitter Card tags (reference `preview.png` — **not yet created**)
 - Google Search Console verification tag
 - `sitemap.xml` submitted to Search Console
+
+## Inline fallback ↔ data.json sync
+
+The HTML contains inline fallback copies of `CASES`, `CONTACTS`, `TRAVEL`, and `NEWS_STATIC` (and hardcoded header/landing stats: `9` → `11` cases, `23` → `26` countries). These render first; `loadLiveData()` then fetches `data.json` and overrides. **When manually bumping stats in `data.json`, also update:**
+- Header stats at `<div class="hd-stat-row">` (line ~414)
+- Landing page stats at `<div class="l-stats">` (line ~393)
+- Landing subtitle text in `<p class="l-sub">` ("across N countries")
+- Inline `NEWS_STATIC` array — keep ~20 recent items so file:// previews and slow-CDN loads aren't stale
+
+The bot only updates `news[]` in `data.json`. Everything else is manual.
 
 ## Pending / TODO
 
