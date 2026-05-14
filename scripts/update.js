@@ -22,12 +22,11 @@ const DATA_PATH = path.join(ROOT, 'data.json');
 const CHANGELOG_PATH = path.join(ROOT, 'changelog.txt');
 
 const FEEDS = [
-  // Google News keyword searches — aggregates WHO, CDC, ECDC, Reuters, AP, etc.
-  { src: 'News', tag: 'u', url: 'https://news.google.com/rss/search?q=hantavirus&hl=en-US&gl=US&ceid=US:en' },
-  { src: 'News', tag: 'u', url: 'https://news.google.com/rss/search?q=%22andes+virus%22+OR+hondius&hl=en-US&gl=US&ceid=US:en' },
-  // Official sources via Google News (for WHO/CDC tag classification)
-  { src: 'WHO', tag: 'w', url: 'https://news.google.com/rss/search?q=hantavirus+site%3Awho.int&hl=en-US&gl=US&ceid=US:en' },
-  { src: 'CDC', tag: 'c', url: 'https://news.google.com/rss/search?q=hantavirus+site%3Acdc.gov&hl=en-US&gl=US&ceid=US:en' },
+  // Bing News RSS — provides direct article URLs (no GDPR redirect wall)
+  { src: 'News', tag: 'u', url: 'https://www.bing.com/news/search?q=hantavirus&format=rss&mkt=en-US&setlang=en-US' },
+  { src: 'News', tag: 'u', url: 'https://www.bing.com/news/search?q=%22andes+virus%22+OR+hondius&format=rss&mkt=en-US&setlang=en-US' },
+  { src: 'WHO',  tag: 'w', url: 'https://www.bing.com/news/search?q=hantavirus+site%3Awho.int&format=rss&mkt=en-US&setlang=en-US' },
+  { src: 'CDC',  tag: 'c', url: 'https://www.bing.com/news/search?q=hantavirus+site%3Acdc.gov&format=rss&mkt=en-US&setlang=en-US' },
 ];
 
 const KEYWORDS = /\b(hantavirus|hanta\s+virus|andes\s*virus|andv|hps|hantaan|sin\s*nombre|puumala|seoul\s*virus|dobrava|laguna\s*negra|hondius)\b/i;
@@ -91,6 +90,19 @@ function extractField(v) {
   return String(v).trim();
 }
 
+function resolveUrl(raw) {
+  if (!raw) return '';
+  // Bing wraps article URLs in a click-tracking redirect — extract the real URL
+  // e.g. http://www.bing.com/news/apiclick.aspx?...&url=https%3a%2f%2f...
+  try {
+    const u = new URL(raw);
+    if (u.hostname.includes('bing.com') && u.searchParams.has('url')) {
+      return decodeURIComponent(u.searchParams.get('url'));
+    }
+  } catch {}
+  return raw;
+}
+
 function normalise(item) {
   const title = extractField(item.title);
   let link = '';
@@ -99,6 +111,7 @@ function normalise(item) {
     const alt = item.link.find(l => l['@_rel'] === 'alternate' || !l['@_rel']);
     link = alt ? extractField(alt) : extractField(item.link[0]);
   } else if (item.link) link = extractField(item.link);
+  link = resolveUrl(link);
 
   const pubDate = item.pubDate || item.published || item.updated || item['dc:date'] || '';
   const desc = extractField(item.description || item.summary || item.content || '');

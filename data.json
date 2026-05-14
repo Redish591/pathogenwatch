@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T09:39:58.458Z",
+  "last_updated": "2026-05-14T12:53:31.453Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -1696,6 +1696,105 @@
   ],
   "news": [
     {
+      "src": "News",
+      "time": "14 May 03:33",
+      "title": "Fact Check: Andes strain of hantavirus is transmissible in humans",
+      "tag": "u",
+      "url": "https://www.reuters.com/fact-check/andes-strain-hantavirus-is-transmissible-humans-2026-05-13/",
+      "live": true,
+      "added": "2026-05-14T12:53:30.739Z"
+    },
+    {
+      "src": "News",
+      "time": "11 May 10:09",
+      "title": "How did hantavirus cruise ship outbreak start? What we know",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/how-did-hantavirus-cruise-ship-outbreak-start-what-we-know/ar-AA22WkEl",
+      "live": true,
+      "added": "2026-05-14T12:53:30.739Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 12:47",
+      "title": "Can hantavirus spread through the air? What we do and don’t know",
+      "tag": "u",
+      "url": "https://www.scientificamerican.com/article/can-hantavirus-spread-through-the-air-what-we-do-and-dont-know/",
+      "live": true,
+      "added": "2026-05-14T12:53:30.739Z"
+    },
+    {
+      "src": "News",
+      "time": "14 May 04:17",
+      "title": "The world's reaction to hantavirus is tinged by echoes of something else: COVID",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/the-world-s-reaction-to-hantavirus-is-tinged-by-echoes-of-something-else-covid/ar-AA23aUyf",
+      "live": true,
+      "added": "2026-05-14T12:53:30.739Z"
+    },
+    {
+      "src": "News",
+      "time": "14 May 03:00",
+      "title": "Another Californian was exposed to hantavirus in deadly cruise ship outbreak, officials announce",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/another-californian-was-exposed-to-hantavirus-in-deadly-cruise-ship-outbreak-officials-announce/ar-AA23b4rZ",
+      "live": true,
+      "added": "2026-05-14T12:53:30.739Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 20:15",
+      "title": "New Yorker describes hantavirus quarantine experience after cruise ship outbreak: \"Trying to stay positive\"",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/new-yorker-describes-hantavirus-quarantine-experience-after-cruise-ship-outbreak-trying-to-stay-positive/ar-AA236tKy",
+      "live": true,
+      "added": "2026-05-14T12:53:30.738Z"
+    },
+    {
+      "src": "News",
+      "time": "14 May 03:00",
+      "title": "Hantavirus strikes a cruise ship: A ‘perfect storm’ or a warning sign?",
+      "tag": "u",
+      "url": "https://www.latimes.com/california/story/2026-05-14/hantavirus-strikes-cruise-ship-perfect-storm-or-warning-sign",
+      "live": true,
+      "added": "2026-05-14T12:53:30.738Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 13:19",
+      "title": "Hantavirus Cases Live Tracker: Map Shows Where Outbreak Has Been Detected",
+      "tag": "u",
+      "url": "https://www.newsweek.com/hantavirus-cases-live-tracker-map-shows-where-outbreak-detected-11946361",
+      "live": true,
+      "added": "2026-05-14T12:53:30.738Z"
+    },
+    {
+      "src": "News",
+      "time": "14 May 04:00",
+      "title": "Hantavirus outbreak isn't another Covid pandemic – but experts say it's testing U.S. readiness",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/hantavirus-outbreak-isnt-another-covid-pandemic-but-experts-say-its-testing-us-readiness/ar-AA23aZMr",
+      "live": true,
+      "added": "2026-05-14T12:53:30.738Z"
+    },
+    {
+      "src": "News",
+      "time": "14 May 05:08",
+      "title": "Doctor from hantavirus-stricken ship tests negative, moves out of biocontainment unit",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/doctor-from-hantavirus-stricken-ship-tests-negative-moves-out-of-biocontainment-unit/ar-AA238GFc",
+      "live": true,
+      "added": "2026-05-14T12:53:30.737Z"
+    },
+    {
+      "src": "News",
+      "time": "13 May 14:10",
+      "title": "Possible hantavirus case in Illinois not tied to cruise ship: Latest updates",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/possible-hantavirus-case-in-illinois-not-tied-to-cruise-ship-latest-updates/ar-AA236i63",
+      "live": true,
+      "added": "2026-05-14T12:53:30.737Z"
+    },
+    {
       "src": "CDC",
       "time": "14 May 00:27",
       "title": "Transcript - Update on CDC's Hantavirus Response - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -2495,105 +2594,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbHA5UUxqS2hsU0JyYlhJSWdoWkJrUE9oTm5fTF9HVDBzMkRLMmg2VEtCaUpCMEtrZWNQeThQM1hoRHhCVTVaQl9vQnc2NXJrODB0azc4TEMxejNnRmZqdlpSVU9Od1VQbnhpeS1mMnFzd0tjLVRmWVlUNjhyY1Z5RlU0ZExtSDFIT3VMVkx2S24?oc=5",
       "live": true,
       "added": "2026-05-14T09:39:56.766Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 00:56",
-      "title": "Doctor on ship who helped care for passengers with hantavirus leaves medical isolation unit - AP News",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM184OFpKbWRybE1MQlh3MEZBWWNRU1J6cWZTa3hSZ18zUndpV0JHSlc0dmRyelJndjdJYldLLXE4Y0ttRm5SekNua0lRY192Y256TzNnb19NbDJFemY3UmZ6R01FQnQxMHFiRWdTVnZ6XzRwMlVSdmJMYS1RNG81Z3hUNl9XZEtuOUgxOVVpNGtscHlMR3VLbDBicXJqRzNCOHhkZno1dEtnTHIwamJCNzJ0aUZ6UjA?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.766Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 19:59",
-      "title": "Opinion | What You Actually Need to Know About Hantavirus - The New York Times",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHaWZZcVNmbmtDRnFYeVUwX01VQlhZSjZKYlFydjBESGZXQ1RDLUY4aTlqOXZ2OVJxOHJEcFoxNzdOLTU4OXZGcVlCTnJEYmloY04ySUdNSlJuVE52MjlrSVJXM1c2M29MQnE0ZkhtdzFRWUZJMUlNUEtWT1VHZw?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.766Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 01:22",
-      "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.766Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 14:21",
-      "title": "Map: The states monitoring hantavirus exposures after cruise ship outbreak - The Hill",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbDNjak50anJIMmdGN2o0WkdDM1laakswYWFWbDVGOEFvNmgzRmlNMEtzNU1vd3FCU2E1Q2w0WU9tQXNqZ3BDNC1zUTRDQy1pTjNFQmtSVUJBZi1UVHZtYXI0SEY2TnVyZFlWc05ZeDlnWE1DMnFSUVRLRmZPbjZuMlFrQTgyN0kzdzl0OC1xUTd2TDl6Q3ZBZnZsWXJTQVpURTJoNExiV0lHQTkwM2FXaFItSFlzVU9nTFd5LdIBwgFBVV95cUxONmlmay12VUpqYmFWYlNBWGM2Y3FxMlFycFltWC1kUXRfdVN2VGxMT1lVcE5vVWw4Nm1ieGJlcHJyTm13SVBOVlg1UTBBQS1td2N4Rl9HRUxSZEJFczVTQTY0Sm82RlFWbzNfSGxWcFdEZlE1RkpwNUJvdFkySUEyVEQ4VUcxRzJSck5SR2xQUExDQm1kSXVQNGpRYUE4a0xMeWFZZXA4ckhFSnNPekhhc3RHMlRTVnRDQm9CTGV3clduUQ?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.766Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 22:49",
-      "title": "Reported hantavirus protocol breach at hospital forces 12 employees into 6-week quarantine - Fox News",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVJaNzZDZUppbzRnM0Iyb0UtMDM0REhneWtoUGFEQkhZWVEwalBEUkZXeTk1cDdkSmgzMFRCZThxTUwwdFMteXNsc1pIYlVJN2hueXdZY3JGYU1HTDJGY2hfZHBxZXRudzI4UzE3TkVPVWU4NjZlM3lqUzA2WXlvdVhKT1VxeWFUUGRvRWswXzNJQ0FadFRKRHpxTE1RTVljSXRFRk9kcVFYYmtpT2l0TUQ3SdIBuAFBVV95cUxOQXNRZ1NKWV9za2JlNVZQdDhJM0tGM2dUZnprbGZ3d201WmF2bDR6YjZTcDAzWkJ4ZzhaRXFzSWlMNzFhLXFtRmdQU1B0UUVQaGhELVFHdFR4SzBzdlFQVU84U3dSWEk5UWNDQ2RHa3BtVTF2SHlaVjNfVkhNQlJHUV9kSVJYQnhQMUo0UWhzUHZ6TzhfbWVEYXRIaXhIR2pqbnoyck5jVGVQUnlQOVZWRWlpdEJuU05a?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.766Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 14:08",
-      "title": "HOMETOWN HEALTH: Hantavirus outbreak reaches 11 cases; local expert says strain differs from COVID-19 - WDBJ7",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc2x1cjFiXzAxVTM2Tll0UzY0Y2xIbzdfdEg0YWI5Z1c3UW1NOHFEc3pVUDF4ZXhaX1p2VHJhVXNkaU1xLWZKV3VpcmdoYWlEUUQ1T1A3S2NaNjc5RVNSbEdoWVFuRmVUZnNacm1ma1J0VVdSMzVoTnFXT2ZINWJENnh1TjE0ZDNrSXBpTG1VRXRvMjlleTAtOGh1Qldqam8weUJmT2tKOTFmSnlLQlFrQXR3MEd6VTU1elNPQXZpWmpDZUdmaF9V0gHbAUFVX3lxTFBKbERqOFVldklRSWw1TGctQkdlWjRnNjlucFV0bGFYdHFpa2oyT0lWakRTVF9DS0hjYloyM1J3S25Tdzh6MWdXYWJWdHZRNVA5SFFQNkg1dVRIV1ZuVlhjcVNiRTIxbDcwLXV3T1R5VXU2WkxwZ2M5MkFYdHZsbzROa2JNb25lbWJoUUZKeDdtSU9EUnZEX3NKOXRPZ2lFbFM5UGVQOW5vVHBDak0tdko5SFVlWlRXbTNmaDdoZ09yanZOU0oxNXRYUVhuMjFqblZoQ2VZYXY5MzAwdw?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.766Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 21:58",
-      "title": "Three Kansans possibly exposed to hantavirus under observation at KU Hospital - KCTV",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcTNFczlwcDVEc0wtd1B4YXBGd25wQm56Q2Q4WXZqNW5GTUdhQmgyUVlaZlhHT1lFMUNvNmdpY1Y2blR2Uk5FQ0ktU2FzY2FndHh5VFhvOF9ZSmttSVBRM0IxVnRQbm1nTzFfaVNyQ2NFc2E1cGhSbEdOSm9BNHBNbTNTaVJ4LTRmSU82QjlJLU92bElxczR1Y0NvX1RqSWFqU1NJVUQ2SVrSAbwBQVVfeXFMUGwtaWtFUFYydE5WY0pDNDR1TjB6OE56N09meklxdjZwOG1ZVUF4VlVJUXdTQ3FvUEQ2alRLUjJ0d0c4MFZObXAxSmlZU2RteTFDVklvZTNFVXpfall0U3dua0w3dzRVa3V0SXhFNzBBQ1RtWDlKaTJqZlVEeVNRU1Q3R0VjTWFxTjJoMHFWMlI4UllUWEVFRHhaS0JVcERIbnNiVFYybnNobDNCVUtRbENaR0VfT2JLUW9vd20?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.766Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 22:06",
-      "title": "Three people exposed to hantavirus taken to KU Hospital for observation - FOX4KC.com",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOel9MRVFoMVp4MlhMdW1wTVlJYVhsdnRidFF3VGF3a1ZNWUdMNzhUUG9xSnNrdjVRa2xhcTBIMm1hWTRpYklIYWVOOHRpZGZMUjh4cEw0djVwTmJ3REVIVFp4OXBWd0hWWVVrbjFIdEN1Qll3RkJ3U1NabW9CakhTWjZfS0hhLUpOSVozdVM5UE1KNVhLLU56UVVVR0bSAaIBQVVfeXFMTXhuZU1CQ2NsSnRJTmZqM0hoQ0Y0MF9KRkRyZUY5eDNiWTVLRGdwdWI3Sl9JYjNGVi1Ec292bmVJZDBhQU9yMzdLMmZQYkdBNTE5RHQ1eXc4LXJXSDZYQlNKdXZtRHpmZjVIN0oxeEpOaEtnbWh0bnZWNUxKS2RHZUhvM1Bac09peDhqeG80SkNUSlJnODlGVFBKemhPWm5NYWFn?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.766Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 14:26",
-      "title": "Operator of hantavirus-hit ship will say by week's end when the vessel will resume cruises - PBS",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPckJvQXVSSEVOeVlBdXdnZ3dzb1lUVlNJYnRhTlZscU1GWU5GMUlZOWVpUWd1Z2ViM2M0VWxHUTF4UzR5UjFSVHVBejhFSFdILTZZQ1J5RXRXUkIyZXV3MXgteVdUMnY5M195eHJXVXRXLVl0WWxqeGdWZTU5bXBxbEFaeE9FM1h2bVZyTnhMTnBEeFdNd1Q3X090eGhoTlpKNHJyTW5BRzdPVzVSNDFZQ3RxSFBfU3BqalZQQXlCUzE0Z2s?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.765Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 17:02",
-      "title": "Is the Hantavirus in the US? Map Shows States Where Passengers Have Returned Home - TODAY.com",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR3VCd2dmNUFxNjl5NEM5cV9sUVJNbDRfTFdidS12Q2pyZGRoOG1yaXdUYkJHMDN1WlN5a1BuZTB1amk2bEtmME9ydGkwclkyWnNmcDFBSTVTOXpfRTdPUkg3VEtGOHFiWHRkTnQxT2c3NzhlRnVRX1VvSmdOcWRRdnFKak1ybG1LSG50SjVhdHR4Z3doVmxkT3BsT2dKQzdzUEhN?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.765Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 22:23",
-      "title": "CDC gives update on deadly hantavirus outbreak linked to cruise ship - Statesman Journal",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUtWRzNSd3V5OGtTX2lMcXNYZUFNdmNRS1I4NXZ3djk1M2hSeHRqdVZvVEJndTJrTnhacnMzaEw4NzdkZ3oxWFVwUEtYdnl2OTRNcWk2bWlwSVBTNmMxUFZVaENrdXpTeGUyZGdpbjJubGdZQVRMMFl0YWlINVpzem16WUVmRFh2eGM2RjBDVkdZOWk4cXVjOElmdUoydmdlbEZENTkwQV93TU1PVGF3V19JdVJQTGllMGNuNWY0bG13WFg4WGtpdDFR?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.765Z"
     }
   ],
   "travel": [

@@ -575,3 +575,16 @@ the bot are listed under the timestamp.
   + CDC | About Andes Virus | Hantavirus - Centers for Disease Control and Preve
   + CDC | Statement on the M/V Hondius Cruise Ship - Centers for Disease Control
   + CDC | Interim Guidance for Public Health Assessment and Management of People
+
+[2026-05-14T12:53:31.457Z] +11 item(s):
+  + News | Doctor from hantavirus-stricken ship tests negative, moves out of bioc
+  + News | Possible hantavirus case in Illinois not tied to cruise ship: Latest u
+  + News | New Yorker describes hantavirus quarantine experience after cruise shi
+  + News | Hantavirus strikes a cruise ship: A ‘perfect storm’ or a warning sign?
+  + News | Hantavirus Cases Live Tracker: Map Shows Where Outbreak Has Been Detec
+  + News | Hantavirus outbreak isn't another Covid pandemic – but experts say it'
+  + News | Fact Check: Andes strain of hantavirus is transmissible in humans
+  + News | How did hantavirus cruise ship outbreak start? What we know
+  + News | Can hantavirus spread through the air? What we do and don’t know
+  + News | The world's reaction to hantavirus is tinged by echoes of something el
+  + News | Another Californian was exposed to hantavirus in deadly cruise ship ou
