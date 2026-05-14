@@ -21,6 +21,21 @@ python -m http.server 8080
 
 There are no tests, no lint commands, and no compilation step.
 
+### Manual updater run
+
+The auto-update bot can be triggered locally from `scripts/`:
+
+```
+cd scripts
+npm install         # one-time
+npm run refresh     # real run — writes data.json + changelog.txt + maybe index.html
+npm run dry-run     # preview what would change, no file writes
+```
+
+For AI features to fire, set `ANTHROPIC_API_KEY` in `scripts/.env` (gitignored)
+or in the shell env. Without it the bot still runs and updates news, just
+skips the AI filter + case extraction.
+
 ## Architecture
 
 ### Single-file structure
@@ -92,7 +107,21 @@ Lazily built on first activation, guarded by `if(!traceLayerGroup)`. Toggled via
 3. Commits `data.json` + `changelog.txt` back to `main` if anything changed
 4. GitHub Pages rebuilds automatically
 
-**The bot only ever modifies `news[]`.** It never touches `cases`, `contacts`, or `travel` — those are manual.
+**News-only by default.** The bot always modifies `news[]`. When `ANTHROPIC_API_KEY` is set it may also adjust `stats.confirmed_cases` and `stats.deaths` based on AI extraction from headlines (with a self-verification pass and sanity gates). It never touches `cases[]`, `contacts[]`, or `travel[]` — those remain manual.
+
+### AI pipeline (active when `ANTHROPIC_API_KEY` is set)
+
+Three Claude Haiku calls per run, all schema-validated. On any failure (bad JSON, network, schema mismatch) the step is skipped and the run continues.
+
+1. **News filter** — scores each candidate headline 1–10; items below 6 are dropped.
+2. **Case extraction** — reads the top 20 headlines, returns updated global `confirmed_cases` / `deaths` if an official source (WHO / CDC / ECDC / national ministry) explicitly states them. Returns nulls otherwise.
+3. **Self-verification** — a second call audits the extraction; updates are only applied when `verified: true`.
+
+After extraction, sanity gates still apply: cases must not decrease and must not exceed 3× current; deaths must not decrease and must not jump by more than 50 in one run. Rejected extractions are logged in `changelog.txt` with the verifier's reason.
+
+### Inline-fallback auto-sync
+
+When `stats.confirmed_cases`, `stats.deaths`, or `stats.countries` changes, the bot also rewrites the hardcoded values in `index.html` (header stat row, landing stats, landing subtitle "across N countries"). Regex-anchored to the specific class names so the rest of the file is untouched. No manual sync needed after stats change.
 
 ### Why Google News RSS (not official feeds)
 
@@ -118,13 +147,14 @@ Added to `<head>` of `index.html`:
 
 ## Inline fallback ↔ data.json sync
 
-The HTML contains inline fallback copies of `CASES`, `CONTACTS`, `TRAVEL`, and `NEWS_STATIC` (and hardcoded header/landing stats: `9` → `11` cases, `23` → `26` countries). These render first; `loadLiveData()` then fetches `data.json` and overrides. **When manually bumping stats in `data.json`, also update:**
-- Header stats at `<div class="hd-stat-row">` (line ~414)
-- Landing page stats at `<div class="l-stats">` (line ~393)
-- Landing subtitle text in `<p class="l-sub">` ("across N countries")
-- Inline `NEWS_STATIC` array — keep ~20 recent items so file:// previews and slow-CDN loads aren't stale
+The HTML contains inline fallback copies of `CASES`, `CONTACTS`, `TRAVEL`, and `NEWS_STATIC` plus hardcoded header/landing stats. These render first; `loadLiveData()` then fetches `data.json` and overrides.
 
-The bot only updates `news[]` in `data.json`. Everything else is manual.
+**Stats (`confirmed_cases` / `deaths` / `countries`) auto-sync** — the bot rewrites the three spots in `index.html` whenever `stats` changes in `data.json`:
+- Header stats at `<div class="hd-stat-row">` (line ~416)
+- Landing page stats at `<div class="l-stats">` (line ~395)
+- Landing subtitle text in `<p class="l-sub">` ("across N countries")
+
+**Manual sync still required** for inline `CASES`, `CONTACTS`, `TRAVEL`, and `NEWS_STATIC` arrays — those exist for `file://` previews and slow-CDN loads, and the bot doesn't currently rewrite arrays.
 
 ## Pending / TODO
 

@@ -5,7 +5,9 @@
   "description": "Cron-driven RSS scraper that updates ../data.json from WHO, CDC, ECDC and ProMED feeds.",
   "main": "update.js",
   "scripts": {
-    "update": "node update.js"
+    "update": "node update.js",
+    "refresh": "node update.js",
+    "dry-run": "node update.js --dry-run"
   },
   "engines": {
     "node": ">=20"

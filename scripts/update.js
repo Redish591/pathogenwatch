@@ -2,29 +2,51 @@
 /**
  * PathogenWatch auto-updater
  *
- * Runs in GitHub Actions every 6 hours. Pulls RSS feeds, filters by keyword,
- * then (if ANTHROPIC_API_KEY is set) uses Claude Haiku to:
+ * Runs in GitHub Actions every 6 hours (and locally via `npm run refresh`).
+ * Pulls RSS feeds, filters by keyword, then — if ANTHROPIC_API_KEY is set —
+ * uses Claude Haiku to:
  *   1. Score each candidate news item and drop low-quality ones (< 6/10).
- *   2. Extract global confirmed-case / death totals from top headlines and
- *      update stats{} in data.json if a credible new figure is found.
+ *   2. Extract global confirmed-case / death totals from top headlines.
+ *   3. Verify its own extraction (second-pass critique) before writing.
  *
- * Safety rules:
- *   - Never modifies existing contacts[] or travel[] entries.
- *   - Only adds news items it has never seen before (deduped by URL + title).
- *   - Caps news at 100 items.
- *   - Skips items older than 90 days.
- *   - If all feeds fail, writes nothing (preserves last-known-good data).
- *   - Case count updates must be >= current and <= current * 3 (sanity gate).
- *   - If ANTHROPIC_API_KEY is absent, AI steps are silently skipped.
+ * Reliability layers:
+ *   - Schema validation on every Claude response. Bad JSON → skip, never crash.
+ *   - Sanity gate on case counts: must not decrease, max 3× current.
+ *   - Verification pass: second Claude call confirms extraction is grounded.
+ *   - Auto-syncs hardcoded fallback values in index.html when stats change.
+ *   - Audit trail in changelog.txt with Claude's reasoning per decision.
+ *
+ * Flags:
+ *   --dry-run   Print what would change without writing any files.
+ *
+ * Env:
+ *   ANTHROPIC_API_KEY   Required for AI features. Falls back gracefully if absent.
+ *                       Read from process.env or scripts/.env (gitignored).
  */
 
-const fs = require('fs');
+const fs   = require('fs');
 const path = require('path');
 const { XMLParser } = require('fast-xml-parser');
 
-const ROOT = path.join(__dirname, '..');
-const DATA_PATH = path.join(ROOT, 'data.json');
+/* ───── env + flags ─────────────────────────────────────────────── */
+
+const DRY_RUN = process.argv.includes('--dry-run');
+
+(function loadDotenv() {
+  const envFile = path.join(__dirname, '.env');
+  if (!fs.existsSync(envFile)) return;
+  for (const line of fs.readFileSync(envFile, 'utf8').split(/\r?\n/)) {
+    const m = line.match(/^\s*([A-Z_][A-Z0-9_]*)\s*=\s*(.*?)\s*$/i);
+    if (m && !process.env[m[1]]) process.env[m[1]] = m[2].replace(/^["']|["']$/g, '');
+  }
+})();
+
+const ROOT           = path.join(__dirname, '..');
+const DATA_PATH      = path.join(ROOT, 'data.json');
 const CHANGELOG_PATH = path.join(ROOT, 'changelog.txt');
+const HTML_PATH      = path.join(ROOT, 'index.html');
+
+/* ───── feeds + config ──────────────────────────────────────────── */
 
 const FEEDS = [
   { src: 'News', tag: 'u', url: 'https://www.bing.com/news/search?q=hantavirus&format=rss&mkt=en-US&setlang=en-US' },
@@ -119,7 +141,17 @@ function matchesOutbreak(item) {
   return KEYWORDS.test(item.title) || KEYWORDS.test(item.desc);
 }
 
-/* ───── AI helpers ──────────────────────────────────────────────── */
+function writeFile(p, content) {
+  if (DRY_RUN) { log(`  [dry-run] would write ${path.relative(ROOT, p)} (${content.length} bytes)`); return; }
+  fs.writeFileSync(p, content);
+}
+
+function appendFile(p, content) {
+  if (DRY_RUN) { log(`  [dry-run] would append to ${path.relative(ROOT, p)}`); return; }
+  fs.appendFileSync(p, content);
+}
+
+/* ───── AI ──────────────────────────────────────────────────────── */
 
 async function claudeAPI(messages, maxTokens = 512) {
   const r = await fetch('https://api.anthropic.com/v1/messages', {
@@ -132,9 +164,38 @@ async function claudeAPI(messages, maxTokens = 512) {
     },
     body: JSON.stringify({ model: 'claude-haiku-4-5-20251001', max_tokens: maxTokens, messages })
   });
-  if (!r.ok) throw new Error(`Anthropic API ${r.status}: ${await r.text()}`);
+  if (!r.ok) throw new Error(`Anthropic API ${r.status}: ${(await r.text()).slice(0, 200)}`);
   return (await r.json()).content[0].text;
 }
+
+function parseJSON(raw) {
+  // Strip markdown fences if Claude wraps the JSON despite instructions.
+  const trimmed = raw.trim().replace(/^```(?:json)?\s*|\s*```$/g, '');
+  return JSON.parse(trimmed);
+}
+
+/* ── schema validators ── */
+
+function validScoreArray(v) {
+  return Array.isArray(v) && v.every(o =>
+    o && typeof o.i === 'number' && Number.isInteger(o.i) &&
+    typeof o.s === 'number' && o.s >= 0 && o.s <= 10);
+}
+
+function validExtraction(v) {
+  return v && typeof v === 'object' &&
+    (v.cases === null  || (typeof v.cases  === 'number' && v.cases  >= 0 && v.cases  < 1e7)) &&
+    (v.deaths === null || (typeof v.deaths === 'number' && v.deaths >= 0 && v.deaths < 1e7)) &&
+    (v.source === null || typeof v.source === 'string');
+}
+
+function validVerification(v) {
+  return v && typeof v === 'object' &&
+    typeof v.verified === 'boolean' &&
+    typeof v.reason === 'string';
+}
+
+/* ── AI: news filter ── */
 
 async function filterNewsWithAI(items) {
   if (!process.env.ANTHROPIC_API_KEY || items.length === 0) return items;
@@ -148,7 +209,8 @@ async function filterNewsWithAI(items) {
       `1-4 = off-topic (unrelated disease, opinion, click-bait)\n\n` +
       `Return ONLY a JSON array, e.g. [{"i":0,"s":8},{"i":1,"s":3}]\n\n${list}`
     }], Math.min(50 + items.length * 12, 1024));
-    const scores = JSON.parse(raw.trim());
+    const scores = parseJSON(raw);
+    if (!validScoreArray(scores)) { log('AI filter: schema invalid, keeping all items'); return items; }
     const scoreMap = Object.fromEntries(scores.map(s => [s.i, s.s]));
     const kept = items.filter((_, i) => (scoreMap[i] ?? 5) >= AI_SCORE_THRESHOLD);
     log(`AI filter: kept ${kept.length}/${items.length} (threshold ${AI_SCORE_THRESHOLD})`);
@@ -158,6 +220,8 @@ async function filterNewsWithAI(items) {
     return items;
   }
 }
+
+/* ── AI: case-count extraction ── */
 
 async function extractCaseStats(newsItems, currentStats) {
   if (!process.env.ANTHROPIC_API_KEY) return null;
@@ -169,22 +233,92 @@ async function extractCaseStats(newsItems, currentStats) {
       `You update a hantavirus outbreak case tracker.\n` +
       `Current confirmed: ${currentStats.confirmed_cases} cases, ${currentStats.deaths} deaths.\n\n` +
       `From these recent headlines, extract the most up-to-date GLOBAL confirmed case count and/or death toll ` +
-      `ONLY if a headline explicitly states a new total from WHO, CDC, ECDC, or a national health ministry.\n\n` +
+      `ONLY if a headline explicitly states a new total from WHO, CDC, ECDC, or a national health ministry. ` +
+      `Do not infer. If no headline explicitly states an updated official total, return nulls.\n\n` +
       `${headlines}\n\n` +
       `Return JSON only — no prose:\n` +
       `{"cases": <number or null>, "deaths": <number or null>, "source": "<article title or null>"}`
     }], 200);
-    return JSON.parse(raw.trim());
+    const parsed = parseJSON(raw);
+    if (!validExtraction(parsed)) { log('Case extraction: schema invalid, ignoring'); return null; }
+    return parsed;
   } catch (e) {
     log(`Case extraction error: ${e.message}`);
     return null;
   }
 }
 
+/* ── AI: self-verification ── */
+
+async function verifyExtraction(extraction, newsItems, currentStats) {
+  if (!process.env.ANTHROPIC_API_KEY) return { verified: false, reason: 'no API key' };
+  const headlines = [...newsItems].slice(0, 20).map(n => `- ${n.title} (${n.src})`).join('\n');
+  log('Verifying extraction…');
+  try {
+    const raw = await claudeAPI([{ role: 'user', content:
+      `You are auditing an automated extraction step. Another model proposed these updates ` +
+      `to a hantavirus outbreak tracker:\n\n` +
+      `Proposed: cases=${extraction.cases}, deaths=${extraction.deaths}, source="${extraction.source}"\n` +
+      `Current values: cases=${currentStats.confirmed_cases}, deaths=${currentStats.deaths}\n\n` +
+      `These headlines were the evidence:\n${headlines}\n\n` +
+      `Question: do the proposed values clearly follow from an explicit statement in one of these ` +
+      `headlines, attributed to an official health authority (WHO, CDC, ECDC, national ministry)? ` +
+      `Be strict — if the proposed number is plausible but not explicitly stated, reject it.\n\n` +
+      `Return JSON only:\n{"verified": <true|false>, "reason": "<one short sentence>"}`
+    }], 200);
+    const parsed = parseJSON(raw);
+    if (!validVerification(parsed)) return { verified: false, reason: 'verifier schema invalid' };
+    return parsed;
+  } catch (e) {
+    return { verified: false, reason: `verifier error: ${e.message}` };
+  }
+}
+
+/* ───── inline-fallback sync ────────────────────────────────────── */
+
+function syncInlineFallback(stats) {
+  if (!fs.existsSync(HTML_PATH)) { log('index.html not found, skipping inline sync'); return null; }
+  const before = fs.readFileSync(HTML_PATH, 'utf8');
+  let html = before;
+
+  // Header stats: <div class="hd-stat-n" style="color:var(--red)">11</div>...<div class="hd-stat-l">Cases</div>
+  html = html.replace(
+    /(<div class="hd-stat-n" style="color:var\(--red\)">)\d+(<\/div><div class="hd-stat-l">Cases<\/div>)/,
+    `$1${stats.confirmed_cases}$2`);
+  html = html.replace(
+    /(<div class="hd-stat-n" style="color:#fca5a5">)\d+(<\/div><div class="hd-stat-l">Deaths<\/div>)/,
+    `$1${stats.deaths}$2`);
+  html = html.replace(
+    /(<div class="hd-stat-n" style="color:var\(--sky\)">)\d+(<\/div><div class="hd-stat-l">Countries<\/div>)/,
+    `$1${stats.countries}$2`);
+
+  // Landing stats: <div class="l-stat-n" style="color:var(--red)">11</div>...<div class="l-stat-l">Confirmed Cases</div>
+  html = html.replace(
+    /(<div class="l-stat-n" style="color:var\(--red\)">)\d+(<\/div><div class="l-stat-l">Confirmed Cases<\/div>)/,
+    `$1${stats.confirmed_cases}$2`);
+  html = html.replace(
+    /(<div class="l-stat-n" style="color:#fca5a5">)\d+(<\/div><div class="l-stat-l">Deaths<\/div>)/,
+    `$1${stats.deaths}$2`);
+  html = html.replace(
+    /(<div class="l-stat-n" style="color:var\(--sky\)">)\d+(<\/div><div class="l-stat-l">Countries<\/div>)/,
+    `$1${stats.countries}$2`);
+
+  // Landing subtitle: "across N countries"
+  html = html.replace(
+    /(<p class="l-sub">[^<]*?across )\d+( countries)/,
+    `$1${stats.countries}$2`);
+
+  if (html === before) { log('Inline fallback already in sync'); return null; }
+  writeFile(HTML_PATH, html);
+  log(`Inline fallback synced (cases=${stats.confirmed_cases}, deaths=${stats.deaths}, countries=${stats.countries})`);
+  return { synced: true };
+}
+
 /* ───── main ────────────────────────────────────────────────────── */
 
 async function main() {
-  log('PathogenWatch updater starting…');
+  log(`PathogenWatch updater starting${DRY_RUN ? ' (DRY RUN)' : ''}…`);
+  if (!process.env.ANTHROPIC_API_KEY) log('AI disabled (no ANTHROPIC_API_KEY) — running in news-only mode');
 
   if (!fs.existsSync(DATA_PATH)) { log('ERROR: data.json not found.'); process.exit(1); }
 
@@ -241,50 +375,63 @@ async function main() {
 
   newNews.forEach(n => changes.push(`+ ${n.src} | ${n.title.slice(0, 70)}`));
 
-  /* ── AI case-count extraction ── */
+  /* ── AI case-count extraction + verification ── */
   const statsUpdated = [];
   if (data.stats) {
-    // Combine freshest new items + recent existing news for better context
     const pool = [...newNews, ...(data.news || []).slice(0, 15)];
     const extracted = await extractCaseStats(pool, data.stats);
 
-    if (extracted?.cases != null) {
-      const cur = data.stats.confirmed_cases;
-      const upd = extracted.cases;
-      if (upd >= cur && upd <= cur * 3) {
-        if (upd !== cur) {
-          log(`Confirmed cases: ${cur} → ${upd} (${extracted.source || 'news'})`);
-          data.stats.confirmed_cases = upd;
-          statsUpdated.push(`cases ${cur}→${upd}`);
-          changes.push(`↑ confirmed_cases: ${cur} → ${upd} (${extracted.source || 'AI extract'})`);
-        }
+    if (extracted && (extracted.cases != null || extracted.deaths != null)) {
+      const verdict = await verifyExtraction(extracted, pool, data.stats);
+      if (!verdict.verified) {
+        log(`Extraction rejected by verifier: ${verdict.reason}`);
+        changes.push(`~ extraction skipped: ${verdict.reason}`);
       } else {
-        log(`Skipped case update ${upd} — outside sanity range [${cur}, ${cur * 3}]`);
-      }
-    }
+        log(`Extraction verified: ${verdict.reason}`);
 
-    if (extracted?.deaths != null) {
-      const cur = data.stats.deaths;
-      const upd = extracted.deaths;
-      if (upd >= cur && upd <= cur + 50) {
-        if (upd !== cur) {
-          log(`Deaths: ${cur} → ${upd}`);
-          data.stats.deaths = upd;
-          statsUpdated.push(`deaths ${cur}→${upd}`);
-          changes.push(`↑ deaths: ${cur} → ${upd}`);
+        if (extracted.cases != null) {
+          const cur = data.stats.confirmed_cases;
+          const upd = extracted.cases;
+          if (upd >= cur && upd <= cur * 3) {
+            if (upd !== cur) {
+              data.stats.confirmed_cases = upd;
+              statsUpdated.push(`cases ${cur}→${upd}`);
+              changes.push(`↑ confirmed_cases: ${cur} → ${upd} (${extracted.source || 'AI'}) — verified ✓`);
+              log(`Confirmed cases: ${cur} → ${upd}`);
+            }
+          } else {
+            log(`Skipped case update ${upd} — outside sanity range [${cur}, ${cur * 3}]`);
+            changes.push(`~ rejected cases=${upd} (out of sanity range)`);
+          }
+        }
+
+        if (extracted.deaths != null) {
+          const cur = data.stats.deaths;
+          const upd = extracted.deaths;
+          if (upd >= cur && upd <= cur + 50) {
+            if (upd !== cur) {
+              data.stats.deaths = upd;
+              statsUpdated.push(`deaths ${cur}→${upd}`);
+              changes.push(`↑ deaths: ${cur} → ${upd} — verified ✓`);
+              log(`Deaths: ${cur} → ${upd}`);
+            }
+          } else {
+            log(`Skipped death update ${upd} — outside sanity range [${cur}, ${cur + 50}]`);
+            changes.push(`~ rejected deaths=${upd} (out of sanity range)`);
+          }
         }
       }
     }
   }
 
-  /* ── write ── */
+  /* ── write data.json ── */
   const hasNews  = newNews.length > 0;
   const hasStats = statsUpdated.length > 0;
 
   if (!hasNews && !hasStats) {
-    log('No changes. Refreshing timestamp only.');
+    log('No content changes. Refreshing timestamp only.');
     data.last_updated = new Date().toISOString();
-    fs.writeFileSync(DATA_PATH, JSON.stringify(data, null, 2) + '\n');
+    writeFile(DATA_PATH, JSON.stringify(data, null, 2) + '\n');
     return;
   }
 
@@ -294,13 +441,18 @@ async function main() {
   }
 
   data.last_updated = new Date().toISOString();
-  fs.writeFileSync(DATA_PATH, JSON.stringify(data, null, 2) + '\n');
+  writeFile(DATA_PATH, JSON.stringify(data, null, 2) + '\n');
 
+  /* ── sync inline fallback if stats changed ── */
+  if (hasStats) syncInlineFallback(data.stats);
+
+  /* ── audit trail ── */
   const stamp = new Date().toISOString();
   const logBlock = `\n[${stamp}] ${changes.length} change(s):\n${changes.map(c => '  ' + c).join('\n')}\n`;
-  fs.appendFileSync(CHANGELOG_PATH, logBlock);
+  appendFile(CHANGELOG_PATH, logBlock);
 
   log(`Done. ${newNews.length} news item(s) added${hasStats ? ', stats updated: ' + statsUpdated.join(', ') : ''}.`);
+  if (DRY_RUN) log('Dry run complete — no files were modified.');
 }
 
 main().catch(e => { console.error('Fatal:', e); process.exit(1); });

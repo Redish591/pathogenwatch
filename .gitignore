@@ -1,5 +1,7 @@
 node_modules/
 scripts/node_modules/
 scripts/package-lock.json
+scripts/.env
+.env
 .DS_Store
 *.log
