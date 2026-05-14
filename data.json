@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T16:35:35.096Z",
+  "last_updated": "2026-05-14T17:07:24.453Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2842,5 +2842,6 @@
       "summary": "Hantaan virus historically endemic near DMZ. No current connection.",
       "rec": "General travel safe. Seoul and tourist areas are low risk."
     }
-  ]
+  ],
+  "ai_active": true
 }
