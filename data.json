@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T17:07:24.453Z",
+  "last_updated": "2026-05-14T18:21:44.978Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -1697,6 +1697,33 @@
   "news": [
     {
       "src": "News",
+      "time": "14 May 11:12",
+      "title": "3 Kansans with hantavirus exposure under observation at KU Health System",
+      "tag": "u",
+      "url": "https://www.kshb.com/news/local-news/3-kansans-with-hantavirus-exposure-under-observation-at-ku-health-system",
+      "live": true,
+      "added": "2026-05-14T18:21:42.014Z"
+    },
+    {
+      "src": "News",
+      "time": "14 May 09:35",
+      "title": "'Small number' of Welsh residents linked to hantavirus outbreak",
+      "tag": "u",
+      "url": "https://www.bbc.co.uk/news/articles/cy82jw63znxo",
+      "live": true,
+      "added": "2026-05-14T18:21:42.014Z"
+    },
+    {
+      "src": "News",
+      "time": "14 May 11:08",
+      "title": "Small number of people in Scotland linked to hantavirus outbreak",
+      "tag": "u",
+      "url": "https://www.bbc.com/news/articles/c3326kje5g5o",
+      "live": true,
+      "added": "2026-05-14T18:21:42.013Z"
+    },
+    {
+      "src": "News",
       "time": "11 May 15:15",
       "title": "Hantavirus outbreak: 2 Georgia residents exposed arrive at Emory University Hospital for evaluation",
       "tag": "u",
@@ -2565,33 +2592,6 @@
       "title": "Hantavirus will be ‘dead end’ outbreak soon: Ex-CDC director - NewsNation",
       "tag": "u",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOVR2Y1N1S2pCTjV1bGdub0JBWVVVXzFFVnpnUFBYUHNheEJ4NnRXZG5DMG42TFY5VF9ibHBMSng0dWFRek45ZUdaaWxtUW1ZSXBua2dWTWNDakx1aHlCYlNpaVRWRUJSRFhWRDFpdFpIUnRoeXdkWTliSV82UkZiVkZpV3ZtclR6b1HSAY8BQVVfeXFMT0ZVZF9pcHNmLV9Mcm5xNm1wR3RsZ0RRU1AtQUZQRXNJVkNSVF9Sb0luRzlUdXFPQ1Z4MkM4MzFpY1pNUlVUS0E2R3RFdGdyblFIRG1adHQwNVR6MUh1N3JzWHkxUlh0SDdqQzNYM2dWbENOSXZSRkdpQV81bmt5ZDhzdXpibi1valJVdk15LVE?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.767Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 17:45",
-      "title": "Opinion | 11 hantavirus deaths in Argentina were a warning - The Washington Post",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMHJJRUVKelNLY0pGQkRFZ3g2OXFfUUFCOUZzcGRfSDNpMEdKRll2V2lKSXkxR0lUVDlXZlY4d1gxeUNQMzZRQld0VlpHM2FDb2l4RWZrcGctUm5nV05zUlpMTmQ5MDlXcHhOZWd2NkQxemVGOEphUUpHU0tRV0VZWnFIOUhLQ040M3BXRFA3VlhkOUthTDNhdGg0cnVWUXNYeVlTQmFqbkg?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.767Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 21:10",
-      "title": "Cruise passengers are quarantining, but for how long? Latest on hantavirus - USA Today",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM2MtaDMtX1MtWGVRckhnZkVvRVk4ME9vczZqOTA5VmpFaW1UZXB1NE9DT01zT3k3N0w4ZnB6bGo4YVZjeFFWLUZjMGtMT3VEWHVBX1VYT2Z2LXhRdWVfR0JOczlFMGdPb0ZvOTZQMzBMZF9qVlhuNF9xMjFhcDBJcHdocGZUYXZBSVV2eEIzd3hUSHZOUVE0VlVzdk5lM1YwenlBNnFPZnZHb0l5R3c?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.767Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 11:00",
-      "title": "Hantavirus takes a long time to show symptoms. Experts say more cases could appear - Scientific American",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON3hLRmc1TnpMY3VocHBUNEViSEt2WFZabWtpX0xpbTU1ZkhhOGNIU1hwOXljeV81c2J3QTFYZHFFQThrNXR4Q0R6blMwRllqaDB6c1BzYldkWE1KUWlRRjlkV0c4N2I0Z2hBbUNUN0J1ekY5NG1PVUJfcllwb0cwTGVXb25JYUMxX0hpd0VwWUdaNC05UVpwYlVaRkV0X0ZBS2FON0gyRXlTMlVDTlB0aGctRzRhQlBEc1U2aTI1NnB4X00?oc=5",
       "live": true,
       "added": "2026-05-14T09:39:56.767Z"
     }

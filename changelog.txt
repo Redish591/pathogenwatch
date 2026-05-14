@@ -596,3 +596,9 @@ the bot are listed under the timestamp.
   + News | 17 Americans from hantavirus-hit ship arrive in U.S., including 1 who 
   + News | Hantavirus strikes a cruise ship: A 'perfect storm' or a warning sign?
   + News | Hantavirus outbreak: 2 Georgia residents exposed arrive at Emory Unive
+
+[2026-05-14T18:21:44.979Z] 4 change(s):
+  ~ AI filtered 1 low-quality item(s)
+  + News | Small number of people in Scotland linked to hantavirus outbreak
+  + News | 3 Kansans with hantavirus exposure under observation at KU Health Syst
+  + News | 'Small number' of Welsh residents linked to hantavirus outbreak
