@@ -769,6 +769,12 @@ let CONTACTS = [
 
   // ── Australia ─────────────────────────────────────────────────────────
   {id:"CT-AU-01",city:"Sydney",country:"Australia",flag:"🇦🇺",lat:-33.87,lng:151.21,count:3,status:"monitoring",from:SHIP_POS,route:"MV Hondius → Tenerife → Australian govt plane → Sydney",days:2,daysTotal:42,note:"Australian nationals repatriated on government plane. Self-monitoring at home.",source:"AHPPC",url:"https://www.health.gov.au/"},
+
+  // ── Turkey ────────────────────────────────────────────────────────────
+  {id:"CT-TR-01",city:"Istanbul",country:"Turkey",flag:"🇹🇷",lat:41.01,lng:28.95,count:3,status:"monitoring",from:SHIP_POS,route:"MV Hondius → Tenerife → Istanbul IST",days:2,daysTotal:21,note:"3 Turkish nationals repatriated via direct flight from Tenerife to Istanbul on 10 May. Under 21-day home monitoring per MoH protocol.",source:"Ministry of Health Turkey",url:"https://hsgm.saglik.gov.tr/"},
+
+  // ── India ─────────────────────────────────────────────────────────────
+  {id:"CT-IN-01",city:"New Delhi",country:"India",flag:"🇮🇳",lat:28.64,lng:77.22,count:2,status:"contact",from:SHIP_POS,route:"MV Hondius → Tenerife → Dutch flight → Eindhoven → New Delhi",days:2,daysTotal:21,note:"2 Indian nationals travelled via Dutch evacuation flight (Tenerife → Eindhoven) then onward to New Delhi. Under ICMR-mandated self-monitoring.",source:"ICMR",url:"https://www.icmr.gov.in/"},
 ];
 
 /* ── GLOBALS ─────────────────────────────────────────────────────────── */
@@ -1141,9 +1147,10 @@ function buildTraceLayer(){
       const col=isSub
         ?`rgba(139,92,246,${(0.5+segIdx*0.18).toFixed(2)})`
         :`rgba(${baseCol[0]},${baseCol[1]},${baseCol[2]},${(0.45+(segs.length>1?segIdx/(segs.length-1):0.5)*0.4).toFixed(2)})`;
-      const w=ct.count>=10?2:ct.count>=3?1.5:1.1;
+      const w=ct.status==='confirmed'?2.2:ct.status==='monitoring'?1.4:0.9;
+      const opacity=ct.status==='confirmed'?0.9:ct.status==='monitoring'?0.7:0.45;
       const pts=arcPoints(seg[0],seg[1]);
-      L.polyline(pts,{color:col,weight:w,opacity:0.85,className:isSub?'ct-arc-sub':'ct-arc-line',interactive:false}).addTo(traceLayerGroup);
+      L.polyline(pts,{color:col,weight:w,opacity,className:isSub?'ct-arc-sub':'ct-arc-line',interactive:false}).addTo(traceLayerGroup);
     });
 
     // Waypoint markers (all except the final destination)

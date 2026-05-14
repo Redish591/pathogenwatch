@@ -1692,6 +1692,125 @@
       "note": "Australian nationals repatriated on government plane. Self-monitoring at home.",
       "source": "AHPPC",
       "url": "https://www.health.gov.au/"
+    },
+    {
+      "id": "CT-TR-01",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "flag": "🇹🇷",
+      "lat": 41.01,
+      "lng": 28.95,
+      "count": 3,
+      "status": "monitoring",
+      "exposure": {
+        "linked_to": "MV Hondius shipboard cluster",
+        "linked_case_id": "case-000",
+        "date": "2026-04-01 onwards",
+        "location": "MV Hondius",
+        "type": "Direct shipboard contact"
+      },
+      "track": [
+        {
+          "date": "2026-04-01",
+          "label": "Boarded MV Hondius at Ushuaia",
+          "lat": -54.81,
+          "lng": -68.3,
+          "icon": "ship"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Disembarked at Tenerife",
+          "lat": 28.29,
+          "lng": -16.63,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Repatriation flight → Istanbul IST",
+          "lat": 41.01,
+          "lng": 28.95,
+          "icon": "plane"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Home monitoring — Ankara / Istanbul",
+          "lat": 41.01,
+          "lng": 28.95,
+          "icon": "home"
+        }
+      ],
+      "monitoring": {
+        "day": 2,
+        "total": 21,
+        "symptomatic": false,
+        "last_check": "2026-05-12"
+      },
+      "note": "3 Turkish nationals repatriated via direct flight from Tenerife to Istanbul on 10 May. Under 21-day home monitoring per MoH protocol.",
+      "source": "Ministry of Health Turkey",
+      "url": "https://hsgm.saglik.gov.tr/"
+    },
+    {
+      "id": "CT-IN-01",
+      "city": "New Delhi",
+      "country": "India",
+      "flag": "🇮🇳",
+      "lat": 28.64,
+      "lng": 77.22,
+      "count": 2,
+      "status": "contact",
+      "exposure": {
+        "linked_to": "MV Hondius shipboard cluster",
+        "linked_case_id": "case-000",
+        "date": "2026-04-01 onwards",
+        "location": "MV Hondius",
+        "type": "Direct shipboard contact"
+      },
+      "track": [
+        {
+          "date": "2026-04-01",
+          "label": "Boarded MV Hondius at Ushuaia",
+          "lat": -54.81,
+          "lng": -68.3,
+          "icon": "ship"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Disembarked at Tenerife",
+          "lat": 28.29,
+          "lng": -16.63,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Dutch evacuation flight → Eindhoven",
+          "lat": 51.45,
+          "lng": 5.37,
+          "icon": "transit"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Onward flight → New Delhi IGI",
+          "lat": 28.64,
+          "lng": 77.22,
+          "icon": "plane"
+        },
+        {
+          "date": "2026-05-10",
+          "label": "Self-monitoring — New Delhi",
+          "lat": 28.64,
+          "lng": 77.22,
+          "icon": "home"
+        }
+      ],
+      "monitoring": {
+        "day": 2,
+        "total": 21,
+        "symptomatic": false,
+        "last_check": "2026-05-12"
+      },
+      "note": "2 Indian nationals travelled via Dutch evacuation flight (Tenerife → Eindhoven) then onward to New Delhi. Under ICMR-mandated self-monitoring.",
+      "source": "ICMR",
+      "url": "https://www.icmr.gov.in/"
     }
   ],
   "news": [
