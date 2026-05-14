@@ -312,7 +312,7 @@ header{display:flex;align-items:center;justify-content:space-between;padding:0 2
 /* ── WAYPOINT MARKERS (intermediate stops on a contact track) ───── */
 .wp-marker{display:flex;align-items:center;justify-content:center;width:26px;height:26px;border-radius:50%;background:rgba(13,11,10,0.92);border:1.5px solid rgba(139,92,246,0.8);cursor:default;box-shadow:0 2px 6px rgba(0,0,0,0.6);}
 .wp-marker.confirmed{border-color:var(--red);}
-.wp-marker.wp-hub{width:32px;height:32px;border:2px solid rgba(139,92,246,1);background:rgba(139,92,246,0.15);box-shadow:0 0 10px rgba(139,92,246,0.35);}
+.wp-marker.wp-hub{width:20px;height:20px;border:1.5px solid rgba(139,92,246,0.7);background:rgba(139,92,246,0.1);box-shadow:0 0 6px rgba(139,92,246,0.25);}
 .wp-marker.wp-dest{width:26px;height:26px;border-color:var(--amber);}
 .wp-marker.wp-dest.confirmed{border-color:var(--red);}
 .leaflet-tooltip.wp-tip{background:rgba(19,17,16,0.97)!important;border:1px solid var(--border2)!important;color:var(--text)!important;font-family:'Inter',sans-serif!important;font-size:11px!important;padding:6px 9px!important;line-height:1.4!important;box-shadow:0 6px 18px rgba(0,0,0,0.6)!important;}
@@ -390,7 +390,7 @@ header{display:flex;align-items:center;justify-content:space-between;padding:0 2
     <h1 class="l-headline">Every hantavirus<br>development, <em>tracked.</em></h1>
     <p class="l-sub">Real-time monitoring of the MV Hondius Andes virus outbreak across 26 countries — including sub-national contact tracing sourced from WHO, CDC, ECDC, and national health authorities.</p>
     <div class="l-actions">
-      <button class="l-btn primary" onclick="enterApp('dashboard')">Live Map &amp; Cases</button>
+      <button class="l-btn primary" onclick="enterApp('dashboard','region')">Live Map &amp; Cases</button>
       <button class="l-btn" onclick="enterApp('dashboard','region')">Contact Trace</button>
       <button class="l-btn" onclick="enterApp('history')">History &amp; Science</button>
       <button class="l-btn" onclick="enterApp('travel')">Travel Checker</button>
@@ -1111,7 +1111,7 @@ function buildTraceLayer(){
   if(hasRomeFCO){
     L.marker(ROME_FCO,{icon:L.divIcon({
       className:'',html:`<div class="wp-marker wp-hub">${iconChar('transit')}</div>`,
-      iconSize:[32,32],iconAnchor:[16,16]
+      iconSize:[20,20],iconAnchor:[10,10]
     }),zIndexOffset:200}).bindTooltip(
       '<div class="wp-d">26 Apr 2026</div><div class="wp-l">Rome Fiumicino (FCO) — KLM592 transit hub · 4 contacts dispersed to Italy</div>',
       {className:'wp-tip',direction:'top',offset:[0,-19],opacity:1}
@@ -1150,6 +1150,7 @@ function buildTraceLayer(){
       ct.track.forEach((wp,idx)=>{
         if(idx===ct.track.length-1)return;            // destination rendered separately
         if(idx===0&&wp.icon==='ship')return;          // ship origin already drawn
+        if(Math.abs(wp.lat-ROME_FCO[0])<0.15&&Math.abs(wp.lng-ROME_FCO[1])<0.15)return; // hub marker handles FCO
         const cls=ct.status==='confirmed'?'wp-marker confirmed':'wp-marker';
         L.marker([wp.lat,wp.lng],{
           icon:L.divIcon({className:'',html:`<div class="${cls}">${iconChar(wp.icon)}</div>`,iconSize:[26,26],iconAnchor:[13,13]}),
@@ -1200,6 +1201,8 @@ function buildMap(){
   if(mapReady)return;mapReady=true;
   leafMap=L.map('map',{center:[20,10],zoom:2,minZoom:2,maxZoom:14,worldCopyJump:false,maxBounds:[[-85,-180],[85,180]],maxBoundsViscosity:1.0});
   L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',{attribution:'© <a href="https://openstreetmap.org/copyright">OpenStreetMap</a> © <a href="https://carto.com/attributions">CARTO</a>',subdomains:'abcd',maxZoom:19,noWrap:true,bounds:[[-90,-180],[90,180]]}).addTo(leafMap);
+  leafMap.fitBounds([[-80,-178],[80,178]],{animate:false});
+  leafMap.setMinZoom(leafMap.getZoom());
 
   fetch('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json').then(r=>r.json()).then(world=>{
     const countries=topojson.feature(world,world.objects.countries);
