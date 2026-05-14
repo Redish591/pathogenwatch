@@ -762,13 +762,46 @@ let CONTACTS = [
   {id:"CT-NL-01",city:"Eindhoven",country:"Netherlands",flag:"🇳🇱",lat:51.44,lng:5.48,count:8,status:"monitoring",from:SHIP_POS,route:"Dutch charter flight → Eindhoven Airport → self-quarantine",days:2,daysTotal:42,note:"Dutch charter flight landed Eindhoven 10 May carrying 8 Dutch nationals + 18 from other countries. All dispersing to home regions.",source:"RIVM",url:"https://www.rivm.nl/en/"},
 
   // ── Canada ────────────────────────────────────────────────────────────
-  {id:"CT-CA-01",city:"Bagotville, Quebec",country:"Canada",flag:"🇨🇦",lat:48.33,lng:-70.99,count:4,status:"monitoring",from:SHIP_POS,route:"MV Hondius → Tenerife → Bagotville QC → British Columbia",days:2,daysTotal:21,note:"4 Canadians flown to Bagotville QC 10 May; transferred to BC for 21-day self-isolation.",source:"PHAC Canada",url:"https://www.canada.ca/en/public-health.html"},
+  {id:"CT-CA-01",city:"Vancouver, BC",country:"Canada",flag:"🇨🇦",lat:49.25,lng:-123.12,count:4,status:"monitoring",from:SHIP_POS,route:"MV Hondius → Tenerife → Bagotville QC → Vancouver BC",days:2,daysTotal:21,note:"4 Canadians flown to Bagotville QC 10 May; transferred to Vancouver BC for 21-day self-isolation.",source:"PHAC Canada",url:"https://www.canada.ca/en/public-health.html"},
 
   // ── Singapore ─────────────────────────────────────────────────────────
   {id:"CT-SG-01",city:"Singapore",country:"Singapore",flag:"🇸🇬",lat:1.33,lng:103.82,count:2,status:"monitoring",from:SHIP_POS,route:"MV Hondius → repatriation → NCID Singapore",days:2,daysTotal:30,note:"2 residents at NCID, both PCR negative. Under 30-day quarantine per CDA protocol.",source:"CDA Singapore",url:"https://www.cda.gov.sg/"},
 
   // ── Australia ─────────────────────────────────────────────────────────
   {id:"CT-AU-01",city:"Sydney",country:"Australia",flag:"🇦🇺",lat:-33.87,lng:151.21,count:3,status:"monitoring",from:SHIP_POS,route:"MV Hondius → Tenerife → Australian govt plane → Sydney",days:2,daysTotal:42,note:"Australian nationals repatriated on government plane. Self-monitoring at home.",source:"AHPPC",url:"https://www.health.gov.au/"},
+
+  // ── Switzerland ───────────────────────────────────────────────────────
+  {id:"CT-CH-01",city:"Zürich",country:"Switzerland",flag:"🇨🇭",lat:47.37,lng:8.54,count:1,status:"confirmed",from:SHIP_POS,route:"MV Hondius → Tenerife → Zürich ZRH",days:2,daysTotal:21,note:"1 Swiss national (PCR confirmed). Hospitalised at Zürich University Hospital.",source:"FOPH Switzerland",url:"https://www.bag.admin.ch/"},
+
+  // ── Saint Kitts and Nevis ─────────────────────────────────────────────
+  {id:"CT-KN-01",city:"Basseterre",country:"Saint Kitts and Nevis",flag:"🇰🇳",lat:17.30,lng:-62.72,count:1,status:"monitoring",from:SHIP_POS,route:"MV Hondius → Tenerife → Basseterre",days:2,daysTotal:21,note:"1 national repatriated. Under 21-day home monitoring per MoH protocol.",source:"SKN Ministry of Health",url:"https://health.gov.kn/"},
+
+  // ── New Zealand ───────────────────────────────────────────────────────
+  {id:"CT-NZ-01",city:"Auckland",country:"New Zealand",flag:"🇳🇿",lat:-36.85,lng:174.76,count:2,status:"monitoring",from:SHIP_POS,route:"MV Hondius → Tenerife → Auckland AKL",days:1,daysTotal:42,note:"2 NZ nationals repatriated. Self-monitoring under MoH guidance.",source:"NZ Ministry of Health",url:"https://www.health.govt.nz/"},
+
+  // ── Denmark ───────────────────────────────────────────────────────────
+  {id:"CT-DK-01",city:"Copenhagen",country:"Denmark",flag:"🇩🇰",lat:55.68,lng:12.57,count:2,status:"monitoring",from:SHIP_POS,route:"MV Hondius → Tenerife → Copenhagen CPH",days:2,daysTotal:21,note:"2 Danish nationals repatriated. Under SSI home monitoring protocol.",source:"SSI Denmark",url:"https://www.ssi.dk/"},
+
+  // ── Sweden ────────────────────────────────────────────────────────────
+  {id:"CT-SE-01",city:"Stockholm",country:"Sweden",flag:"🇸🇪",lat:59.33,lng:18.07,count:2,status:"monitoring",from:SHIP_POS,route:"MV Hondius → Tenerife → Stockholm ARN",days:2,daysTotal:21,note:"2 Swedish nationals repatriated. Under Folkhälsomyndigheten home monitoring.",source:"Folkhälsomyndigheten",url:"https://www.folkhalsomyndigheten.se/"},
+
+  // ── Japan ─────────────────────────────────────────────────────────────
+  {id:"CT-JP-01",city:"Tokyo",country:"Japan",flag:"🇯🇵",lat:35.68,lng:139.69,count:2,status:"contact",from:SHIP_POS,route:"MV Hondius → Tenerife → London LHR → Tokyo NRT",days:2,daysTotal:21,note:"2 Japanese nationals repatriated via London Heathrow. Under NIID self-monitoring protocol.",source:"NIID Japan",url:"https://www.niid.go.jp/"},
+
+  // ── Philippines ───────────────────────────────────────────────────────
+  {id:"CT-PH-01",city:"Manila",country:"Philippines",flag:"🇵🇭",lat:14.60,lng:121.00,count:1,status:"contact",from:SHIP_POS,route:"MV Hondius → Tenerife → Manila NAIA",days:2,daysTotal:21,note:"1 Filipino national repatriated. Under DOH self-monitoring protocol.",source:"DOH Philippines",url:"https://www.doh.gov.ph/"},
+
+  // ── Belgium ───────────────────────────────────────────────────────────
+  {id:"CT-BE-01",city:"Brussels",country:"Belgium",flag:"🇧🇪",lat:50.85,lng:4.35,count:1,status:"contact",from:SHIP_POS,route:"MV Hondius → Tenerife → Eindhoven → Brussels",days:2,daysTotal:21,note:"1 Belgian national repatriated via Dutch evacuation flight through Eindhoven.",source:"Sciensano Belgium",url:"https://www.sciensano.be/"},
+
+  // ── Greece ────────────────────────────────────────────────────────────
+  {id:"CT-GR-01",city:"Athens",country:"Greece",flag:"🇬🇷",lat:37.98,lng:23.73,count:1,status:"contact",from:SHIP_POS,route:"MV Hondius → Tenerife → Athens ATH",days:2,daysTotal:21,note:"1 Greek national repatriated. Under EODY home monitoring protocol.",source:"EODY Greece",url:"https://eody.gov.gr/"},
+
+  // ── Portugal ──────────────────────────────────────────────────────────
+  {id:"CT-PT-01",city:"Lisbon",country:"Portugal",flag:"🇵🇹",lat:38.72,lng:-9.14,count:1,status:"contact",from:SHIP_POS,route:"MV Hondius → Tenerife → Lisbon LIS",days:2,daysTotal:21,note:"1 Portuguese national repatriated. Under DGS home monitoring protocol.",source:"DGS Portugal",url:"https://www.dgs.pt/"},
+
+  // ── Ukraine ───────────────────────────────────────────────────────────
+  {id:"CT-UA-01",city:"Kyiv",country:"Ukraine",flag:"🇺🇦",lat:50.45,lng:30.52,count:1,status:"contact",from:SHIP_POS,route:"MV Hondius → Tenerife → Kyiv Boryspil",days:2,daysTotal:21,note:"1 Ukrainian national repatriated. Under MoH Ukraine self-monitoring protocol.",source:"MoH Ukraine",url:"https://moz.gov.ua/"},
 
   // ── Turkey ────────────────────────────────────────────────────────────
   {id:"CT-TR-01",city:"Istanbul",country:"Turkey",flag:"🇹🇷",lat:41.01,lng:28.95,count:3,status:"monitoring",from:SHIP_POS,route:"MV Hondius → Tenerife → Istanbul IST",days:2,daysTotal:21,note:"3 Turkish nationals repatriated via direct flight from Tenerife to Istanbul on 10 May. Under 21-day home monitoring per MoH protocol.",source:"Ministry of Health Turkey",url:"https://hsgm.saglik.gov.tr/"},
