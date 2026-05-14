@@ -307,8 +307,11 @@ header{display:flex;align-items:center;justify-content:space-between;padding:0 2
 @keyframes region-pulse{0%,100%{fill-opacity:0.20;}50%{fill-opacity:0.55;}}
 
 /* ── WAYPOINT MARKERS (intermediate stops on a contact track) ───── */
-.wp-marker{display:flex;align-items:center;justify-content:center;width:20px;height:20px;border-radius:50%;background:var(--s2);border:1.5px solid rgba(139,92,246,0.7);font-size:11px;line-height:1;cursor:default;}
+.wp-marker{display:flex;align-items:center;justify-content:center;width:26px;height:26px;border-radius:50%;background:rgba(13,11,10,0.92);border:1.5px solid rgba(139,92,246,0.8);cursor:default;box-shadow:0 2px 6px rgba(0,0,0,0.6);}
 .wp-marker.confirmed{border-color:var(--red);}
+.wp-marker.wp-hub{width:32px;height:32px;border:2px solid rgba(139,92,246,1);background:rgba(139,92,246,0.15);box-shadow:0 0 10px rgba(139,92,246,0.35);}
+.wp-marker.wp-dest{width:26px;height:26px;border-color:var(--amber);}
+.wp-marker.wp-dest.confirmed{border-color:var(--red);}
 .leaflet-tooltip.wp-tip{background:rgba(19,17,16,0.97)!important;border:1px solid var(--border2)!important;color:var(--text)!important;font-family:'Inter',sans-serif!important;font-size:11px!important;padding:6px 9px!important;line-height:1.4!important;box-shadow:0 6px 18px rgba(0,0,0,0.6)!important;}
 .leaflet-tooltip.wp-tip::before{display:none!important;}
 .wp-d{font-family:'JetBrains Mono',monospace;font-size:9px;color:var(--muted);letter-spacing:0.06em;margin-bottom:2px;}
@@ -1044,7 +1047,14 @@ function arcPoints(from, to, n){
 }
 
 function iconChar(t){
-  return {plane:'✈',ship:'🚢',transit:'⇄',home:'🏠',hospital:'🏥'}[t]||'•';
+  const f='fill="white"';
+  return {
+    plane:`<svg viewBox="0 0 24 24" width="13" height="13" ${f}><path d="M21 16v-2l-8-5V3.5c0-.83-.67-1.5-1.5-1.5S10 2.67 10 3.5V9l-8 5v2l8-2.5V19l-2 1.5V22l3.5-1 3.5 1v-1.5L13 19v-5.5l8 2.5z"/></svg>`,
+    hospital:`<svg viewBox="0 0 24 24" width="13" height="13" ${f}><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 11h-4v4h-4v-4H6v-4h4V6h4v4h4v4z"/></svg>`,
+    transit:`<svg viewBox="0 0 24 24" width="12" height="12" ${f}><path d="M6.99 11L3 15l3.99 4v-3H14v-2H6.99v-3zM21 9l-3.99-4v3H10v2h7.01v3L21 9z"/></svg>`,
+    ship:`<svg viewBox="0 0 24 24" width="13" height="13" ${f}><path d="M20 21c-1.39 0-2.78-.47-4-1.32-2.44 1.71-5.56 1.71-8 0C6.78 20.53 5.39 21 4 21H2v2h2c1.38 0 2.74-.35 4-.99 2.52 1.29 5.48 1.29 8 0 1.26.64 2.62.99 4 .99h2v-2h-2zM3.95 19H4c1.6 0 3.02-.88 4-2 .98 1.12 2.4 2 4 2s3.02-.88 4-2c.98 1.12 2.4 2 4 2h.05l1.89-6.68c.08-.26.06-.54-.06-.78s-.34-.42-.6-.5L20 10.62V6c0-1.1-.9-2-2-2h-3V1H9v3H6c-1.1 0-2 .9-2 2v4.62l-1.29.42c-.26.08-.48.26-.6.5s-.15.52-.06.78L3.95 19zM6 6h12v3.97L12 8 6 9.97V6z"/></svg>`,
+    home:`<svg viewBox="0 0 24 24" width="12" height="12" ${f}><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>`,
+  }[t]||'•';
 }
 
 function ctPopupHTML(ct){
@@ -1093,6 +1103,22 @@ function buildTraceLayer(){
     iconAnchor:[36,0]
   }),interactive:false}).addTo(traceLayerGroup);
 
+  // Rome Fiumicino hub — detect from contact tracks
+  const hasRomeFCO=CONTACTS.some(c=>c.track&&c.track.some(w=>Math.abs(w.lat-ROME_FCO[0])<0.15&&Math.abs(w.lng-ROME_FCO[1])<0.15));
+  if(hasRomeFCO){
+    L.marker(ROME_FCO,{icon:L.divIcon({
+      className:'',html:`<div class="wp-marker wp-hub">${iconChar('transit')}</div>`,
+      iconSize:[32,32],iconAnchor:[16,16]
+    }),zIndexOffset:200}).bindTooltip(
+      '<div class="wp-d">26 Apr 2026</div><div class="wp-l">Rome Fiumicino (FCO) — KLM592 transit hub · 4 contacts dispersed to Italy</div>',
+      {className:'wp-tip',direction:'top',offset:[0,-19],opacity:1}
+    ).addTo(traceLayerGroup);
+    L.marker([ROME_FCO[0]+0.9,ROME_FCO[1]-0.2],{icon:L.divIcon({
+      className:'',html:'<div style="font-family:\'JetBrains Mono\',monospace;font-size:9px;color:rgba(139,92,246,0.9);white-space:nowrap;">FCO</div>',
+      iconAnchor:[12,0]
+    }),interactive:false}).addTo(traceLayerGroup);
+  }
+
   CONTACTS.forEach(ct=>{
     // Build segment list — prefer track[], fall back to legacy from→dest
     const segs=[];
@@ -1104,42 +1130,57 @@ function buildTraceLayer(){
       segs.push([ct.from,[ct.lat,ct.lng]]);
     }
 
-    // Draw arcs (progressively brighter toward destination)
+    // Draw arcs — first segment amber (evacuation), later segments violet (sub-arc from transit hub)
     const baseCol=ct.status==='confirmed'?[220,38,38]:ct.status==='monitoring'?[217,119,6]:[139,92,246];
-    segs.forEach((seg,idx)=>{
-      const intensity=0.45+(segs.length>1?idx/(segs.length-1):0.5)*0.4;
-      const col=`rgba(${baseCol[0]},${baseCol[1]},${baseCol[2]},${intensity.toFixed(2)})`;
+    segs.forEach((seg,segIdx)=>{
+      const isSub=segIdx>0&&segs.length>1;
+      const col=isSub
+        ?`rgba(139,92,246,${(0.5+segIdx*0.18).toFixed(2)})`
+        :`rgba(${baseCol[0]},${baseCol[1]},${baseCol[2]},${(0.45+(segs.length>1?segIdx/(segs.length-1):0.5)*0.4).toFixed(2)})`;
       const w=ct.count>=10?2:ct.count>=3?1.5:1.1;
       const pts=arcPoints(seg[0],seg[1]);
-      L.polyline(pts,{color:col,weight:w,opacity:0.78,className:'ct-arc-line',interactive:false}).addTo(traceLayerGroup);
+      L.polyline(pts,{color:col,weight:w,opacity:0.85,className:isSub?'ct-arc-sub':'ct-arc-line',interactive:false}).addTo(traceLayerGroup);
     });
 
     // Waypoint markers (all except the final destination)
     if(ct.track){
       ct.track.forEach((wp,idx)=>{
-        if(idx===ct.track.length-1)return;            // destination is the contact dot
+        if(idx===ct.track.length-1)return;            // destination rendered separately
         if(idx===0&&wp.icon==='ship')return;          // ship origin already drawn
         const cls=ct.status==='confirmed'?'wp-marker confirmed':'wp-marker';
         L.marker([wp.lat,wp.lng],{
-          icon:L.divIcon({className:'',html:`<div class="${cls}">${iconChar(wp.icon)}</div>`,iconSize:[20,20],iconAnchor:[10,10]}),
+          icon:L.divIcon({className:'',html:`<div class="${cls}">${iconChar(wp.icon)}</div>`,iconSize:[26,26],iconAnchor:[13,13]}),
           zIndexOffset:50
         }).bindTooltip(
           `<div class="wp-d">${wp.date}</div><div class="wp-l">${wp.label}</div>`,
-          {className:'wp-tip',direction:'top',offset:[0,-14],opacity:1}
+          {className:'wp-tip',direction:'top',offset:[0,-16],opacity:1}
         ).addTo(traceLayerGroup);
       });
     }
 
-    // Destination dot — sized by count, coloured by status
+    // Destination marker — icon-based for hospital/plane, circle otherwise
     const r=Math.min(Math.max(6,5+ct.count*0.18),16);
     const nodeCol=ct.status==='confirmed'?'#dc2626':ct.status==='monitoring'?'#d97706':'#8b5cf6';
-    const cm=L.circleMarker([ct.lat,ct.lng],{
-      radius:r,fillColor:nodeCol,color:'rgba(0,0,0,0.55)',weight:1.5,
-      opacity:1,fillOpacity:0.86
-    });
-    cm.bindPopup(ctPopupHTML(ct),{maxWidth:300,className:'ct-popup'});
-    cm.on('click',()=>{activeCountry=ct.id;});
-    cm.addTo(traceLayerGroup);
+    const finalIcon=ct.track&&ct.track.length?ct.track[ct.track.length-1].icon:null;
+    if(finalIcon==='hospital'||finalIcon==='plane'){
+      const cls=(ct.status==='confirmed'?'wp-marker wp-dest confirmed':'wp-marker wp-dest');
+      const sz=26;
+      const dm=L.marker([ct.lat,ct.lng],{
+        icon:L.divIcon({className:'',html:`<div class="${cls}">${iconChar(finalIcon)}</div>`,iconSize:[sz,sz],iconAnchor:[sz/2,sz/2]}),
+        zIndexOffset:80
+      });
+      dm.bindPopup(ctPopupHTML(ct),{maxWidth:300,className:'ct-popup'});
+      dm.on('click',()=>{activeCountry=ct.id;});
+      dm.addTo(traceLayerGroup);
+    } else {
+      const cm=L.circleMarker([ct.lat,ct.lng],{
+        radius:r,fillColor:nodeCol,color:'rgba(0,0,0,0.55)',weight:1.5,
+        opacity:1,fillOpacity:0.86
+      });
+      cm.bindPopup(ctPopupHTML(ct),{maxWidth:300,className:'ct-popup'});
+      cm.on('click',()=>{activeCountry=ct.id;});
+      cm.addTo(traceLayerGroup);
+    }
 
     // Count label for clusters of 3+
     if(ct.count>=3){
