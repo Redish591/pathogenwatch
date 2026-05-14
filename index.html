@@ -137,9 +137,9 @@ header{display:flex;align-items:center;justify-content:space-between;padding:0 2
 .ph-ct .ph-label{color:var(--violet);}
 
 /* MAP */
-.map-wrap{position:relative;overflow:hidden;background:#1a1c24;}
+.map-wrap{position:relative;overflow:hidden;background:#090807;}
 #map{width:100%;height:100%;}
-.leaflet-container{background:#1a1c24!important;font-family:'Inter',sans-serif!important;}
+.leaflet-container{background:#090807!important;font-family:'Inter',sans-serif!important;}
 .leaflet-control-zoom{border:none!important;}
 .leaflet-control-zoom a{background:var(--s2)!important;border:1px solid var(--border2)!important;color:var(--text)!important;border-bottom:none!important;font-size:16px!important;line-height:26px!important;}
 .leaflet-control-zoom a:last-child{border-bottom:1px solid var(--border2)!important;}
@@ -1199,8 +1199,12 @@ function buildTraceLayer(){
 /* ── MAP ─────────────────────────────────────────────────────────────── */
 function buildMap(){
   if(mapReady)return;mapReady=true;
-  leafMap=L.map('map',{center:[20,10],zoom:2,minZoom:2,maxZoom:14,worldCopyJump:false,maxBounds:[[-85,-180],[85,180]],maxBoundsViscosity:1.0});
+  const WORLD_BOUNDS=L.latLngBounds([[-82,-178],[82,178]]);
+  leafMap=L.map('map',{center:[20,10],zoom:2,minZoom:1,maxZoom:14,worldCopyJump:false,maxBounds:[[-85,-180],[85,180]],maxBoundsViscosity:1.0});
   L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',{attribution:'© <a href="https://openstreetmap.org/copyright">OpenStreetMap</a> © <a href="https://carto.com/attributions">CARTO</a>',subdomains:'abcd',maxZoom:19,noWrap:true,bounds:[[-90,-180],[90,180]]}).addTo(leafMap);
+  function lockWorldBounds(){leafMap.invalidateSize();const z=leafMap.getBoundsZoom(WORLD_BOUNDS);leafMap.setMinZoom(z);if(leafMap.getZoom()<z)leafMap.setZoom(z,{animate:false});}
+  setTimeout(lockWorldBounds,200);
+  window.addEventListener('resize',lockWorldBounds);
 
   fetch('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json').then(r=>r.json()).then(world=>{
     const countries=topojson.feature(world,world.objects.countries);
