@@ -156,6 +156,18 @@ The HTML contains inline fallback copies of `CASES`, `CONTACTS`, `TRAVEL`, and `
 
 **Manual sync still required** for inline `CASES`, `CONTACTS`, `TRAVEL`, and `NEWS_STATIC` arrays — those exist for `file://` previews and slow-CDN loads, and the bot doesn't currently rewrite arrays.
 
+## AI badge
+
+A small violet **AI** pill renders in the tab nav next to the last-updated timestamp whenever `data.json` contains `"ai_active": true`. The bot writes this field every run when `ANTHROPIC_API_KEY` is set. Hovering the pill shows a CSS tooltip (drops below the pill, `z-index:999`) explaining what's active.
+
+CSS classes: `.ai-badge`, `.ai-badge::after` (tooltip). Badge is injected by `loadLiveData()` in `index.html` — removed and re-added on each data fetch so it stays in sync.
+
+## ANTHROPIC_API_KEY
+
+Set as a GitHub Actions secret at: Settings → Secrets → Actions → `ANTHROPIC_API_KEY`.
+For local use: `scripts/.env` (gitignored). ~$1–2/month on Claude Haiku at 4 runs/day.
+Check balance at console.anthropic.com. Every AI decision is logged in `changelog.txt` with reasoning.
+
 ## Pending / TODO
 
 1. **`preview.png`** — OG/Twitter card image is referenced in meta tags but the file doesn't exist. Should be a 1200×630 screenshot of the dashboard. Without it social shares show no image.
