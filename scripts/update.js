@@ -431,6 +431,7 @@ async function main() {
   if (!hasNews && !hasStats) {
     log('No content changes. Refreshing timestamp only.');
     data.last_updated = new Date().toISOString();
+    data.ai_active = !!process.env.ANTHROPIC_API_KEY;
     writeFile(DATA_PATH, JSON.stringify(data, null, 2) + '\n');
     return;
   }
@@ -441,6 +442,7 @@ async function main() {
   }
 
   data.last_updated = new Date().toISOString();
+  data.ai_active = !!process.env.ANTHROPIC_API_KEY;
   writeFile(DATA_PATH, JSON.stringify(data, null, 2) + '\n');
 
   /* ── sync inline fallback if stats changed ── */

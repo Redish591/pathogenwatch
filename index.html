@@ -89,6 +89,7 @@ header{display:flex;align-items:center;justify-content:space-between;padding:0 2
 .tab-btn:hover:not(.active){color:var(--text);}
 .update-indicator{margin-left:auto;display:flex;align-items:center;gap:7px;font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--muted);}
 .update-dot{width:5px;height:5px;border-radius:50%;background:var(--emerald);}
+.ai-badge{font-size:10px;padding:2px 6px;border-radius:3px;background:rgba(139,92,246,0.15);border:1px solid rgba(139,92,246,0.4);color:rgba(139,92,246,0.9);cursor:default;letter-spacing:0.05em;}
 
 /* CONTENT */
 .content-area{flex:1;overflow:hidden;position:relative;}
@@ -1284,8 +1285,19 @@ async function loadLiveData(){
     if(d.last_updated){
       const u=new Date(d.last_updated);
       const lbl=document.getElementById('update-label');
-      if(lbl)lbl.textContent=`auto-updated ${u.toLocaleDateString('en-GB',{day:'2-digit',month:'short'})} ${u.toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'})}`;
-    }
+      if(lbl){
+        lbl.textContent=`auto-updated ${u.toLocaleDateString('en-GB',{day:'2-digit',month:'short'})} ${u.toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'})}`;
+        const existing=document.getElementById('ai-badge');
+        if(existing)existing.remove();
+        if(d.ai_active){
+          const badge=document.createElement('span');
+          badge.id='ai-badge';
+          badge.className='ai-badge';
+          badge.textContent='AI';
+          badge.title='AI news filtering + case extraction active';
+          lbl.parentNode.appendChild(badge);
+        }
+      }
   }catch(e){
     // silent fallback to inline data — happens on file:// or if data.json missing
   }
