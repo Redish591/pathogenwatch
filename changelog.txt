@@ -588,3 +588,11 @@ the bot are listed under the timestamp.
   + News | Can hantavirus spread through the air? What we do and don’t know
   + News | The world's reaction to hantavirus is tinged by echoes of something el
   + News | Another Californian was exposed to hantavirus in deadly cruise ship ou
+
+[2026-05-14T16:35:35.097Z] 6 change(s):
+  ~ AI filtered 1 low-quality item(s)
+  + News | Hantavirus Doesn’t Spread Easily but Officials May Be Downplaying Risk
+  + News | Argentina Races to Find Origin of Hantavirus Contagion
+  + News | 17 Americans from hantavirus-hit ship arrive in U.S., including 1 who 
+  + News | Hantavirus strikes a cruise ship: A 'perfect storm' or a warning sign?
+  + News | Hantavirus outbreak: 2 Georgia residents exposed arrive at Emory Unive

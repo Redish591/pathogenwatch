@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T12:53:31.453Z",
+  "last_updated": "2026-05-14T16:35:35.096Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -1697,6 +1697,51 @@
   "news": [
     {
       "src": "News",
+      "time": "11 May 15:15",
+      "title": "Hantavirus outbreak: 2 Georgia residents exposed arrive at Emory University Hospital for evaluation",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/hantavirus-outbreak-2-georgia-residents-exposed-arrive-at-emory-university-hospital-for-evaluation/ar-AA22UTRY",
+      "live": true,
+      "added": "2026-05-14T16:35:32.925Z"
+    },
+    {
+      "src": "News",
+      "time": "12 May 11:08",
+      "title": "17 Americans from hantavirus-hit ship arrive in U.S., including 1 who tested positive",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/17-americans-from-hantavirus-hit-ship-arrive-in-us-including-1-who-tested-positive/ar-AA22O3g7",
+      "live": true,
+      "added": "2026-05-14T16:35:32.924Z"
+    },
+    {
+      "src": "News",
+      "time": "14 May 03:00",
+      "title": "Hantavirus strikes a cruise ship: A 'perfect storm' or a warning sign?",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/medical/hantavirus-strikes-a-cruise-ship-a-perfect-storm-or-a-warning-sign/ar-AA23aZj5",
+      "live": true,
+      "added": "2026-05-14T16:35:32.924Z"
+    },
+    {
+      "src": "News",
+      "time": "14 May 08:55",
+      "title": "Hantavirus Doesn’t Spread Easily but Officials May Be Downplaying Risks",
+      "tag": "u",
+      "url": "https://www.nytimes.com/2026/05/14/health/hantavirus-spread-risk.html",
+      "live": true,
+      "added": "2026-05-14T16:35:32.922Z"
+    },
+    {
+      "src": "News",
+      "time": "14 May 08:09",
+      "title": "Argentina Races to Find Origin of Hantavirus Contagion",
+      "tag": "u",
+      "url": "https://www.nytimes.com/2026/05/14/world/americas/hantavirus-cruise-ship-argentina.html",
+      "live": true,
+      "added": "2026-05-14T16:35:32.922Z"
+    },
+    {
+      "src": "News",
       "time": "14 May 03:33",
       "title": "Fact Check: Andes strain of hantavirus is transmissible in humans",
       "tag": "u",
@@ -2549,51 +2594,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON3hLRmc1TnpMY3VocHBUNEViSEt2WFZabWtpX0xpbTU1ZkhhOGNIU1hwOXljeV81c2J3QTFYZHFFQThrNXR4Q0R6blMwRllqaDB6c1BzYldkWE1KUWlRRjlkV0c4N2I0Z2hBbUNUN0J1ekY5NG1PVUJfcllwb0cwTGVXb25JYUMxX0hpd0VwWUdaNC05UVpwYlVaRkV0X0ZBS2FON0gyRXlTMlVDTlB0aGctRzRhQlBEc1U2aTI1NnB4X00?oc=5",
       "live": true,
       "added": "2026-05-14T09:39:56.767Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 14:16",
-      "title": "Woman isolating on British island in South Pacific after hantavirus contact - BBC",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CWmFDZ0tra2RlX3pBSE5hVWhWZjNERVl2VkdMT0REcUZYSWFDSXJnYm50MmI4SEV3STBQZTIwVzZGY1p4Mkk4U1BrRndvaFhUZnZ4eC1Mc1Mzdw?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.767Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 05:32",
-      "title": "Public risk of hantavirus 'very low' in Maryland, as officials monitor two residents for symptoms - Maryland Matters",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMm9ZX1daeEV0NTZwMUVJRmJLd1JtcmtNUTNWWXd1bllUY1JyRlRwZHZpbVJsTTQzanpvNzVXM09PZ2pRMUxwR1ZVVnVaaFA5MnVLazdtRktWMUtGU1ZPcVVBeHZ3WGNaYnZTMVAxckRaRF8wY3Q4UnlULUxuZUFaWkx6SXhhN3RDM01zMmc3cl9sUzRmdjM1TzJzRkZ3OWF3a2pDR25ONGR2X1B0YnJrNU93c0doWHpyd1ZUTUJwdU9hY1VxcGpqWE5keVVXaXc?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.767Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 13:07",
-      "title": "Cruise ship passenger making best of quarantine in US after hantavirus outbreak - AP News",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUzhkazRHSUdSekVyaGh0M3FTVk1GQ0VJdWtWeC1wUldnb2NnSEFEQVJaTFpLLXcyZ2lsVDBTbWpKOGN6X1pLM1I3SWlkbUhaTGpVZjVDS2Nkbm0ycDlfZzBlbnpjMjlQcHo5SzZGLWNfRGJkbTk1em0yYnFQeU9ESzVWVDk0RVQwOUZkZy1vQzNaRjVnR3pJTEZPODZPNHJCS2wxSEx3?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.767Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 02:36",
-      "title": "Doctor on hantavirus ship tests negative, leaves isolation unit - WGEM",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR2U3aERFV0VYVjhOcHZuN1NZbU9xNXpJMXhrMmhGT2ljUUdtWmdpak1YN3p3WXpiaUFVUU5GV2dpQkhEaDBBZ2ZoTnQ1SDBic2ZvdFNPX3N1blBtVVl0cnp1RUstM3VqYTkzMlNDcE9US0NzUjBBcXVzOHlBUFNUb2NaTTVKNGZiREJsMGNrVzliWmN6SGhRdnlTRW5zRXc?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.767Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 05:22",
-      "title": "Fifth California resident exposed to hantavirus on cruise ship, health officials say - San Francisco Chronicle",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbHA5UUxqS2hsU0JyYlhJSWdoWkJrUE9oTm5fTF9HVDBzMkRLMmg2VEtCaUpCMEtrZWNQeThQM1hoRHhCVTVaQl9vQnc2NXJrODB0azc4TEMxejNnRmZqdlpSVU9Od1VQbnhpeS1mMnFzd0tjLVRmWVlUNjhyY1Z5RlU0ZExtSDFIT3VMVkx2S24?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.766Z"
     }
   ],
   "travel": [
