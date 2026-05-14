@@ -4,7 +4,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project overview
 
-PathogenWatch is a **single-file static HTML application** — `index.html`. There is no build step, no package manager, no server. Open the file directly in a browser to run it. All dependencies are loaded from CDN at runtime.
+PathogenWatch is a **single-file static HTML application** — `index.html`. There is no build step, no package manager, no server. All dependencies are loaded from CDN at runtime.
+
+**Live site:** https://redish591.github.io/pathogenwatch/
+**GitHub repo:** https://github.com/Redish591/pathogenwatch (public, user: Redish591)
 
 ## Running / developing
 
@@ -13,9 +16,7 @@ Open `index.html` directly in a browser, or serve it locally:
 ```
 # Python (any directory)
 python -m http.server 8080
-
-# Node (if npx available)
-npx serve .
+# then visit http://localhost:8080/
 ```
 
 There are no tests, no lint commands, and no compilation step.
@@ -24,66 +25,97 @@ There are no tests, no lint commands, and no compilation step.
 
 ### Single-file structure
 
-All HTML, CSS, and JavaScript live in `pathogenwatch.html` in this order:
+All HTML, CSS, and JavaScript live in `index.html` in this order:
 
 1. `<style>` — CSS variables + all component styles (no external stylesheet)
 2. HTML body — landing screen, header, tab nav, three tab panels
-3. `<script>` — data arrays, then all JS functions, then init calls at the bottom
+3. `<script>` — inline fallback data arrays, then all JS functions, then init calls at the bottom
 
-### Data layer (top of `<script>`)
+### Data layer
 
-Three main data arrays drive all UI:
+All live data is in `data.json` (fetched on load via `fetch('./data.json')`). The HTML contains inline fallback copies of the same arrays for `file://` usage. Keys:
 
-- **`CASES`** — country-level outbreak entries. Each entry has `{name, flag, status, cases, deaths, city, lat, lon, note, iso, sources[]}`. `iso` is the numeric ISO 3166-1 code (as string) used to match TopoJSON country features for choropleth coloring.
-- **`TRAVEL`** — travel risk entries per country `{name, flag, risk, summary, rec}`. Risk levels: `extreme > high > moderate > low > minimal`.
-- **`NEWS_STATIC`** — static news feed items `{src, time, title, tag, url}`. Tags: `c` (confirmed), `d` (death), `w` (WHO), `u` (update).
-- **`CONTACTS`** — sub-national contact trace nodes `{id, city, country, flag, lat, lng, count, status, from, route, days, daysTotal, note, source, url}`. `from` is a `[lat, lng]` coordinate for the arc origin — either `SHIP_POS` (Tenerife) or `ROME_FCO` (Italy flight contacts).
+- **`cases[]`** — country-level outbreak entries: `{name, flag, status, cases, deaths, city, lat, lon, note, iso, sources[]}`. `iso` is zero-padded 3-digit ISO 3166-1 numeric string (e.g. `"792"` for Turkey) used for choropleth. `Tristan da Cunha` has `iso: null` — intentional, no choropleth fill.
+- **`travel[]`** — travel risk per country `{name, flag, risk, summary, rec}`. Risk levels: `extreme > high > moderate > low > minimal`.
+- **`news[]`** — feed items `{src, time, title, tag, url}`. Tags: `c` (confirmed), `d` (death), `w` (WHO), `u` (update).
+- **`contacts[]`** — sub-national contact trace nodes `{id, city, country, flag, lat, lng, count, status, from, route, days, daysTotal, note, source, url}`. `from` is `[lat, lng]` arc origin — either `SHIP_POS = [28.29, -16.63]` (Tenerife) or `ROME_FCO = [41.80, 12.25]`.
+- **`stats{}`** — header numbers: `confirmed_cases`, `deaths`, `countries`, `contacts_traced`.
+- **`last_updated`** — ISO timestamp shown in the UI tab nav.
 
-Two constants define arc origins: `SHIP_POS = [28.29, -16.63]` and `ROME_FCO = [41.80, 12.25]`.
+`regions.json` is fetched separately for sub-regional choropleth detail.
 
 ### Map layer (Leaflet + TopoJSON)
 
 `buildMap()` runs once (guarded by `mapReady` flag), triggered 400ms after `enterApp()`. It:
 1. Initialises a Leaflet map on `#map` with a dark CartoDB tile layer
-2. Fetches world TopoJSON from jsDelivr CDN and builds a choropleth using `isoMap` (a lookup of ISO code → CASES entry built at startup)
+2. Fetches world TopoJSON from jsDelivr CDN and builds a choropleth using `isoMap` (a lookup of ISO code → cases entry built at startup)
 3. Draws the ship route polyline and waypoint markers
-4. Adds `L.marker` for each CASES entry with pulsing divIcon for confirmed/suspected
+4. Adds `L.marker` for each cases entry with pulsing divIcon for confirmed/suspected
 
 `colFor(status)` maps status strings to hex colors — update this if adding new statuses.
 
 ### Contact trace layer
 
-`buildTraceLayer()` creates a `traceLayerGroup` (Leaflet LayerGroup) containing:
-- A ship origin marker at Tenerife with a CSS pulse animation
-- A hollow waypoint marker at Rome Fiumicino
-- One arc (dashed, animated via `.ct-arc-line` / `.ct-arc-sub` CSS classes) per CONTACTS entry, drawn using `arcPoints(from, to)` which computes a quadratic Bézier curve with a perpendicular midpoint offset
-- One `L.circleMarker` per contact node, radius scaled by `count`
+`buildTraceLayer()` creates a `traceLayerGroup` (Leaflet LayerGroup) with:
+- Ship origin marker at Tenerife with CSS pulse animation
+- Hollow waypoint marker at Rome Fiumicino
+- One animated arc per contacts entry (quadratic Bézier via `arcPoints(from, to)`)
+- One `L.circleMarker` per node, radius scaled by `count`
 
-The layer is toggled via `showTraceLayer()` / `hideTraceLayer()`, called from `setFilter('contacts', btn)`. The layer is lazily built on first activation.
-
-Arc animation works because Leaflet sets `className` directly on the SVG `<path>` element, so `stroke-dasharray` + `animation: dashflow` CSS applies directly.
+Toggled via `showTraceLayer()` / `hideTraceLayer()` from `setFilter('contacts', btn)`. Lazily built on first activation.
 
 ### Tab + filter state
 
 - `switchTab(name, btn)` shows/hides `.tab-content` divs
-- `setFilter(f, btn)` drives the left panel: `'contacts'` activates the trace layer and calls `renderContactList()`; any other value calls `renderList()` and hides the trace layer
+- `setFilter(f, btn)` drives the left panel
 - `activeFilter` and `activeCountry` are module-level globals
-- `selectContact(id)` sets `activeCountry` to the contact ID and calls `leafMap.flyTo()`
+- `selectContact(id)` calls `leafMap.flyTo()`
 
 ### News feed
 
-`fetchLiveNews()` tries to pull the WHO RSS feed via `rss2json.com` on load. On success it prepends live items to `NEWS_STATIC`; on failure it falls back to static data silently.
+`fetchLiveNews()` tries WHO RSS via `rss2json.com` on load as a secondary live source. Falls back silently. Primary news comes from `data.json` which is updated by the cron workflow.
 
 ## Key conventions
 
-- CSS uses `var(--*)` custom properties defined in `:root`. Color names: `--red`, `--amber`, `--sky`, `--violet`, `--emerald` for the five status levels.
-- All monospace text (badges, stats, labels) uses `'JetBrains Mono'`. Display headings use `'DM Serif Display'`.
-- ISO codes in `CASES` must be zero-padded to 3 digits (e.g. `"028"` not `"28"`) to match TopoJSON feature IDs. `isoMap` is built with `String(c.iso).padStart(3,'0')`.
-- `Tristan da Cunha` has `iso: null` and gets no choropleth fill — intentional.
+- CSS uses `var(--*)` custom properties. Status colors: `--red`, `--amber`, `--sky`, `--violet`, `--emerald`.
+- Monospace text uses `'JetBrains Mono'`. Display headings use `'DM Serif Display'`.
+- ISO codes in `cases[]` must be zero-padded to 3 digits. `isoMap` builds with `String(c.iso).padStart(3,'0')`.
 
-## Planned GitHub Actions self-update (not yet implemented)
+## Auto-update pipeline
 
-The intended next step is:
-1. Extract `CASES`, `NEWS_STATIC`, `TRAVEL`, `CONTACTS` into a `data.json`
-2. Have `pathogenwatch.html` `fetch('data.json')` on load
-3. A GitHub Actions workflow (`.github/workflows/update.yml`) running on a cron schedule fetches WHO DON + CDC HAN + ECDC RSS feeds, parses country mentions, updates `data.json`, and commits back — triggering a GitHub Pages rebuild
+`.github/workflows/update.yml` runs every 6 hours (cron `0 */6 * * *`):
+1. `npm install` in `scripts/`
+2. `node scripts/update.js` — fetches 4 Google News RSS feeds, filters by KEYWORDS regex, dedupes by URL + title, caps news at 100 items
+3. Commits `data.json` + `changelog.txt` back to `main` if anything changed
+4. GitHub Pages rebuilds automatically
+
+**The bot only ever modifies `news[]`.** It never touches `cases`, `contacts`, or `travel` — those are manual.
+
+### Why Google News RSS (not official feeds)
+
+WHO, CDC HAN, ECDC, and ProMED RSS endpoints all return 404 as of May 2026. Google News RSS (`news.google.com/rss/search?q=...`) aggregates from all those sources. The 4 feeds used:
+- `q=hantavirus` — broad
+- `q="andes+virus"+OR+hondius` — outbreak-specific
+- `q=hantavirus+site:who.int` — WHO items, tagged `w`
+- `q=hantavirus+site:cdc.gov` — CDC items, tagged `c`
+
+## Deployment
+
+- GitHub Pages, branch `main`, root `/`
+- Actions write permission enabled (Settings → Actions → General → Read and write)
+- Node.js 24 in workflow (bumped from 20 which is deprecated June 2026)
+
+## SEO
+
+Added to `<head>` of `index.html`:
+- `<meta name="description">`, keywords, robots, canonical
+- Open Graph + Twitter Card tags (reference `preview.png` — **not yet created**)
+- Google Search Console verification tag
+- `sitemap.xml` submitted to Search Console
+
+## Pending / TODO
+
+1. **`preview.png`** — OG/Twitter card image is referenced in meta tags but the file doesn't exist. Should be a 1200×630 screenshot of the dashboard. Without it social shares show no image.
+2. **Google Analytics** — user wants visitor tracking. Steps: analytics.google.com → create property → get `G-XXXXXXXXXX` script tag → add to `<head>` of `index.html`.
+3. **Manual data maintenance** — `cases[]`, `contacts[]`, `travel[]` never auto-update. Add new countries/cases manually as the outbreak evolves.
+4. **Netherlands deaths** — possibly 2 deaths (Wikipedia), currently 1 in data.json. Needs verification before changing.
