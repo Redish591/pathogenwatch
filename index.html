@@ -411,9 +411,9 @@ header{display:flex;align-items:center;justify-content:space-between;padding:0 2
   </div>
   <div class="hd-right">
     <div class="hd-stat-row">
-      <div class="hd-stat"><div class="hd-stat-n" style="color:var(--red)">9</div><div class="hd-stat-l">Cases</div></div>
+      <div class="hd-stat"><div class="hd-stat-n" style="color:var(--red)">11</div><div class="hd-stat-l">Cases</div></div>
       <div class="hd-stat"><div class="hd-stat-n" style="color:#fca5a5">3</div><div class="hd-stat-l">Deaths</div></div>
-      <div class="hd-stat"><div class="hd-stat-n" style="color:var(--sky)">23</div><div class="hd-stat-l">Countries</div></div>
+      <div class="hd-stat"><div class="hd-stat-n" style="color:var(--sky)">26</div><div class="hd-stat-l">Countries</div></div>
       <div class="hd-stat"><div class="hd-stat-n" style="color:var(--violet)">145+</div><div class="hd-stat-l">Traced</div></div>
     </div>
     <div class="hd-div"></div>
@@ -655,21 +655,27 @@ let CASES=[
 ];
 
 let NEWS_STATIC=[
+  {src:"CDC",time:"14 May 00:27",title:"Transcript - Update on CDC's Hantavirus Response - Centers for Disease Control and Prevention",tag:"c",url:"https://emergency.cdc.gov/han/"},
+  {src:"News",time:"14 May 09:21",title:"Emergency scientific consultation on Andes Virus medical countermeasures (MCM) R&D - WHO",tag:"w",url:"https://www.who.int/"},
+  {src:"News",time:"14 May 07:17",title:"MV Hondius passengers return to Australia under strict infection control measures - Lab + Life Scientist",tag:"u",url:"https://news.google.com/rss/search?q=hantavirus"},
+  {src:"News",time:"14 May 06:36",title:"Netherlands-Based MV Hondius Cruise Ship Faces Limited Legal Recourse for Passengers After Deadly Hantavirus Outbreak - Travel And Tour World",tag:"u",url:"https://news.google.com/rss/search?q=hantavirus"},
+  {src:"News",time:"14 May 06:19",title:"Hantavirus response appropriate, but preparedness gaps remain: Top virologist Dr Shahid Jameel - India Today",tag:"u",url:"https://news.google.com/rss/search?q=hantavirus"},
+  {src:"News",time:"14 May 04:12",title:"WHO confirms eight cases of Andes hantavirus in outbreak - Bangladesh Sangbad Sangstha",tag:"u",url:"https://news.google.com/rss/search?q=hantavirus"},
+  {src:"News",time:"14 May 02:30",title:"Why MV Hondius hantavirus outbreak raises fears of Andes strain spreading beyond close contact - India Today",tag:"u",url:"https://news.google.com/rss/search?q=hantavirus"},
+  {src:"News",time:"14 May 01:57",title:"More victims of MV Hondius hantavirus outbreak? Another patient critically ill as outbreak reaches 11 cases - Times of India",tag:"u",url:"https://news.google.com/rss/search?q=hantavirus"},
+  {src:"News",time:"13 May 23:18",title:"CARPHA assures Hantavirus outbreak on MV Hondius cruise ship not pandemic potential - IRIE FM",tag:"u",url:"https://news.google.com/rss/search?q=hantavirus"},
+  {src:"News",time:"13 May 22:51",title:"Doctor who helped ship take care of passengers with hantavirus is isolated in Nebraska medical unit - Boston Herald",tag:"u",url:"https://news.google.com/rss/search?q=hantavirus"},
+  {src:"News",time:"13 May 17:47",title:"These are the 10 U.S. states monitoring for hantavirus cases linked to cruise ship at center of outbreak - Yahoo",tag:"u",url:"https://news.google.com/rss/search?q=hantavirus"},
+  {src:"News",time:"13 May 17:26",title:"Will this cruise ship be safe? Inside the hantavirus cleanup - PIX11",tag:"u",url:"https://news.google.com/rss/search?q=hantavirus"},
+  {src:"News",time:"13 May 17:00",title:"Discussing hantavirus concerns - Spectrum News",tag:"u",url:"https://news.google.com/rss/search?q=hantavirus"},
+  {src:"News",time:"13 May 00:28",title:"Man shares footage from inside hantavirus quarantine - BBC",tag:"u",url:"https://news.google.com/rss/search?q=hantavirus"},
   {src:"HHS/CDC",time:"12 May 06:00",title:"18 US passengers repatriated; 1 PCR+ in biocontainment at Nebraska NQU, 1 symptomatic at Emory Atlanta, 16 in quarantine unit",tag:"u",url:"https://emergency.cdc.gov/han/"},
-  {src:"Today.com",time:"11 May 20:00",title:"US contacts dispersed across 8 states: Texas, Virginia, Arizona, California, New Jersey, Maryland under self-monitoring in addition to Nebraska and Georgia",tag:"u",url:"https://www.today.com/health/disease/us-hantavirus-cruise-ship-outbreak-passengers-map-states-rcna344213"},
-  {src:"UKHSA",time:"11 May 21:30",title:"MV Hondius departs Tenerife for Netherlands with remaining crew. 23-country evacuation complete",tag:"u",url:"https://www.gov.uk/government/organisations/uk-health-security-agency"},
-  {src:"French PM",time:"11 May 18:00",title:"French evacuee confirmed PCR positive for Andes virus; ICU stable. 5 French passengers to remain hospitalised",tag:"c",url:"https://www.santepubliquefrance.fr/"},
-  {src:"UK MOD",time:"11 May 14:00",title:"British Army paratroopers and medics successfully jump onto Tristan da Cunha to treat suspected hantavirus patient",tag:"u",url:"https://www.gov.uk/government/organisations/ministry-of-defence"},
-  {src:"Reuters",time:"11 May 12:00",title:"South African British national in Johannesburg 'clinically improving but still ill' — SA Health Ministry",tag:"u",url:"https://www.reuters.com/health/"},
+  {src:"UKHSA",time:"11 May 21:30",title:"MV Hondius departs Tenerife for Netherlands with remaining crew. 26-country evacuation complete",tag:"u",url:"https://www.gov.uk/government/organisations/uk-health-security-agency"},
   {src:"WHO DG",time:"11 May 09:30",title:"Tedros to CNN: 'Incubation 6–8 weeks — we expect more cases. This is not another COVID.' Public risk remains low",tag:"w",url:"https://www.who.int/"},
   {src:"PBS/AP",time:"10 May 23:00",title:"All passengers evacuated from MV Hondius. Last group departed Tenerife delayed by strong winds",tag:"u",url:"https://apnews.com/health"},
-  {src:"CDC",time:"10 May 18:00",title:"CDC Level 3 response activated. Epidemiologists deployed to Canary Islands for exposure risk assessment",tag:"u",url:"https://emergency.cdc.gov/han/"},
-  {src:"Dutch MoH",time:"10 May 15:00",title:"Dutch charter flight (Eindhoven) carries 26 passengers: 8 Dutch + 18 from India, Germany, Argentina, Belgium, Greece, Portugal, Ukraine",tag:"u",url:"https://www.rivm.nl/en/"},
-  {src:"Italian MoH",time:"9 May 14:00",title:"Italy places 4 under 42-day active surveillance: contacts dispersed to Tuscany, Calabria, Campania and Veneto following KLM flight exposure at Rome Fiumicino",tag:"u",url:"https://www.wantedinrome.com/news/italy-places-four-under-observation-after-hantavirus-flight-contact.html"},
   {src:"WHO",time:"8 May 17:00",title:"DON600: 8 cases (6 confirmed ANDV, 2 suspected), 3 deaths. CFR 38%. Human-to-human transmission confirmed",tag:"w",url:"https://www.who.int/emergencies/disease-outbreak-news"},
   {src:"virological.org",time:"8 May 09:00",title:"Viral sequence published: 'ANDV/Switzerland/Hu-3337/2026'. Nextstrain phylogenetic tree now live",tag:"u",url:"https://virological.org/"},
   {src:"WHO",time:"6 May 12:00",title:"WHO confirms causative agent as Andes virus (ANDV) — only hantavirus with documented person-to-person transmission",tag:"w",url:"https://www.who.int/emergencies/disease-outbreak-news"},
-  {src:"AP / RIVM",time:"5 May 16:00",title:"KLM notified: Dutch woman briefly boarded KL592 Johannesburg before death. Passengers being contacted",tag:"c",url:"https://www.rivm.nl/en/"},
   {src:"WHO",time:"2 May 08:00",title:"WHO first notified by UK IHR focal point of severe respiratory cluster aboard Dutch-flagged cruise ship",tag:"w",url:"https://www.who.int/emergencies/disease-outbreak-news"},
   {src:"Ship log",time:"11 Apr 2026",title:"First death on board: Dutch male passenger (index case) — suspected ANDV from land activities in Patagonia",tag:"d",url:null},
 ];
