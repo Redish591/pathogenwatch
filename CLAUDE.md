@@ -168,9 +168,25 @@ Set as a GitHub Actions secret at: Settings → Secrets → Actions → `ANTHROP
 For local use: `scripts/.env` (gitignored). ~$1–2/month on Claude Haiku at 4 runs/day.
 Check balance at console.anthropic.com. Every AI decision is logged in `changelog.txt` with reasoning.
 
+## Map behaviour
+
+- `minZoom: 2`, `maxZoom: 14`
+- `maxBounds: [[-85,-180],[85,180]]`, `maxBoundsViscosity: 1.0` — prevents panning outside world
+- Vignette overlay: `.map-wrap::after` inset box-shadow fades map edges to `#090807` at any zoom
+- Default view on "Live Map & Cases" landing button: region/contact-trace mode (`enterApp('dashboard','region')`)
+- Switching between country/region mode: `showCountryMode()` / `showRegionMode()` triggered by `dt-country` / `dt-region` buttons
+
+## Contact trace layer (region mode)
+
+- FCO hub marker: single `.wp-hub` marker at `ROME_FCO = [41.80, 12.25]`, size 20px — smaller than case markers to reflect transit-not-danger
+- Track waypoints at FCO coords are skipped (would duplicate the hub marker)
+- `iconChar(t)` returns SVG icons for plane/ship/transit/home/hospital
+- Arc: first segment = amber `ct-arc-line`, subsequent = violet `ct-arc-sub`
+
 ## Pending / TODO
 
 1. **`preview.png`** — OG/Twitter card image is referenced in meta tags but the file doesn't exist. Should be a 1200×630 screenshot of the dashboard. Without it social shares show no image.
 2. **Google Analytics** — user wants visitor tracking. Steps: analytics.google.com → create property → get `G-XXXXXXXXXX` script tag → add to `<head>` of `index.html`.
 3. **Manual data maintenance** — `cases[]`, `contacts[]`, `travel[]` never auto-update. Add new countries/cases manually as the outbreak evolves.
 4. **Netherlands deaths** — possibly 2 deaths (Wikipedia), currently 1 in data.json. Needs verification before changing.
+5. **Reddit post** — draft ready, post manually to r/dataisbeautiful (Claude can't post due to browser safety restrictions).
