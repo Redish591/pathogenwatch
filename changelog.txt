@@ -602,3 +602,9 @@ the bot are listed under the timestamp.
   + News | Small number of people in Scotland linked to hantavirus outbreak
   + News | 3 Kansans with hantavirus exposure under observation at KU Health Syst
   + News | 'Small number' of Welsh residents linked to hantavirus outbreak
+
+[2026-05-15T10:00:58.303Z] 4 change(s):
+  ~ AI filtered 3 low-quality item(s)
+  + News | 41 people being monitored for hantavirus exposure. See map of states.
+  + News | Hantavirus Tracker: More Than 40 People Being Monitored Across US
+  + News | CDC says there are no U.S. hantavirus cases currently, 41 people being

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T18:21:44.978Z",
+  "last_updated": "2026-05-15T10:00:58.301Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,33 @@
   "news": [
     {
       "src": "News",
+      "time": "14 May 11:21",
+      "title": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/cdc-says-there-are-no-us-hantavirus-cases-currently-41-people-being-monitored/ar-AA23dhuZ",
+      "live": true,
+      "added": "2026-05-15T10:00:56.167Z"
+    },
+    {
+      "src": "News",
+      "time": "14 May 11:54",
+      "title": "41 people being monitored for hantavirus exposure. See map of states.",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/41-people-being-monitored-for-hantavirus-exposure-see-map-of-states/ar-AA23d0d7",
+      "live": true,
+      "added": "2026-05-15T10:00:56.166Z"
+    },
+    {
+      "src": "News",
+      "time": "15 May 01:14",
+      "title": "Hantavirus Tracker: More Than 40 People Being Monitored Across US",
+      "tag": "u",
+      "url": "https://www.newsweek.com/hantavirus-tracker-more-than-40-people-being-monitored-across-us-11953767",
+      "live": true,
+      "added": "2026-05-15T10:00:56.166Z"
+    },
+    {
+      "src": "News",
       "time": "14 May 11:12",
       "title": "3 Kansans with hantavirus exposure under observation at KU Health System",
       "tag": "u",
@@ -3316,33 +3343,6 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdGRGYnhOdFhCcVlCZjJQVHBOeDFCUWpXb2F2RW1IdEkxcS1fNzRYNWR1NXZqZkw5bFQzazY0RjVMWjFVMHF6cXJ1WGkyOURVaDFtVjdVT2JZeDJSbXFHLUtpRFU0NkVkTEg3M1FOQ3QxRmtJY01WX0ktUUZyb0dSQUh3?oc=5",
       "live": true,
       "added": "2026-05-14T09:39:56.768Z"
-    },
-    {
-      "src": "News",
-      "time": "12 May 21:14",
-      "title": "Hantavirus likely to be fully contained but may take time, Hanage says - Harvard Gazette",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGpSYklicnhWVDgtOFd2VHBjRF9mdGpNWEpOTUNtdkNILUhRMzd1LTlNWWVsOEhqT3BJM1VQeldXVGpZeGJyUjg1NDNzZk0wZXNfWlBJV1B4WF9uNmVmSlM0dHR5Qk1NaFhRbjdvbUx6UGlIWjdCOVQzZWFpRGd5d091MUxYdFZub1QxNU9JV1hOTjdLOElNcVVBczYxc0E2TmN0VE5USW04UkRDMmhRcUZ6TnlrRzJT?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.768Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 01:04",
-      "title": "Bend doctor Stephen Kornfeld tests positive for hantavirus after cruise; cases continue to rise - OregonLive.com",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRVVyYzFPaVpqVFE2TVVRY2o4aXZvRnFxbGpjZGJSM3VmYTFJb0FKc00xRFhDSUpPSkFES3BNOE5jaFh4ZTJwMWp6NG1WQ1BVZXNNb3FwZkFteXMwUmNFa2gxaWRhOC1VdDlHd29aUmFjOW5RajN1aXdwMG5IV3BJakthQ3VWOEc3YXh1RWFYZHNYdDBKTHBNeWY1QVpnTXBESnVxOXBHbTdlR1p0TTRlUTc4TmF1TWVlTUFjY21HRUxRVjBOem1MYWxmRlgtMWR3dGl1OEp2WmfSAewBQVVfeXFMUC1VWS1GQVBDZlpmOE5BZ3hOUUtwbU9VS2VXTU03bDJoY0M1ejdjNGNlaExGQzlwQWRCWHExbFAwdHdqT3VZbFBPd0FkMGxtSU9RMjVNMVRzbGlVRHdEZWltVlVST2t3NG9JUm5FQWlYSnNfTmRsYTRQQW42SFNzYzNPVGRZempwSlF4VmRGLXpVeHpiWnFIWXdWbWhSc2JzdEt6VFdKTUItX0VRNWdwd1ZyTExYRjc5RWY5cnFJZUxBbWJtWlNTOUgtS2gyV3BQTV9tczZKeURPQVNjWlY1VmlTUUxtQnhIY1FRd2E?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.767Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 15:38",
-      "title": "Hantavirus will be ‘dead end’ outbreak soon: Ex-CDC director - NewsNation",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOVR2Y1N1S2pCTjV1bGdub0JBWVVVXzFFVnpnUFBYUHNheEJ4NnRXZG5DMG42TFY5VF9ibHBMSng0dWFRek45ZUdaaWxtUW1ZSXBua2dWTWNDakx1aHlCYlNpaVRWRUJSRFhWRDFpdFpIUnRoeXdkWTliSV82UkZiVkZpV3ZtclR6b1HSAY8BQVVfeXFMT0ZVZF9pcHNmLV9Mcm5xNm1wR3RsZ0RRU1AtQUZQRXNJVkNSVF9Sb0luRzlUdXFPQ1Z4MkM4MzFpY1pNUlVUS0E2R3RFdGdyblFIRG1adHQwNVR6MUh1N3JzWHkxUlh0SDdqQzNYM2dWbENOSXZSRkdpQV81bmt5ZDhzdXpibi1valJVdk15LVE?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.767Z"
     }
   ],
   "travel": [
