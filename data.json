@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T10:00:58.301Z",
+  "last_updated": "2026-05-15T21:39:02.646Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,51 @@
   "news": [
     {
       "src": "News",
+      "time": "15 May 07:31",
+      "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
+      "tag": "u",
+      "url": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/",
+      "live": true,
+      "added": "2026-05-15T21:38:59.402Z"
+    },
+    {
+      "src": "News",
+      "time": "15 May 13:21",
+      "title": "Hantavirus strain found in Chelan County resident",
+      "tag": "u",
+      "url": "https://www.wenatcheeworld.com/news/local/hantavirus-strain-found-in-chelan-county-resident/article_c9aee1c3-a0c0-46f3-bbe7-82884cfb0e5d.html",
+      "live": true,
+      "added": "2026-05-15T21:38:59.402Z"
+    },
+    {
+      "src": "News",
+      "time": "15 May 09:43",
+      "title": "CDC Shares Update on Hantavirus Outbreak in the U.S. After Latest Round of Testing. Here’s What to Know",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/cdc-shares-update-on-hantavirus-outbreak-in-the-us-after-latest-round-of-testing-here-s-what-to-know/ar-AA23ipwy",
+      "live": true,
+      "added": "2026-05-15T21:38:59.401Z"
+    },
+    {
+      "src": "News",
+      "time": "15 May 11:13",
+      "title": "WHO shares update on global hantavirus cases",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/who-shares-update-on-global-hantavirus-cases/ar-AA23i9g5",
+      "live": true,
+      "added": "2026-05-15T21:38:59.400Z"
+    },
+    {
+      "src": "News",
+      "time": "15 May 14:34",
+      "title": "What we know about the MV hondius hantavirus outbreak",
+      "tag": "u",
+      "url": "https://apnews.com/video/what-we-know-about-the-mv-hondius-hantavirus-outbreak-2f8b7fe2eb0b4c86aed8944387c889e6",
+      "live": true,
+      "added": "2026-05-15T21:38:59.400Z"
+    },
+    {
+      "src": "News",
       "time": "14 May 11:21",
       "title": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored",
       "tag": "u",
@@ -3296,51 +3341,6 @@
       "title": "Americans All Negative For Hantavirus, French Patient Critically Ill (Live Updates) - Forbes",
       "tag": "u",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMWVnQ0ZhaWJXY1FFc2lqSXJ1U25oSzhYaVVSM3JuZklFbTJuczNYT2syRl9LMUVNTlIybWd2QXdwQjhyQW1FS3FJakxUcVVPdFhlN2RTX1lqbWQtREwyN0x3UV9uaW9QYnJGN0Y2bWtkSzdSS0NGTnlhSklmZTlNXzVpZHVLWmNMdlVwX3p4azNWdkcyelQ5T2RuUE9YUWlVY3UwVFEyQk5sZExKOUMyZDNwRTB4NVZhOWVyc1JocTJpVGEtdkQwVnlBbi1EWEhNNUhOZVFPQ3duVWF1ZnNjbDRtVG4?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.768Z"
-    },
-    {
-      "src": "News",
-      "time": "12 May 10:01",
-      "title": "How worried should we be about hantavirus? - BBC",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fOXdPSXg0Tm9HQ2RWRHJzUGgwc25lR29aZngxeHpSZE1kY0I3MnZNWXg4Y05SakJxZGJSNXB6Q2dfcV9tWEN3dXBIaUxZeHkxQkpFV3dwc29WQQ?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.768Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 23:46",
-      "title": "Could hantavirus become another pandemic? Texas Children’s Hospital doctor answers internet’s biggest questions - Click2Houston",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdWxvME41S2VvVWJmQk9GcGN5M0tqa182bmNxaFBHb0NCcnVFLU9KUWlCVENIQUo3MHBHWHF4QVIxZ0tjNFhERjVUVGphT2NSLUd6M09VOXR4QzNEU21BLTNwU0hQSWk1OFBUVlNpUWp4YUxOQUpkdnFoTm1ycmxZcmZMSW5yN2JtTEY0MzkxWUxnMEliQmJrZmlYNFIza3lBZHY4djA5blU3VW1xLXppMFJVYXBiaEtuaVJpTmNGUmZWZzVPSUtIanRkMXBPUFliMml4RU9jRkdtQ1dNMzFqU1hPRXEzbXBGMXhGbVhKMU5MVGc?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.768Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 15:35",
-      "title": "What we know about hantavirus in western Washington - KING5.com",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRU9YMFVBLVV5RUdya01kaENLQktRRmNYLUh4RU4zRlF2Y3B0SVFDcTFZa3dXeDNwc3BOMG1jM3J4dWtoTi1BbUhxZFlTUHo1QWhnTDVtWXBpTFczQ09BNHRaZW9QOTc0d05sdG9mZkI4c0lmRk4yLWdubmg1TVBuUDdyazR6SnN2YllNeWQ2ZUZqdFUyekFtOWhUTGZ0N1hpbFJJb2F6MjNiWGFQeHBFX0dqb1BLaHU4NDhZSVFPQ1IwNUJxR2dQT1ZSdmszWkRQd0tr?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.768Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 10:06",
-      "title": "Hantavirus Cruise Ship Outbreak: What We Know So Far - the-scientist.com",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaWFvSkkyVV9IV2R0NEg3UGtkN1RlX1hJRURmaXZFa29UaEoxSDNGQzAtOG5aY1M5eDNfVGpOdDhWclRXZ296MjJJMFJITlFWTXk3NU9EZlNoMUdoNVd4MHg3WTRNNHkySXNiWVF2OXREa3hLUTdmZlNkdnVDVTNiR3p2ZGhZVGItalpmVW9zRHg?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.768Z"
-    },
-    {
-      "src": "News",
-      "time": "12 May 10:09",
-      "title": "It’s hantavirus season in Colorado. Here’s why that’s not as scary as the cruise ship outbreak. - The Colorado Sun",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdGRGYnhOdFhCcVlCZjJQVHBOeDFCUWpXb2F2RW1IdEkxcS1fNzRYNWR1NXZqZkw5bFQzazY0RjVMWjFVMHF6cXJ1WGkyOURVaDFtVjdVT2JZeDJSbXFHLUtpRFU0NkVkTEg3M1FOQ3QxRmtJY01WX0ktUUZyb0dSQUh3?oc=5",
       "live": true,
       "added": "2026-05-14T09:39:56.768Z"
     }
