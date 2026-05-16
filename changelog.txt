@@ -624,3 +624,9 @@ the bot are listed under the timestamp.
   + News | No known cases of hantavirus in U.S. as officials monitor 41 with poss
   + News | Suspected case of hantavirus in Ontario County on Thursday
   ~ rejected cases=10 (out of sanity range)
+
+[2026-05-16T15:38:35.506Z] 4 change(s):
+  ~ AI filtered 3 low-quality item(s)
+  + News | Should you cancel your cruise after the hantavirus outbreak?
+  + News | What to know about hantavirus after suspected Geneva case raises local
+  ~ rejected cases=10 (out of sanity range)
