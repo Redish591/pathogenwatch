@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T15:38:35.504Z",
+  "last_updated": "2026-05-16T20:32:36.370Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,51 @@
   "news": [
     {
       "src": "News",
+      "time": "16 May 12:55",
+      "title": "Yukoner isolating in B.C. tests presumptively positive for hantavirus",
+      "tag": "u",
+      "url": "https://www.msn.com/en-ca/health/other/yukoner-isolating-in-bc-tests-presumptively-positive-for-hantavirus/ar-AA23mF1H",
+      "live": true,
+      "added": "2026-05-16T20:32:33.415Z"
+    },
+    {
+      "src": "News",
+      "time": "16 May 11:49",
+      "title": "Colorado hantavirus death not linked to cruise ship outbreak, state says",
+      "tag": "u",
+      "url": "https://www.denverpost.com/2026/05/16/hantavirus-case-colorado-hondius/",
+      "live": true,
+      "added": "2026-05-16T20:32:33.414Z"
+    },
+    {
+      "src": "News",
+      "time": "16 May 11:00",
+      "title": "8 claims about hantavirus and 2026 cruise ship outbreak we've examined",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/8-claims-about-hantavirus-and-2026-cruise-ship-outbreak-weve-examined/ss-AA23mad4",
+      "live": true,
+      "added": "2026-05-16T20:32:33.414Z"
+    },
+    {
+      "src": "News",
+      "time": "16 May 12:31",
+      "title": "Canada confirms first suspected hantavirus case linked to cruise ship",
+      "tag": "u",
+      "url": "https://www.usatoday.com/story/news/health/2026/05/16/first-canadian-case-linked-to-mv-hondius-outbreak-reported-in-bc/90118332007/",
+      "live": true,
+      "added": "2026-05-16T20:32:33.413Z"
+    },
+    {
+      "src": "News",
+      "time": "16 May 11:07",
+      "title": "Version of hantavirus behind deadly cruise ship outbreak matches known strain, France says",
+      "tag": "u",
+      "url": "https://www.cbsnews.com/news/hantavirus-hondius-france-testing-strain-cruise-ship/",
+      "live": true,
+      "added": "2026-05-16T20:32:33.412Z"
+    },
+    {
+      "src": "News",
       "time": "16 May 02:24",
       "title": "What to know about hantavirus after suspected Geneva case raises local questions",
       "tag": "u",
@@ -3296,51 +3341,6 @@
       "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP",
       "tag": "u",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0JNSktqOUQxQXhoVnVXVE9ZTElDelV5Q0tLWG9UOEhWSWxTUGJJSkhjdXlXZ211VGRBU2JHUVA5NHlWY0dqWG5KY1J0R3hsaHlxTW9CamJjd09sdkJTakU0WFZxS0tHNndZVklHWk5aaW1GMmp0Zy01R05qd2tSTWl0TmFWdEd1dW10bXV2YkJzQkFLTmhOOW5R?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.769Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 08:36",
-      "title": "How are countries responding to hantavirus? - BBC",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BZVFHUG5DcXRqSUNEa3hxaW15N0RfVmhSM0ZUMGJjRWRnZkRodXhrOURNb2gtUHhUbWotOUVhR09OcTJ4ZjZQLUlZSndCM2t5ZTY0M0VHal94dw?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.769Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 09:01",
-      "title": "Hantavirus News Roundup: From Céline Gounder of KFF Health News - KFF Health News",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEJpOVdqeTZtVU9BNkVwNERHRUJrMlZaM3RhbHl0NmgzWF9hQ0dhaUg5X3BKN3RYdmJFZVNZSmVHc3lTUHVqd3pHWml4RjVMc2h4ckNFdEZyVzFHOWFIcGVKMC13Z21ZNGg2TGd0a1ozNjhtX2Y1N1RlcUZYZU42OHV6Qi1UZXZZZ2FtbXVGZnV0UmhPQ0pPaGZnbG1mekRL?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.769Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 04:11",
-      "title": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11 - AP News",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLUo5Q2FJVEs0R29kemVxbU9mb2E0Mng5NFJFZnhEcHdKS3JNVk1CYXBZN0lucXU2ZVB2MlhqYkdoVFB5eFEwNXJoTmdnMEstOHRLUTFDb3FOR3RWUGtudmNpU1drTkpiM1lkUEtOeDRDM0pVNEpfS0ljaW1pUFRod3F3OVp4a19uTWpNOE1iWWw1cnE2LXE3QVRKWTNTb21p?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.769Z"
-    },
-    {
-      "src": "News",
-      "time": "12 May 12:19",
-      "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1pxdE04RE9wZ1R1UENRSHdELXhuMDdqbjFRdTJ1U0R1eTVWWlNfNnNzSDBIZnJVVTlYRW5xU1JhcXBzS0tDOHlBZDR6SFhIdW9XM2h3QkZzRkNVMmRFSTJVd0pVU1Z0NnRneWxmdHkteFBOQmRBMnhLeFh4UTh6emRQM0c1NzJiQ19ySjNsbnhYRFk?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.769Z"
-    },
-    {
-      "src": "News",
-      "time": "12 May 18:30",
-      "title": "Could the Hantavirus Cruise Ship Outbreak Lead to a Pandemic? Experts Explain the Risk Level - TODAY.com",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2tBOEJxY1VpVk9pT1pZLWU3dmdjYVlianBQa1RvTG4zODRMRHo1ZlJTb2tUelVnNXpDa2h1SERBSmNHVzdIZVFkY3Q0WlpGWDVvaV9yUFZfSU56cUxfWkhrV2ZyeExMdjkwWnBINmp0c29seWIyMUNXbjBqRHk5RVdJa2NwbTlPMGVheEZCT3dZSWVsZEZaYzEyXzFSa0pHR1RB?oc=5",
       "live": true,
       "added": "2026-05-14T09:39:56.769Z"
     }

@@ -630,3 +630,12 @@ the bot are listed under the timestamp.
   + News | Should you cancel your cruise after the hantavirus outbreak?
   + News | What to know about hantavirus after suspected Geneva case raises local
   ~ rejected cases=10 (out of sanity range)
+
+[2026-05-16T20:32:36.371Z] 7 change(s):
+  ~ AI filtered 3 low-quality item(s)
+  + News | Version of hantavirus behind deadly cruise ship outbreak matches known
+  + News | Canada confirms first suspected hantavirus case linked to cruise ship
+  + News | Colorado hantavirus death not linked to cruise ship outbreak, state sa
+  + News | 8 claims about hantavirus and 2026 cruise ship outbreak we've examined
+  + News | Yukoner isolating in B.C. tests presumptively positive for hantavirus
+  ~ rejected cases=10 (out of sanity range)
