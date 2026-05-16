@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T21:39:02.646Z",
+  "last_updated": "2026-05-16T07:32:50.727Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,33 @@
   "news": [
     {
       "src": "News",
+      "time": "15 May 17:11",
+      "title": "Suspected case of hantavirus in Ontario County on Thursday",
+      "tag": "u",
+      "url": "https://www.whec.com/top-news/suspected-case-of-hantavirus-in-ontario-county-on-thursday/",
+      "live": true,
+      "added": "2026-05-16T07:32:47.330Z"
+    },
+    {
+      "src": "News",
+      "time": "15 May 14:37",
+      "title": "No known cases of hantavirus in U.S. as officials monitor 41 with possible exposure",
+      "tag": "u",
+      "url": "https://www.nbcnews.com/health/health-news/no-known-cases-hantavirus-us-officials-monitor-41-possible-exposure-rcna345278",
+      "live": true,
+      "added": "2026-05-16T07:32:47.329Z"
+    },
+    {
+      "src": "News",
+      "time": "15 May 17:37",
+      "title": "Possible hantavirus case under investigation in Upstate New York; no connection to deadly cruise ship outbreak",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/health-news/possible-hantavirus-case-under-investigation-in-upstate-new-york-no-connection-to-deadly-cruise-ship-outbreak/ar-AA23iRkM",
+      "live": true,
+      "added": "2026-05-16T07:32:47.328Z"
+    },
+    {
+      "src": "News",
       "time": "15 May 07:31",
       "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
       "tag": "u",
@@ -3316,33 +3343,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNERQZGJJekVmd1IyM2xNSlhkaUpacURfeFNPT0duQmpuR0swR3hPTkNMUEFfTFQ1MU1kaHZsdGZFcDhwN2hRR2xLRkpXaERoeUgzQUZ3TDd0MXQ4OXEwZEYyY3MzR2ZxTEVQcGN6Tmk3TVZRa05pNEl0S3ZQSElUVWFYQU1ZTWFYRXJINnhoN21SNmxMUnZHSnBqVFRCVVREamFxRjh1MmFkZVhYajVweEVjVk9qWUV4WDRvOS1RZ3lHLXAxNTdYY3BKbUl4YVZlZ1E?oc=5",
       "live": true,
       "added": "2026-05-14T09:39:56.769Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 11:15",
-      "title": "We’re asking the wrong question about the hantavirus outbreak - vox.com",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdnpTQThHQTFzTUdYNzBWYzdqWjN5dGJZTEZpWktnaUloSGhvWFFmODVqeW4yRkphVW8tY1JhSTZIb3owRkdteDFUV25LR0NOSGwxMjlQYzljQmJldTBucmJkNlNPcjJlekY2aHJpaTdpZUJVaXFsMTVWUDMzUEsydFFPMVdYZHE1aVBuZTc1ZE5fZUU?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.768Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 03:47",
-      "title": "Nurse who treated Georgia Ebola patients shares into hantavirus battle at Emory - WSB-TV",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaXVaUGdpenhGZ1RNQnBpRy00WFZtY0g3RkpQcjM1ckFuSjJ1MEJkRkR1Qzc5U0JxVnJYYWVqSmRMSGQ2YW5KRjhaU2JMbnA4ZS0zS0VBcmZscXJWMUp1eGpFcWhic3EtWHdYVl9hLXVoWmpsN0x3YlU3ZmppRG5Tcl9TcVcxRWVzN3hKRzNQYzJOUVFsV1FxSVR6anIzSTRPLXhtaDNleWQyQnBfWlc0clU0Z3F6SUhybFFOZUlSaDI4OU9CWlNFSnh2ektFeWFIWWQzbnVJdWNEa0hPSXp2QkpRNVZsZ9IB-gFBVV95cUxOMmxwendiNEZoa0d4aFpjUFVlSVVsc0xSSUNjME1XSTBGaUVJX2MtbDRGUFlXVk5VUmlVWFRCNUdBUG05dGNwY3ZhRDhybDJtQV9wdWdOeHc5a2Q4cW15UjlDVDA1c1FBeHZpUFFCSG9VcDZHOThxbjR5MkUxT29lWFJ3N3dqbkl4TVRoSVE3RlNXaWlCNEFNUVNmS09PdnM4bDI0SDU1d3QyRUd2WUxxN0tMRWxKRUxpQi11bEdpUVZFMzhfZXZfLUhlZVRfWWotNklmT3NOM25qdWhYM3RCVG8zSWY2N09YWE5LY2lvalh1eVpEQTRIZDBn?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.768Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 13:02",
-      "title": "Americans All Negative For Hantavirus, French Patient Critically Ill (Live Updates) - Forbes",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMWVnQ0ZhaWJXY1FFc2lqSXJ1U25oSzhYaVVSM3JuZklFbTJuczNYT2syRl9LMUVNTlIybWd2QXdwQjhyQW1FS3FJakxUcVVPdFhlN2RTX1lqbWQtREwyN0x3UV9uaW9QYnJGN0Y2bWtkSzdSS0NGTnlhSklmZTlNXzVpZHVLWmNMdlVwX3p4azNWdkcyelQ5T2RuUE9YUWlVY3UwVFEyQk5sZExKOUMyZDNwRTB4NVZhOWVyc1JocTJpVGEtdkQwVnlBbi1EWEhNNUhOZVFPQ3duVWF1ZnNjbDRtVG4?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.768Z"
     }
   ],
   "travel": [

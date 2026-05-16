@@ -617,3 +617,10 @@ the bot are listed under the timestamp.
   + News | US hantavirus case was false positive; outbreak cases drop from 11 to 
   + News | Hantavirus strain found in Chelan County resident
   ~ rejected cases=10 (out of sanity range)
+
+[2026-05-16T07:32:50.728Z] 5 change(s):
+  ~ AI filtered 6 low-quality item(s)
+  + News | Possible hantavirus case under investigation in Upstate New York; no c
+  + News | No known cases of hantavirus in U.S. as officials monitor 41 with poss
+  + News | Suspected case of hantavirus in Ontario County on Thursday
+  ~ rejected cases=10 (out of sanity range)
