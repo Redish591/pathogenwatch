@@ -639,3 +639,9 @@ the bot are listed under the timestamp.
   + News | 8 claims about hantavirus and 2026 cruise ship outbreak we've examined
   + News | Yukoner isolating in B.C. tests presumptively positive for hantavirus
   ~ rejected cases=10 (out of sanity range)
+
+[2026-05-17T08:34:45.085Z] 4 change(s):
+  ~ AI filtered 4 low-quality item(s)
+  + News | Canadian from hantavirus-hit cruise ship tests positive
+  + News | Canadian MV Hondius cruise passenger tests positive for hantavirus
+  + News | Canadian cruise passenger gets a presumptive positive hantavirus test 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T20:32:36.370Z",
+  "last_updated": "2026-05-17T08:34:45.083Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,33 @@
   "news": [
     {
       "src": "News",
+      "time": "16 May 18:27",
+      "title": "Canadian MV Hondius cruise passenger tests positive for hantavirus",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/canadian-mv-hondius-cruise-passenger-tests-positive-for-hantavirus/ar-AA23mCAP",
+      "live": true,
+      "added": "2026-05-17T08:34:42.487Z"
+    },
+    {
+      "src": "News",
+      "time": "16 May 15:00",
+      "title": "Canadian cruise passenger gets a presumptive positive hantavirus test result after ship outbreak",
+      "tag": "u",
+      "url": "https://apnews.com/article/canada-hantavirus-positive-test-880ad45b272c59a96a9fb07bf6425d45",
+      "live": true,
+      "added": "2026-05-17T08:34:42.487Z"
+    },
+    {
+      "src": "News",
+      "time": "16 May 13:39",
+      "title": "Canadian from hantavirus-hit cruise ship tests positive",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/canadian-from-hantavirus-hit-cruise-ship-tests-positive/ar-AA23n6lF",
+      "live": true,
+      "added": "2026-05-17T08:34:42.486Z"
+    },
+    {
+      "src": "News",
       "time": "16 May 12:55",
       "title": "Yukoner isolating in B.C. tests presumptively positive for hantavirus",
       "tag": "u",
@@ -3316,33 +3343,6 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzlnN2lpZ2RyTVRjNXp4UGRyZmdCbVNwaHdsUlBUM3VOT2oybzZtNmI2REF4U0YzeGVVb1BPNTRmdG1WazhLZVV1WlJrakxIYjRnX2hOVmpIZkRIekVhWm9sN3RXVVdqZTVsRHllU3loOUdfSkNyRVBKZmkwZ1o0WDYzRWhkcm51bzRXRW9SbWFrOU1HcXptOXNYNGdpVFRCcHUyWFFBSHFqQW95Z2hhNmhydw?oc=5",
       "live": true,
       "added": "2026-05-14T09:39:56.770Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 02:36",
-      "title": "Doctor on hantavirus ship tests negative, leaves isolation unit - KY3",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR056QjNPSFVDYmc0N0szY3A3TjkxM0VhNTFOUFJoX0JtN2Y0cGlINFI0aG9Nb2l5SlhaZTNhMXptMXNQSVNpUVZJVjF1cnVJMm9yS0VzM3hVaU43SlRtMlo2M1RxcXpHUl9ud3Z4T1hqSGJDTlcyS1hyTHRweE41a0pXOTkwbXNJQ3BFN3c5bU8tMTNrbHQxUnJXVnlzQQ?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.769Z"
-    },
-    {
-      "src": "News",
-      "time": "12 May 09:50",
-      "title": "US passengers of hantavirus cruise ship being monitored in Nebraska - BBC",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiY2dNRlpxUXIyUENfS0JWX2hpbVpTSV9KQkg1bFRrQXVtQ1Q2TUpYckxINjFMVkFfR2xYYjhLbEJpMHB3MXduWEQ3cFJEdEl4c0ZRTWZnSE5kdw?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.769Z"
-    },
-    {
-      "src": "News",
-      "time": "12 May 20:31",
-      "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0JNSktqOUQxQXhoVnVXVE9ZTElDelV5Q0tLWG9UOEhWSWxTUGJJSkhjdXlXZ211VGRBU2JHUVA5NHlWY0dqWG5KY1J0R3hsaHlxTW9CamJjd09sdkJTakU0WFZxS0tHNndZVklHWk5aaW1GMmp0Zy01R05qd2tSTWl0TmFWdEd1dW10bXV2YkJzQkFLTmhOOW5R?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.769Z"
     }
   ],
   "travel": [
