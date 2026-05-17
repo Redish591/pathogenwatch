@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T15:42:25.601Z",
+  "last_updated": "2026-05-17T20:35:03.378Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,51 @@
   "news": [
     {
       "src": "News",
+      "time": "17 May 13:11",
+      "title": "Returned Australian passengers from hantavirus ship learn test results",
+      "tag": "u",
+      "url": "https://www.skynews.com.au/breaking-news/returned-australian-passengers-from-hantavirus-ship-learn-test-results/news-story/d4b08931e900546a4c15da96a5202106",
+      "live": true,
+      "added": "2026-05-17T20:35:01.262Z"
+    },
+    {
+      "src": "News",
+      "time": "17 May 13:23",
+      "title": "UKHSA gives update on hantavirus contacts returning to UK",
+      "tag": "u",
+      "url": "https://news.sky.com/story/ukhsa-gives-update-on-hantavirus-contacts-returning-to-uk-13545270",
+      "live": true,
+      "added": "2026-05-17T20:35:01.262Z"
+    },
+    {
+      "src": "News",
+      "time": "17 May 11:13",
+      "title": "Canadian national health agency confirms 1 positive hantavirus test",
+      "tag": "u",
+      "url": "https://apnews.com/article/canada-hantavirus-positive-test-1ef18249115195f09381a174092a1cae",
+      "live": true,
+      "added": "2026-05-17T20:35:01.261Z"
+    },
+    {
+      "src": "News",
+      "time": "17 May 13:08",
+      "title": "Colorado adult dies from hantavirus; case not linked to cruise ship outbreak",
+      "tag": "u",
+      "url": "https://www.news5cleveland.com/us-news/colorado-adult-dies-from-hantavirus-case-not-linked-to-cruise-ship-outbreak",
+      "live": true,
+      "added": "2026-05-17T20:35:01.261Z"
+    },
+    {
+      "src": "News",
+      "time": "17 May 11:11",
+      "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
+      "tag": "u",
+      "url": "https://apnews.com/article/hantavirus-cruise-ship-passengers-norovirus-d85e4a85a7548073fb5ca549c09701a6",
+      "live": true,
+      "added": "2026-05-17T20:35:01.260Z"
+    },
+    {
+      "src": "News",
       "time": "16 May 13:53",
       "title": "Hantavirus death in Colorado, state says not linked to cruise ship outbreak",
       "tag": "u",
@@ -3296,51 +3341,6 @@
       "title": "American Doctor Identified as Hantavirus-Positive Cruise Passenger Explains How He Got His 'Mild Positive' Test Result - People.com",
       "tag": "u",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdk5Ib2dEQjlrdUI3ZVVxSUlmWl8wUTdaUDQtaTF2QjRuMnpQZk0xdkNvNXVrMjk0NndKSXZPU0YzV0ZCTnEzbmxwNTZZYjQ5Z2NuVkp3ZlZCNGdVckp3SkhPLU1Ya0NZWF9vcFJMd3BHV2pDSFJCb0piV3dpbnFFZ2ctbFZTQ0ZIdncwMDFoSW1kcDhQQVV1WEpJNWdVMlBs?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.770Z"
-    },
-    {
-      "src": "News",
-      "time": "12 May 19:19",
-      "title": "Hantavirus cases rise to 11 as cruise ship passengers quarantine - NBC News",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVEdYdVFBV1RXWlc3X0NwWWNLcm5FT01FZDRyVDBUaGJ5X0hzQlAyWFJlY3dwdVFGelhOdzEzcV9vUmxrckJiR1Itd1FEaVlnWHRrLWhfb3RZbFc4bFRuUjdFcm5Jc0xITDFveXEwSzR0MzQ2dHl3UmJKTGlQdHVlVU14eXNJTHlpbTYxSUxHSXlMQnJicUVDU1JQQ2FOemhVZXJQMTFWdFptZE42Uk9Jb2J3?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.770Z"
-    },
-    {
-      "src": "News",
-      "time": "12 May 17:55",
-      "title": "No sign of larger hantavirus outbreak, says UN health agency - BBC",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FdDhmUjR3MHN3bGx1TFRfdXpGLTlXMEQxc095amY5Wl9wZFo1RmRyVG5CR1FnVnh1aThUbHdkRU9HU0FoU3lkY3Y2andCNFBQVTlSb01jZnRtQQ?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.770Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 14:41",
-      "title": "Possible hantavirus case not linked to cruise ship investigated in Illinois - FOX 8 News",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVGt1OHJCZVFtWmlKd0ZiQjl4YUdSMk9ocG1MUWFTOUZwNEFEeTIweXpQak5GMDdyd2dwSEx2ZFFSZzc4cm12Z3JYcUdNNUNESHY5TTBPM2RuM1lJRUJ4UFlvTGRyd1NFY094NjZfWHR5QmJJMWtqS2tuYUNaQS1oOFU4a0czSzJ3QllyREtHMlJqbldXVVp4M1ZFZGxEdnfSAaQBQVVfeXFMUFZtZVc0czh0N3dLdDYyWWE5dHpjWU5ZcGduR0VmMGo4ZTdnd3VidkFVSWpXX3EwREVHWmkyTWc5d21Sdm9ibnhTVEZyY0FNREtpX0gwWUhiQW1QV3A0cHRqeEFjZE9tUFF4NmRQVS11WkZydkxZMU9NSEFrMmR0OTJYcjQ0MmFNOERQY2gwbzNuSktoTjgzSG92Y0lmUjdndGRMa2Q?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.770Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 13:49",
-      "title": "Hantavirus drives EU push for tighter cross-border health coordination - Euronews.com",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQanZsWXdIYjBRUDF1NUpib2dWb2ZudGRoVUx3WWNUQTJxdTBhLTJRUmNua3FxM2pack0yaERQQlJZRWFpRWhwbFRMWk5yaFRVQV80LTZrdVJweklVdWxtRWlLMFMzVVRZTXExNGJmWjBpdmJ4MzVudi1MZnp5d3poYnc2b2I5U3FHZDV2WFpCRnJKWDY1bTcwQ2FlTWVNRE1Qd2NiQjNJR0t0SXZzandkYW9ZU1lVU0EtSnZjVTlrOA?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.770Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 05:08",
-      "title": "2nd Arizonan linked to ship with hantavirus outbreak getting evaluated in Nebraska - AZ Family",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM2V4NVhfWkQ2U1o3WE00bS1MSDREcUZVaHItWEZCdFRueFAwN2kyNnpienlyb0Jya3oxOWxFUFFuSFROT2RzQTNhUGhxWDNGcllvclZpWHlHUFllb2MwdlNlRF94aUxfNW1CanhPazktbUZZaWRYVnFqNnNOaWc2alEyZW8xaHdXMDdZczVvRUdaeUdua19MRzI1QVlaOXdqa2pRc25DYVU2TldqWjZhd2p2Z9IBxwFBVV95cUxQR0YwQXQySnJRUGxHRjNfaFBqbTVZM2VXV1hEdGdyWkFBSUJrLW83cXN6OXVLQUEwZGs1UUdacVpiS1hHSkxsNWRVQl9sRXJnUG93ZGZabDBic0diQUZOSi1aQmxBNDB4RTBoMzlYem8zMUFIYy1fbFdrWXVFUmdIRmxJVm1LVnk5YmxPb1ZhSmJqZHhhSExDdm9PMnFIQmhuRjIyS1RkaUNGVGY5bkVuV3JyN3dLRC1GeXQ0M1ZudGRxVi0yRHVj?oc=5",
       "live": true,
       "added": "2026-05-14T09:39:56.770Z"
     }

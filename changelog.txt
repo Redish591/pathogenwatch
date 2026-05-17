@@ -652,3 +652,11 @@ the bot are listed under the timestamp.
   + News | Where does hantavirus lurk in the US.? Scientists found ‘hot spots’ in
   + News | Hantavirus death in Colorado, state says not linked to cruise ship out
   ~ rejected cases=10 (out of sanity range)
+
+[2026-05-17T20:35:03.380Z] 6 change(s):
+  ~ AI filtered 3 low-quality item(s)
+  + News | Demand for cruises appears undimmed despite hantavirus and other onboa
+  + News | Canadian national health agency confirms 1 positive hantavirus test
+  + News | Colorado adult dies from hantavirus; case not linked to cruise ship ou
+  + News | Returned Australian passengers from hantavirus ship learn test results
+  + News | UKHSA gives update on hantavirus contacts returning to UK
