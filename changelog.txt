@@ -645,3 +645,10 @@ the bot are listed under the timestamp.
   + News | Canadian from hantavirus-hit cruise ship tests positive
   + News | Canadian MV Hondius cruise passenger tests positive for hantavirus
   + News | Canadian cruise passenger gets a presumptive positive hantavirus test 
+
+[2026-05-17T15:42:25.603Z] 5 change(s):
+  ~ AI filtered 5 low-quality item(s)
+  + News | Canadian cruise passenger gets presumptive positive hantavirus test
+  + News | Where does hantavirus lurk in the US.? Scientists found ‘hot spots’ in
+  + News | Hantavirus death in Colorado, state says not linked to cruise ship out
+  ~ rejected cases=10 (out of sanity range)
