@@ -660,3 +660,15 @@ the bot are listed under the timestamp.
   + News | Colorado adult dies from hantavirus; case not linked to cruise ship ou
   + News | Returned Australian passengers from hantavirus ship learn test results
   + News | UKHSA gives update on hantavirus contacts returning to UK
+
+[2026-05-18T21:54:42.056Z] 10 change(s):
+  ~ AI filtered 3 low-quality item(s)
+  + News | Colorado records first hantavirus death since 2024. It’s not from the 
+  + News | Adult Dies Of Hantavirus In Colorado, State Health Officials Say
+  + News | Hantavirus-stricken cruise ship docks in the Netherlands for disinfect
+  + News | Hantavirus-hit cruise ship arrives in Netherlands
+  + News | Hantavirus-hit cruise ship arrives in Netherlands, ending long and dea
+  + News | Colorado adult dies from hantavirus after local rodent exposure
+  + News | Canada confirms hantavirus case linked to cruise ship outbreak that ha
+  + News | WHO to give update on hantavirus and Ebola after outbreaks
+  + News | Hantavirus-hit liner reaches Rotterdam, crew being quarantined and shi
