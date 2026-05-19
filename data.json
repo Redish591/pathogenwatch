@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T21:54:42.055Z",
+  "last_updated": "2026-05-19T11:42:54.909Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,33 @@
   "news": [
     {
       "src": "News",
+      "time": "18 May 14:25",
+      "title": "Argentina’s icy outpost at the end of the world fears the hantavirus will chill tourism",
+      "tag": "u",
+      "url": "https://apnews.com/article/argentina-tourism-hantavirus-cruise-ship-ushuaia-7e16664e2d031797ed2c043c34956353",
+      "live": true,
+      "added": "2026-05-19T11:42:51.029Z"
+    },
+    {
+      "src": "News",
+      "time": "18 May 15:21",
+      "title": "Test finds patient in Winnebago County, Illinois, did not have hantavirus, officials say",
+      "tag": "u",
+      "url": "https://www.cbsnews.com/chicago/news/test-finds-patient-winnebago-county-illinois-no-hantavirus/",
+      "live": true,
+      "added": "2026-05-19T11:42:51.027Z"
+    },
+    {
+      "src": "News",
+      "time": "19 May 04:00",
+      "title": "A critical window to stop hantavirus is opening. Not all countries are managing exposed travelers the same way",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/a-critical-window-to-stop-hantavirus-is-opening-not-all-countries-are-managing-exposed-travelers-the-same-way/ar-AA23ywLE",
+      "live": true,
+      "added": "2026-05-19T11:42:51.026Z"
+    },
+    {
+      "src": "News",
       "time": "17 May 19:21",
       "title": "Canada confirms hantavirus case linked to cruise ship outbreak that has killed three passengers",
       "tag": "u",
@@ -3316,33 +3343,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ3dlOTA2QnV2aEVQOHpacC1zUGpteW1iUDhZMEFJeGNLSFE4d0htLXI5X21vMGxVYzRoVmlSclJCOVMtc3BfeDJtTHhhb3VXSjB6amNidkxNMlY5UmlsbjA5Mi1TMTZQRWFPM1RqUjRJbkJCZ0NJaTUzWUV2OG5Pb3RNU1lzR3Jfa0hEeDBVWnBBRk9zbldEdUl3UjF4QzB5RFBCQlNnbEVUUEZxdEE?oc=5",
       "live": true,
       "added": "2026-05-14T09:39:56.772Z"
-    },
-    {
-      "src": "News",
-      "time": "12 May 16:06",
-      "title": "What Travelers Should Know About the Hantavirus, According to Medical Experts - Condé Nast Traveler",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdWRpRkhLUUk0aXlxR2tXQVBrcFNPNTR4OUgyOFNmOG5YYlBVbkFGdEI0ZXk4ZmZILW8yajZLTDNLTzBkUXZzMnJEMEowNXBNV1Jrd211N0hSbFk0OHprMTN0b0oyNC1EY2c1bk1CQm0tcGZkYTE3ZE1VVGdicXU2Y3kwZjNvaU4weHpEZGVUSUk1c3JwbFEyczlzS0xicE9FSUw0bk1lTm5tZGlJOERhXw?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.771Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 11:30",
-      "title": "Inside the Race to Develop a Test for the Rare Andes Hantavirus - WIRED",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNTVJLdnB1VW10VXk0OGJyRHYtM1dnc1FBVjVlRnZXNnNTUDBDLUhNdUVaZWZxeWlmYlV6c0JOQUxWS01mS1l0SWM4UXVVWk9FSkxXWUJldWFJaGJxVU1td2FwdzEtSDhRNnN4aXdGdG5kc3E2?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.771Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 06:17",
-      "title": "3 Seattle area residents being monitored for hantavirus - Oregon Public Broadcasting - OPB",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMVB5ZFhSS1V6RlRabVg4S2l3MGRXaVBqaDZwRWh0TDZEWXdDUzVRSXBYOHhCdHBjZkE1NDBJb3dVVVFWd1pIWFc3U0IzY2dDc1R4Y091VjEwZWFfT2FoTm00RmZJN2M3OUNWRWtaWHl2OVZlNVVFRUVvR09pSGxMZm10MXVRQlpaSWhJZXRjZzRyUnBkT2k1NkJ3?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.771Z"
     }
   ],
   "travel": [
