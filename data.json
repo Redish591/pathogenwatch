@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T10:38:17.843Z",
+  "last_updated": "2026-05-20T19:55:32.372Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,33 @@
   "news": [
     {
       "src": "News",
+      "time": "18 May 03:38",
+      "title": "Cruise ship hit by hantavirus outbreak docks in Rotterdam",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/cruise-ship-hit-by-hantavirus-outbreak-docks-in-rotterdam/ar-AA23tzIf",
+      "live": true,
+      "added": "2026-05-20T19:55:30.123Z"
+    },
+    {
+      "src": "News",
+      "time": "19 May 17:00",
+      "title": "Hantavirus explained: What Utah residents should know about the cruise ship outbreak and local risks",
+      "tag": "u",
+      "url": "https://www.fox13now.com/station-initiatives/healthier-together/hantavirus-explained-what-utah-residents-should-know-about-the-cruise-ship-outbreak-and-local-risks",
+      "live": true,
+      "added": "2026-05-20T19:55:30.123Z"
+    },
+    {
+      "src": "News",
+      "time": "20 May 02:09",
+      "title": "Promising hantavirus vaccine research stalled by funding gap before outbreak",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/promising-hantavirus-vaccine-research-stalled-by-funding-gap-before-outbreak/ar-AA23C1Uc",
+      "live": true,
+      "added": "2026-05-20T19:55:30.122Z"
+    },
+    {
+      "src": "News",
       "time": "19 May 21:19",
       "title": "Deadly hantavirus outbreak triggers rodent hunt in Argentina",
       "tag": "u",
@@ -3316,33 +3343,6 @@
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMVUyT1J3UUZ4SGl1THFyYllWcHRQaWlJVEkwMDUxU0NwdnFZU2hOa1lyM0JsMmRmZk5ZNXpqYnRKaU9VaGpaTUc0TllselFROTdXc180LVprVkoyX0E2ZFUyODFnY1RIQkpQb2REak1UOHhnMmFPeUkwb3JLRHNiOVlSbEN6cFJ2dFVrdEgwMkhVTnRwQWJWRDZhWDNBVWRQTEZ0TkJ5YnFWOUhjRXRfLXdfMGV0aFQwQmpZZ0FvbDJKdVZ6N3Fsc3F2dEdwNHJGTm1Dd1c3bkViZDMyQ0ZPanZCTFhoTmJta1d2Y1JmbVU1WDJU?oc=5",
       "live": true,
       "added": "2026-05-14T09:39:57.221Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 05:08",
-      "title": "Can Passengers Sue MV Hondius Cruise Ship Over The Hantavirus Outbreak? - NDTV",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkVYSXJmOXdoN1QwUGxGTklBUzdFbXU5TFZGTndGODlBS1A2NXJsVlFpa0NWM2RXVzFZNDJRUWNiOEQzUU5lVU5HeEV3dU9XdmhZMGF4NjBrVE5DZVY5V2lQZ1pnNDNNNzdQdHVfT0sxeld1WDZrRnNxNFE2bkY0WHJlSUFGVU45NEVwelIxdEppeklSeDg2VnF4Q09vR3c4dV9RZ2g2MWtSMXPSAbMBQVVfeXFMUF9fQU9Ldjk0dWNkY2xPNGZHTU1jcWhhUVUzb0UwSF9TZHRUaWQ3aEQya0xUb25sX0VZa1E3V0E1Qjh0bWFvQ3RNTjVoc2lCSXVlU05LdGNkQUIyMDZVZHozbDhHSVN4ZmdVYWR0RUh6Ujh1TXNadHhJaENrdF9zQUZ6Q005VFlsY3FWb0lFV19jUzcwUXJtVXJqdUI0RXhDdVJvYXZRQ1p2UWlLaG9tRnlfUVU?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.221Z"
-    },
-    {
-      "src": "News",
-      "time": "12 May 15:12",
-      "title": "American passengers from hantavirus-hit cruise ship arrive back in the U.S. - NBC News",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNE5WMEJfMFpSR3NJZE5JUkUyOGtXZ25uWXBqVmhlcGs4ZWtMclVaN3dMWWlGbzdwUmt5TzZLcjRWY3h3bzRYcGlMc0RKak5zTlktNkFhTkV1QS1yNUdxUnRtaTJrM2Z4ZDRhTHdGajFDSzNFQ1c0ZE93cXk4MG4xVXVObW85MW1Sc2d4NU9jdnRRN1lTOVBfblFoaGkxNWJVRUtzMXZ5dUdsaFBmeWhIMnNneW5ZTk1xX0VF?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.221Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 09:21",
-      "title": "Emergency scientific consultation on Andes Virus medical countermeasures (MCM) R&D - World Health Organization (WHO)",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPS0dtSGZ5UWIyTmw3dUlLa0Rmc3BiUEVCQlVFaERidXdsUFA1SWZ3UGtjSnV1b3dER1d2bXBXRlU2MTZFVWFlN2hxRXZvV1NTX2F0WVRSelEtY2NhY1AyZlRkNUJLVGdnM2Mtc2laUWRxS0ZGVm1vY0otR1ZCd2FNaXFPWGhfcnVYWXZQaFVPXzdhQjFaa1Mwa2Jhc2JDV3ZiVUthelA0NUtValRxb3Q5cjhoLUw3Z2hxYUtXRkZCR0hSM3UyOG5GMUlpRUJ4MVVoUkp3UDhCeV9EQkxmNHcwNHdNZzFkUzdsQXc?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.220Z"
     }
   ],
   "travel": [
