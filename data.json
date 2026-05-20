@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T18:26:35.534Z",
+  "last_updated": "2026-05-20T10:38:17.843Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,69 @@
   "news": [
     {
       "src": "News",
+      "time": "19 May 21:19",
+      "title": "Deadly hantavirus outbreak triggers rodent hunt in Argentina",
+      "tag": "u",
+      "url": "https://www.aol.com/news/deadly-hantavirus-outbreak-triggers-rodent-211938711.html",
+      "live": true,
+      "added": "2026-05-20T10:38:15.291Z"
+    },
+    {
+      "src": "News",
+      "time": "19 May 02:02",
+      "title": "Hantavirus RNA detected in survivor’s semen 71 months post-infection — raising fears of long-term sexual transmission",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/hantavirus-rna-detected-in-survivor-s-semen-71-months-post-infection-raising-fears-of-long-term-sexual-transmission/ar-AA23y9DL",
+      "live": true,
+      "added": "2026-05-20T10:38:15.291Z"
+    },
+    {
+      "src": "News",
+      "time": "19 May 15:44",
+      "title": "Argentines hunting for source of hantavirus outbreak trap rats in southernmost city",
+      "tag": "u",
+      "url": "https://www.nbcnews.com/world/argentina/argentines-hunting-source-hantavirus-outbreak-trap-rats-southernmost-c-rcna345997",
+      "live": true,
+      "added": "2026-05-20T10:38:15.291Z"
+    },
+    {
+      "src": "News",
+      "time": "19 May 17:10",
+      "title": "Hantavirus update: CDC confirms 2 brought to Omaha facility ordered to quarantine",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/news/us/hantavirus-update-cdc-confirms-2-brought-to-omaha-facility-ordered-to-quarantine/ar-AA23AnIe",
+      "live": true,
+      "added": "2026-05-20T10:38:15.290Z"
+    },
+    {
+      "src": "News",
+      "time": "14 May 13:29",
+      "title": "What the (rather brief) history of hantavirus reveals about its spread",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/what-the-rather-brief-history-of-hantavirus-reveals-about-its-spread/ar-AA232iBN",
+      "live": true,
+      "added": "2026-05-20T10:38:15.290Z"
+    },
+    {
+      "src": "News",
+      "time": "20 May 03:34",
+      "title": "Health Department Strengthens Infectious Disease Preparedness as Hantavirus Risk Remains Very Low in USVI",
+      "tag": "u",
+      "url": "https://viconsortium.com/vi-health/virgin-islands-health-department-strengthens-infectious-disease-preparedness-as-hantavirus-risk-remains-very-low-in-usvi",
+      "live": true,
+      "added": "2026-05-20T10:38:15.290Z"
+    },
+    {
+      "src": "News",
+      "time": "19 May 19:12",
+      "title": "American passenger on hantavirus-hit cruise feels ‘blindsided’ and ‘misled’ by new quarantine orders",
+      "tag": "u",
+      "url": "https://www.cnn.com/2026/05/19/health/hantavirus-us-quarantine-orders",
+      "live": true,
+      "added": "2026-05-20T10:38:15.289Z"
+    },
+    {
+      "src": "News",
       "time": "19 May 09:10",
       "title": "Woman exposed to hantavirus on cruise ship says feds are forcing her to stay quarantined in Nebraska",
       "tag": "u",
@@ -3280,69 +3343,6 @@
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPS0dtSGZ5UWIyTmw3dUlLa0Rmc3BiUEVCQlVFaERidXdsUFA1SWZ3UGtjSnV1b3dER1d2bXBXRlU2MTZFVWFlN2hxRXZvV1NTX2F0WVRSelEtY2NhY1AyZlRkNUJLVGdnM2Mtc2laUWRxS0ZGVm1vY0otR1ZCd2FNaXFPWGhfcnVYWXZQaFVPXzdhQjFaa1Mwa2Jhc2JDV3ZiVUthelA0NUtValRxb3Q5cjhoLUw3Z2hxYUtXRkZCR0hSM3UyOG5GMUlpRUJ4MVVoUkp3UDhCeV9EQkxmNHcwNHdNZzFkUzdsQXc?oc=5",
       "live": true,
       "added": "2026-05-14T09:39:57.220Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 06:04",
-      "title": "New Hampshire DHHS Issues Statement on MV Hondius Hantavirus Outbreak - The Rochester Post (.gov)",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSENvYU13QkwzWWZ1MXVhNlhIZldteGVwd2tDVTdvMkVOVHZOeUo5TWQxbW1ORVcyQ3pMakItVHlaMTRYeXlpWFRUUUs2d29GNUVuM2YzaWROd3NSSVFYdE8wREtVWEFyZmhNQ1NSMXFJblZvUU8wNEtFUXQ2a2ZwLWxQN21Temwwc2ZqZVJ0ZUdEYlNaY25uRDRFOTVLbHdF?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.220Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 21:19",
-      "title": "Hantavirus Outbreak Tests Global Health Law Amid WHO Crisis - Think Global Health",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOU9SbXBwMGU3SWV2VlBYN1dlRG94YklqMUQ3R0tHTmd0TUhTT1pxQzYwLU9iNmFUTUxyYk5DaXRteEloVkcwNlduS1EzNFlHUHdfUW1iVE9SR0pzZm5oVGgxNVU4RXJ5YUIyenE3LVVaTlRMRThEcjRyeWRJejVEQXowR0hqVFRMOFp2bU9XSncyX3NTNXptWWlnRS1HNm12amNV?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.220Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 00:56",
-      "title": "International Response Intensifies After Cruise Ship-Linked Andes Virus Outbreak - Crisis24",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUkd0T0dyX09YTFFtMHVWRy1kTWhVbW5mTVFUdjQ1ZmJGaW1iSFRvUWRFWmdSSVFqOEowdkJBMUtBOFdWeHFqNGthbGxONWpzT1ViUnJxOHdYZWF6MGozWkhEMXpCWkpUT05vZlVwX21rc2JfRlplZUFPbExLZk55SjBfN0FUMEd4YlZEY1VtV2FnT2pTNUR2RHpYNVFiOHdiM2JrSU1jbEQ1VERmNzI4LU45dGU?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.220Z"
-    },
-    {
-      "src": "News",
-      "time": "12 May 17:57",
-      "title": "A Scientist’s Close Call with Hantavirus Aboard the M.V. Hondius Cruise - The New Yorker",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYks5dEhRVnBtM0VnRGlGbWNJdkpqQkpMOGZHMHE5cUdzUFFjSmxydUtNWDhad3hTWTBUMlB5RnB3N25MRUZfeXRlS1dNMHJ6bi1YUEt3TmxQUWttaW5rR2xyQXIzaVh3dnlubmhvOW1sTmxjX2FOdXgtV3VIaXV3eGwtaFUwZ3kzQS1mamFPNGJabmktN0I0cWx1RVpEZEpvUWEwRi13?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.220Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 17:29",
-      "title": "Can this cruise ship ever be safe again? Inside the hantavirus cleanup - NewsNation",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeklhUG91ZzdDNFI1M29QSVJwSjBjbkNPZlpZRFNISkZnN0xqMHBpMnA0SnZvdFFpcG9NTHdoMXdmVVItcm54NXBZRlhHdUlHaDRFWGF0UU9UdUZyaThPT1BDMXh0ZklIZ1ZMdUlzQUVjdHlaaVdmbmp1bGNDWlJPNDlSNU9JTFMtZkNj0gGQAUFVX3lxTFBzYXlmSjEyR2tzZS1xajhNMndpcUxDYWMxV0dXXy1taVpXcmE3djcwM0FFcmNuaFhTT3YzQWZ2OG1sbGJBT0VIUUtMRTR5TTJyY0JHT0VhRVVHalptdkNiWUNhMGc2MXdUcUpsRzVmWHpiaEVFVDItNEpvTEE3WjJuRHctNTRGUVBTdzBab0t0Sg?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.220Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 19:00",
-      "title": "MV Hondius hantavirus outbreak reaches nine cases, three deaths - MSN",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQWNXRlJqZGhVdG1TcF9lZXVSeGQ0RmhGMGtCdUZqRGYzN2hjVmhHbGhLSFAxVWgzQ0x5QjlqTDFzalVISUVvU1JwU1VRaUpJbFdESmdHaW4tQXg3d09VR2F4UGtpSXBNckY3OE54OGVuMzRFdW9LM3U3SkJVVlRXeThtcjlpREtwVTQ2ZDl5OXFsSmFLb081ZlYwbl80TTZVZXk1eEdmMnlIQjNNWS0zYkVYMXJSVWFGUWVNbFY5WmcycUd6dXprSGI3X3NTV0xpRWkza1QyVGZUZEd5RDc2SmQ0SFE2LWhx?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.220Z"
-    },
-    {
-      "src": "News",
-      "time": "10 May 13:54",
-      "title": "What to Know About Hantavirus After Cruise Outbreak - AARP",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaFZiT2JGRTRoTk9CYWlOSDRyX0d2cm9xYTFXbzRMbi1lR3psN0xOSEkxQmdrMXpwS2E5Uklkdk5WaXdRSE0zRUZJTE5NSENHZ3dzYnFZbk1uMnFYY0xYamlEZ3NDeGhLTWJIWVlwd0E5Y0tULVlqaEFjNmJWc1p4TlBR?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:56.772Z"
     }
   ],
   "travel": [

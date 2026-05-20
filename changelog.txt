@@ -685,3 +685,13 @@ the bot are listed under the timestamp.
   + News | US health officials order quarantine for 2 passengers from cruise ship
   + News | Woman exposed to hantavirus on cruise ship says feds are forcing her t
   + News | Hantavirus Death Confirmed in Colorado as Health Officials Launch Inve
+
+[2026-05-20T10:38:17.844Z] 8 change(s):
+  ~ AI filtered 4 low-quality item(s)
+  + News | American passenger on hantavirus-hit cruise feels ‘blindsided’ and ‘mi
+  + News | Hantavirus update: CDC confirms 2 brought to Omaha facility ordered to
+  + News | What the (rather brief) history of hantavirus reveals about its spread
+  + News | Health Department Strengthens Infectious Disease Preparedness as Hanta
+  + News | Deadly hantavirus outbreak triggers rodent hunt in Argentina
+  + News | Hantavirus RNA detected in survivor’s semen 71 months post-infection —
+  + News | Argentines hunting for source of hantavirus outbreak trap rats in sout
