@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T19:55:32.372Z",
+  "last_updated": "2026-05-21T18:28:48.361Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,42 @@
   "news": [
     {
       "src": "News",
+      "time": "20 May 11:53",
+      "title": "The hantavirus outbreak is a tragedy—and a valuable data source",
+      "tag": "u",
+      "url": "https://www.economist.com/science-and-technology/2026/05/20/the-hantavirus-outbreak-is-a-tragedy-and-a-valuable-data-source",
+      "live": true,
+      "added": "2026-05-21T18:28:45.937Z"
+    },
+    {
+      "src": "News",
+      "time": "21 May 09:34",
+      "title": "Study finds deadly hantavirus more widespread in Pacific Northwest rodents than expected",
+      "tag": "u",
+      "url": "https://komonews.com/news/local/study-finds-deadly-hantavirus-more-widespread-in-pacific-northwest-rodents-than-expected-disease-infection-mice-rats-droppings-symptoms-pandemic-andes-virus-covid-cruise-ship-washington-idaho-oregon",
+      "live": true,
+      "added": "2026-05-21T18:28:45.937Z"
+    },
+    {
+      "src": "News",
+      "time": "21 May 11:15",
+      "title": "Sentara prepares for possible hantavirus infections",
+      "tag": "u",
+      "url": "https://www.aol.com/news/sentara-prepares-possible-hantavirus-infections-111502401.html",
+      "live": true,
+      "added": "2026-05-21T18:28:45.936Z"
+    },
+    {
+      "src": "News",
+      "time": "21 May 05:31",
+      "title": "Hantavirus outbreak on Dutch cruise ship: How to prepare for a healthy and safe cruise trip",
+      "tag": "u",
+      "url": "https://www.msn.com/en-au/health/nutrition/hantavirus-outbreak-on-dutch-cruise-ship-how-to-prepare-for-a-healthy-and-safe-cruise-trip/ar-AA23Jige",
+      "live": true,
+      "added": "2026-05-21T18:28:45.936Z"
+    },
+    {
+      "src": "News",
       "time": "18 May 03:38",
       "title": "Cruise ship hit by hantavirus outbreak docks in Rotterdam",
       "tag": "u",
@@ -3305,42 +3341,6 @@
       "title": "Doctor who helped ship take care of passengers with hantavirus is isolated in Nebraska medical unit - Boston Herald",
       "tag": "u",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zcUptUVhmZmkzU3IwZzk4ZGt4eEs0R3huYXM5N2ZVM1RuY28tZ3gyaXFjZlFPdTZSM0pudkdKeEQ4bm5zb29laXlFaG45X0ZiNllRbldMYWdEM20xRV96VUx6QnI5UnlISWxhZGI3bmM?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.221Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 07:17",
-      "title": "MV Hondius passengers return to Australia under strict infection control measures - Lab + Life Scientist",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORW5hQ0hjUDNvV2FuZmJsdGJYOW0zZ2pFN04waHlmQXdfTG9ndzcwWEFXVU9URG9BOUJOSUlyU01FUk92SmFGN3NlYzYwcVR6TVVZdHVxSDVkTW9ubnNubWdfWTZCWDNmbzN0bDNPOWR0aXduNTlYU3d2eTlmcE1ZSks0ZXdxUnhSSnBNWGxtUzZIMVFrVWxUTWZlTVpnamkzVURDczZremd4RXcxUVhFRHpyb25IU0xlV1Uwem00aURRajJsREVlVVNkR1h3c0lDQUpRSFBnY253NTY1cDNBWA?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.221Z"
-    },
-    {
-      "src": "News",
-      "time": "09 May 19:21",
-      "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.221Z"
-    },
-    {
-      "src": "News",
-      "time": "09 May 20:00",
-      "title": "US sending charter flight to bring Americans home from hantavirus cruise ship - BBC",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xdHlUWDYwTnVob0JOQ1YtX0NxUDRTT2xicGtrMVptNGhKdmJoc0htMlAxdFV6VTNsN1dsdmRFVGpGenVpLTdzR0VBdFNKcDJReEhNdFEybGdfQQ?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.221Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 19:00",
-      "title": "California monitors two residents after Andes virus exposure - MSN",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMVUyT1J3UUZ4SGl1THFyYllWcHRQaWlJVEkwMDUxU0NwdnFZU2hOa1lyM0JsMmRmZk5ZNXpqYnRKaU9VaGpaTUc0TllselFROTdXc180LVprVkoyX0E2ZFUyODFnY1RIQkpQb2REak1UOHhnMmFPeUkwb3JLRHNiOVlSbEN6cFJ2dFVrdEgwMkhVTnRwQWJWRDZhWDNBVWRQTEZ0TkJ5YnFWOUhjRXRfLXdfMGV0aFQwQmpZZ0FvbDJKdVZ6N3Fsc3F2dEdwNHJGTm1Dd1c3bkViZDMyQ0ZPanZCTFhoTmJta1d2Y1JmbVU1WDJU?oc=5",
       "live": true,
       "added": "2026-05-14T09:39:57.221Z"
     }

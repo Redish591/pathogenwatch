@@ -701,3 +701,10 @@ the bot are listed under the timestamp.
   + News | Promising hantavirus vaccine research stalled by funding gap before ou
   + News | Cruise ship hit by hantavirus outbreak docks in Rotterdam
   + News | Hantavirus explained: What Utah residents should know about the cruise
+
+[2026-05-21T18:28:48.362Z] 5 change(s):
+  ~ AI filtered 6 low-quality item(s)
+  + News | Sentara prepares for possible hantavirus infections
+  + News | Hantavirus outbreak on Dutch cruise ship: How to prepare for a healthy
+  + News | The hantavirus outbreak is a tragedy—and a valuable data source
+  + News | Study finds deadly hantavirus more widespread in Pacific Northwest rod
