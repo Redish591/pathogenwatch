@@ -708,3 +708,8 @@ the bot are listed under the timestamp.
   + News | Hantavirus outbreak on Dutch cruise ship: How to prepare for a healthy
   + News | The hantavirus outbreak is a tragedy—and a valuable data source
   + News | Study finds deadly hantavirus more widespread in Pacific Northwest rod
+
+[2026-05-22T10:37:18.136Z] 3 change(s):
+  ~ AI filtered 7 low-quality item(s)
+  + News | American who was on the hantavirus cruise ship says isolation center i
+  + News | 2 Americans forced into quarantine following deadly cruise ship hantav

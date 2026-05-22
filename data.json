@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T18:28:48.361Z",
+  "last_updated": "2026-05-22T10:37:18.135Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "21 May 12:45",
+      "title": "2 Americans forced into quarantine following deadly cruise ship hantavirus outbreak",
+      "tag": "u",
+      "url": "https://www.npr.org/2026/05/21/g-s1-123441/2-americans-forced-into-quarantine-following-deadly-cruise-ship-hantavirus-outbreak",
+      "live": true,
+      "added": "2026-05-22T10:37:15.461Z"
+    },
+    {
+      "src": "News",
+      "time": "21 May 16:08",
+      "title": "American who was on the hantavirus cruise ship says isolation center is like ‘prison’",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/american-who-was-on-the-hantavirus-cruise-ship-says-isolation-center-is-like-prison/ar-AA23Jzbh",
+      "live": true,
+      "added": "2026-05-22T10:37:15.459Z"
+    },
+    {
+      "src": "News",
       "time": "20 May 11:53",
       "title": "The hantavirus outbreak is a tragedy—and a valuable data source",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPZ1doQ19XRTBHLW5raE9aazlwamtZaktUaGVGZWNvcUx5QzRsOHhzSVlHZ1ozYURwY25nMDhPbVdLRWVuUUx5X1lqV040c3J4cGxsUDhndlduS1Jvc0VOck84ZlNEWUF0eGpDWkxoWmg4U3NfWUVzaTcxUzQ1SWRZTllHY2NUdEVfQUR3SDFOVzFFR0Vua1Bzd0wwV0RhVHV5a01GRzZ5ejV2M1hOYjRDVXNPUnJzeC1HNGR5V2pfb2xaN1pVWXlDUnNOYmZkeU9jRlJ3VE5DWjc4ODN2NjFwQkROeFZzQTFZVzRybFR2aDlKVEd6Unkzc01aZktKVVNRYWxZbktOc3Q0eUNITS1GQWhKRkNKTEw4cTJzUnlpLWlEY0NrSDJHYkVZYkFoNWFZVFoyTUsyQ0tjQnJRVkh1R1hlSzVtbDlveFpR?oc=5",
       "live": true,
       "added": "2026-05-14T09:39:57.222Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 17:47",
-      "title": "These are the 10 U.S. states monitoring for hantavirus cases linked to cruise ship at center of outbreak - Yahoo",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZEFGZGV0YXctMUZnUGY0cmRlS2sxRm9kUjZoXzVWS2NBYjdhRklONEJMSDJHNlVrZGZCVjNnczdvUXdsR0RGdVNsY2k0MGs3LWVWU2RzcFV5QnZJRXBVZ2paNFlFai1xTmVXeUp3eWJTVVViTU8wQ1ZidGJvUS10WEZfcURYSGNRRFl4cjNjT2VueFBYNWEwcjRMYk9OeDFNNFpTSERpVW1Sd3FPSEZhQUlNdHFiMG5acF9Hak1jYjB5N0ZrbjdGaTM3aWh1eDJqYWdoR0FmdXBMakE1RV9aUUlxNE90cDNKVjhR?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.222Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 22:51",
-      "title": "Doctor who helped ship take care of passengers with hantavirus is isolated in Nebraska medical unit - Boston Herald",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zcUptUVhmZmkzU3IwZzk4ZGt4eEs0R3huYXM5N2ZVM1RuY28tZ3gyaXFjZlFPdTZSM0pudkdKeEQ4bm5zb29laXlFaG45X0ZiNllRbldMYWdEM20xRV96VUx6QnI5UnlISWxhZGI3bmM?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.221Z"
     }
   ],
   "travel": [
