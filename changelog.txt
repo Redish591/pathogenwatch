@@ -713,3 +713,12 @@ the bot are listed under the timestamp.
   ~ AI filtered 7 low-quality item(s)
   + News | American who was on the hantavirus cruise ship says isolation center i
   + News | 2 Americans forced into quarantine following deadly cruise ship hantav
+
+[2026-05-22T18:21:55.505Z] 7 change(s):
+  ~ AI filtered 4 low-quality item(s)
+  + News | Hantavirus cases linked to cruise ship rise to 12 after crew member te
+  + News | Hantavirus exposure risk may be higher than believed in parts of US, s
+  + News | ‘Shocking number’ of PNW rodents may carry hantavirus, Scientific Amer
+  + News | Canada's chief public health officer delivers updates on hantavirus, E
+  + News | Spain allows hantavirus contacts who test negative to spend last 14 qu
+  ~ extraction skipped: The first headline states cases rose to 12, but no headline explicitly attributes a death count of null or confirms deaths remain at 3 to an official health authority.

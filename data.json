@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T10:37:18.135Z",
+  "last_updated": "2026-05-22T18:21:55.503Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,51 @@
   "news": [
     {
       "src": "News",
+      "time": "22 May 09:24",
+      "title": "Spain allows hantavirus contacts who test negative to spend last 14 quarantine days at home",
+      "tag": "u",
+      "url": "https://www.msn.com/en-ca/health/other/who-confirms-12-hantavirus-cases-after-new-positive-in-the-netherlands/ar-AA23Pi6g",
+      "live": true,
+      "added": "2026-05-22T18:21:50.208Z"
+    },
+    {
+      "src": "News",
+      "time": "21 May 16:15",
+      "title": "‘Shocking number’ of PNW rodents may carry hantavirus, Scientific American says",
+      "tag": "u",
+      "url": "https://www.oregonlive.com/nation/2026/05/shocking-number-of-pnw-rodents-may-carry-hantavirus-scientific-american-says.html",
+      "live": true,
+      "added": "2026-05-22T18:21:50.207Z"
+    },
+    {
+      "src": "News",
+      "time": "22 May 10:20",
+      "title": "Canada's chief public health officer delivers updates on hantavirus, Ebola",
+      "tag": "u",
+      "url": "https://www.cbc.ca/news/health/livestory/phac-public-health-agency-canada-ebola-hantavirus-9.7208488",
+      "live": true,
+      "added": "2026-05-22T18:21:50.207Z"
+    },
+    {
+      "src": "News",
+      "time": "22 May 10:59",
+      "title": "Hantavirus exposure risk may be higher than believed in parts of US, study finds",
+      "tag": "u",
+      "url": "https://www.fox26houston.com/news/hantavirus-exposure-risk-may-be-higher-than-believed-parts-us-study-finds",
+      "live": true,
+      "added": "2026-05-22T18:21:50.206Z"
+    },
+    {
+      "src": "News",
+      "time": "22 May 08:25",
+      "title": "Hantavirus cases linked to cruise ship rise to 12 after crew member tests positive",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/hantavirus-cases-linked-to-cruise-ship-rise-to-12-after-crew-member-tests-positive/ar-AA23P7BD",
+      "live": true,
+      "added": "2026-05-22T18:21:50.205Z"
+    },
+    {
+      "src": "News",
       "time": "21 May 12:45",
       "title": "2 Americans forced into quarantine following deadly cruise ship hantavirus outbreak",
       "tag": "u",
@@ -3298,51 +3343,6 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFV1Y2hZQUd1QWdzQTZ6U0NvLUpZOE93TGZlaGRTanl5VkMzSUhNcHpvLU4wUHVoY2JaeGMtc2FiZXplTVctcG1YUzJPeU1qVTh1OXZxaHFaMmxqLW1TTXNPQnJNa0d0LWx3UHo1YzYxSmF3Vi1TRlVHcmp3WW9SYjRRdUFYZnBHMlAzelJsbHhURlJ0bXNvWVRVdGlTQm1iOVZfTFZ6d0oyUjF2QV9xTVV2RkIwSFY1aUc1dnNkVnNSUGQ4WGdIZVJNM1hNZ9IB0wFBVV95cUxONUNuYTIydXdobUE5cU44RHUxTFhkdDFfT2JOeGk0ckpJTWx3dWRkV19PWmliczR5VUlaM2l3Mjc4MGtQemtlNGlkRGxUbVR0eWs4Q29wZnVHRmlRYThpQWxzUENiejhHbUhGMlI0X01fT1prSi1kYXAybEdWN2dVaHZZR0tVcTVIRGJ6TUNHNWxVazVzOGozTTlwTGhxZHNIN0tyaDVxQ3phMDVhb2xQTldQQVhEOWl2Qk1nLWFUSDFWYlpOR3FBY3ljN0t3VmIwS3FF?oc=5",
       "live": true,
       "added": "2026-05-14T09:39:57.223Z"
-    },
-    {
-      "src": "News",
-      "time": "12 May 16:26",
-      "title": "18 Americans quarantining after hantavirus outbreak: What we know - NewsNation",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSFhReFcwaDZrOVB2QVp5aDFzT2hLcnJDNTYzbkxXcHZ4XzM2ZDhtY1VFWTQtZS1DalM5cWp6QkJyRG1fNXhSMmZwVlhGN2I3RWQzMlNKVFl2dnB6eEs4UkI2MklZYkFrVG1ETXpYNDBkRTRmX2JrVzBFbEtpXzBxSGJlX2hhMnpTakVVYUZhXzFiTWxPSUHSAZsBQVVfeXFMTWcxQTdrbmxZbTJyTjE5eENjN2NjeWFhSEpPOW5OTk9URWExX0VPWEMxMlZtUDNVRzFSY2F6dW1qVG8zSGRBemd2dU96by1oVGNybmVVR2duM05MbGZKRlpzY190c0NjLUZ1TUt1dGFuN2FsbWltNktCcGR4ZWg5U1JYSEZkY2JzdWhMSGpuNFlUV2Eyc3V1YlBFaTQ?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.222Z"
-    },
-    {
-      "src": "News",
-      "time": "12 May 18:08",
-      "title": "Americans from hantavirus-hit cruise ship arrive in U.S., including 1 who tested positive, another with symptoms - CBS News",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWWc3NVg2ck8tR2FJTnlhY2V6VzlncWFDUllYMm9ZWkdoM1FDUUthdkNucnJIV1cwazNtYzVzZ080Um1RZEk1VXVZRVN3dFBJdlVBQjN2UENpWHF3SFdKNHBFRVZTenRGbXVhVkpNVFlrUmY0SGNqN2tnNWNhOEM5VzItdWpySTFUdnF6NWRKcDjSAZYBQVVfeXFMTlV5LUJzaFE2WndZVE96elVhQW14Sy1aaklPOWtzMFNhcDNUM2FndWdSVXg3ZWZxZ3cxTHl5M2xOTjhKRlQzWkVBLWJESjBJWUx1TE5mZXduLTB2c3NXbzVmY0dzdmlEeTlXYUJUd0ZLbWlDd2Q0bVU3VGZ2NkJkTDR3SjRyZTI3ZVBXMlc4QUdaQUtHSWhn?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.222Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 01:57",
-      "title": "More victims of MV Hondius hantavirus outbreak? Another patient critically ill as outbreak reaches 11 cas - The Times of India",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOVmNOMWNnU3loajV1dEZ0RUNFRkhNbDdsZDJWMm1CVE9hU0daZnV1aGstMEpwTkkzVVZ6R3p1UjdBdUtrSldIMjJVeWFfdlExZkxud0ZuMHg5bDkwb095SzlIczNrUzJQZWNhTHB6LXNnZ1BaTjBneEMzaHJRTnY0UlRtUWZLUjdXWW5VVU9zTTJXck5ua1daSVMzRWE5b2ZscXNxcVI0cXdCYzJWZnZsV0pkTU9iLWl2dWNOOG9YSXc3Z2xuekJTWHhxZDRwQmkxT0xqaFl6T2lWMGFoMFdNMUNOU0RlcGNGRjlFcUY3TVFfRUdOUGtmLUs0bWhPaVlhX1BxMW13UGhlTlE5TG9tNkF30gGXAkFVX3lxTE80WmF2OVhwZ0NLYjByNWNjUHlGQ2VIeEdGRmxDM2lhSzdwUEY3QTVjUTcwMWtuQmxZUkJFOWpZekRtZmd1UzI2UEdhZWh0WHVOQzRtRDBIV2k4WlRTclV0OW90RUhIYlhoLU9wZEtZQlExeTczM181a3c0MUVWUzk0RmRkc25KTUt3TzlCV3FTb0VCenhKeFYxTFNxdW15bGRhcFFuUDQ3TnQ5UGxsbTl6cEJFOGkyOW1QOXl6cHozSjExb3lVWlNKMWVJRnZHb2NxdW9lblVRT3VQUWlEQTZBUl82VFNWdXZhQnVuVXF6cWtYR2dsbXF6akozYlEtMjl0aHdmeTk5UFFiYlhUcktVWmhKV0pMaw?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.222Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 02:30",
-      "title": "Why MV Hondius hantavirus outbreak raises fears of Andes strain spreading beyond close contact - India Today",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTdvSmJvYld6WXptT3pZSE5kRF9YOElCeFNRVVVSRUdzZmttQUVZSmxnZVVoQ2RuWm1zNThjdmNaQnlDZDdKYWcwLUx0YlAxaWNWSWVLOE1VaHV6VGw2bnk4S2FfVWVibVU2VC03QTB1ajhCZ0JramZBVWpZY2VzeWtQWmJxeEpodGFwdHBTZDU4Qkozdy1GZ0xHNFZ3ckQybld6M1BfNXYyeWtqRFF2cTNpbHVGS0JYR0NzbzhMNNIBxAFBVV95cUxNWlBhNG9oVVFsV05tV2FMcmdzOE9HOXJ0cmZRajNhc05ncUdBZEFWZUZNUUluYTlYVkE2d05kRWNHUDFXT2dCcEVvYUxIbkhFYThEZ1FqbGNmcmpOYjFhdFQzRV9UQ2FRcXRkZFFHZzU4MHdVZk5LeEJqXzl6Qm93cktoZElpSHZUWS01UXFtLWlWMGJEX2NkbVlZSlRHbEcydlZabXJReFBPTUFUSWlVMUpuN3FuWnBHcU9GSXlqODlnRVRS?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.222Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 06:36",
-      "title": "Netherlands-Based MV Hondius Cruise Ship Faces Limited Legal Recourse for Passengers After Deadly Hantavirus Outbreak, Raising Questions About Oceanwide Expeditions’ Responsibility - Travel And Tour World",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPZ1doQ19XRTBHLW5raE9aazlwamtZaktUaGVGZWNvcUx5QzRsOHhzSVlHZ1ozYURwY25nMDhPbVdLRWVuUUx5X1lqV040c3J4cGxsUDhndlduS1Jvc0VOck84ZlNEWUF0eGpDWkxoWmg4U3NfWUVzaTcxUzQ1SWRZTllHY2NUdEVfQUR3SDFOVzFFR0Vua1Bzd0wwV0RhVHV5a01GRzZ5ejV2M1hOYjRDVXNPUnJzeC1HNGR5V2pfb2xaN1pVWXlDUnNOYmZkeU9jRlJ3VE5DWjc4ODN2NjFwQkROeFZzQTFZVzRybFR2aDlKVEd6Unkzc01aZktKVVNRYWxZbktOc3Q0eUNITS1GQWhKRkNKTEw4cTJzUnlpLWlEY0NrSDJHYkVZYkFoNWFZVFoyTUsyQ0tjQnJRVkh1R1hlSzVtbDlveFpR?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.222Z"
     }
   ],
   "travel": [
