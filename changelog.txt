@@ -722,3 +722,10 @@ the bot are listed under the timestamp.
   + News | Canada's chief public health officer delivers updates on hantavirus, E
   + News | Spain allows hantavirus contacts who test negative to spend last 14 qu
   ~ extraction skipped: The first headline states cases rose to 12, but no headline explicitly attributes a death count of null or confirms deaths remain at 3 to an official health authority.
+
+[2026-05-23T07:59:38.762Z] 5 change(s):
+  ~ AI filtered 4 low-quality item(s)
+  + News | Americans exposed to hantavirus on ship enjoy some Nebraska hospitalit
+  + News | Dutch cruise ship crew member tests positive for Hantavirus in isolati
+  + News | Hantavirus prevalence in Pacific Northwest rats raises new concerns
+  ~ extraction skipped: verifier error: Unexpected non-whitespace character after JSON at position 237 (line 2 column 1)

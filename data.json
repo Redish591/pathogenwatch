@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T18:21:55.503Z",
+  "last_updated": "2026-05-23T07:59:38.760Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,33 @@
   "news": [
     {
       "src": "News",
+      "time": "22 May 10:16",
+      "title": "Dutch cruise ship crew member tests positive for Hantavirus in isolation",
+      "tag": "u",
+      "url": "https://www.yahoo.com/news/science/articles/dutch-cruise-ship-crew-member-153806246.html",
+      "live": true,
+      "added": "2026-05-23T07:59:34.567Z"
+    },
+    {
+      "src": "News",
+      "time": "22 May 11:51",
+      "title": "Hantavirus prevalence in Pacific Northwest rats raises new concerns",
+      "tag": "u",
+      "url": "https://www.yahoo.com/news/science/articles/hantavirus-prevalence-pacific-northwest-rats-172757707.html",
+      "live": true,
+      "added": "2026-05-23T07:59:34.567Z"
+    },
+    {
+      "src": "News",
+      "time": "22 May 15:18",
+      "title": "Americans exposed to hantavirus on ship enjoy some Nebraska hospitality while waiting in quarantine",
+      "tag": "u",
+      "url": "https://apnews.com/article/hantavirus-quarantine-omaha-cruise-cdc-01af4b0d14f3e9e8b5916efb982c1c9a",
+      "live": true,
+      "added": "2026-05-23T07:59:34.566Z"
+    },
+    {
+      "src": "News",
       "time": "22 May 09:24",
       "title": "Spain allows hantavirus contacts who test negative to spend last 14 quarantine days at home",
       "tag": "u",
@@ -3314,33 +3341,6 @@
       "title": "New Yorkers exposed to deadly hantavirus quarantined in Nebraska - WXXI News",
       "tag": "u",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdzktUUNxdk8tVWlSc3lsOG50eVVNQ09zOXdWejBuSDVQWXJzdWU3YnEyTGk3VTFPckNmcjY3XzZjNmhpT1lpcnRaLXQtWFVXR3c4QTlsRDZXR2JuVDZTajQ1SnktMU41a0duVk54cS1DNEZYblBEOXo3a29FN29MdjBVUUdGS3BCcVM2Z3F2RkxyakxVZ0ZoNGdjZWV4QjZ5cW9jWGxrZ0tSYndUcVhndVlndm8xdTZyR2RhSzFkdnhoOEdGRVNaOQ?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.223Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 23:18",
-      "title": "CARPHA assures Hantavirus outbreak on MV Hondius cruise ship not pandemic potential - IRIE FM",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYk52c1N3bnBFWG00cTVxWFkxWmgyVWY0TVNSN3hCMFFaMUJfTmVxeHN4WDh4N3VabXpKNDd1Y2NGX1Y1d1F0eHJyNXhPY01UR19KN3FWWTlTMXFpWjNrX3lFbFBBOVVTOE1FbWYzWkRyTk1lUjJpRHNtamFmc1B2Z2xrYmtCNXlyUTRQUGp1V0JreUhQS29SczlBbHNYZmxva1dSSTl3?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.223Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 17:26",
-      "title": "Will this cruise ship be safe? Inside the hantavirus cleanup - PIX11",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcnRERFBMUG1qTVFnS2wzczNyaHpwQWhwa1F0QnhQMC1TUXBXMURXcVZfVFRyWGQtYXNzZGphUXA0M2M0aVUwNGM3bHBZMkZfMWdBZ2sxSkQtQWt1X2JfdkdtRWNXX1EzQ2RacGRvMzF3MUQxcHVsbkFZZ0ZEMElldURjMGQzZ0twSmpQS0x3M210ZHN0ZEVpcmdZZ2g5eFBQRXZB0gGjAUFVX3lxTE5ydEREUExQbWpNUWdLbDNzM3JoenBBaHBrUXRCeFAwLVNRcFcxRFdxVl9UVHJYZC1hc3NkamFRcDQzYzRpVTA0YzdscFkyRl8xZ0FnazFKRC1Ba3VfYl92R21FY1dfUTNDZFpwZG8zMXcxRDFwdWxuQVlnRkQwSWV1RGMwZDNnS3BKalBLTHczbXRkc3RkRWlyZ1lnaDl4UFBFdkE?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.223Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 06:19",
-      "title": "Hantavirus response appropriate, but preparedness gaps remain: Top virologist Dr Shahid Jameel - India Today",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFV1Y2hZQUd1QWdzQTZ6U0NvLUpZOE93TGZlaGRTanl5VkMzSUhNcHpvLU4wUHVoY2JaeGMtc2FiZXplTVctcG1YUzJPeU1qVTh1OXZxaHFaMmxqLW1TTXNPQnJNa0d0LWx3UHo1YzYxSmF3Vi1TRlVHcmp3WW9SYjRRdUFYZnBHMlAzelJsbHhURlJ0bXNvWVRVdGlTQm1iOVZfTFZ6d0oyUjF2QV9xTVV2RkIwSFY1aUc1dnNkVnNSUGQ4WGdIZVJNM1hNZ9IB0wFBVV95cUxONUNuYTIydXdobUE5cU44RHUxTFhkdDFfT2JOeGk0ckpJTWx3dWRkV19PWmliczR5VUlaM2l3Mjc4MGtQemtlNGlkRGxUbVR0eWs4Q29wZnVHRmlRYThpQWxzUENiejhHbUhGMlI0X01fT1prSi1kYXAybEdWN2dVaHZZR0tVcTVIRGJ6TUNHNWxVazVzOGozTTlwTGhxZHNIN0tyaDVxQ3phMDVhb2xQTldQQVhEOWl2Qk1nLWFUSDFWYlpOR3FBY3ljN0t3VmIwS3FF?oc=5",
       "live": true,
       "added": "2026-05-14T09:39:57.223Z"
     }
