@@ -734,3 +734,9 @@ the bot are listed under the timestamp.
   + News | EXCLUSIVE INVESTIGATION: Deadly Hantavirus Lockdown is Here — As 3.3 M
   + News | Hantavirus can persist in men's semen for six years after infection, s
   ~ extraction skipped: The headline 'Hantavirus cases linked to cruise ship rise to 12 after crew member tests positive' states the number 12 but is from a news outlet, not an official health authority attribution.
+
+[2026-05-23T20:34:43.865Z] 4 change(s):
+  ~ AI filtered 3 low-quality item(s)
+  + News | How South African scientists identified hantavirus on a cruise ship th
+  + News | Why the quarantine for hantavirus is so long
+  ~ extraction skipped: The headline 'Hantavirus cases linked to cruise ship rise to 12 after crew member tests positive' states the case number but is not attributed to an official health authority in the provided list.
