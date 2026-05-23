@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T07:59:38.760Z",
+  "last_updated": "2026-05-23T15:47:22.823Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "23 May 08:18",
+      "title": "Hantavirus can persist in men's semen for six years after infection, scientists find",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/science/biology/hantavirus-can-persist-in-men-s-semen-for-six-years-after-infection-scientists-find/ar-AA23TD9m?ocid=BingNewsVerp",
+      "live": true,
+      "added": "2026-05-23T15:47:17.822Z"
+    },
+    {
+      "src": "News",
+      "time": "22 May 21:37",
+      "title": "EXCLUSIVE INVESTIGATION: Deadly Hantavirus Lockdown is Here — As 3.3 Million Are Infected in Outbreak More Contagious Than Covid",
+      "tag": "u",
+      "url": "https://www.aol.com/articles/exclusive-investigation-deadly-hantavirus-lockdown-212000000.html",
+      "live": true,
+      "added": "2026-05-23T15:47:17.821Z"
+    },
+    {
+      "src": "News",
       "time": "22 May 10:16",
       "title": "Dutch cruise ship crew member tests positive for Hantavirus in isolation",
       "tag": "u",
@@ -3323,24 +3341,6 @@
       "title": "Discussing hantavirus concerns - Spectrum News",
       "tag": "u",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSUZUeWZGV0QwTFFocEtlNzJzNTByY3JpZW91Q21fZUZhajZHRWhRdy0wRmVRVjJzMDYxYmFJandDSi1jOG5sd2czT01nODFiNk5NYlRyY0txMkZiRldWbEU1Z0NMRjVfTGhjVEtFSkdlZ0JHRFRWc3prTmdhSm15aHBBR01fdTZZVTdTTG1n?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.223Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 00:28",
-      "title": "Man shares footage from inside hantavirus quarantine - BBC",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5keHR3ZHdaeENEbldZWG9UR3RKeldqTXJNUXNZZGtRZUpkQVBSQ2NJbWpIcjZMeXAyTGlYREdOQjFjM2ZWMS1FbHR2eC1pSXhadzJjcnhQNA?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.223Z"
-    },
-    {
-      "src": "News",
-      "time": "11 May 19:46",
-      "title": "New Yorkers exposed to deadly hantavirus quarantined in Nebraska - WXXI News",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdzktUUNxdk8tVWlSc3lsOG50eVVNQ09zOXdWejBuSDVQWXJzdWU3YnEyTGk3VTFPckNmcjY3XzZjNmhpT1lpcnRaLXQtWFVXR3c4QTlsRDZXR2JuVDZTajQ1SnktMU41a0duVk54cS1DNEZYblBEOXo3a29FN29MdjBVUUdGS3BCcVM2Z3F2RkxyakxVZ0ZoNGdjZWV4QjZ5cW9jWGxrZ0tSYndUcVhndVlndm8xdTZyR2RhSzFkdnhoOEdGRVNaOQ?oc=5",
       "live": true,
       "added": "2026-05-14T09:39:57.223Z"
     }
