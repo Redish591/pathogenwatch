@@ -740,3 +740,9 @@ the bot are listed under the timestamp.
   + News | How South African scientists identified hantavirus on a cruise ship th
   + News | Why the quarantine for hantavirus is so long
   ~ extraction skipped: The headline 'Hantavirus cases linked to cruise ship rise to 12 after crew member tests positive' states the case number but is not attributed to an official health authority in the provided list.
+
+[2026-05-24T15:47:43.075Z] 4 change(s):
+  ~ AI filtered 1 low-quality item(s)
+  + News | Hantavirus is gaining ground in the US, startling researchers: 'Widesp
+  + News | Hantavirus risk from rodents may be higher in Pacific Northwest
+  ~ extraction skipped: The headline 'Hantavirus cases linked to cruise ship rise to 12 after crew member tests positive' states the number 12 but is not attributed to an official health authority like WHO, CDC, ECDC, or a national ministry.

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T20:34:43.864Z",
+  "last_updated": "2026-05-24T15:47:43.074Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "22 May 11:24",
+      "title": "Hantavirus risk from rodents may be higher in Pacific Northwest",
+      "tag": "u",
+      "url": "https://www.usatoday.com/story/graphics/2026/05/22/higher-hantavirus-risk-rodents-pacific-northwest/90212656007/",
+      "live": true,
+      "added": "2026-05-24T15:47:39.289Z"
+    },
+    {
+      "src": "News",
+      "time": "24 May 07:13",
+      "title": "Hantavirus is gaining ground in the US, startling researchers: 'Widespread and complex virus'",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/hantavirus-is-gaining-ground-in-the-us-startling-researchers-widespread-and-complex-virus/ar-AA23WF8O",
+      "live": true,
+      "added": "2026-05-24T15:47:39.288Z"
+    },
+    {
+      "src": "News",
       "time": "23 May 02:00",
       "title": "Why the quarantine for hantavirus is so long",
       "tag": "u",
@@ -3323,24 +3341,6 @@
       "title": "WHO: Nine hantavirus cases linked to the MV Hondius cruise ship - news.cgtn.com",
       "tag": "u",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEdmeGIwRVMxM1Q5QnpXdW1Qb2JmWEViQnh4WExJLTZhZUswVHQzNXB2T2lNY09WQjRrb3k1c0NleWxOdnhZYmtFS2hBODAzRG5zSFR6bXZINEFMajdzSTNVVGhKNGtQTGQtVGt6VThFRExMLVQwdV9CVkQ2cWhna2c4dVJaQnc2dm5CUVJHVFZpTlNNakk1NkxmZmpja3lkdHY1V1RWbld4VzNzenhOWnVlb0JPTVduejRB?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.224Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 04:12",
-      "title": "WHO confirms eight cases of Andes hantavirus in outbreak - Bangladesh Sangbad Sangstha (BSS)",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RWTh2a0hoblhIOEJ3bXFuTmxjVy1KdG82TjR0VlhaQi1oYy12SUJlT0lnVlk3U3FKWGc0UjFobnJDQ3VYZHBfd2x3NA?oc=5",
-      "live": true,
-      "added": "2026-05-14T09:39:57.224Z"
-    },
-    {
-      "src": "News",
-      "time": "12 May 16:37",
-      "title": "Oregon doctor in isolation after positive hantavirus test - KPTV",
-      "tag": "u",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdTZBYnE4WTUzLW9lRjVrZmVUNDJ3YkQ0NnJ2Snpad18temdvQ2xweHpNTEgwOEpOc3RzVkpPS0wwdVg0ZnlmN0lyTGRpRG1VSGNrbWxpUmhmUTczenFHWkxzUjV5bUpzU0xIdkxKbHlmNDcyZk0zOVFWWkRWMHdQelhocTRNOWp6Tl9hcWU0VkdMNmFyY3M0c0xodHJ5NC1wQUJ3YTV6TFV6QmlieHMyTWI3QnE5UdIBygFBVV95cUxQcUtjSWItMERrWmgtRmluZlBLRzRNVGFobzhaOE5hMW5YSXg3dlZtT0dsZDVIQlRFS19NaDdFZnRDWFdqa1dyUExIVWNWYnR6c0daOTYteUlhS01DTnpXVURjS05VN21qUVlLa0M4Q2kxSjBTeDJOV1BJcTU1MktiaFd5emdpWV9BMmxCT3dCbkpXZkVwbGJ4SlBKZkx1eWx2VEFUYTBLQUFJb1kzbU9DVzdMaEQ3WTZ1TFpKYXBleVdrc1hpTV8zcVd3?oc=5",
       "live": true,
       "added": "2026-05-14T09:39:57.224Z"
     }
