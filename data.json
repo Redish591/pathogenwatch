@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T12:49:55.100Z",
+  "last_updated": "2026-05-25T21:56:31.178Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,69 @@
   "news": [
     {
       "src": "News",
+      "time": "25 May 13:16",
+      "title": "Spanish national tests positive for hantavirus after evacuating cruise ship",
+      "tag": "u",
+      "url": "https://www.thenews.com.pk/latest/1403848-spanish-national-tests-positive-for-hantavirus-after-evacuating-cruise-ship",
+      "live": true,
+      "added": "2026-05-25T21:56:28.752Z"
+    },
+    {
+      "src": "News",
+      "time": "25 May 11:18",
+      "title": "Spanish national evacuated from hantavirus cruise ship tests positive",
+      "tag": "u",
+      "url": "https://www.msn.com/en-gb/health/other/spanish-national-evacuated-from-hantavirus-cruise-ship-tests-positive/ar-AA241CQe",
+      "live": true,
+      "added": "2026-05-25T21:56:28.752Z"
+    },
+    {
+      "src": "News",
+      "time": "25 May 13:02",
+      "title": "Spanish government confirms new case of hantavirus",
+      "tag": "u",
+      "url": "https://www.nbcnews.com/health/health-news/hantavirus-spanish-government-confirms-new-case-rcna346825",
+      "live": true,
+      "added": "2026-05-25T21:56:28.751Z"
+    },
+    {
+      "src": "News",
+      "time": "25 May 14:42",
+      "title": "Quarantined Spaniard Tests Positive For Hantavirus",
+      "tag": "u",
+      "url": "https://www.ndtv.com/world-news/quarantined-spaniard-tests-positive-for-hantavirus-11546986",
+      "live": true,
+      "added": "2026-05-25T21:56:28.751Z"
+    },
+    {
+      "src": "News",
+      "time": "25 May 12:07",
+      "title": "Spanish passenger from the MV Hondius cruise ship tests positive for hantavirus",
+      "tag": "u",
+      "url": "https://www.cbc.ca/news/world/hantavirus-hondius-cruise-ship-positive-spanish-passenger-9.7211446",
+      "live": true,
+      "added": "2026-05-25T21:56:28.751Z"
+    },
+    {
+      "src": "News",
+      "time": "25 May 13:30",
+      "title": "Hantavirus outbreak now stable, no new cases and deaths reported: WHO",
+      "tag": "u",
+      "url": "https://www.msn.com/en-in/health/diseases-and-conditions/hantavirus-outbreak-now-stable-no-new-cases-and-deaths-reported-who/ar-AA242Lxm",
+      "live": true,
+      "added": "2026-05-25T21:56:28.750Z"
+    },
+    {
+      "src": "News",
+      "time": "25 May 12:30",
+      "title": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/medical/spanish-citizen-evacuated-from-hantavirus-hit-cruise-ship-tests-positive/ar-AA241Uet",
+      "live": true,
+      "added": "2026-05-25T21:56:28.750Z"
+    },
+    {
+      "src": "News",
       "time": "22 May 14:15",
       "title": "Hantavirus update: Nebraska officials awaiting CDC guidance on passengers’ release",
       "tag": "u",
@@ -3280,69 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/the-world-s-reaction-to-hantavirus-is-tinged-by-echoes-of-something-else-covid/ar-AA23aUyf",
       "live": true,
       "added": "2026-05-14T12:53:30.739Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 03:00",
-      "title": "Another Californian was exposed to hantavirus in deadly cruise ship outbreak, officials announce",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/another-californian-was-exposed-to-hantavirus-in-deadly-cruise-ship-outbreak-officials-announce/ar-AA23b4rZ",
-      "live": true,
-      "added": "2026-05-14T12:53:30.739Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 20:15",
-      "title": "New Yorker describes hantavirus quarantine experience after cruise ship outbreak: \"Trying to stay positive\"",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/new-yorker-describes-hantavirus-quarantine-experience-after-cruise-ship-outbreak-trying-to-stay-positive/ar-AA236tKy",
-      "live": true,
-      "added": "2026-05-14T12:53:30.738Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 03:00",
-      "title": "Hantavirus strikes a cruise ship: A ‘perfect storm’ or a warning sign?",
-      "tag": "u",
-      "url": "https://www.latimes.com/california/story/2026-05-14/hantavirus-strikes-cruise-ship-perfect-storm-or-warning-sign",
-      "live": true,
-      "added": "2026-05-14T12:53:30.738Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 13:19",
-      "title": "Hantavirus Cases Live Tracker: Map Shows Where Outbreak Has Been Detected",
-      "tag": "u",
-      "url": "https://www.newsweek.com/hantavirus-cases-live-tracker-map-shows-where-outbreak-detected-11946361",
-      "live": true,
-      "added": "2026-05-14T12:53:30.738Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 04:00",
-      "title": "Hantavirus outbreak isn't another Covid pandemic – but experts say it's testing U.S. readiness",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/hantavirus-outbreak-isnt-another-covid-pandemic-but-experts-say-its-testing-us-readiness/ar-AA23aZMr",
-      "live": true,
-      "added": "2026-05-14T12:53:30.738Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 05:08",
-      "title": "Doctor from hantavirus-stricken ship tests negative, moves out of biocontainment unit",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/doctor-from-hantavirus-stricken-ship-tests-negative-moves-out-of-biocontainment-unit/ar-AA238GFc",
-      "live": true,
-      "added": "2026-05-14T12:53:30.737Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 14:10",
-      "title": "Possible hantavirus case in Illinois not tied to cruise ship: Latest updates",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/possible-hantavirus-case-in-illinois-not-tied-to-cruise-ship-latest-updates/ar-AA236i63",
-      "live": true,
-      "added": "2026-05-14T12:53:30.737Z"
     }
   ],
   "travel": [

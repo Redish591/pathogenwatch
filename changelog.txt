@@ -755,3 +755,13 @@ the bot are listed under the timestamp.
   + News | All Filipino crew members of MV Hondius negative for hantavirus – DMW
   + News | Hantavirus update: Nebraska officials awaiting CDC guidance on passeng
   ~ extraction skipped: The headline 'Hantavirus cases linked to cruise ship rise to 12 after crew member tests positive' states the number 12, but it is not attributed to an official health authority (WHO, CDC, ECDC, or national ministry) — it is presented as news reporting without official attribution; additionally, setting deaths=null contradicts the current deaths=3 value without any headline evidence supporting removal of that data.
+
+[2026-05-25T21:56:31.179Z] 8 change(s):
+  ~ AI filtered 1 low-quality item(s)
+  + News | Hantavirus outbreak now stable, no new cases and deaths reported: WHO
+  + News | Spanish citizen evacuated from hantavirus-hit cruise ship tests positi
+  + News | Spanish government confirms new case of hantavirus
+  + News | Quarantined Spaniard Tests Positive For Hantavirus
+  + News | Spanish passenger from the MV Hondius cruise ship tests positive for h
+  + News | Spanish national tests positive for hantavirus after evacuating cruise
+  + News | Spanish national evacuated from hantavirus cruise ship tests positive
