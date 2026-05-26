@@ -765,3 +765,12 @@ the bot are listed under the timestamp.
   + News | Spanish passenger from the MV Hondius cruise ship tests positive for h
   + News | Spanish national tests positive for hantavirus after evacuating cruise
   + News | Spanish national evacuated from hantavirus cruise ship tests positive
+
+[2026-05-26T19:34:20.451Z] 7 change(s):
+  ~ AI filtered 1 low-quality item(s)
+  + News | The cruise ship at center of a deadly hantavirus outbreak has to under
+  + News | More People Being Monitored at Home for Potential Hantavirus Exposure
+  + News | WHO reports stable hantavirus situation on cruise ship
+  + News | Passenger Evacuated from Hantavirus-Hit Cruise Ship Tests Positive for
+  + News | HHS to shield drugmakers pursuing hantavirus treatments
+  + News | Three people under observation at KU Hospital for hantavirus released

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T21:56:31.178Z",
+  "last_updated": "2026-05-26T19:34:20.450Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,60 @@
   "news": [
     {
       "src": "News",
+      "time": "26 May 04:04",
+      "title": "Passenger Evacuated from Hantavirus-Hit Cruise Ship Tests Positive for Disease in Spain",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/passenger-evacuated-from-hantavirus-hit-cruise-ship-tests-positive-for-disease-in-spain/ar-AA2456Dq",
+      "live": true,
+      "added": "2026-05-26T19:34:18.198Z"
+    },
+    {
+      "src": "News",
+      "time": "26 May 07:12",
+      "title": "HHS to shield drugmakers pursuing hantavirus treatments",
+      "tag": "u",
+      "url": "https://www.beckershospitalreview.com/quality/public-health/hhs-to-shield-drugmakers-pursuing-hantavirus-treatments/",
+      "live": true,
+      "added": "2026-05-26T19:34:18.198Z"
+    },
+    {
+      "src": "News",
+      "time": "26 May 12:13",
+      "title": "Three people under observation at KU Hospital for hantavirus released",
+      "tag": "u",
+      "url": "https://fox4kc.com/health/three-people-under-observation-at-ku-hospital-for-hantavirus-released/",
+      "live": true,
+      "added": "2026-05-26T19:34:18.198Z"
+    },
+    {
+      "src": "News",
+      "time": "26 May 08:04",
+      "title": "More People Being Monitored at Home for Potential Hantavirus Exposure",
+      "tag": "u",
+      "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/121425",
+      "live": true,
+      "added": "2026-05-26T19:34:18.197Z"
+    },
+    {
+      "src": "News",
+      "time": "26 May 10:47",
+      "title": "WHO reports stable hantavirus situation on cruise ship",
+      "tag": "u",
+      "url": "https://www.msn.com/en-in/health/general/who-reports-stable-hantavirus-situation-on-cruise-ship/ar-AA246WMV",
+      "live": true,
+      "added": "2026-05-26T19:34:18.197Z"
+    },
+    {
+      "src": "News",
+      "time": "26 May 09:30",
+      "title": "The cruise ship at center of a deadly hantavirus outbreak has to undergo extra cleaning",
+      "tag": "u",
+      "url": "https://apnews.com/article/hantavirus-outbreak-netherlands-cruise-ship-681f92032846b47e6bccc772ca05da69",
+      "live": true,
+      "added": "2026-05-26T19:34:18.196Z"
+    },
+    {
+      "src": "News",
       "time": "25 May 13:16",
       "title": "Spanish national tests positive for hantavirus after evacuating cruise ship",
       "tag": "u",
@@ -3289,60 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/medical/hantavirus-strikes-a-cruise-ship-a-perfect-storm-or-a-warning-sign/ar-AA23aZj5",
       "live": true,
       "added": "2026-05-14T16:35:32.924Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 08:55",
-      "title": "Hantavirus Doesn’t Spread Easily but Officials May Be Downplaying Risks",
-      "tag": "u",
-      "url": "https://www.nytimes.com/2026/05/14/health/hantavirus-spread-risk.html",
-      "live": true,
-      "added": "2026-05-14T16:35:32.922Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 08:09",
-      "title": "Argentina Races to Find Origin of Hantavirus Contagion",
-      "tag": "u",
-      "url": "https://www.nytimes.com/2026/05/14/world/americas/hantavirus-cruise-ship-argentina.html",
-      "live": true,
-      "added": "2026-05-14T16:35:32.922Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 03:33",
-      "title": "Fact Check: Andes strain of hantavirus is transmissible in humans",
-      "tag": "u",
-      "url": "https://www.reuters.com/fact-check/andes-strain-hantavirus-is-transmissible-humans-2026-05-13/",
-      "live": true,
-      "added": "2026-05-14T12:53:30.739Z"
-    },
-    {
-      "src": "News",
-      "time": "11 May 10:09",
-      "title": "How did hantavirus cruise ship outbreak start? What we know",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/how-did-hantavirus-cruise-ship-outbreak-start-what-we-know/ar-AA22WkEl",
-      "live": true,
-      "added": "2026-05-14T12:53:30.739Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 12:47",
-      "title": "Can hantavirus spread through the air? What we do and don’t know",
-      "tag": "u",
-      "url": "https://www.scientificamerican.com/article/can-hantavirus-spread-through-the-air-what-we-do-and-dont-know/",
-      "live": true,
-      "added": "2026-05-14T12:53:30.739Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 04:17",
-      "title": "The world's reaction to hantavirus is tinged by echoes of something else: COVID",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/the-world-s-reaction-to-hantavirus-is-tinged-by-echoes-of-something-else-covid/ar-AA23aUyf",
-      "live": true,
-      "added": "2026-05-14T12:53:30.739Z"
     }
   ],
   "travel": [
