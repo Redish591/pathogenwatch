@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T19:34:20.450Z",
+  "last_updated": "2026-05-27T12:33:48.660Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,42 @@
   "news": [
     {
       "src": "News",
+      "time": "27 May 04:28",
+      "title": "Fact check: Viral hantavirus map does not show confirmed cases",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/news/technology/fact-check-viral-hantavirus-map-does-not-show-confirmed-cases/vi-AA24aJfn",
+      "live": true,
+      "added": "2026-05-27T12:33:39.921Z"
+    },
+    {
+      "src": "News",
+      "time": "26 May 16:52",
+      "title": "PitCo confirms local hantavirus risk differs from strain linked to cruise ship outbreak",
+      "tag": "u",
+      "url": "https://www.aspentimes.com/news/pitco-confirms-local-hantavirus-risk-differs-from-strain-linked-to-cruise-ship-outbreak/",
+      "live": true,
+      "added": "2026-05-27T12:33:39.921Z"
+    },
+    {
+      "src": "News",
+      "time": "27 May 05:09",
+      "title": "WHO says cruise-linked hantavirus outbreak rises to 13 cases",
+      "tag": "u",
+      "url": "https://www.msn.com/en-xl/health/general/who-says-cruise-linked-hantavirus-outbreak-rises-to-13-cases/ar-AA24b4jz",
+      "live": true,
+      "added": "2026-05-27T12:33:39.920Z"
+    },
+    {
+      "src": "News",
+      "time": "27 May 04:25",
+      "title": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says",
+      "tag": "u",
+      "url": "https://www.nbcnews.com/news/us-news/hantavirus-cases-cruise-outbreak-rise-13-new-case-spain-says-rcna347074",
+      "live": true,
+      "added": "2026-05-27T12:33:39.919Z"
+    },
+    {
+      "src": "News",
       "time": "26 May 04:04",
       "title": "Passenger Evacuated from Hantavirus-Hit Cruise Ship Tests Positive for Disease in Spain",
       "tag": "u",
@@ -3307,42 +3343,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cy82jw63znxo",
       "live": true,
       "added": "2026-05-14T18:21:42.014Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 11:08",
-      "title": "Small number of people in Scotland linked to hantavirus outbreak",
-      "tag": "u",
-      "url": "https://www.bbc.com/news/articles/c3326kje5g5o",
-      "live": true,
-      "added": "2026-05-14T18:21:42.013Z"
-    },
-    {
-      "src": "News",
-      "time": "11 May 15:15",
-      "title": "Hantavirus outbreak: 2 Georgia residents exposed arrive at Emory University Hospital for evaluation",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/hantavirus-outbreak-2-georgia-residents-exposed-arrive-at-emory-university-hospital-for-evaluation/ar-AA22UTRY",
-      "live": true,
-      "added": "2026-05-14T16:35:32.925Z"
-    },
-    {
-      "src": "News",
-      "time": "12 May 11:08",
-      "title": "17 Americans from hantavirus-hit ship arrive in U.S., including 1 who tested positive",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/17-americans-from-hantavirus-hit-ship-arrive-in-us-including-1-who-tested-positive/ar-AA22O3g7",
-      "live": true,
-      "added": "2026-05-14T16:35:32.924Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 03:00",
-      "title": "Hantavirus strikes a cruise ship: A 'perfect storm' or a warning sign?",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/medical/hantavirus-strikes-a-cruise-ship-a-perfect-storm-or-a-warning-sign/ar-AA23aZj5",
-      "live": true,
-      "added": "2026-05-14T16:35:32.924Z"
     }
   ],
   "travel": [

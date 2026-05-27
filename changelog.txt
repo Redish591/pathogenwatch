@@ -774,3 +774,11 @@ the bot are listed under the timestamp.
   + News | Passenger Evacuated from Hantavirus-Hit Cruise Ship Tests Positive for
   + News | HHS to shield drugmakers pursuing hantavirus treatments
   + News | Three people under observation at KU Hospital for hantavirus released
+
+[2026-05-27T12:33:48.661Z] 6 change(s):
+  ~ AI filtered 1 low-quality item(s)
+  + News | Hantavirus cases from cruise outbreak rise to 13 following new case in
+  + News | WHO says cruise-linked hantavirus outbreak rises to 13 cases
+  + News | Fact check: Viral hantavirus map does not show confirmed cases
+  + News | PitCo confirms local hantavirus risk differs from strain linked to cru
+  ~ extraction skipped: verifier error: Unexpected non-whitespace character after JSON at position 149 (line 2 column 1)
