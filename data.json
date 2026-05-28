@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T12:49:17.802Z",
+  "last_updated": "2026-05-28T23:00:17.218Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,33 @@
   "news": [
     {
       "src": "News",
+      "time": "28 May 14:46",
+      "title": "Mid-Michigan Matters: Hear how the hantavirus could impact Michigan",
+      "tag": "u",
+      "url": "https://www.wilx.com/2026/05/28/mid-michigan-matters-hear-how-hantavirus-could-impact-michigan/",
+      "live": true,
+      "added": "2026-05-28T23:00:13.493Z"
+    },
+    {
+      "src": "News",
+      "time": "28 May 15:38",
+      "title": "Hantavirus outbreak stable at 13 cases: WHO",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/hantavirus-outbreak-stable-at-13-cases-who/ar-AA24hECI",
+      "live": true,
+      "added": "2026-05-28T23:00:13.492Z"
+    },
+    {
+      "src": "News",
+      "time": "28 May 13:32",
+      "title": "Passenger tests positive for hantavirus weeks after leaving infected cruise ship (latest updates)",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/diseases-and-conditions/passenger-tests-positive-for-hantavirus-weeks-after-leaving-infected-cruise-ship-latest-updates/ar-AA22rrN8",
+      "live": true,
+      "added": "2026-05-28T23:00:13.491Z"
+    },
+    {
+      "src": "News",
       "time": "28 May 04:23",
       "title": "Hantavirus Cases From Cruise Outbreak Rise To 13 Following New Case In Spain, Says WHO",
       "tag": "u",
@@ -3316,33 +3343,6 @@
       "url": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/",
       "live": true,
       "added": "2026-05-15T21:38:59.402Z"
-    },
-    {
-      "src": "News",
-      "time": "15 May 13:21",
-      "title": "Hantavirus strain found in Chelan County resident",
-      "tag": "u",
-      "url": "https://www.wenatcheeworld.com/news/local/hantavirus-strain-found-in-chelan-county-resident/article_c9aee1c3-a0c0-46f3-bbe7-82884cfb0e5d.html",
-      "live": true,
-      "added": "2026-05-15T21:38:59.402Z"
-    },
-    {
-      "src": "News",
-      "time": "15 May 09:43",
-      "title": "CDC Shares Update on Hantavirus Outbreak in the U.S. After Latest Round of Testing. Here’s What to Know",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/cdc-shares-update-on-hantavirus-outbreak-in-the-us-after-latest-round-of-testing-here-s-what-to-know/ar-AA23ipwy",
-      "live": true,
-      "added": "2026-05-15T21:38:59.401Z"
-    },
-    {
-      "src": "News",
-      "time": "15 May 11:13",
-      "title": "WHO shares update on global hantavirus cases",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/who-shares-update-on-global-hantavirus-cases/ar-AA23i9g5",
-      "live": true,
-      "added": "2026-05-15T21:38:59.400Z"
     }
   ],
   "travel": [

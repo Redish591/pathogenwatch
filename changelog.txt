@@ -792,3 +792,10 @@ the bot are listed under the timestamp.
   + News | Hantavirus outbreak on cruise ship triggers painful memories for Bend 
   + News | Hantavirus Cases From Cruise Outbreak Rise To 13 Following New Case In
   ↑ confirmed_cases: 11 → 13 (Hantavirus Cases From Cruise Outbreak Rise To 13 Following New Case In Spain, Says WHO) — verified ✓
+
+[2026-05-28T23:00:17.220Z] 5 change(s):
+  ~ AI filtered 2 low-quality item(s)
+  + News | Passenger tests positive for hantavirus weeks after leaving infected c
+  + News | Hantavirus outbreak stable at 13 cases: WHO
+  + News | Mid-Michigan Matters: Hear how the hantavirus could impact Michigan
+  ~ extraction skipped: While headlines confirm 13 cases from WHO, none explicitly state deaths=null or contradict the current deaths=3 value with an official statement.
