@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T12:33:48.660Z",
+  "last_updated": "2026-05-28T12:49:17.802Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -13,7 +13,7 @@
     "dobrava"
   ],
   "stats": {
-    "confirmed_cases": 11,
+    "confirmed_cases": 13,
     "deaths": 3,
     "countries": 26,
     "contacts_traced": 145
@@ -2446,6 +2446,60 @@
   "news": [
     {
       "src": "News",
+      "time": "28 May 04:23",
+      "title": "Hantavirus Cases From Cruise Outbreak Rise To 13 Following New Case In Spain, Says WHO",
+      "tag": "u",
+      "url": "https://www.ndtv.com/health/hantavirus-cases-from-cruise-outbreak-rise-to-13-following-new-case-in-spain-says-who-11558271",
+      "live": true,
+      "added": "2026-05-28T12:49:13.633Z"
+    },
+    {
+      "src": "News",
+      "time": "28 May 00:57",
+      "title": "Hantavirus: Cruise ship passengers' quarantine is extended as two new cases are reported",
+      "tag": "u",
+      "url": "https://www.msn.com/en-gb/health/other/hantavirus-cruise-ship-passengers-quarantine-is-extended-as-two-new-cases-are-reported/ar-AA24fvkW",
+      "live": true,
+      "added": "2026-05-28T12:49:13.632Z"
+    },
+    {
+      "src": "News",
+      "time": "28 May 05:43",
+      "title": "Australia extends quarantine for hantavirus-hit cruise ship passengers",
+      "tag": "u",
+      "url": "https://www.aol.com/articles/australia-extends-quarantine-hantavirus-hit-035532000.html",
+      "live": true,
+      "added": "2026-05-28T12:49:13.632Z"
+    },
+    {
+      "src": "News",
+      "time": "28 May 01:21",
+      "title": "Weeks more quarantine for hantavirus cruise passengers",
+      "tag": "u",
+      "url": "https://www.msn.com/en-au/news/australia/weeks-more-quarantine-for-hantavirus-cruise-passengers/vi-AA24fZQv",
+      "live": true,
+      "added": "2026-05-28T12:49:13.632Z"
+    },
+    {
+      "src": "News",
+      "time": "27 May 16:37",
+      "title": "Hantavirus outbreak on cruise ship triggers painful memories for Bend family",
+      "tag": "u",
+      "url": "https://ktvz.com/news/central-oregon/2026/05/27/hantavirus-outbreak-on-cruise-ship-triggers-painful-memories-for-bend-family/",
+      "live": true,
+      "added": "2026-05-28T12:49:13.632Z"
+    },
+    {
+      "src": "News",
+      "time": "27 May 21:19",
+      "title": "Hantavirus Cases From Cruise Outbreak Rise To 13, Following New Case In Spain",
+      "tag": "u",
+      "url": "https://www.huffpost.com/entry/hantavirus-cruise-cases-mv-hondius_n_6a172762e4b0ddcc8465b837",
+      "live": true,
+      "added": "2026-05-28T12:49:13.631Z"
+    },
+    {
+      "src": "News",
       "time": "27 May 04:28",
       "title": "Fact check: Viral hantavirus map does not show confirmed cases",
       "tag": "u",
@@ -3289,60 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/who-shares-update-on-global-hantavirus-cases/ar-AA23i9g5",
       "live": true,
       "added": "2026-05-15T21:38:59.400Z"
-    },
-    {
-      "src": "News",
-      "time": "15 May 14:34",
-      "title": "What we know about the MV hondius hantavirus outbreak",
-      "tag": "u",
-      "url": "https://apnews.com/video/what-we-know-about-the-mv-hondius-hantavirus-outbreak-2f8b7fe2eb0b4c86aed8944387c889e6",
-      "live": true,
-      "added": "2026-05-15T21:38:59.400Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 11:21",
-      "title": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/cdc-says-there-are-no-us-hantavirus-cases-currently-41-people-being-monitored/ar-AA23dhuZ",
-      "live": true,
-      "added": "2026-05-15T10:00:56.167Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 11:54",
-      "title": "41 people being monitored for hantavirus exposure. See map of states.",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/41-people-being-monitored-for-hantavirus-exposure-see-map-of-states/ar-AA23d0d7",
-      "live": true,
-      "added": "2026-05-15T10:00:56.166Z"
-    },
-    {
-      "src": "News",
-      "time": "15 May 01:14",
-      "title": "Hantavirus Tracker: More Than 40 People Being Monitored Across US",
-      "tag": "u",
-      "url": "https://www.newsweek.com/hantavirus-tracker-more-than-40-people-being-monitored-across-us-11953767",
-      "live": true,
-      "added": "2026-05-15T10:00:56.166Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 11:12",
-      "title": "3 Kansans with hantavirus exposure under observation at KU Health System",
-      "tag": "u",
-      "url": "https://www.kshb.com/news/local-news/3-kansans-with-hantavirus-exposure-under-observation-at-ku-health-system",
-      "live": true,
-      "added": "2026-05-14T18:21:42.014Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 09:35",
-      "title": "'Small number' of Welsh residents linked to hantavirus outbreak",
-      "tag": "u",
-      "url": "https://www.bbc.co.uk/news/articles/cy82jw63znxo",
-      "live": true,
-      "added": "2026-05-14T18:21:42.014Z"
     }
   ],
   "travel": [

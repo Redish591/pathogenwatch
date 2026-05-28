@@ -782,3 +782,13 @@ the bot are listed under the timestamp.
   + News | Fact check: Viral hantavirus map does not show confirmed cases
   + News | PitCo confirms local hantavirus risk differs from strain linked to cru
   ~ extraction skipped: verifier error: Unexpected non-whitespace character after JSON at position 149 (line 2 column 1)
+
+[2026-05-28T12:49:17.806Z] 8 change(s):
+  ~ AI filtered 4 low-quality item(s)
+  + News | Hantavirus Cases From Cruise Outbreak Rise To 13, Following New Case I
+  + News | Hantavirus: Cruise ship passengers' quarantine is extended as two new 
+  + News | Australia extends quarantine for hantavirus-hit cruise ship passengers
+  + News | Weeks more quarantine for hantavirus cruise passengers
+  + News | Hantavirus outbreak on cruise ship triggers painful memories for Bend 
+  + News | Hantavirus Cases From Cruise Outbreak Rise To 13 Following New Case In
+  ↑ confirmed_cases: 11 → 13 (Hantavirus Cases From Cruise Outbreak Rise To 13 Following New Case In Spain, Says WHO) — verified ✓
