@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T23:00:17.218Z",
+  "last_updated": "2026-05-29T11:58:33.398Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,33 @@
   "news": [
     {
       "src": "News",
+      "time": "28 May 05:41",
+      "title": "EU secures emergency deliveries of potential treatment against hantavirus",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/eu-secures-emergency-deliveries-of-potential-treatment-against-hantavirus/ar-AA24hkoJ",
+      "live": true,
+      "added": "2026-05-29T11:58:24.510Z"
+    },
+    {
+      "src": "News",
+      "time": "28 May 13:32",
+      "title": "Experimental Hantavirus Treatment Sent To EU Countries Where Patients Are Being Treated (Latest Updates)",
+      "tag": "u",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/05/28/experimental-hantavirus-treatment-sent-to-eu-countries-where-patients-are-being-treated-latest-updates/",
+      "live": true,
+      "added": "2026-05-29T11:58:24.509Z"
+    },
+    {
+      "src": "News",
+      "time": "28 May 20:27",
+      "title": "Hantavirus-exposed cruise passengers may soon be allowed to return home but must remain under 24/7 watch",
+      "tag": "u",
+      "url": "https://edition.cnn.com/2026/05/28/health/hantavirus-passengers-states-quarantine",
+      "live": true,
+      "added": "2026-05-29T11:58:24.509Z"
+    },
+    {
+      "src": "News",
       "time": "28 May 14:46",
       "title": "Mid-Michigan Matters: Hear how the hantavirus could impact Michigan",
       "tag": "u",
@@ -3316,33 +3343,6 @@
       "url": "https://www.whec.com/top-news/suspected-case-of-hantavirus-in-ontario-county-on-thursday/",
       "live": true,
       "added": "2026-05-16T07:32:47.330Z"
-    },
-    {
-      "src": "News",
-      "time": "15 May 14:37",
-      "title": "No known cases of hantavirus in U.S. as officials monitor 41 with possible exposure",
-      "tag": "u",
-      "url": "https://www.nbcnews.com/health/health-news/no-known-cases-hantavirus-us-officials-monitor-41-possible-exposure-rcna345278",
-      "live": true,
-      "added": "2026-05-16T07:32:47.329Z"
-    },
-    {
-      "src": "News",
-      "time": "15 May 17:37",
-      "title": "Possible hantavirus case under investigation in Upstate New York; no connection to deadly cruise ship outbreak",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/health-news/possible-hantavirus-case-under-investigation-in-upstate-new-york-no-connection-to-deadly-cruise-ship-outbreak/ar-AA23iRkM",
-      "live": true,
-      "added": "2026-05-16T07:32:47.328Z"
-    },
-    {
-      "src": "News",
-      "time": "15 May 07:31",
-      "title": "US hantavirus case was false positive; outbreak cases drop from 11 to 10",
-      "tag": "u",
-      "url": "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/",
-      "live": true,
-      "added": "2026-05-15T21:38:59.402Z"
     }
   ],
   "travel": [

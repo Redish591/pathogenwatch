@@ -799,3 +799,10 @@ the bot are listed under the timestamp.
   + News | Hantavirus outbreak stable at 13 cases: WHO
   + News | Mid-Michigan Matters: Hear how the hantavirus could impact Michigan
   ~ extraction skipped: While headlines confirm 13 cases from WHO, none explicitly state deaths=null or contradict the current deaths=3 value with an official statement.
+
+[2026-05-29T11:58:33.400Z] 5 change(s):
+  ~ AI filtered 2 low-quality item(s)
+  + News | Experimental Hantavirus Treatment Sent To EU Countries Where Patients 
+  + News | Hantavirus-exposed cruise passengers may soon be allowed to return hom
+  + News | EU secures emergency deliveries of potential treatment against hantavi
+  ~ extraction skipped: While 'cases=13' is explicitly stated in multiple headlines attributed to WHO, 'deaths=null' contradicts the current value of 'deaths=3' with no headline explicitly stating zero deaths or that death count information is unavailable.
