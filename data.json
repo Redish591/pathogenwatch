@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T11:58:33.398Z",
+  "last_updated": "2026-05-29T20:40:28.179Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "26 May 06:11",
+      "title": "Why is hantavirus so deadly? It’s not what you may think",
+      "tag": "u",
+      "url": "https://www.sciencenews.org/article/andes-hantavirus-treatments-lung-fail",
+      "live": true,
+      "added": "2026-05-29T20:40:24.108Z"
+    },
+    {
+      "src": "News",
+      "time": "29 May 06:23",
+      "title": "Hantavirus patients under quarantine could go home—if they agree to 24/7 surveillance, report says (latest updates)",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/passenger-tests-positive-for-hantavirus-weeks-after-leaving-infected-cruise-ship-latest-updates/ar-AA22rrN8",
+      "live": true,
+      "added": "2026-05-29T20:40:24.107Z"
+    },
+    {
+      "src": "News",
       "time": "28 May 05:41",
       "title": "EU secures emergency deliveries of potential treatment against hantavirus",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.fingerlakes1.com/2026/05/16/what-to-know-about-hantavirus-after-suspected-geneva-case-raises-local-questions/",
       "live": true,
       "added": "2026-05-16T15:38:31.502Z"
-    },
-    {
-      "src": "News",
-      "time": "16 May 07:14",
-      "title": "Should you cancel your cruise after the hantavirus outbreak?",
-      "tag": "u",
-      "url": "https://thehill.com/policy/healthcare/5880932-cruise-hantavirus-outbreak-traveling-risk/",
-      "live": true,
-      "added": "2026-05-16T15:38:31.500Z"
-    },
-    {
-      "src": "News",
-      "time": "15 May 17:11",
-      "title": "Suspected case of hantavirus in Ontario County on Thursday",
-      "tag": "u",
-      "url": "https://www.whec.com/top-news/suspected-case-of-hantavirus-in-ontario-county-on-thursday/",
-      "live": true,
-      "added": "2026-05-16T07:32:47.330Z"
     }
   ],
   "travel": [

@@ -806,3 +806,8 @@ the bot are listed under the timestamp.
   + News | Hantavirus-exposed cruise passengers may soon be allowed to return hom
   + News | EU secures emergency deliveries of potential treatment against hantavi
   ~ extraction skipped: While 'cases=13' is explicitly stated in multiple headlines attributed to WHO, 'deaths=null' contradicts the current value of 'deaths=3' with no headline explicitly stating zero deaths or that death count information is unavailable.
+
+[2026-05-29T20:40:28.180Z] 3 change(s):
+  ~ AI filtered 2 low-quality item(s)
+  + News | Hantavirus patients under quarantine could go home—if they agree to 24
+  + News | Why is hantavirus so deadly? It’s not what you may think
