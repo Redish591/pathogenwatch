@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T20:40:28.179Z",
+  "last_updated": "2026-05-30T08:42:55.172Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,33 @@
   "news": [
     {
       "src": "News",
+      "time": "29 May 09:15",
+      "title": "The US hantavirus cruise passengers may soon go home",
+      "tag": "u",
+      "url": "https://www.msn.com/en-ie/health/other/the-us-hantavirus-cruise-passengers-may-soon-go-home/ar-AA24nCmM",
+      "live": true,
+      "added": "2026-05-30T08:42:49.206Z"
+    },
+    {
+      "src": "News",
+      "time": "29 May 14:13",
+      "title": "Surveillance Ordered for Hantavirus Ship Passengers Who Go Home",
+      "tag": "u",
+      "url": "https://www.nytimes.com/2026/05/29/us/hantavirus-ship-quarantine.html",
+      "live": true,
+      "added": "2026-05-30T08:42:49.206Z"
+    },
+    {
+      "src": "News",
+      "time": "29 May 10:01",
+      "title": "Hantavirus Cruise Ship Passengers in U.S. Quarantine Could Be Allowed to Return Home Under 24/7 Watch: Report",
+      "tag": "u",
+      "url": "https://people.com/american-cruise-passengers-exposed-hantavirus-could-quarantine-at-home-under-24-7-watch-report-11986464",
+      "live": true,
+      "added": "2026-05-30T08:42:49.206Z"
+    },
+    {
+      "src": "News",
       "time": "26 May 06:11",
       "title": "Why is hantavirus so deadly? It’s not what you may think",
       "tag": "u",
@@ -3316,33 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/8-claims-about-hantavirus-and-2026-cruise-ship-outbreak-weve-examined/ss-AA23mad4",
       "live": true,
       "added": "2026-05-16T20:32:33.414Z"
-    },
-    {
-      "src": "News",
-      "time": "16 May 12:31",
-      "title": "Canada confirms first suspected hantavirus case linked to cruise ship",
-      "tag": "u",
-      "url": "https://www.usatoday.com/story/news/health/2026/05/16/first-canadian-case-linked-to-mv-hondius-outbreak-reported-in-bc/90118332007/",
-      "live": true,
-      "added": "2026-05-16T20:32:33.413Z"
-    },
-    {
-      "src": "News",
-      "time": "16 May 11:07",
-      "title": "Version of hantavirus behind deadly cruise ship outbreak matches known strain, France says",
-      "tag": "u",
-      "url": "https://www.cbsnews.com/news/hantavirus-hondius-france-testing-strain-cruise-ship/",
-      "live": true,
-      "added": "2026-05-16T20:32:33.412Z"
-    },
-    {
-      "src": "News",
-      "time": "16 May 02:24",
-      "title": "What to know about hantavirus after suspected Geneva case raises local questions",
-      "tag": "u",
-      "url": "https://www.fingerlakes1.com/2026/05/16/what-to-know-about-hantavirus-after-suspected-geneva-case-raises-local-questions/",
-      "live": true,
-      "added": "2026-05-16T15:38:31.502Z"
     }
   ],
   "travel": [
