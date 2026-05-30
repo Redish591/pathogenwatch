@@ -818,3 +818,8 @@ the bot are listed under the timestamp.
   + News | Surveillance Ordered for Hantavirus Ship Passengers Who Go Home
   + News | Hantavirus Cruise Ship Passengers in U.S. Quarantine Could Be Allowed 
   ~ extraction skipped: verifier error: Unexpected non-whitespace character after JSON at position 172 (line 2 column 1)
+
+[2026-05-30T15:54:09.843Z] 3 change(s):
+  ~ AI filtered 3 low-quality item(s)
+  + News | 'Leaderless, underfunded, and unprepared': Experts warn US may not be 
+  ~ extraction skipped: verifier error: Unexpected non-whitespace character after JSON at position 179 (line 2 column 1)

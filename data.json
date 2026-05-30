@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T08:42:55.172Z",
+  "last_updated": "2026-05-30T15:54:09.842Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "29 May 17:00",
+      "title": "'Leaderless, underfunded, and unprepared': Experts warn US may not be ready for hantavirus and Ebola",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/leaderless-underfunded-and-unprepared-experts-warn-us-may-not-be-ready-for-hantavirus-and-ebola/ar-AA24o9cT",
+      "live": true,
+      "added": "2026-05-30T15:54:04.735Z"
+    },
+    {
+      "src": "News",
       "time": "29 May 09:15",
       "title": "The US hantavirus cruise passengers may soon go home",
       "tag": "u",
@@ -3332,15 +3341,6 @@
       "title": "Colorado hantavirus death not linked to cruise ship outbreak, state says",
       "tag": "u",
       "url": "https://www.denverpost.com/2026/05/16/hantavirus-case-colorado-hondius/",
-      "live": true,
-      "added": "2026-05-16T20:32:33.414Z"
-    },
-    {
-      "src": "News",
-      "time": "16 May 11:00",
-      "title": "8 claims about hantavirus and 2026 cruise ship outbreak we've examined",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/8-claims-about-hantavirus-and-2026-cruise-ship-outbreak-weve-examined/ss-AA23mad4",
       "live": true,
       "added": "2026-05-16T20:32:33.414Z"
     }
