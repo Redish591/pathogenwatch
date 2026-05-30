@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T15:54:09.842Z",
+  "last_updated": "2026-05-30T21:37:19.484Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "30 May 12:13",
+      "title": "Dutch health officials clear hantavirus ship to sail again",
+      "tag": "u",
+      "url": "https://www.straitstimes.com/world/europe/dutch-health-officials-clear-hantavirus-ship-to-sail-again?ref=latest-headlines",
+      "live": true,
+      "added": "2026-05-30T21:37:14.921Z"
+    },
+    {
+      "src": "News",
+      "time": "20 May 05:52",
+      "title": "Zoonotic spillover diseases like hantavirus and ebola are on the rise | The Excerpt",
+      "tag": "u",
+      "url": "https://www.usatoday.com/story/news/nation/2026/05/20/what-to-know-about-the-hantavirus-outbreak-the-excerpt/90165274007/",
+      "live": true,
+      "added": "2026-05-30T21:37:14.920Z"
+    },
+    {
+      "src": "News",
       "time": "29 May 17:00",
       "title": "'Leaderless, underfunded, and unprepared': Experts warn US may not be ready for hantavirus and Ebola",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/canadian-from-hantavirus-hit-cruise-ship-tests-positive/ar-AA23n6lF",
       "live": true,
       "added": "2026-05-17T08:34:42.486Z"
-    },
-    {
-      "src": "News",
-      "time": "16 May 12:55",
-      "title": "Yukoner isolating in B.C. tests presumptively positive for hantavirus",
-      "tag": "u",
-      "url": "https://www.msn.com/en-ca/health/other/yukoner-isolating-in-bc-tests-presumptively-positive-for-hantavirus/ar-AA23mF1H",
-      "live": true,
-      "added": "2026-05-16T20:32:33.415Z"
-    },
-    {
-      "src": "News",
-      "time": "16 May 11:49",
-      "title": "Colorado hantavirus death not linked to cruise ship outbreak, state says",
-      "tag": "u",
-      "url": "https://www.denverpost.com/2026/05/16/hantavirus-case-colorado-hondius/",
-      "live": true,
-      "added": "2026-05-16T20:32:33.414Z"
     }
   ],
   "travel": [

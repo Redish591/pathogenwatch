@@ -823,3 +823,9 @@ the bot are listed under the timestamp.
   ~ AI filtered 3 low-quality item(s)
   + News | 'Leaderless, underfunded, and unprepared': Experts warn US may not be 
   ~ extraction skipped: verifier error: Unexpected non-whitespace character after JSON at position 179 (line 2 column 1)
+
+[2026-05-30T21:37:19.485Z] 4 change(s):
+  ~ AI filtered 3 low-quality item(s)
+  + News | Zoonotic spillover diseases like hantavirus and ebola are on the rise 
+  + News | Dutch health officials clear hantavirus ship to sail again
+  ~ extraction skipped: verifier error: Unexpected non-whitespace character after JSON at position 172 (line 2 column 1)
