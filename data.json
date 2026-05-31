@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T21:37:19.484Z",
+  "last_updated": "2026-05-31T21:36:48.705Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "29 May 19:14",
+      "title": "What’s going around? Hantavirus outbreak update: what Virginians need to know this week",
+      "tag": "u",
+      "url": "https://www.wsls.com/news/local/2026/05/29/whats-going-around-hantavirus-outbreak-update-what-virginians-need-to-know-this-week/",
+      "live": true,
+      "added": "2026-05-31T21:36:42.860Z"
+    },
+    {
+      "src": "News",
+      "time": "31 May 03:57",
+      "title": "Dutch health officials clear hantavirus-hit cruise ship to sail again",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/dutch-health-officials-clear-hantavirus-hit-cruise-ship-to-sail-again/ar-AA24tYPc",
+      "live": true,
+      "added": "2026-05-31T21:36:42.858Z"
+    },
+    {
+      "src": "News",
       "time": "30 May 12:13",
       "title": "Dutch health officials clear hantavirus ship to sail again",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/canadian-mv-hondius-cruise-passenger-tests-positive-for-hantavirus/ar-AA23mCAP",
       "live": true,
       "added": "2026-05-17T08:34:42.487Z"
-    },
-    {
-      "src": "News",
-      "time": "16 May 15:00",
-      "title": "Canadian cruise passenger gets a presumptive positive hantavirus test result after ship outbreak",
-      "tag": "u",
-      "url": "https://apnews.com/article/canada-hantavirus-positive-test-880ad45b272c59a96a9fb07bf6425d45",
-      "live": true,
-      "added": "2026-05-17T08:34:42.487Z"
-    },
-    {
-      "src": "News",
-      "time": "16 May 13:39",
-      "title": "Canadian from hantavirus-hit cruise ship tests positive",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/canadian-from-hantavirus-hit-cruise-ship-tests-positive/ar-AA23n6lF",
-      "live": true,
-      "added": "2026-05-17T08:34:42.486Z"
     }
   ],
   "travel": [
