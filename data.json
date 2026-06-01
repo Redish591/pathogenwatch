@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T21:36:48.705Z",
+  "last_updated": "2026-06-01T19:29:02.668Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,42 @@
   "news": [
     {
       "src": "News",
+      "time": "01 Jun 08:45",
+      "title": "American who was exposed to hantavirus says he will remain in quarantine",
+      "tag": "u",
+      "url": "https://www.aol.com/articles/american-exposed-hantavirus-says-remain-145244000.html",
+      "live": true,
+      "added": "2026-06-01T19:28:57.722Z"
+    },
+    {
+      "src": "News",
+      "time": "01 Jun 09:47",
+      "title": "Cruise passengers isolated after hantavirus outbreak allowed to leave quarantine facility",
+      "tag": "u",
+      "url": "https://www.aol.com/news/cruise-passengers-isolated-hantavirus-outbreak-155633811.html",
+      "live": true,
+      "added": "2026-06-01T19:28:57.722Z"
+    },
+    {
+      "src": "News",
+      "time": "01 Jun 07:34",
+      "title": "Ship tied to hantavirus outbreak cleared to resume cruises",
+      "tag": "u",
+      "url": "https://www.usatoday.com/story/travel/cruises/2026/06/01/hantavirus-cruise-ship-cleaned-cleared-sail/90351685007/",
+      "live": true,
+      "added": "2026-06-01T19:28:57.721Z"
+    },
+    {
+      "src": "News",
+      "time": "01 Jun 10:19",
+      "title": "Cruise ship linked to deadly hantavirus outbreak set to return to sea",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/news/other/cruise-ship-linked-to-deadly-hantavirus-outbreak-set-to-return-to-sea/vi-AA24zXkq",
+      "live": true,
+      "added": "2026-06-01T19:28:57.721Z"
+    },
+    {
+      "src": "News",
       "time": "29 May 19:14",
       "title": "What’s going around? Hantavirus outbreak update: what Virginians need to know this week",
       "tag": "u",
@@ -3307,42 +3343,6 @@
       "url": "https://apnews.com/article/hantavirus-cruise-ship-passengers-norovirus-d85e4a85a7548073fb5ca549c09701a6",
       "live": true,
       "added": "2026-05-17T20:35:01.260Z"
-    },
-    {
-      "src": "News",
-      "time": "16 May 13:53",
-      "title": "Hantavirus death in Colorado, state says not linked to cruise ship outbreak",
-      "tag": "u",
-      "url": "https://kdvr.com/news/local/hantavirus-death-in-colorado-state-says-not-linked-to-cruise-ship-outbreak/",
-      "live": true,
-      "added": "2026-05-17T15:42:21.611Z"
-    },
-    {
-      "src": "News",
-      "time": "17 May 03:30",
-      "title": "Where does hantavirus lurk in the US.? Scientists found ‘hot spots’ in surprising areas",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/where-does-hantavirus-lurk-in-the-us-scientists-found-hot-spots-in-surprising-areas/ar-AA23ojtx",
-      "live": true,
-      "added": "2026-05-17T15:42:21.609Z"
-    },
-    {
-      "src": "News",
-      "time": "17 May 08:22",
-      "title": "Canadian cruise passenger gets presumptive positive hantavirus test",
-      "tag": "u",
-      "url": "https://edition.cnn.com/2026/05/17/world/canadian-passenger-hantavirus-intl",
-      "live": true,
-      "added": "2026-05-17T15:42:21.608Z"
-    },
-    {
-      "src": "News",
-      "time": "16 May 18:27",
-      "title": "Canadian MV Hondius cruise passenger tests positive for hantavirus",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/canadian-mv-hondius-cruise-passenger-tests-positive-for-hantavirus/ar-AA23mCAP",
-      "live": true,
-      "added": "2026-05-17T08:34:42.487Z"
     }
   ],
   "travel": [
