@@ -843,3 +843,7 @@ the bot are listed under the timestamp.
   + News | American who was exposed to hantavirus says he will remain in quaranti
   + News | Cruise passengers isolated after hantavirus outbreak allowed to leave 
   ~ extraction skipped: verifier error: Unexpected non-whitespace character after JSON at position 172 (line 2 column 1)
+
+[2026-06-02T12:58:37.162Z] 2 change(s):
+  + News | Ship at centre of Hantavirus outbreak gets ready to set sail again
+  + News | Hantavirus ‘Sin Nombre’ death confirmed in northwest Arizona

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T19:29:02.668Z",
+  "last_updated": "2026-06-02T12:58:37.161Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "02 Jun 03:17",
+      "title": "Hantavirus ‘Sin Nombre’ death confirmed in northwest Arizona",
+      "tag": "u",
+      "url": "https://www.yahoo.com/news/science/articles/hantavirus-sin-nombre-death-confirmed-014306181.html",
+      "live": true,
+      "added": "2026-06-02T12:58:35.216Z"
+    },
+    {
+      "src": "News",
+      "time": "02 Jun 02:55",
+      "title": "Ship at centre of Hantavirus outbreak gets ready to set sail again",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/ship-at-centre-of-hantavirus-outbreak-gets-ready-to-set-sail-again/ar-AA24Dpc7",
+      "live": true,
+      "added": "2026-06-02T12:58:35.215Z"
+    },
+    {
+      "src": "News",
       "time": "01 Jun 08:45",
       "title": "American who was exposed to hantavirus says he will remain in quarantine",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://apnews.com/article/canada-hantavirus-positive-test-1ef18249115195f09381a174092a1cae",
       "live": true,
       "added": "2026-05-17T20:35:01.261Z"
-    },
-    {
-      "src": "News",
-      "time": "17 May 13:08",
-      "title": "Colorado adult dies from hantavirus; case not linked to cruise ship outbreak",
-      "tag": "u",
-      "url": "https://www.news5cleveland.com/us-news/colorado-adult-dies-from-hantavirus-case-not-linked-to-cruise-ship-outbreak",
-      "live": true,
-      "added": "2026-05-17T20:35:01.261Z"
-    },
-    {
-      "src": "News",
-      "time": "17 May 11:11",
-      "title": "Demand for cruises appears undimmed despite hantavirus and other onboard outbreaks",
-      "tag": "u",
-      "url": "https://apnews.com/article/hantavirus-cruise-ship-passengers-norovirus-d85e4a85a7548073fb5ca549c09701a6",
-      "live": true,
-      "added": "2026-05-17T20:35:01.260Z"
     }
   ],
   "travel": [
