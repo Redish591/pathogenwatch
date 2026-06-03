@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T12:58:37.161Z",
+  "last_updated": "2026-06-03T19:59:10.677Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "02 Jun 21:33",
+      "title": "First hantavirus death reported in Arizona in 2026",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/first-hantavirus-death-reported-in-arizona-in-2026/ar-AA24HDW9",
+      "live": true,
+      "added": "2026-06-03T19:59:09.030Z"
+    },
+    {
+      "src": "News",
       "time": "02 Jun 03:17",
       "title": "Hantavirus ‘Sin Nombre’ death confirmed in northwest Arizona",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://news.sky.com/story/ukhsa-gives-update-on-hantavirus-contacts-returning-to-uk-13545270",
       "live": true,
       "added": "2026-05-17T20:35:01.262Z"
-    },
-    {
-      "src": "News",
-      "time": "17 May 11:13",
-      "title": "Canadian national health agency confirms 1 positive hantavirus test",
-      "tag": "u",
-      "url": "https://apnews.com/article/canada-hantavirus-positive-test-1ef18249115195f09381a174092a1cae",
-      "live": true,
-      "added": "2026-05-17T20:35:01.261Z"
     }
   ],
   "travel": [
