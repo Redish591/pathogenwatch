@@ -851,3 +851,14 @@ the bot are listed under the timestamp.
 [2026-06-03T19:59:10.678Z] 2 change(s):
   ~ AI filtered 1 low-quality item(s)
   + News | First hantavirus death reported in Arizona in 2026
+
+[2026-06-04T11:35:45.656Z] 9 change(s):
+  ~ AI filtered 1 low-quality item(s)
+  + News | Some hantavirus-exposed cruise ship passengers return home to finish q
+  + News | 5 Americans exposed to hantavirus return home after weeks in quarantin
+  + News | Five people have left hantavirus quarantine facility in Nebraska
+  + News | Bend Doctor Returns Home to Finish Quarantine After Hantavirus Outbrea
+  + News | Cruise ship tied to hantavirus cleared to sail: Where it’s headed
+  + News | Small number of hantavirus cases not uncommon in Arizona, data shows
+  + News | State trooper guards and daily fever checks: Some hantavirus cruise sh
+  + News | Panic as Arizona hantavirus case known as ‘Sin Nombre’ kills 1
