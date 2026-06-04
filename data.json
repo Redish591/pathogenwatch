@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T11:35:45.655Z",
+  "last_updated": "2026-06-04T19:48:06.327Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "04 Jun 07:03",
+      "title": "CDC alert: Deadly hantavirus spreading — could reach US states",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/medical/cdc-alert-deadly-hantavirus-spreading-could-reach-us-states/vi-AA24Qp7U",
+      "live": true,
+      "added": "2026-06-04T19:48:04.233Z"
+    },
+    {
+      "src": "News",
       "time": "02 Jun 16:17",
       "title": "Panic as Arizona hantavirus case known as ‘Sin Nombre’ kills 1",
       "tag": "u",
@@ -3332,15 +3341,6 @@
       "title": "WHO to give update on hantavirus and Ebola after outbreaks",
       "tag": "u",
       "url": "https://www.bbc.com/news/live/c99l70zy1j7t",
-      "live": true,
-      "added": "2026-05-18T21:54:39.765Z"
-    },
-    {
-      "src": "News",
-      "time": "18 May 07:34",
-      "title": "Hantavirus-hit liner reaches Rotterdam, crew being quarantined and ship disinfected",
-      "tag": "u",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/hantavirus-hit-cruise-ship-due-arrive-rotterdam-port-final-destination-2026-05-18/",
       "live": true,
       "added": "2026-05-18T21:54:39.765Z"
     }
