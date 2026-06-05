@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T19:48:06.327Z",
+  "last_updated": "2026-06-05T18:29:33.463Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "03 Jun 07:05",
+      "title": "Arizona Resident Dies Of Hantavirus Variant Just As Deadly As Cruise Ship Strain",
+      "tag": "u",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/06/03/arizona-resident-dies-of-hantavirus-variant-just-as-deadly-as-cruise-ship-strain/",
+      "live": true,
+      "added": "2026-06-05T18:29:31.309Z"
+    },
+    {
+      "src": "News",
       "time": "04 Jun 07:03",
       "title": "CDC alert: Deadly hantavirus spreading — could reach US states",
       "tag": "u",
@@ -3332,15 +3341,6 @@
       "title": "Canada confirms hantavirus case linked to cruise ship outbreak that has killed three passengers",
       "tag": "u",
       "url": "https://www.msn.com/en-us/health/other/canada-confirms-hantavirus-case-linked-to-cruise-ship-outbreak-that-has-killed-three-passengers/ar-AA23ryQT",
-      "live": true,
-      "added": "2026-05-18T21:54:39.765Z"
-    },
-    {
-      "src": "News",
-      "time": "18 May 06:10",
-      "title": "WHO to give update on hantavirus and Ebola after outbreaks",
-      "tag": "u",
-      "url": "https://www.bbc.com/news/live/c99l70zy1j7t",
       "live": true,
       "added": "2026-05-18T21:54:39.765Z"
     }
