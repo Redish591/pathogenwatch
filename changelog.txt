@@ -870,3 +870,10 @@ the bot are listed under the timestamp.
 [2026-06-05T18:29:33.464Z] 2 change(s):
   ~ AI filtered 5 low-quality item(s)
   + News | Arizona Resident Dies Of Hantavirus Variant Just As Deadly As Cruise S
+
+[2026-06-06T09:13:15.372Z] 5 change(s):
+  ~ AI filtered 3 low-quality item(s)
+  + News | Scientists retrace path of tourists as hantavirus probe expanded
+  + News | Argentina expands probe into source of hantavirus outbreak
+  + News | Argentina expands hantavirus probe, sends teams to test rats in Mendoz
+  + News | Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists

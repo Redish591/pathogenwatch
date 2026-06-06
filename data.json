@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T18:29:33.463Z",
+  "last_updated": "2026-06-06T09:13:15.371Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,42 @@
   "news": [
     {
       "src": "News",
+      "time": "27 May 13:37",
+      "title": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists",
+      "tag": "u",
+      "url": "https://www.nytimes.com/2026/05/27/science/ebola-hantavirus-species-strains.html",
+      "live": true,
+      "added": "2026-06-06T09:13:12.731Z"
+    },
+    {
+      "src": "News",
+      "time": "06 Jun 00:10",
+      "title": "Argentina expands hantavirus probe, sends teams to test rats in Mendoza",
+      "tag": "u",
+      "url": "https://www.cnbctv18.com/world/argentina-expands-hantavirus-probe-sends-teams-to-test-rats-in-mendoza-ws-el-19920745.htm",
+      "live": true,
+      "added": "2026-06-06T09:13:12.730Z"
+    },
+    {
+      "src": "News",
+      "time": "06 Jun 00:00",
+      "title": "Argentina expands probe into source of hantavirus outbreak",
+      "tag": "u",
+      "url": "https://www.msn.com/en-in/health/other/argentina-expands-probe-into-source-of-hantavirus-outbreak/ar-AA24Y9oz",
+      "live": true,
+      "added": "2026-06-06T09:13:12.729Z"
+    },
+    {
+      "src": "News",
+      "time": "06 Jun 01:28",
+      "title": "Scientists retrace path of tourists as hantavirus probe expanded",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/money/general/scientists-retrace-path-of-tourists-as-hantavirus-probe-expanded/ar-AA24Yh4b",
+      "live": true,
+      "added": "2026-06-06T09:13:12.728Z"
+    },
+    {
+      "src": "News",
       "time": "03 Jun 07:05",
       "title": "Arizona Resident Dies Of Hantavirus Variant Just As Deadly As Cruise Ship Strain",
       "tag": "u",
@@ -3307,42 +3343,6 @@
       "url": "https://www.forbes.com/sites/maryroeloffs/2026/05/19/hantavirus-hit-cruise-ship-will-sail-again-in-june-latest-updates/",
       "live": true,
       "added": "2026-05-19T18:26:32.468Z"
-    },
-    {
-      "src": "News",
-      "time": "18 May 14:25",
-      "title": "Argentina’s icy outpost at the end of the world fears the hantavirus will chill tourism",
-      "tag": "u",
-      "url": "https://apnews.com/article/argentina-tourism-hantavirus-cruise-ship-ushuaia-7e16664e2d031797ed2c043c34956353",
-      "live": true,
-      "added": "2026-05-19T11:42:51.029Z"
-    },
-    {
-      "src": "News",
-      "time": "18 May 15:21",
-      "title": "Test finds patient in Winnebago County, Illinois, did not have hantavirus, officials say",
-      "tag": "u",
-      "url": "https://www.cbsnews.com/chicago/news/test-finds-patient-winnebago-county-illinois-no-hantavirus/",
-      "live": true,
-      "added": "2026-05-19T11:42:51.027Z"
-    },
-    {
-      "src": "News",
-      "time": "19 May 04:00",
-      "title": "A critical window to stop hantavirus is opening. Not all countries are managing exposed travelers the same way",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/a-critical-window-to-stop-hantavirus-is-opening-not-all-countries-are-managing-exposed-travelers-the-same-way/ar-AA23ywLE",
-      "live": true,
-      "added": "2026-05-19T11:42:51.026Z"
-    },
-    {
-      "src": "News",
-      "time": "17 May 19:21",
-      "title": "Canada confirms hantavirus case linked to cruise ship outbreak that has killed three passengers",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/canada-confirms-hantavirus-case-linked-to-cruise-ship-outbreak-that-has-killed-three-passengers/ar-AA23ryQT",
-      "live": true,
-      "added": "2026-05-18T21:54:39.765Z"
     }
   ],
   "travel": [
