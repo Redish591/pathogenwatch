@@ -877,3 +877,8 @@ the bot are listed under the timestamp.
   + News | Argentina expands probe into source of hantavirus outbreak
   + News | Argentina expands hantavirus probe, sends teams to test rats in Mendoz
   + News | Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists
+
+[2026-06-06T15:58:51.968Z] 3 change(s):
+  ~ AI filtered 2 low-quality item(s)
+  + News | New hantavirus case confirmed in Spain after cruise ship outbreak
+  + News | Oregonian exposed to hantavirus returns home, goes into quarantine

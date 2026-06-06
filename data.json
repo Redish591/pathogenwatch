@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T09:13:15.371Z",
+  "last_updated": "2026-06-06T15:58:51.967Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "01 Jun 21:00",
+      "title": "Oregonian exposed to hantavirus returns home, goes into quarantine",
+      "tag": "u",
+      "url": "https://golfweek.usatoday.com/story/news/local/oregon/2026/06/02/oregon-resident-hantavirus-quarantine/90375852007/",
+      "live": true,
+      "added": "2026-06-06T15:58:50.057Z"
+    },
+    {
+      "src": "News",
+      "time": "05 Jun 16:30",
+      "title": "New hantavirus case confirmed in Spain after cruise ship outbreak",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/general/new-hantavirus-case-confirmed-in-spain-after-cruise-ship-outbreak/ar-AA24Xq8H",
+      "live": true,
+      "added": "2026-06-06T15:58:50.055Z"
+    },
+    {
+      "src": "News",
       "time": "27 May 13:37",
       "title": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.aol.com/articles/hantavirus-death-confirmed-colorado-health-135047530.html",
       "live": true,
       "added": "2026-05-19T18:26:32.470Z"
-    },
-    {
-      "src": "News",
-      "time": "19 May 11:02",
-      "title": "US health officials order quarantine for 2 passengers from cruise ship with hantavirus outbreak",
-      "tag": "u",
-      "url": "https://www.ocregister.com/2026/05/19/us-hantavirus-quarantine/",
-      "live": true,
-      "added": "2026-05-19T18:26:32.469Z"
-    },
-    {
-      "src": "News",
-      "time": "19 May 05:30",
-      "title": "Hantavirus-Hit Cruise Ship Will Sail Again In June (Latest Updates)",
-      "tag": "u",
-      "url": "https://www.forbes.com/sites/maryroeloffs/2026/05/19/hantavirus-hit-cruise-ship-will-sail-again-in-june-latest-updates/",
-      "live": true,
-      "added": "2026-05-19T18:26:32.468Z"
     }
   ],
   "travel": [
