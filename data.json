@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T15:58:51.967Z",
+  "last_updated": "2026-06-07T10:13:28.890Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,33 @@
   "news": [
     {
       "src": "News",
+      "time": "06 Jun 21:47",
+      "title": "Texas cruise passengers complete hantavirus monitoring with no infections, state says",
+      "tag": "u",
+      "url": "https://www.yahoo.com/news/science/articles/texas-cruise-passengers-complete-hantavirus-000828746.html",
+      "live": true,
+      "added": "2026-06-07T10:13:26.725Z"
+    },
+    {
+      "src": "News",
+      "time": "07 Jun 00:47",
+      "title": "2 Singapore residents who were on board hantavirus-hit cruise ship complete quarantine",
+      "tag": "u",
+      "url": "https://www.straitstimes.com/singapore/two-singapore-residents-who-were-on-board-mv-hondius-complete-hantavirus-quarantine",
+      "live": true,
+      "added": "2026-06-07T10:13:26.725Z"
+    },
+    {
+      "src": "News",
+      "time": "05 Jun 20:26",
+      "title": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza",
+      "tag": "u",
+      "url": "https://apnews.com/article/argentina-hantavirus-investigation-cdc-ushuaia-mendoza-1e375f0eb2120343bfde222bc47d53c5",
+      "live": true,
+      "added": "2026-06-07T10:13:26.724Z"
+    },
+    {
+      "src": "News",
       "time": "01 Jun 21:00",
       "title": "Oregonian exposed to hantavirus returns home, goes into quarantine",
       "tag": "u",
@@ -3316,33 +3343,6 @@
       "url": "https://viconsortium.com/vi-health/virgin-islands-health-department-strengthens-infectious-disease-preparedness-as-hantavirus-risk-remains-very-low-in-usvi",
       "live": true,
       "added": "2026-05-20T10:38:15.290Z"
-    },
-    {
-      "src": "News",
-      "time": "19 May 19:12",
-      "title": "American passenger on hantavirus-hit cruise feels ‘blindsided’ and ‘misled’ by new quarantine orders",
-      "tag": "u",
-      "url": "https://www.cnn.com/2026/05/19/health/hantavirus-us-quarantine-orders",
-      "live": true,
-      "added": "2026-05-20T10:38:15.289Z"
-    },
-    {
-      "src": "News",
-      "time": "19 May 09:10",
-      "title": "Woman exposed to hantavirus on cruise ship says feds are forcing her to stay quarantined in Nebraska",
-      "tag": "u",
-      "url": "https://www.knoe.com/2026/05/19/woman-exposed-hantavirus-cruise-ship-says-feds-are-forcing-her-stay-quarantined-nebraska/",
-      "live": true,
-      "added": "2026-05-19T18:26:32.470Z"
-    },
-    {
-      "src": "News",
-      "time": "19 May 07:32",
-      "title": "Hantavirus Death Confirmed in Colorado as Health Officials Launch Investigation",
-      "tag": "u",
-      "url": "https://www.aol.com/articles/hantavirus-death-confirmed-colorado-health-135047530.html",
-      "live": true,
-      "added": "2026-05-19T18:26:32.470Z"
     }
   ],
   "travel": [

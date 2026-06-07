@@ -882,3 +882,9 @@ the bot are listed under the timestamp.
   ~ AI filtered 2 low-quality item(s)
   + News | New hantavirus case confirmed in Spain after cruise ship outbreak
   + News | Oregonian exposed to hantavirus returns home, goes into quarantine
+
+[2026-06-07T10:13:28.891Z] 4 change(s):
+  ~ AI filtered 4 low-quality item(s)
+  + News | Argentina expands hantavirus probe, sending teams to trap and test rat
+  + News | Texas cruise passengers complete hantavirus monitoring with no infecti
+  + News | 2 Singapore residents who were on board hantavirus-hit cruise ship com
