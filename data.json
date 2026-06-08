@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T14:39:35.651Z",
+  "last_updated": "2026-06-08T23:02:38.662Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,33 @@
   "news": [
     {
       "src": "News",
+      "time": "04 Jun 06:21",
+      "title": "A cruise ship outbreak made the world aware of hantavirus. Scientists want to use this new fame",
+      "tag": "u",
+      "url": "https://www.aol.com/news/cruise-ship-outbreak-made-world-062122377.html",
+      "live": true,
+      "added": "2026-06-08T23:02:35.755Z"
+    },
+    {
+      "src": "News",
+      "time": "08 Jun 09:35",
+      "title": "Two Texans clear 42-day quarantine after exposure to Andes hantavirus",
+      "tag": "u",
+      "url": "https://www.statesman.com/news/healthcare/article/texas-andes-hantavirus-exposure-quarantine-22295828.php",
+      "live": true,
+      "added": "2026-06-08T23:02:35.753Z"
+    },
+    {
+      "src": "News",
+      "time": "08 Jun 15:14",
+      "title": "Doctor quarantining at home in Oregon after stay for hantavirus in Omaha",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/doctor-quarantining-at-home-in-oregon-after-stay-for-hantavirus-in-omaha/vi-AA258tbA",
+      "live": true,
+      "added": "2026-06-08T23:02:35.753Z"
+    },
+    {
+      "src": "News",
       "time": "08 Jun 04:26",
       "title": "Two Texans cleared of hantavirus risk after period of isolation",
       "tag": "u",
@@ -3316,33 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/promising-hantavirus-vaccine-research-stalled-by-funding-gap-before-outbreak/ar-AA23C1Uc",
       "live": true,
       "added": "2026-05-20T19:55:30.122Z"
-    },
-    {
-      "src": "News",
-      "time": "19 May 21:19",
-      "title": "Deadly hantavirus outbreak triggers rodent hunt in Argentina",
-      "tag": "u",
-      "url": "https://www.aol.com/news/deadly-hantavirus-outbreak-triggers-rodent-211938711.html",
-      "live": true,
-      "added": "2026-05-20T10:38:15.291Z"
-    },
-    {
-      "src": "News",
-      "time": "19 May 02:02",
-      "title": "Hantavirus RNA detected in survivor’s semen 71 months post-infection — raising fears of long-term sexual transmission",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/hantavirus-rna-detected-in-survivor-s-semen-71-months-post-infection-raising-fears-of-long-term-sexual-transmission/ar-AA23y9DL",
-      "live": true,
-      "added": "2026-05-20T10:38:15.291Z"
-    },
-    {
-      "src": "News",
-      "time": "19 May 15:44",
-      "title": "Argentines hunting for source of hantavirus outbreak trap rats in southernmost city",
-      "tag": "u",
-      "url": "https://www.nbcnews.com/world/argentina/argentines-hunting-source-hantavirus-outbreak-trap-rats-southernmost-c-rcna345997",
-      "live": true,
-      "added": "2026-05-20T10:38:15.291Z"
     }
   ],
   "travel": [

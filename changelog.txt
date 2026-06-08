@@ -894,3 +894,9 @@ the bot are listed under the timestamp.
   + News | Texans cleared after weeks of monitoring following potential hantaviru
   + News | Two Texans cleared of hantavirus risk after period of isolation
   + News | Two Singaporeans complete quarantine after returning from cruise with 
+
+[2026-06-08T23:02:38.663Z] 4 change(s):
+  ~ AI filtered 2 low-quality item(s)
+  + News | Two Texans clear 42-day quarantine after exposure to Andes hantavirus
+  + News | Doctor quarantining at home in Oregon after stay for hantavirus in Oma
+  + News | A cruise ship outbreak made the world aware of hantavirus. Scientists 
