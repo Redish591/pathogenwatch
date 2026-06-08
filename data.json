@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T16:53:55.869Z",
+  "last_updated": "2026-06-08T14:39:35.651Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,33 @@
   "news": [
     {
       "src": "News",
+      "time": "08 Jun 04:26",
+      "title": "Two Texans cleared of hantavirus risk after period of isolation",
+      "tag": "u",
+      "url": "https://www.keranews.org/health-wellness/2026-06-08/two-texans-cleared-hanta-virus-risk-after-isolation",
+      "live": true,
+      "added": "2026-06-08T14:39:33.384Z"
+    },
+    {
+      "src": "News",
+      "time": "07 Jun 21:15",
+      "title": "Two Singaporeans complete quarantine after returning from cruise with deadly hantavirus outbreak",
+      "tag": "u",
+      "url": "https://www.msn.com/en-my/public-safety-and-emergencies/health-and-safety-alerts/two-singaporeans-complete-quarantine-after-returning-from-cruise-with-deadly-hantavirus-outbreak/ar-AA2544lV",
+      "live": true,
+      "added": "2026-06-08T14:39:33.384Z"
+    },
+    {
+      "src": "News",
+      "time": "07 Jun 18:20",
+      "title": "Texans cleared after weeks of monitoring following potential hantavirus exposure",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/texans-cleared-after-weeks-of-monitoring-following-potential-hantavirus-exposure/vi-AA254djf",
+      "live": true,
+      "added": "2026-06-08T14:39:33.383Z"
+    },
+    {
+      "src": "News",
       "time": "06 Jun 21:47",
       "title": "Texas cruise passengers complete hantavirus monitoring with no infections, state says",
       "tag": "u",
@@ -3316,33 +3343,6 @@
       "url": "https://www.nbcnews.com/world/argentina/argentines-hunting-source-hantavirus-outbreak-trap-rats-southernmost-c-rcna345997",
       "live": true,
       "added": "2026-05-20T10:38:15.291Z"
-    },
-    {
-      "src": "News",
-      "time": "19 May 17:10",
-      "title": "Hantavirus update: CDC confirms 2 brought to Omaha facility ordered to quarantine",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/news/us/hantavirus-update-cdc-confirms-2-brought-to-omaha-facility-ordered-to-quarantine/ar-AA23AnIe",
-      "live": true,
-      "added": "2026-05-20T10:38:15.290Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 13:29",
-      "title": "What the (rather brief) history of hantavirus reveals about its spread",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/what-the-rather-brief-history-of-hantavirus-reveals-about-its-spread/ar-AA232iBN",
-      "live": true,
-      "added": "2026-05-20T10:38:15.290Z"
-    },
-    {
-      "src": "News",
-      "time": "20 May 03:34",
-      "title": "Health Department Strengthens Infectious Disease Preparedness as Hantavirus Risk Remains Very Low in USVI",
-      "tag": "u",
-      "url": "https://viconsortium.com/vi-health/virgin-islands-health-department-strengthens-infectious-disease-preparedness-as-hantavirus-risk-remains-very-low-in-usvi",
-      "live": true,
-      "added": "2026-05-20T10:38:15.290Z"
     }
   ],
   "travel": [
