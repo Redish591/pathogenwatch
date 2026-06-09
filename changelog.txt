@@ -907,3 +907,8 @@ the bot are listed under the timestamp.
   + News | In the news today: MPs plan Taiwan trip, BC hantavirus recovery, energ
   + News | BC health officials say the Canadian who tested positive for hantaviru
   + News | Canadian who tested positive for hantavirus has recovered, B.C. health
+
+[2026-06-09T19:34:52.619Z] 3 change(s):
+  + News | 3 more hantavirus patients quarantining in Omaha leave UNMC
+  + News | Three more US passengers from hantavirus-hit ship return to home state
+  + News | UNMC releases three more hantavirus cruise ship passengers

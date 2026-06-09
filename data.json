@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T11:43:39.155Z",
+  "last_updated": "2026-06-09T19:34:52.618Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,33 @@
   "news": [
     {
       "src": "News",
+      "time": "09 Jun 07:34",
+      "title": "Three more US passengers from hantavirus-hit ship return to home states",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/three-more-us-passengers-from-hantavirus-hit-ship-return-to-home-states/ar-AA25cayM",
+      "live": true,
+      "added": "2026-06-09T19:34:49.914Z"
+    },
+    {
+      "src": "News",
+      "time": "09 Jun 07:26",
+      "title": "UNMC releases three more hantavirus cruise ship passengers",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/unmc-releases-three-more-hantavirus-cruise-ship-passengers/ar-AA25c5AV",
+      "live": true,
+      "added": "2026-06-09T19:34:49.914Z"
+    },
+    {
+      "src": "News",
+      "time": "09 Jun 09:45",
+      "title": "3 more hantavirus patients quarantining in Omaha leave UNMC",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/news/other/3-more-hantavirus-patients-quarantining-in-omaha-leave-unmc/ar-AA25d2dj",
+      "live": true,
+      "added": "2026-06-09T19:34:49.913Z"
+    },
+    {
+      "src": "News",
       "time": "08 Jun 23:51",
       "title": "Canadian who tested positive for hantavirus has recovered, B.C. health officials say",
       "tag": "u",
@@ -3316,33 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/american-who-was-on-the-hantavirus-cruise-ship-says-isolation-center-is-like-prison/ar-AA23Jzbh",
       "live": true,
       "added": "2026-05-22T10:37:15.459Z"
-    },
-    {
-      "src": "News",
-      "time": "20 May 11:53",
-      "title": "The hantavirus outbreak is a tragedy—and a valuable data source",
-      "tag": "u",
-      "url": "https://www.economist.com/science-and-technology/2026/05/20/the-hantavirus-outbreak-is-a-tragedy-and-a-valuable-data-source",
-      "live": true,
-      "added": "2026-05-21T18:28:45.937Z"
-    },
-    {
-      "src": "News",
-      "time": "21 May 09:34",
-      "title": "Study finds deadly hantavirus more widespread in Pacific Northwest rodents than expected",
-      "tag": "u",
-      "url": "https://komonews.com/news/local/study-finds-deadly-hantavirus-more-widespread-in-pacific-northwest-rodents-than-expected-disease-infection-mice-rats-droppings-symptoms-pandemic-andes-virus-covid-cruise-ship-washington-idaho-oregon",
-      "live": true,
-      "added": "2026-05-21T18:28:45.937Z"
-    },
-    {
-      "src": "News",
-      "time": "21 May 11:15",
-      "title": "Sentara prepares for possible hantavirus infections",
-      "tag": "u",
-      "url": "https://www.aol.com/news/sentara-prepares-possible-hantavirus-infections-111502401.html",
-      "live": true,
-      "added": "2026-05-21T18:28:45.936Z"
     }
   ],
   "travel": [
