@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T23:02:38.662Z",
+  "last_updated": "2026-06-09T11:43:39.155Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,42 @@
   "news": [
     {
       "src": "News",
+      "time": "08 Jun 23:51",
+      "title": "Canadian who tested positive for hantavirus has recovered, B.C. health officials say",
+      "tag": "u",
+      "url": "https://www.theglobeandmail.com/canada/article-canadian-with-hantavirus-recovers/",
+      "live": true,
+      "added": "2026-06-09T11:43:36.600Z"
+    },
+    {
+      "src": "News",
+      "time": "09 Jun 03:28",
+      "title": "BC health officials say the Canadian who tested positive for hantavirus has recovered",
+      "tag": "u",
+      "url": "https://www.nationalobserver.com/2026/06/09/news/bc-health-officials-say-canadian-who-tested-positive-hantavirus-has-recovered",
+      "live": true,
+      "added": "2026-06-09T11:43:36.599Z"
+    },
+    {
+      "src": "News",
+      "time": "09 Jun 01:03",
+      "title": "In the news today: MPs plan Taiwan trip, BC hantavirus recovery, energy show begins",
+      "tag": "u",
+      "url": "https://www.msn.com/en-ca/politics/government/in-the-news-today-mps-plan-taiwan-trip-bc-hantavirus-recovery-energy-show-begins/ar-AA25aBiq",
+      "live": true,
+      "added": "2026-06-09T11:43:36.598Z"
+    },
+    {
+      "src": "News",
+      "time": "08 Jun 21:46",
+      "title": "BC health officials say Canadian who tested positive for hantavirus has recovered",
+      "tag": "u",
+      "url": "https://www.msn.com/en-ca/news/other/bc-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered/ar-AA25aaRO",
+      "live": true,
+      "added": "2026-06-09T11:43:36.597Z"
+    },
+    {
+      "src": "News",
       "time": "04 Jun 06:21",
       "title": "A cruise ship outbreak made the world aware of hantavirus. Scientists want to use this new fame",
       "tag": "u",
@@ -3307,42 +3343,6 @@
       "url": "https://www.aol.com/news/sentara-prepares-possible-hantavirus-infections-111502401.html",
       "live": true,
       "added": "2026-05-21T18:28:45.936Z"
-    },
-    {
-      "src": "News",
-      "time": "21 May 05:31",
-      "title": "Hantavirus outbreak on Dutch cruise ship: How to prepare for a healthy and safe cruise trip",
-      "tag": "u",
-      "url": "https://www.msn.com/en-au/health/nutrition/hantavirus-outbreak-on-dutch-cruise-ship-how-to-prepare-for-a-healthy-and-safe-cruise-trip/ar-AA23Jige",
-      "live": true,
-      "added": "2026-05-21T18:28:45.936Z"
-    },
-    {
-      "src": "News",
-      "time": "18 May 03:38",
-      "title": "Cruise ship hit by hantavirus outbreak docks in Rotterdam",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/cruise-ship-hit-by-hantavirus-outbreak-docks-in-rotterdam/ar-AA23tzIf",
-      "live": true,
-      "added": "2026-05-20T19:55:30.123Z"
-    },
-    {
-      "src": "News",
-      "time": "19 May 17:00",
-      "title": "Hantavirus explained: What Utah residents should know about the cruise ship outbreak and local risks",
-      "tag": "u",
-      "url": "https://www.fox13now.com/station-initiatives/healthier-together/hantavirus-explained-what-utah-residents-should-know-about-the-cruise-ship-outbreak-and-local-risks",
-      "live": true,
-      "added": "2026-05-20T19:55:30.123Z"
-    },
-    {
-      "src": "News",
-      "time": "20 May 02:09",
-      "title": "Promising hantavirus vaccine research stalled by funding gap before outbreak",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/promising-hantavirus-vaccine-research-stalled-by-funding-gap-before-outbreak/ar-AA23C1Uc",
-      "live": true,
-      "added": "2026-05-20T19:55:30.122Z"
     }
   ],
   "travel": [
