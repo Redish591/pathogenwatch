@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T19:34:52.618Z",
+  "last_updated": "2026-06-10T12:39:36.558Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,33 @@
   "news": [
     {
       "src": "News",
+      "time": "10 Jun 03:32",
+      "title": "Hantavirus outbreaks rare, but not unheard of in U.S.",
+      "tag": "u",
+      "url": "https://www.butlereagle.com/20260610/hantavirus-outbreaks-rare-but-not-unheard-of-in-u-s/",
+      "live": true,
+      "added": "2026-06-10T12:39:32.424Z"
+    },
+    {
+      "src": "News",
+      "time": "09 Jun 23:52",
+      "title": "3 more US hantavirus cruise passengers return home after weeks at quarantine facility",
+      "tag": "u",
+      "url": "https://www.indystar.com/story/news/health/2026/06/09/three-american-hantavirus-cruise-passengers-return-home/90476811007/",
+      "live": true,
+      "added": "2026-06-10T12:39:32.423Z"
+    },
+    {
+      "src": "News",
+      "time": "09 Jun 08:41",
+      "title": "Hantavirus update: three more cruise passengers leave Omaha quarantine unit",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/hantavirus-update-three-more-cruise-passengers-leave-omaha-quarantine-unit/ar-AA25cgbl",
+      "live": true,
+      "added": "2026-06-10T12:39:32.422Z"
+    },
+    {
+      "src": "News",
       "time": "09 Jun 07:34",
       "title": "Three more US passengers from hantavirus-hit ship return to home states",
       "tag": "u",
@@ -3316,33 +3343,6 @@
       "url": "https://www.fox26houston.com/news/hantavirus-exposure-risk-may-be-higher-than-believed-parts-us-study-finds",
       "live": true,
       "added": "2026-05-22T18:21:50.206Z"
-    },
-    {
-      "src": "News",
-      "time": "22 May 08:25",
-      "title": "Hantavirus cases linked to cruise ship rise to 12 after crew member tests positive",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/hantavirus-cases-linked-to-cruise-ship-rise-to-12-after-crew-member-tests-positive/ar-AA23P7BD",
-      "live": true,
-      "added": "2026-05-22T18:21:50.205Z"
-    },
-    {
-      "src": "News",
-      "time": "21 May 12:45",
-      "title": "2 Americans forced into quarantine following deadly cruise ship hantavirus outbreak",
-      "tag": "u",
-      "url": "https://www.npr.org/2026/05/21/g-s1-123441/2-americans-forced-into-quarantine-following-deadly-cruise-ship-hantavirus-outbreak",
-      "live": true,
-      "added": "2026-05-22T10:37:15.461Z"
-    },
-    {
-      "src": "News",
-      "time": "21 May 16:08",
-      "title": "American who was on the hantavirus cruise ship says isolation center is like ‘prison’",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/american-who-was-on-the-hantavirus-cruise-ship-says-isolation-center-is-like-prison/ar-AA23Jzbh",
-      "live": true,
-      "added": "2026-05-22T10:37:15.459Z"
     }
   ],
   "travel": [

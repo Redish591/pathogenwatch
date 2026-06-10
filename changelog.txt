@@ -912,3 +912,9 @@ the bot are listed under the timestamp.
   + News | 3 more hantavirus patients quarantining in Omaha leave UNMC
   + News | Three more US passengers from hantavirus-hit ship return to home state
   + News | UNMC releases three more hantavirus cruise ship passengers
+
+[2026-06-10T12:39:36.560Z] 4 change(s):
+  ~ AI filtered 1 low-quality item(s)
+  + News | Hantavirus update: three more cruise passengers leave Omaha quarantine
+  + News | 3 more US hantavirus cruise passengers return home after weeks at quar
+  + News | Hantavirus outbreaks rare, but not unheard of in U.S.
