@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T12:39:36.558Z",
+  "last_updated": "2026-06-10T23:15:40.588Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "10 Jun 14:42",
+      "title": "San Quentin confirms 38-year-old male inmate contracted possible case of hantavirus",
+      "tag": "u",
+      "url": "https://abc7news.com/post/san-quentin-rehabilitation-center-confirms-38-year-old-male-inmate-contracted-possible-case-hantavirus/19271683/",
+      "live": true,
+      "added": "2026-06-10T23:15:37.838Z"
+    },
+    {
+      "src": "News",
       "time": "10 Jun 03:32",
       "title": "Hantavirus outbreaks rare, but not unheard of in U.S.",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.cbc.ca/news/health/livestory/phac-public-health-agency-canada-ebola-hantavirus-9.7208488",
       "live": true,
       "added": "2026-05-22T18:21:50.207Z"
-    },
-    {
-      "src": "News",
-      "time": "22 May 10:59",
-      "title": "Hantavirus exposure risk may be higher than believed in parts of US, study finds",
-      "tag": "u",
-      "url": "https://www.fox26houston.com/news/hantavirus-exposure-risk-may-be-higher-than-believed-parts-us-study-finds",
-      "live": true,
-      "added": "2026-05-22T18:21:50.206Z"
     }
   ],
   "travel": [
