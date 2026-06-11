@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T23:15:40.588Z",
+  "last_updated": "2026-06-11T13:04:26.812Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "03 Jun 16:31",
+      "title": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue",
+      "tag": "u",
+      "url": "https://www.orlandosentinel.com/2026/06/03/hantavirus-research/",
+      "live": true,
+      "added": "2026-06-11T13:04:24.519Z"
+    },
+    {
+      "src": "News",
+      "time": "11 Jun 00:30",
+      "title": "Hantavirus: UK reports confirmed case in Tristan da Cunha, says WHO chief",
+      "tag": "u",
+      "url": "https://www.msn.com/en-in/health/other/hantavirus-uk-reports-confirmed-case-in-tristan-da-cunha-says-who-chief/ar-AA25mmTp",
+      "live": true,
+      "added": "2026-06-11T13:04:24.518Z"
+    },
+    {
+      "src": "News",
       "time": "10 Jun 14:42",
       "title": "San Quentin confirms 38-year-old male inmate contracted possible case of hantavirus",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.msn.com/en-ca/health/other/who-confirms-12-hantavirus-cases-after-new-positive-in-the-netherlands/ar-AA23Pi6g",
       "live": true,
       "added": "2026-05-22T18:21:50.208Z"
-    },
-    {
-      "src": "News",
-      "time": "21 May 16:15",
-      "title": "‘Shocking number’ of PNW rodents may carry hantavirus, Scientific American says",
-      "tag": "u",
-      "url": "https://www.oregonlive.com/nation/2026/05/shocking-number-of-pnw-rodents-may-carry-hantavirus-scientific-american-says.html",
-      "live": true,
-      "added": "2026-05-22T18:21:50.207Z"
-    },
-    {
-      "src": "News",
-      "time": "22 May 10:20",
-      "title": "Canada's chief public health officer delivers updates on hantavirus, Ebola",
-      "tag": "u",
-      "url": "https://www.cbc.ca/news/health/livestory/phac-public-health-agency-canada-ebola-hantavirus-9.7208488",
-      "live": true,
-      "added": "2026-05-22T18:21:50.207Z"
     }
   ],
   "travel": [
