@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T13:04:26.812Z",
+  "last_updated": "2026-06-11T23:10:36.882Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,69 @@
   "news": [
     {
       "src": "News",
+      "time": "11 Jun 10:17",
+      "title": "Possible hantavirus case at San Quentin prompts testing, decontamination",
+      "tag": "u",
+      "url": "https://www.yahoo.com/news/science/articles/san-quentin-reports-possible-hantavirus-003023755.html",
+      "live": true,
+      "added": "2026-06-11T23:10:34.553Z"
+    },
+    {
+      "src": "News",
+      "time": "11 Jun 14:32",
+      "title": "Hantavirus symptoms detected in California superspreader hot spot",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/diseases-and-conditions/hantavirus-symptoms-detected-at-san-quentin-prison/ar-AA25pDbi",
+      "live": true,
+      "added": "2026-06-11T23:10:34.552Z"
+    },
+    {
+      "src": "News",
+      "time": "11 Jun 15:59",
+      "title": "CDC and Florida at odds over hantavirus cruise ship passenger’s quarantine",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/cdc-and-florida-at-odds-over-hantavirus-cruise-ship-passenger-s-quarantine/ar-AA25pKyA",
+      "live": true,
+      "added": "2026-06-11T23:10:34.552Z"
+    },
+    {
+      "src": "News",
+      "time": "11 Jun 11:18",
+      "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island",
+      "tag": "u",
+      "url": "https://apnews.com/article/hantavirus-ship-evacuation-american-yacht-33ba5ddb8374d0083271669e7ba52b04",
+      "live": true,
+      "added": "2026-06-11T23:10:34.551Z"
+    },
+    {
+      "src": "News",
+      "time": "11 Jun 11:53",
+      "title": "Hantavirus Cruise Passenger Says She’s Being Held ‘Hostage’ In Nebraska Quarantine (Latest Updates)",
+      "tag": "u",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/06/11/hantavirus-cruise-passenger-says-shes-being-held-hostage-in-nebraska-quarantine-latest-updates/",
+      "live": true,
+      "added": "2026-06-11T23:10:34.551Z"
+    },
+    {
+      "src": "News",
+      "time": "11 Jun 14:36",
+      "title": "Potential case of rare and deadly hantavirus investigated at Bay Area prison",
+      "tag": "u",
+      "url": "https://www.sfgate.com/bayarea/article/bay-area-hantavirus-22300995.php",
+      "live": true,
+      "added": "2026-06-11T23:10:34.550Z"
+    },
+    {
+      "src": "News",
+      "time": "11 Jun 13:25",
+      "title": "Prisoner at San Quentin may have hantavirus, authorities say",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/prisoner-at-san-quentin-may-have-hantavirus-authorities-say/ar-AA25pyWc",
+      "live": true,
+      "added": "2026-06-11T23:10:34.550Z"
+    },
+    {
+      "src": "News",
       "time": "03 Jun 16:31",
       "title": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue",
       "tag": "u",
@@ -3280,69 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/why-the-quarantine-for-hantavirus-is-so-long/ar-AA23S8g4",
       "live": true,
       "added": "2026-05-23T20:34:40.135Z"
-    },
-    {
-      "src": "News",
-      "time": "23 May 06:50",
-      "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
-      "tag": "u",
-      "url": "https://apnews.com/article/south-africa-hantavirus-diagnosis-scientists-42d1ec3a330e6647856f74b25594e856",
-      "live": true,
-      "added": "2026-05-23T20:34:40.134Z"
-    },
-    {
-      "src": "News",
-      "time": "23 May 08:18",
-      "title": "Hantavirus can persist in men's semen for six years after infection, scientists find",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/science/biology/hantavirus-can-persist-in-men-s-semen-for-six-years-after-infection-scientists-find/ar-AA23TD9m?ocid=BingNewsVerp",
-      "live": true,
-      "added": "2026-05-23T15:47:17.822Z"
-    },
-    {
-      "src": "News",
-      "time": "22 May 21:37",
-      "title": "EXCLUSIVE INVESTIGATION: Deadly Hantavirus Lockdown is Here — As 3.3 Million Are Infected in Outbreak More Contagious Than Covid",
-      "tag": "u",
-      "url": "https://www.aol.com/articles/exclusive-investigation-deadly-hantavirus-lockdown-212000000.html",
-      "live": true,
-      "added": "2026-05-23T15:47:17.821Z"
-    },
-    {
-      "src": "News",
-      "time": "22 May 10:16",
-      "title": "Dutch cruise ship crew member tests positive for Hantavirus in isolation",
-      "tag": "u",
-      "url": "https://www.yahoo.com/news/science/articles/dutch-cruise-ship-crew-member-153806246.html",
-      "live": true,
-      "added": "2026-05-23T07:59:34.567Z"
-    },
-    {
-      "src": "News",
-      "time": "22 May 11:51",
-      "title": "Hantavirus prevalence in Pacific Northwest rats raises new concerns",
-      "tag": "u",
-      "url": "https://www.yahoo.com/news/science/articles/hantavirus-prevalence-pacific-northwest-rats-172757707.html",
-      "live": true,
-      "added": "2026-05-23T07:59:34.567Z"
-    },
-    {
-      "src": "News",
-      "time": "22 May 15:18",
-      "title": "Americans exposed to hantavirus on ship enjoy some Nebraska hospitality while waiting in quarantine",
-      "tag": "u",
-      "url": "https://apnews.com/article/hantavirus-quarantine-omaha-cruise-cdc-01af4b0d14f3e9e8b5916efb982c1c9a",
-      "live": true,
-      "added": "2026-05-23T07:59:34.566Z"
-    },
-    {
-      "src": "News",
-      "time": "22 May 09:24",
-      "title": "Spain allows hantavirus contacts who test negative to spend last 14 quarantine days at home",
-      "tag": "u",
-      "url": "https://www.msn.com/en-ca/health/other/who-confirms-12-hantavirus-cases-after-new-positive-in-the-netherlands/ar-AA23Pi6g",
-      "live": true,
-      "added": "2026-05-22T18:21:50.208Z"
     }
   ],
   "travel": [
