@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T23:10:36.882Z",
+  "last_updated": "2026-06-12T19:55:23.838Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,42 @@
   "news": [
     {
       "src": "News",
+      "time": "12 Jun 12:20",
+      "title": "Hantavirus One-Shot mRNA Vaccine Fully Protects in Syrian Hamster Model",
+      "tag": "u",
+      "url": "https://www.genengnews.com/topics/infectious-diseases/hantavirus-one-shot-mrna-vaccine-fully-protects-in-syrian-hamster-model/",
+      "live": true,
+      "added": "2026-06-12T19:55:21.145Z"
+    },
+    {
+      "src": "News",
+      "time": "12 Jun 04:25",
+      "title": "San Quentin prison reports possible hantavirus case",
+      "tag": "u",
+      "url": "https://www.mercurynews.com/2026/06/12/san-quentin-prison-reports-possible-hantavirus-case/",
+      "live": true,
+      "added": "2026-06-12T19:55:21.144Z"
+    },
+    {
+      "src": "News",
+      "time": "12 Jun 11:30",
+      "title": "Officials investigating possible hantavirus case in San Quentin prison with inmates, staff monitored for symptoms",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/officials-investigating-possible-hantavirus-case-in-san-quentin-prison-with-inmates-staff-monitored-for-symptoms/ar-AA25vk3P",
+      "live": true,
+      "added": "2026-06-12T19:55:21.143Z"
+    },
+    {
+      "src": "News",
+      "time": "12 Jun 07:39",
+      "title": "Cruise passenger from deadly hantavirus outbreak says she's 'held hostage' in quarantine fight",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/cruise-passenger-from-deadly-hantavirus-outbreak-says-shes-held-hostage-in-quarantine-fight/ar-AA25uu1z",
+      "live": true,
+      "added": "2026-06-12T19:55:21.143Z"
+    },
+    {
+      "src": "News",
       "time": "11 Jun 10:17",
       "title": "Possible hantavirus case at San Quentin prompts testing, decontamination",
       "tag": "u",
@@ -3307,42 +3343,6 @@
       "url": "https://nypost.com/2026/05/24/health/hantavirus-is-gaining-ground-in-the-us-startling-researchers/",
       "live": true,
       "added": "2026-05-25T12:49:51.032Z"
-    },
-    {
-      "src": "News",
-      "time": "25 May 04:57",
-      "title": "WHO chief says hantavirus ‘situation is stable for now’",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/who-chief-says-hantavirus-situation-is-stable-for-now/ar-AA241fTL",
-      "live": true,
-      "added": "2026-05-25T12:49:51.031Z"
-    },
-    {
-      "src": "News",
-      "time": "22 May 11:24",
-      "title": "Hantavirus risk from rodents may be higher in Pacific Northwest",
-      "tag": "u",
-      "url": "https://www.usatoday.com/story/graphics/2026/05/22/higher-hantavirus-risk-rodents-pacific-northwest/90212656007/",
-      "live": true,
-      "added": "2026-05-24T15:47:39.289Z"
-    },
-    {
-      "src": "News",
-      "time": "24 May 07:13",
-      "title": "Hantavirus is gaining ground in the US, startling researchers: 'Widespread and complex virus'",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/hantavirus-is-gaining-ground-in-the-us-startling-researchers-widespread-and-complex-virus/ar-AA23WF8O",
-      "live": true,
-      "added": "2026-05-24T15:47:39.288Z"
-    },
-    {
-      "src": "News",
-      "time": "23 May 02:00",
-      "title": "Why the quarantine for hantavirus is so long",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/why-the-quarantine-for-hantavirus-is-so-long/ar-AA23S8g4",
-      "live": true,
-      "added": "2026-05-23T20:34:40.135Z"
     }
   ],
   "travel": [
