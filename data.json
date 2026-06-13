@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T02:34:30.879Z",
+  "last_updated": "2026-06-13T08:47:37.420Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "11 Jun 10:45",
+      "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms",
+      "tag": "u",
+      "url": "https://www.npr.org/2026/06/11/nx-s1-5854492/hantavirus-ebola-health-freedom",
+      "live": true,
+      "added": "2026-06-13T08:47:35.397Z"
+    },
+    {
+      "src": "News",
+      "time": "12 Jun 22:56",
+      "title": "US spends $750K to evacuate American stranded abroad hantavirus-struck cruise ship",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/news/world/us-spends-750k-to-evacuate-american-stranded-abroad-hantavirus-struck-cruise-ship/ar-AA25wE69",
+      "live": true,
+      "added": "2026-06-13T08:47:35.396Z"
+    },
+    {
+      "src": "News",
       "time": "12 Jun 19:22",
       "title": "No hantavirus found in second Argentine province: ministry",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.msn.com/en-us/news/us/hantavirus-update-nebraska-officials-awaiting-cdc-guidance-on-passengers-release/ar-AA23P4ba",
       "live": true,
       "added": "2026-05-25T12:49:51.034Z"
-    },
-    {
-      "src": "News",
-      "time": "21 May 09:52",
-      "title": "Man who was on hantavirus cruise ship says Nebraska isolation center feels like ‘prison'",
-      "tag": "u",
-      "url": "https://www.nbcnewyork.com/news/national-international/hantavirus-cruise-ship-passenger-nebraska-isolation-center/6504534/",
-      "live": true,
-      "added": "2026-05-25T12:49:51.033Z"
-    },
-    {
-      "src": "News",
-      "time": "25 May 03:07",
-      "title": "All Filipino crew members of MV Hondius negative for hantavirus – DMW",
-      "tag": "u",
-      "url": "https://www.msn.com/en-ph/news/other/all-filipino-crew-members-of-mv-hondius-negative-for-hantavirus-dmw/ar-AA23XYlK",
-      "live": true,
-      "added": "2026-05-25T12:49:51.033Z"
     }
   ],
   "travel": [

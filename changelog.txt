@@ -949,3 +949,8 @@ the bot are listed under the timestamp.
   ~ AI filtered 2 low-quality item(s)
   + News | San Quentin suspected hantavirus case of 38-year-old inmate ruled a fa
   + News | No hantavirus found in second Argentine province: ministry
+
+[2026-06-13T08:47:37.421Z] 3 change(s):
+  ~ AI filtered 2 low-quality item(s)
+  + News | US spends $750K to evacuate American stranded abroad hantavirus-struck
+  + News | White House response to hantavirus and Ebola contrasts with COVID crit
