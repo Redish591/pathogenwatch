@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T08:47:37.420Z",
+  "last_updated": "2026-06-13T19:09:43.080Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "13 Jun 01:30",
+      "title": "Rodents in your HVAC system can spread hantavirus, cause fires and cost you thousands. How to protect your home and your health",
+      "tag": "u",
+      "url": "https://www.msn.com/en-ca/money/general/rodents-in-your-hvac-system-can-spread-hantavirus-cause-fires-and-cost-you-thousands-how-to-protect-your-home-and-your-health/ar-AA25y561",
+      "live": true,
+      "added": "2026-06-13T19:09:40.865Z"
+    },
+    {
+      "src": "News",
+      "time": "13 Jun 05:58",
+      "title": "After hantavirus exposures, 3 Kansans complete observation period",
+      "tag": "u",
+      "url": "https://www.yahoo.com/news/science/articles/hantavirus-exposures-3-kansans-complete-090630830.html",
+      "live": true,
+      "added": "2026-06-13T19:09:40.864Z"
+    },
+    {
+      "src": "News",
       "time": "11 Jun 10:45",
       "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.msn.com/en-in/health/diseases-and-conditions/hantavirus-outbreak-now-stable-no-new-cases-and-deaths-reported-who/ar-AA242Lxm",
       "live": true,
       "added": "2026-05-25T21:56:28.750Z"
-    },
-    {
-      "src": "News",
-      "time": "25 May 12:30",
-      "title": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/medical/spanish-citizen-evacuated-from-hantavirus-hit-cruise-ship-tests-positive/ar-AA241Uet",
-      "live": true,
-      "added": "2026-05-25T21:56:28.750Z"
-    },
-    {
-      "src": "News",
-      "time": "22 May 14:15",
-      "title": "Hantavirus update: Nebraska officials awaiting CDC guidance on passengers’ release",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/news/us/hantavirus-update-nebraska-officials-awaiting-cdc-guidance-on-passengers-release/ar-AA23P4ba",
-      "live": true,
-      "added": "2026-05-25T12:49:51.034Z"
     }
   ],
   "travel": [

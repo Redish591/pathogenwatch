@@ -954,3 +954,8 @@ the bot are listed under the timestamp.
   ~ AI filtered 2 low-quality item(s)
   + News | US spends $750K to evacuate American stranded abroad hantavirus-struck
   + News | White House response to hantavirus and Ebola contrasts with COVID crit
+
+[2026-06-13T19:09:43.081Z] 3 change(s):
+  ~ AI filtered 2 low-quality item(s)
+  + News | After hantavirus exposures, 3 Kansans complete observation period
+  + News | Rodents in your HVAC system can spread hantavirus, cause fires and cos
