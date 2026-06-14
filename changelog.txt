@@ -959,3 +959,6 @@ the bot are listed under the timestamp.
   ~ AI filtered 2 low-quality item(s)
   + News | After hantavirus exposures, 3 Kansans complete observation period
   + News | Rodents in your HVAC system can spread hantavirus, cause fires and cos
+
+[2026-06-14T02:45:58.539Z] 1 change(s):
+  + News | Radboudumc lifts quarantine for some staff after hantavirus exposure

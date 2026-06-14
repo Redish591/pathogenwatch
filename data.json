@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T19:09:43.080Z",
+  "last_updated": "2026-06-14T02:45:58.538Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "13 Jun 07:55",
+      "title": "Radboudumc lifts quarantine for some staff after hantavirus exposure",
+      "tag": "u",
+      "url": "https://nltimes.nl/2026/06/13/radboudumc-lifts-quarantine-staff-hantavirus-exposure",
+      "live": true,
+      "added": "2026-06-14T02:45:55.611Z"
+    },
+    {
+      "src": "News",
       "time": "13 Jun 01:30",
       "title": "Rodents in your HVAC system can spread hantavirus, cause fires and cost you thousands. How to protect your home and your health",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.cbc.ca/news/world/hantavirus-hondius-cruise-ship-positive-spanish-passenger-9.7211446",
       "live": true,
       "added": "2026-05-25T21:56:28.751Z"
-    },
-    {
-      "src": "News",
-      "time": "25 May 13:30",
-      "title": "Hantavirus outbreak now stable, no new cases and deaths reported: WHO",
-      "tag": "u",
-      "url": "https://www.msn.com/en-in/health/diseases-and-conditions/hantavirus-outbreak-now-stable-no-new-cases-and-deaths-reported-who/ar-AA242Lxm",
-      "live": true,
-      "added": "2026-05-25T21:56:28.750Z"
     }
   ],
   "travel": [
