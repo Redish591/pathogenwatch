@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T02:50:32.853Z",
+  "last_updated": "2026-06-15T11:47:40.928Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "14 Jun 15:50",
+      "title": "San Quentin's suspected hantavirus case a false positive, additional tests show",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/diseases-and-conditions/san-quentin-s-suspected-hantavirus-case-a-false-positive-additional-tests-show/ar-AA25EjIN",
+      "live": true,
+      "added": "2026-06-15T11:47:38.716Z"
+    },
+    {
+      "src": "News",
       "time": "14 Jun 13:14",
       "title": "Ebola, hantavirus, diphtheria: how distrust in health care is fuelling multiple outbreaks across the globe",
       "tag": "u",
@@ -3332,15 +3341,6 @@
       "title": "Spanish government confirms new case of hantavirus",
       "tag": "u",
       "url": "https://www.nbcnews.com/health/health-news/hantavirus-spanish-government-confirms-new-case-rcna346825",
-      "live": true,
-      "added": "2026-05-25T21:56:28.751Z"
-    },
-    {
-      "src": "News",
-      "time": "25 May 14:42",
-      "title": "Quarantined Spaniard Tests Positive For Hantavirus",
-      "tag": "u",
-      "url": "https://www.ndtv.com/world-news/quarantined-spaniard-tests-positive-for-hantavirus-11546986",
       "live": true,
       "added": "2026-05-25T21:56:28.751Z"
     }
