@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T17:00:21.874Z",
+  "last_updated": "2026-06-15T20:46:43.190Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "14 May 11:23",
+      "title": "Hantavirus fears spark COVID flashbacks, but experts say there’s one major difference",
+      "tag": "u",
+      "url": "https://www.foxnews.com/health/hantavirus-fears-spark-covid-flashbacks-experts-say-theres-one-major-difference",
+      "live": true,
+      "added": "2026-06-15T20:46:41.099Z"
+    },
+    {
+      "src": "News",
+      "time": "10 Jun 04:12",
+      "title": "Why Andes hantavirus is not the next COVID-19",
+      "tag": "u",
+      "url": "https://www.news-medical.net/news/20260610/Why-Andes-hantavirus-is-not-the-next-COVID-19.aspx",
+      "live": true,
+      "added": "2026-06-15T20:46:41.098Z"
+    },
+    {
+      "src": "News",
       "time": "13 May 04:00",
       "title": "The everyday places Americans could be exposed to hantavirus — without knowing it",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.msn.com/en-in/health/general/who-reports-stable-hantavirus-situation-on-cruise-ship/ar-AA246WMV",
       "live": true,
       "added": "2026-05-26T19:34:18.197Z"
-    },
-    {
-      "src": "News",
-      "time": "26 May 09:30",
-      "title": "The cruise ship at center of a deadly hantavirus outbreak has to undergo extra cleaning",
-      "tag": "u",
-      "url": "https://apnews.com/article/hantavirus-outbreak-netherlands-cruise-ship-681f92032846b47e6bccc772ca05da69",
-      "live": true,
-      "added": "2026-05-26T19:34:18.196Z"
-    },
-    {
-      "src": "News",
-      "time": "25 May 13:16",
-      "title": "Spanish national tests positive for hantavirus after evacuating cruise ship",
-      "tag": "u",
-      "url": "https://www.thenews.com.pk/latest/1403848-spanish-national-tests-positive-for-hantavirus-after-evacuating-cruise-ship",
-      "live": true,
-      "added": "2026-05-25T21:56:28.752Z"
     }
   ],
   "travel": [
