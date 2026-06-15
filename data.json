@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T11:47:40.928Z",
+  "last_updated": "2026-06-15T17:00:21.874Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "13 May 04:00",
+      "title": "The everyday places Americans could be exposed to hantavirus — without knowing it",
+      "tag": "u",
+      "url": "https://www.foxnews.com/health/everyday-places-americans-could-exposed-hantavirus-without-knowing",
+      "live": true,
+      "added": "2026-06-15T17:00:19.646Z"
+    },
+    {
+      "src": "News",
+      "time": "14 Jun 04:00",
+      "title": "Table for one: Exposed to deadly hantavirus, man is eating his way through quarantine",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/nutrition/table-for-one-exposed-to-deadly-hantavirus-man-is-eating-his-way-through-quarantine/ar-AA25BXnf",
+      "live": true,
+      "added": "2026-06-15T17:00:19.645Z"
+    },
+    {
+      "src": "News",
       "time": "14 Jun 15:50",
       "title": "San Quentin's suspected hantavirus case a false positive, additional tests show",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.thenews.com.pk/latest/1403848-spanish-national-tests-positive-for-hantavirus-after-evacuating-cruise-ship",
       "live": true,
       "added": "2026-05-25T21:56:28.752Z"
-    },
-    {
-      "src": "News",
-      "time": "25 May 11:18",
-      "title": "Spanish national evacuated from hantavirus cruise ship tests positive",
-      "tag": "u",
-      "url": "https://www.msn.com/en-gb/health/other/spanish-national-evacuated-from-hantavirus-cruise-ship-tests-positive/ar-AA241CQe",
-      "live": true,
-      "added": "2026-05-25T21:56:28.752Z"
-    },
-    {
-      "src": "News",
-      "time": "25 May 13:02",
-      "title": "Spanish government confirms new case of hantavirus",
-      "tag": "u",
-      "url": "https://www.nbcnews.com/health/health-news/hantavirus-spanish-government-confirms-new-case-rcna346825",
-      "live": true,
-      "added": "2026-05-25T21:56:28.751Z"
     }
   ],
   "travel": [
