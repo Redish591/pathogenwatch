@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T09:19:50.043Z",
+  "last_updated": "2026-06-15T02:50:32.853Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "14 Jun 13:14",
+      "title": "Ebola, hantavirus, diphtheria: how distrust in health care is fuelling multiple outbreaks across the globe",
+      "tag": "u",
+      "url": "https://theconversation.com/ebola-hantavirus-diphtheria-how-distrust-in-health-care-is-fuelling-multiple-outbreaks-across-the-globe-284432",
+      "live": true,
+      "added": "2026-06-15T02:50:31.131Z"
+    },
+    {
+      "src": "News",
       "time": "13 Jun 07:55",
       "title": "Radboudumc lifts quarantine for some staff after hantavirus exposure",
       "tag": "u",
@@ -3332,15 +3341,6 @@
       "title": "Quarantined Spaniard Tests Positive For Hantavirus",
       "tag": "u",
       "url": "https://www.ndtv.com/world-news/quarantined-spaniard-tests-positive-for-hantavirus-11546986",
-      "live": true,
-      "added": "2026-05-25T21:56:28.751Z"
-    },
-    {
-      "src": "News",
-      "time": "25 May 12:07",
-      "title": "Spanish passenger from the MV Hondius cruise ship tests positive for hantavirus",
-      "tag": "u",
-      "url": "https://www.cbc.ca/news/world/hantavirus-hondius-cruise-ship-positive-spanish-passenger-9.7211446",
       "live": true,
       "added": "2026-05-25T21:56:28.751Z"
     }

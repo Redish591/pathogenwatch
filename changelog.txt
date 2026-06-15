@@ -962,3 +962,6 @@ the bot are listed under the timestamp.
 
 [2026-06-14T02:45:58.539Z] 1 change(s):
   + News | Radboudumc lifts quarantine for some staff after hantavirus exposure
+
+[2026-06-15T02:50:32.854Z] 1 change(s):
+  + News | Ebola, hantavirus, diphtheria: how distrust in health care is fuelling
