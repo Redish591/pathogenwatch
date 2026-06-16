@@ -984,3 +984,8 @@ the bot are listed under the timestamp.
   + News | Kennedy Orders Woman to Stay in Hantavirus Quarantine, Despite C.D.C. 
   + News | Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Pub
   + News | RFK Jr. orders woman to stay in hantavirus quarantine, despite CDC rec
+
+[2026-06-16T20:40:04.036Z] 3 change(s):
+  + News | Kennedy orders American exposed to hantavirus to stay quarantined agai
+  + News | RFK Jr. orders woman to remain in hantavirus quarantine against medica
+  + News | American says hantavirus quarantine order "feels like retaliation"

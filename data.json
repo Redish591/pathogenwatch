@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T10:55:32.827Z",
+  "last_updated": "2026-06-16T20:40:04.035Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,33 @@
   "news": [
     {
       "src": "News",
+      "time": "16 Jun 12:18",
+      "title": "RFK Jr. orders woman to remain in hantavirus quarantine against medical expert's advice",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/rfk-jr-orders-woman-to-remain-in-hantavirus-quarantine-against-medical-experts-advice/ar-AA25NLp7",
+      "live": true,
+      "added": "2026-06-16T20:39:59.592Z"
+    },
+    {
+      "src": "News",
+      "time": "16 Jun 08:29",
+      "title": "American says hantavirus quarantine order \"feels like retaliation\"",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/american-says-hantavirus-quarantine-order-feels-like-retaliation/ar-AA25NmHr",
+      "live": true,
+      "added": "2026-06-16T20:39:59.592Z"
+    },
+    {
+      "src": "News",
+      "time": "16 Jun 11:43",
+      "title": "Kennedy orders American exposed to hantavirus to stay quarantined against her will, WSJ reports",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/kennedy-orders-american-exposed-to-hantavirus-to-stay-quarantined-against-her-will-wsj-reports/ar-AA25Nbru",
+      "live": true,
+      "added": "2026-06-16T20:39:59.591Z"
+    },
+    {
+      "src": "News",
       "time": "15 Jun 17:48",
       "title": "RFK Jr. orders woman to stay in hantavirus quarantine, despite CDC recommendation",
       "tag": "u",
@@ -3316,33 +3343,6 @@
       "url": "https://www.msn.com/en-us/news/technology/fact-check-viral-hantavirus-map-does-not-show-confirmed-cases/vi-AA24aJfn",
       "live": true,
       "added": "2026-05-27T12:33:39.921Z"
-    },
-    {
-      "src": "News",
-      "time": "26 May 16:52",
-      "title": "PitCo confirms local hantavirus risk differs from strain linked to cruise ship outbreak",
-      "tag": "u",
-      "url": "https://www.aspentimes.com/news/pitco-confirms-local-hantavirus-risk-differs-from-strain-linked-to-cruise-ship-outbreak/",
-      "live": true,
-      "added": "2026-05-27T12:33:39.921Z"
-    },
-    {
-      "src": "News",
-      "time": "27 May 05:09",
-      "title": "WHO says cruise-linked hantavirus outbreak rises to 13 cases",
-      "tag": "u",
-      "url": "https://www.msn.com/en-xl/health/general/who-says-cruise-linked-hantavirus-outbreak-rises-to-13-cases/ar-AA24b4jz",
-      "live": true,
-      "added": "2026-05-27T12:33:39.920Z"
-    },
-    {
-      "src": "News",
-      "time": "27 May 04:25",
-      "title": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says",
-      "tag": "u",
-      "url": "https://www.nbcnews.com/news/us-news/hantavirus-cases-cruise-outbreak-rise-13-new-case-spain-says-rcna347074",
-      "live": true,
-      "added": "2026-05-27T12:33:39.919Z"
     }
   ],
   "travel": [
