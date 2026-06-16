@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T20:46:43.190Z",
+  "last_updated": "2026-06-16T10:55:32.827Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,51 @@
   "news": [
     {
       "src": "News",
+      "time": "15 Jun 17:48",
+      "title": "RFK Jr. orders woman to stay in hantavirus quarantine, despite CDC recommendation",
+      "tag": "u",
+      "url": "https://www.seattletimes.com/nation-world/nation/rfk-jr-orders-woman-to-stay-in-hantavirus-quarantine-despite-cdc-recommendation/",
+      "live": true,
+      "added": "2026-06-16T10:55:30.957Z"
+    },
+    {
+      "src": "News",
+      "time": "15 Jun 14:48",
+      "title": "Kennedy Orders Woman to Stay in Hantavirus Quarantine, Despite C.D.C. Recommendation",
+      "tag": "u",
+      "url": "https://www.nytimes.com/2026/06/15/health/hantavirus-quarantine-kennedy.html",
+      "live": true,
+      "added": "2026-06-16T10:55:30.956Z"
+    },
+    {
+      "src": "News",
+      "time": "15 Jun 22:19",
+      "title": "Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Public Health Dispute Between CDC, Florida",
+      "tag": "u",
+      "url": "https://www.yahoo.com/news/us/articles/hantavirus-cruise-passenger-says-she-041046774.html",
+      "live": true,
+      "added": "2026-06-16T10:55:30.956Z"
+    },
+    {
+      "src": "News",
+      "time": "15 Jun 21:02",
+      "title": "RFK Jr. orders American exposed to hantavirus to stay quarantined against medical advice",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/general/rfk-jr-orders-american-exposed-to-hantavirus-to-stay-quarantined-against-medical-advice/ar-AA25K0IR",
+      "live": true,
+      "added": "2026-06-16T10:55:30.955Z"
+    },
+    {
+      "src": "News",
+      "time": "15 Jun 19:04",
+      "title": "RFK Jr. orders hantavirus cruise passenger to remain in secure facility, overrules federal medical review",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/rfk-jr-orders-hantavirus-cruise-passenger-to-remain-in-secure-facility-overrules-federal-medical-review/ar-AA25ITZx",
+      "live": true,
+      "added": "2026-06-16T10:55:30.955Z"
+    },
+    {
+      "src": "News",
       "time": "14 May 11:23",
       "title": "Hantavirus fears spark COVID flashbacks, but experts say there’s one major difference",
       "tag": "u",
@@ -3298,51 +3343,6 @@
       "url": "https://www.nbcnews.com/news/us-news/hantavirus-cases-cruise-outbreak-rise-13-new-case-spain-says-rcna347074",
       "live": true,
       "added": "2026-05-27T12:33:39.919Z"
-    },
-    {
-      "src": "News",
-      "time": "26 May 04:04",
-      "title": "Passenger Evacuated from Hantavirus-Hit Cruise Ship Tests Positive for Disease in Spain",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/passenger-evacuated-from-hantavirus-hit-cruise-ship-tests-positive-for-disease-in-spain/ar-AA2456Dq",
-      "live": true,
-      "added": "2026-05-26T19:34:18.198Z"
-    },
-    {
-      "src": "News",
-      "time": "26 May 07:12",
-      "title": "HHS to shield drugmakers pursuing hantavirus treatments",
-      "tag": "u",
-      "url": "https://www.beckershospitalreview.com/quality/public-health/hhs-to-shield-drugmakers-pursuing-hantavirus-treatments/",
-      "live": true,
-      "added": "2026-05-26T19:34:18.198Z"
-    },
-    {
-      "src": "News",
-      "time": "26 May 12:13",
-      "title": "Three people under observation at KU Hospital for hantavirus released",
-      "tag": "u",
-      "url": "https://fox4kc.com/health/three-people-under-observation-at-ku-hospital-for-hantavirus-released/",
-      "live": true,
-      "added": "2026-05-26T19:34:18.198Z"
-    },
-    {
-      "src": "News",
-      "time": "26 May 08:04",
-      "title": "More People Being Monitored at Home for Potential Hantavirus Exposure",
-      "tag": "u",
-      "url": "https://www.medpagetoday.com/infectiousdisease/generalinfectiousdisease/121425",
-      "live": true,
-      "added": "2026-05-26T19:34:18.197Z"
-    },
-    {
-      "src": "News",
-      "time": "26 May 10:47",
-      "title": "WHO reports stable hantavirus situation on cruise ship",
-      "tag": "u",
-      "url": "https://www.msn.com/en-in/health/general/who-reports-stable-hantavirus-situation-on-cruise-ship/ar-AA246WMV",
-      "live": true,
-      "added": "2026-05-26T19:34:18.197Z"
     }
   ],
   "travel": [

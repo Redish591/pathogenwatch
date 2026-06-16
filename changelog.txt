@@ -977,3 +977,10 @@ the bot are listed under the timestamp.
 [2026-06-15T20:46:43.191Z] 2 change(s):
   + News | Why Andes hantavirus is not the next COVID-19
   + News | Hantavirus fears spark COVID flashbacks, but experts say there’s one m
+
+[2026-06-16T10:55:32.828Z] 5 change(s):
+  + News | RFK Jr. orders American exposed to hantavirus to stay quarantined agai
+  + News | RFK Jr. orders hantavirus cruise passenger to remain in secure facilit
+  + News | Kennedy Orders Woman to Stay in Hantavirus Quarantine, Despite C.D.C. 
+  + News | Hantavirus Cruise Passenger Says She’s ‘Being Held Hostage’ Due to Pub
+  + News | RFK Jr. orders woman to stay in hantavirus quarantine, despite CDC rec
