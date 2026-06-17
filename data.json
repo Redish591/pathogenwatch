@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T02:49:16.548Z",
+  "last_updated": "2026-06-17T10:27:30.873Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "16 Jun 15:50",
+      "title": "Woman exposed to hantavirus slams RFK Jr’s ‘arbitrary’ order to stay in quarantine facility",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/video/news/woman-exposed-to-hantavirus-slams-rfk-jr-s-arbitrary-order-to-stay-in-quarantine-facility/vi-AA25P7rk",
+      "live": true,
+      "added": "2026-06-17T10:27:28.169Z"
+    },
+    {
+      "src": "News",
       "time": "16 Jun 15:05",
       "title": "Secretario de Salud de EEUU ordena mantener en cuarentena a pasajera de crucero por hantavirus",
       "tag": "u",
@@ -3332,15 +3341,6 @@
       "title": "Hantavirus: Cruise ship passengers' quarantine is extended as two new cases are reported",
       "tag": "u",
       "url": "https://www.msn.com/en-gb/health/other/hantavirus-cruise-ship-passengers-quarantine-is-extended-as-two-new-cases-are-reported/ar-AA24fvkW",
-      "live": true,
-      "added": "2026-05-28T12:49:13.632Z"
-    },
-    {
-      "src": "News",
-      "time": "28 May 05:43",
-      "title": "Australia extends quarantine for hantavirus-hit cruise ship passengers",
-      "tag": "u",
-      "url": "https://www.aol.com/articles/australia-extends-quarantine-hantavirus-hit-035532000.html",
       "live": true,
       "added": "2026-05-28T12:49:13.632Z"
     }

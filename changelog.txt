@@ -995,3 +995,6 @@ the bot are listed under the timestamp.
   + News | Hantavirus cruise passenger says she's being forced to quarantine in N
   + News | RFK Jr. overrules experts to keep hantavirus cruise ship passenger in 
   + News | Secretario de Salud de EEUU ordena mantener en cuarentena a pasajera d
+
+[2026-06-17T10:27:30.875Z] 1 change(s):
+  + News | Woman exposed to hantavirus slams RFK Jr’s ‘arbitrary’ order to stay i
