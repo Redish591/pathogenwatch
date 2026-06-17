@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T20:40:04.035Z",
+  "last_updated": "2026-06-17T02:49:16.548Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,42 @@
   "news": [
     {
       "src": "News",
+      "time": "16 Jun 15:05",
+      "title": "Secretario de Salud de EEUU ordena mantener en cuarentena a pasajera de crucero por hantavirus",
+      "tag": "u",
+      "url": "https://www.chicagotribune.com/2026/06/16/secretario-de-salud-de-eeuu-ordena-mantener-en-cuarentena-a-pasajera-de-crucero-por-hantavirus/",
+      "live": true,
+      "added": "2026-06-17T02:49:11.757Z"
+    },
+    {
+      "src": "News",
+      "time": "16 Jun 13:43",
+      "title": "Hantavirus cruise passenger says she's being forced to quarantine in Nebraska",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/hantavirus-cruise-passenger-says-shes-being-forced-to-quarantine-in-nebraska/ar-AA25OhVj",
+      "live": true,
+      "added": "2026-06-17T02:49:11.756Z"
+    },
+    {
+      "src": "News",
+      "time": "16 Jun 15:59",
+      "title": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine",
+      "tag": "u",
+      "url": "https://apnews.com/article/hantavirus-cruise-ship-passenger-quarantine-rfk-d9872eff449cf62b9502b8dc6664fd5b",
+      "live": true,
+      "added": "2026-06-17T02:49:11.756Z"
+    },
+    {
+      "src": "News",
+      "time": "16 Jun 13:52",
+      "title": "RFK Jr. orders passenger from hantavirus-stricken cruise to remain in quarantine in Nebraska, despite CDC recommendation",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/rfk-jr-orders-passenger-from-hantavirus-stricken-cruise-to-remain-in-quarantine-in-nebraska-despite-cdc-recommendation/ar-AA25OK6H",
+      "live": true,
+      "added": "2026-06-17T02:49:11.755Z"
+    },
+    {
+      "src": "News",
       "time": "16 Jun 12:18",
       "title": "RFK Jr. orders woman to remain in hantavirus quarantine against medical expert's advice",
       "tag": "u",
@@ -3307,42 +3343,6 @@
       "url": "https://www.aol.com/articles/australia-extends-quarantine-hantavirus-hit-035532000.html",
       "live": true,
       "added": "2026-05-28T12:49:13.632Z"
-    },
-    {
-      "src": "News",
-      "time": "28 May 01:21",
-      "title": "Weeks more quarantine for hantavirus cruise passengers",
-      "tag": "u",
-      "url": "https://www.msn.com/en-au/news/australia/weeks-more-quarantine-for-hantavirus-cruise-passengers/vi-AA24fZQv",
-      "live": true,
-      "added": "2026-05-28T12:49:13.632Z"
-    },
-    {
-      "src": "News",
-      "time": "27 May 16:37",
-      "title": "Hantavirus outbreak on cruise ship triggers painful memories for Bend family",
-      "tag": "u",
-      "url": "https://ktvz.com/news/central-oregon/2026/05/27/hantavirus-outbreak-on-cruise-ship-triggers-painful-memories-for-bend-family/",
-      "live": true,
-      "added": "2026-05-28T12:49:13.632Z"
-    },
-    {
-      "src": "News",
-      "time": "27 May 21:19",
-      "title": "Hantavirus Cases From Cruise Outbreak Rise To 13, Following New Case In Spain",
-      "tag": "u",
-      "url": "https://www.huffpost.com/entry/hantavirus-cruise-cases-mv-hondius_n_6a172762e4b0ddcc8465b837",
-      "live": true,
-      "added": "2026-05-28T12:49:13.631Z"
-    },
-    {
-      "src": "News",
-      "time": "27 May 04:28",
-      "title": "Fact check: Viral hantavirus map does not show confirmed cases",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/news/technology/fact-check-viral-hantavirus-map-does-not-show-confirmed-cases/vi-AA24aJfn",
-      "live": true,
-      "added": "2026-05-27T12:33:39.921Z"
     }
   ],
   "travel": [

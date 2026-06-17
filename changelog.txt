@@ -989,3 +989,9 @@ the bot are listed under the timestamp.
   + News | Kennedy orders American exposed to hantavirus to stay quarantined agai
   + News | RFK Jr. orders woman to remain in hantavirus quarantine against medica
   + News | American says hantavirus quarantine order "feels like retaliation"
+
+[2026-06-17T02:49:16.549Z] 4 change(s):
+  + News | RFK Jr. orders passenger from hantavirus-stricken cruise to remain in 
+  + News | Hantavirus cruise passenger says she's being forced to quarantine in N
+  + News | RFK Jr. overrules experts to keep hantavirus cruise ship passenger in 
+  + News | Secretario de Salud de EEUU ordena mantener en cuarentena a pasajera d
