@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T10:27:30.873Z",
+  "last_updated": "2026-06-17T14:53:00.783Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "17 Jun 05:19",
+      "title": "Robert F Kennedy Jr. is forcing a hantavirus patient to remain in quarantine",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/medical/robert-f-kennedy-jr-is-forcing-a-hantavirus-patient-to-remain-in-quarantine/vi-AA25RPeA",
+      "live": true,
+      "added": "2026-06-17T14:52:57.631Z"
+    },
+    {
+      "src": "News",
       "time": "16 Jun 15:50",
       "title": "Woman exposed to hantavirus slams RFK Jr’s ‘arbitrary’ order to stay in quarantine facility",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.ndtv.com/health/hantavirus-cases-from-cruise-outbreak-rise-to-13-following-new-case-in-spain-says-who-11558271",
       "live": true,
       "added": "2026-05-28T12:49:13.633Z"
-    },
-    {
-      "src": "News",
-      "time": "28 May 00:57",
-      "title": "Hantavirus: Cruise ship passengers' quarantine is extended as two new cases are reported",
-      "tag": "u",
-      "url": "https://www.msn.com/en-gb/health/other/hantavirus-cruise-ship-passengers-quarantine-is-extended-as-two-new-cases-are-reported/ar-AA24fvkW",
-      "live": true,
-      "added": "2026-05-28T12:49:13.632Z"
     }
   ],
   "travel": [
