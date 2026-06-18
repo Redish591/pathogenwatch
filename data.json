@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T20:01:18.553Z",
+  "last_updated": "2026-06-18T02:44:33.993Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "17 Jun 15:51",
+      "title": "First Australian hantavirus cruise ship passenger speaks from quarantine",
+      "tag": "u",
+      "url": "https://www.msn.com/en-au/news/other/first-australian-hantavirus-cruise-ship-passenger-speaks-from-quarantine/ar-AA25UgHL",
+      "live": true,
+      "added": "2026-06-18T02:44:31.156Z"
+    },
+    {
+      "src": "News",
       "time": "17 Jun 05:19",
       "title": "Robert F Kennedy Jr. is forcing a hantavirus patient to remain in quarantine",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/diseases-and-conditions/passenger-tests-positive-for-hantavirus-weeks-after-leaving-infected-cruise-ship-latest-updates/ar-AA22rrN8",
       "live": true,
       "added": "2026-05-28T23:00:13.491Z"
-    },
-    {
-      "src": "News",
-      "time": "28 May 04:23",
-      "title": "Hantavirus Cases From Cruise Outbreak Rise To 13 Following New Case In Spain, Says WHO",
-      "tag": "u",
-      "url": "https://www.ndtv.com/health/hantavirus-cases-from-cruise-outbreak-rise-to-13-following-new-case-in-spain-says-who-11558271",
-      "live": true,
-      "added": "2026-05-28T12:49:13.633Z"
     }
   ],
   "travel": [
