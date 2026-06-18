@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T02:44:33.993Z",
+  "last_updated": "2026-06-18T14:49:03.424Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,51 @@
   "news": [
     {
       "src": "News",
+      "time": "15 May 13:06",
+      "title": "5 Urgent Questions After The WHO Emergency Hantavirus Meeting",
+      "tag": "u",
+      "url": "https://www.forbes.com/sites/stephenbrozak/2026/05/15/4-urgent-questions-after-the-who-emergency-hantavirus-meeting/",
+      "live": true,
+      "added": "2026-06-18T14:48:59.209Z"
+    },
+    {
+      "src": "News",
+      "time": "15 May 06:26",
+      "title": "WHO reports 10 hantavirus cases, 3 deaths, tied to cruise ship",
+      "tag": "u",
+      "url": "https://www.upi.com/Top_News/World-News/2026/05/15/who-hantavirus-response-update-10-cases/2551778864423/",
+      "live": true,
+      "added": "2026-06-18T14:48:59.209Z"
+    },
+    {
+      "src": "News",
+      "time": "14 May 17:00",
+      "title": "What do Argentine scientists know about hantavirus so far?",
+      "tag": "u",
+      "url": "https://medicalxpress.com/news/2026-05-argentine-scientists-hantavirus.html",
+      "live": true,
+      "added": "2026-06-18T14:48:59.208Z"
+    },
+    {
+      "src": "News",
+      "time": "25 May 08:43",
+      "title": "Hantavirus ‘stable for now,’ WHO leader says",
+      "tag": "u",
+      "url": "https://www.yahoo.com/news/science/articles/hantavirus-stable-now-leader-says-154332994.html",
+      "live": true,
+      "added": "2026-06-18T14:48:59.208Z"
+    },
+    {
+      "src": "News",
+      "time": "12 Jun 11:30",
+      "title": "Officials say possible hantavirus case in San Quentin prison was false positive",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/officials-say-possible-hantavirus-case-in-san-quentin-prison-was-false-positive/ar-AA25vk3P",
+      "live": true,
+      "added": "2026-06-18T14:48:59.208Z"
+    },
+    {
+      "src": "News",
       "time": "17 Jun 15:51",
       "title": "First Australian hantavirus cruise ship passenger speaks from quarantine",
       "tag": "u",
@@ -3298,51 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/eu-secures-emergency-deliveries-of-potential-treatment-against-hantavirus/ar-AA24hkoJ",
       "live": true,
       "added": "2026-05-29T11:58:24.510Z"
-    },
-    {
-      "src": "News",
-      "time": "28 May 13:32",
-      "title": "Experimental Hantavirus Treatment Sent To EU Countries Where Patients Are Being Treated (Latest Updates)",
-      "tag": "u",
-      "url": "https://www.forbes.com/sites/maryroeloffs/2026/05/28/experimental-hantavirus-treatment-sent-to-eu-countries-where-patients-are-being-treated-latest-updates/",
-      "live": true,
-      "added": "2026-05-29T11:58:24.509Z"
-    },
-    {
-      "src": "News",
-      "time": "28 May 20:27",
-      "title": "Hantavirus-exposed cruise passengers may soon be allowed to return home but must remain under 24/7 watch",
-      "tag": "u",
-      "url": "https://edition.cnn.com/2026/05/28/health/hantavirus-passengers-states-quarantine",
-      "live": true,
-      "added": "2026-05-29T11:58:24.509Z"
-    },
-    {
-      "src": "News",
-      "time": "28 May 14:46",
-      "title": "Mid-Michigan Matters: Hear how the hantavirus could impact Michigan",
-      "tag": "u",
-      "url": "https://www.wilx.com/2026/05/28/mid-michigan-matters-hear-how-hantavirus-could-impact-michigan/",
-      "live": true,
-      "added": "2026-05-28T23:00:13.493Z"
-    },
-    {
-      "src": "News",
-      "time": "28 May 15:38",
-      "title": "Hantavirus outbreak stable at 13 cases: WHO",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/hantavirus-outbreak-stable-at-13-cases-who/ar-AA24hECI",
-      "live": true,
-      "added": "2026-05-28T23:00:13.492Z"
-    },
-    {
-      "src": "News",
-      "time": "28 May 13:32",
-      "title": "Passenger tests positive for hantavirus weeks after leaving infected cruise ship (latest updates)",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/diseases-and-conditions/passenger-tests-positive-for-hantavirus-weeks-after-leaving-infected-cruise-ship-latest-updates/ar-AA22rrN8",
-      "live": true,
-      "added": "2026-05-28T23:00:13.491Z"
     }
   ],
   "travel": [
