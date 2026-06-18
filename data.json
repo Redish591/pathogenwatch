@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T14:49:03.424Z",
+  "last_updated": "2026-06-18T20:12:21.844Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,33 @@
   "news": [
     {
       "src": "News",
+      "time": "17 Jun 06:26",
+      "title": "RFK Jr. orders American exposed to hantavirus to stay quarantined against her will",
+      "tag": "u",
+      "url": "https://www.usatoday.com/story/news/health/2026/06/17/rfk-jr-american-hantavirus-passenger-angela-perryman/90586533007/",
+      "live": true,
+      "added": "2026-06-18T20:12:18.341Z"
+    },
+    {
+      "src": "News",
+      "time": "17 Jun 16:22",
+      "title": "RFK Jr. orders hantavirus cruise ship passenger to stay in quarantine",
+      "tag": "u",
+      "url": "https://www.yahoo.com/news/us/articles/rfk-jr-orders-hantavirus-cruise-190724616.html",
+      "live": true,
+      "added": "2026-06-18T20:12:18.341Z"
+    },
+    {
+      "src": "News",
+      "time": "18 Jun 00:45",
+      "title": "Aussie trapped in six-week quarantine speaks out on cruise from hell after hantavirus broke out",
+      "tag": "u",
+      "url": "https://www.msn.com/en-xl/news/other/aussie-trapped-in-six-week-quarantine-speaks-out-on-cruise-from-hell-after-hantavirus-broke-out/ar-AA25WkFU",
+      "live": true,
+      "added": "2026-06-18T20:12:18.340Z"
+    },
+    {
+      "src": "News",
       "time": "15 May 13:06",
       "title": "5 Urgent Questions After The WHO Emergency Hantavirus Meeting",
       "tag": "u",
@@ -3316,33 +3343,6 @@
       "url": "https://people.com/american-cruise-passengers-exposed-hantavirus-could-quarantine-at-home-under-24-7-watch-report-11986464",
       "live": true,
       "added": "2026-05-30T08:42:49.206Z"
-    },
-    {
-      "src": "News",
-      "time": "26 May 06:11",
-      "title": "Why is hantavirus so deadly? It’s not what you may think",
-      "tag": "u",
-      "url": "https://www.sciencenews.org/article/andes-hantavirus-treatments-lung-fail",
-      "live": true,
-      "added": "2026-05-29T20:40:24.108Z"
-    },
-    {
-      "src": "News",
-      "time": "29 May 06:23",
-      "title": "Hantavirus patients under quarantine could go home—if they agree to 24/7 surveillance, report says (latest updates)",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/passenger-tests-positive-for-hantavirus-weeks-after-leaving-infected-cruise-ship-latest-updates/ar-AA22rrN8",
-      "live": true,
-      "added": "2026-05-29T20:40:24.107Z"
-    },
-    {
-      "src": "News",
-      "time": "28 May 05:41",
-      "title": "EU secures emergency deliveries of potential treatment against hantavirus",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/eu-secures-emergency-deliveries-of-potential-treatment-against-hantavirus/ar-AA24hkoJ",
-      "live": true,
-      "added": "2026-05-29T11:58:24.510Z"
     }
   ],
   "travel": [

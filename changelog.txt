@@ -1013,3 +1013,9 @@ the bot are listed under the timestamp.
   + News | 5 Urgent Questions After The WHO Emergency Hantavirus Meeting
   + News | WHO reports 10 hantavirus cases, 3 deaths, tied to cruise ship
   ~ rejected cases=10 (out of sanity range)
+
+[2026-06-18T20:12:21.845Z] 4 change(s):
+  + News | Aussie trapped in six-week quarantine speaks out on cruise from hell a
+  + News | RFK Jr. orders American exposed to hantavirus to stay quarantined agai
+  + News | RFK Jr. orders hantavirus cruise ship passenger to stay in quarantine
+  ~ rejected cases=10 (out of sanity range)
