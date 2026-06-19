@@ -1019,3 +1019,7 @@ the bot are listed under the timestamp.
   + News | RFK Jr. orders American exposed to hantavirus to stay quarantined agai
   + News | RFK Jr. orders hantavirus cruise ship passenger to stay in quarantine
   ~ rejected cases=10 (out of sanity range)
+
+[2026-06-19T10:13:38.636Z] 2 change(s):
+  + News | Hantavirus update: 2 more leave National Quarantine Unit in Omaha
+  ~ rejected cases=10 (out of sanity range)

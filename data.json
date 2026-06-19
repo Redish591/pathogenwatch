@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T20:12:21.844Z",
+  "last_updated": "2026-06-19T10:13:38.635Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "18 Jun 19:24",
+      "title": "Hantavirus update: 2 more leave National Quarantine Unit in Omaha",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/news/other/hantavirus-update-2-more-leave-national-quarantine-unit-in-omaha/ar-AA261L1p",
+      "live": true,
+      "added": "2026-06-19T10:13:35.950Z"
+    },
+    {
+      "src": "News",
       "time": "17 Jun 06:26",
       "title": "RFK Jr. orders American exposed to hantavirus to stay quarantined against her will",
       "tag": "u",
@@ -3332,15 +3341,6 @@
       "title": "Surveillance Ordered for Hantavirus Ship Passengers Who Go Home",
       "tag": "u",
       "url": "https://www.nytimes.com/2026/05/29/us/hantavirus-ship-quarantine.html",
-      "live": true,
-      "added": "2026-05-30T08:42:49.206Z"
-    },
-    {
-      "src": "News",
-      "time": "29 May 10:01",
-      "title": "Hantavirus Cruise Ship Passengers in U.S. Quarantine Could Be Allowed to Return Home Under 24/7 Watch: Report",
-      "tag": "u",
-      "url": "https://people.com/american-cruise-passengers-exposed-hantavirus-could-quarantine-at-home-under-24-7-watch-report-11986464",
       "live": true,
       "added": "2026-05-30T08:42:49.206Z"
     }
