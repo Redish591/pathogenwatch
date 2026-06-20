@@ -1023,3 +1023,8 @@ the bot are listed under the timestamp.
 [2026-06-19T10:13:38.636Z] 2 change(s):
   + News | Hantavirus update: 2 more leave National Quarantine Unit in Omaha
   ~ rejected cases=10 (out of sanity range)
+
+[2026-06-20T02:34:21.905Z] 3 change(s):
+  + News | 2 more cruise ship passengers leave Omaha quarantine after deadly hant
+  + News | American evacuated from cruise ship tests positive for hantavirus, ano
+  ~ rejected cases=10 (out of sanity range)

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T14:44:37.245Z",
+  "last_updated": "2026-06-20T02:34:21.903Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "11 May 03:57",
+      "title": "American evacuated from cruise ship tests positive for hantavirus, another has symptoms, HHS confirms",
+      "tag": "u",
+      "url": "https://www.foxnews.com/health/american-evacuated-cruise-ship-tests-positive-hantavirus-another-symptoms-hhs-confirms",
+      "live": true,
+      "added": "2026-06-20T02:34:18.466Z"
+    },
+    {
+      "src": "News",
+      "time": "19 Jun 07:22",
+      "title": "2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/2-more-cruise-ship-passengers-leave-omaha-quarantine-after-deadly-hantavirus-outbreak/ar-AA2648gH",
+      "live": true,
+      "added": "2026-06-20T02:34:18.465Z"
+    },
+    {
+      "src": "News",
       "time": "18 Jun 19:24",
       "title": "Hantavirus update: 2 more leave National Quarantine Unit in Omaha",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/leaderless-underfunded-and-unprepared-experts-warn-us-may-not-be-ready-for-hantavirus-and-ebola/ar-AA24o9cT",
       "live": true,
       "added": "2026-05-30T15:54:04.735Z"
-    },
-    {
-      "src": "News",
-      "time": "29 May 09:15",
-      "title": "The US hantavirus cruise passengers may soon go home",
-      "tag": "u",
-      "url": "https://www.msn.com/en-ie/health/other/the-us-hantavirus-cruise-passengers-may-soon-go-home/ar-AA24nCmM",
-      "live": true,
-      "added": "2026-05-30T08:42:49.206Z"
-    },
-    {
-      "src": "News",
-      "time": "29 May 14:13",
-      "title": "Surveillance Ordered for Hantavirus Ship Passengers Who Go Home",
-      "tag": "u",
-      "url": "https://www.nytimes.com/2026/05/29/us/hantavirus-ship-quarantine.html",
-      "live": true,
-      "added": "2026-05-30T08:42:49.206Z"
     }
   ],
   "travel": [
