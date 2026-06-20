@@ -1028,3 +1028,9 @@ the bot are listed under the timestamp.
   + News | 2 more cruise ship passengers leave Omaha quarantine after deadly hant
   + News | American evacuated from cruise ship tests positive for hantavirus, ano
   ~ rejected cases=10 (out of sanity range)
+
+[2026-06-20T13:29:56.467Z] 4 change(s):
+  ~ AI filtered 1 low-quality item(s)
+  + News | What did we learn from the hantavirus cruise ship scare?
+  + News | Pinoy crew members of hantavirus ship return to PH
+  ~ rejected cases=10 (out of sanity range)
