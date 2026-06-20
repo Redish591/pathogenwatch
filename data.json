@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T13:29:56.465Z",
+  "last_updated": "2026-06-20T19:10:49.995Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "19 Jun 20:48",
+      "title": "38 Filipinos from hantavirus-hit MV Hondius back in PH",
+      "tag": "u",
+      "url": "https://www.gmanetwork.com/news/pinoyabroad/dispatch/992117/38-filipinos-from-hantavirus-hit-mv-hondius-back-in-ph/story/",
+      "live": true,
+      "added": "2026-06-20T19:10:47.020Z"
+    },
+    {
+      "src": "News",
       "time": "19 Jun 04:08",
       "title": "What did we learn from the hantavirus cruise ship scare?",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/dutch-health-officials-clear-hantavirus-hit-cruise-ship-to-sail-again/ar-AA24tYPc",
       "live": true,
       "added": "2026-05-31T21:36:42.858Z"
-    },
-    {
-      "src": "News",
-      "time": "30 May 12:13",
-      "title": "Dutch health officials clear hantavirus ship to sail again",
-      "tag": "u",
-      "url": "https://www.straitstimes.com/world/europe/dutch-health-officials-clear-hantavirus-ship-to-sail-again?ref=latest-headlines",
-      "live": true,
-      "added": "2026-05-30T21:37:14.921Z"
     }
   ],
   "travel": [

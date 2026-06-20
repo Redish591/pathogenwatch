@@ -1034,3 +1034,7 @@ the bot are listed under the timestamp.
   + News | What did we learn from the hantavirus cruise ship scare?
   + News | Pinoy crew members of hantavirus ship return to PH
   ~ rejected cases=10 (out of sanity range)
+
+[2026-06-20T19:10:49.996Z] 2 change(s):
+  + News | 38 Filipinos from hantavirus-hit MV Hondius back in PH
+  ~ rejected cases=10 (out of sanity range)
