@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T09:37:03.052Z",
+  "last_updated": "2026-06-21T13:49:56.760Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "20 Jun 21:35",
+      "title": "‘I made my peace, I was sure we were going to get it’: Irish survivor of hantavirus cruise set for release after 42 days in quarantine",
+      "tag": "u",
+      "url": "https://www.independent.ie/irish-news/health/i-made-my-peace-i-was-sure-we-were-going-to-get-it-irish-survivor-of-hantavirus-cruise-set-for-release-after-42-days-in-quarantine/a/157284394.html",
+      "live": true,
+      "added": "2026-06-21T13:49:50.998Z"
+    },
+    {
+      "src": "News",
+      "time": "21 Jun 04:00",
+      "title": "The hantavirus quarantine is over. Here’s what cruise passengers and scientists learned.",
+      "tag": "u",
+      "url": "https://www.nbcnews.com/health/health-news/hantavirus-cruise-quarantine-ends-passengers-scientists-lessons-rcna349803",
+      "live": true,
+      "added": "2026-06-21T13:49:50.997Z"
+    },
+    {
+      "src": "News",
       "time": "20 Jun 11:34",
       "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.usatoday.com/story/travel/cruises/2026/06/01/hantavirus-cruise-ship-cleaned-cleared-sail/90351685007/",
       "live": true,
       "added": "2026-06-01T19:28:57.721Z"
-    },
-    {
-      "src": "News",
-      "time": "01 Jun 10:19",
-      "title": "Cruise ship linked to deadly hantavirus outbreak set to return to sea",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/news/other/cruise-ship-linked-to-deadly-hantavirus-outbreak-set-to-return-to-sea/vi-AA24zXkq",
-      "live": true,
-      "added": "2026-06-01T19:28:57.721Z"
-    },
-    {
-      "src": "News",
-      "time": "29 May 19:14",
-      "title": "What’s going around? Hantavirus outbreak update: what Virginians need to know this week",
-      "tag": "u",
-      "url": "https://www.wsls.com/news/local/2026/05/29/whats-going-around-hantavirus-outbreak-update-what-virginians-need-to-know-this-week/",
-      "live": true,
-      "added": "2026-05-31T21:36:42.860Z"
     }
   ],
   "travel": [
