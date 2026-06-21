@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T19:10:49.995Z",
+  "last_updated": "2026-06-21T09:37:03.052Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "20 Jun 11:34",
+      "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine",
+      "tag": "u",
+      "url": "https://www.theguardian.com/world/2026/jun/20/rfk-jr-hantavirus-quarantine",
+      "live": true,
+      "added": "2026-06-21T09:36:59.195Z"
+    },
+    {
+      "src": "News",
       "time": "19 Jun 20:48",
       "title": "38 Filipinos from hantavirus-hit MV Hondius back in PH",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.wsls.com/news/local/2026/05/29/whats-going-around-hantavirus-outbreak-update-what-virginians-need-to-know-this-week/",
       "live": true,
       "added": "2026-05-31T21:36:42.860Z"
-    },
-    {
-      "src": "News",
-      "time": "31 May 03:57",
-      "title": "Dutch health officials clear hantavirus-hit cruise ship to sail again",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/dutch-health-officials-clear-hantavirus-hit-cruise-ship-to-sail-again/ar-AA24tYPc",
-      "live": true,
-      "added": "2026-05-31T21:36:42.858Z"
     }
   ],
   "travel": [
