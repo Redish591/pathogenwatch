@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T02:52:30.571Z",
+  "last_updated": "2026-06-22T11:36:27.769Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "22 Jun 02:02",
+      "title": "Irish survivor of Hantavirus cruise opens up about her terrifying ordeal and the hidden heroes on board",
+      "tag": "u",
+      "url": "https://www.independent.ie/irish-news/health/irish-survivor-of-hantavirus-cruise-opens-up-about-her-terrifying-ordeal-and-the-hidden-heroes-on-board/a/157284394.html",
+      "live": true,
+      "added": "2026-06-22T11:36:24.098Z"
+    },
+    {
+      "src": "News",
       "time": "20 Jun 21:35",
       "title": "‘I made my peace, I was sure we were going to get it’: Irish survivor of hantavirus cruise set for release after 42 days in quarantine",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.aol.com/news/cruise-passengers-isolated-hantavirus-outbreak-155633811.html",
       "live": true,
       "added": "2026-06-01T19:28:57.722Z"
-    },
-    {
-      "src": "News",
-      "time": "01 Jun 07:34",
-      "title": "Ship tied to hantavirus outbreak cleared to resume cruises",
-      "tag": "u",
-      "url": "https://www.usatoday.com/story/travel/cruises/2026/06/01/hantavirus-cruise-ship-cleaned-cleared-sail/90351685007/",
-      "live": true,
-      "added": "2026-06-01T19:28:57.721Z"
     }
   ],
   "travel": [
