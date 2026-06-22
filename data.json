@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T11:36:27.769Z",
+  "last_updated": "2026-06-22T16:30:05.194Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,51 @@
   "news": [
     {
       "src": "News",
+      "time": "21 Jun 10:59",
+      "title": "Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship",
+      "tag": "u",
+      "url": "https://www.nytimes.com/2026/06/21/us/hantavirus-quarantine-end.html",
+      "live": true,
+      "added": "2026-06-22T16:30:00.426Z"
+    },
+    {
+      "src": "News",
+      "time": "22 Jun 06:39",
+      "title": "Hypertension Drug Recall; Hantavirus Quarantine Ends; Bending Over and Miscarriage",
+      "tag": "u",
+      "url": "https://www.medpagetoday.com/cardiology/hypertension/121853",
+      "live": true,
+      "added": "2026-06-22T16:30:00.426Z"
+    },
+    {
+      "src": "News",
+      "time": "22 Jun 06:05",
+      "title": "US hantavirus cruise passenger claims RFK Jr. is keeping her 'hostage'",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/us-hantavirus-cruise-passenger-claims-rfk-jr-is-keeping-her-hostage/ar-AA25TnM2",
+      "live": true,
+      "added": "2026-06-22T16:30:00.426Z"
+    },
+    {
+      "src": "News",
+      "time": "22 Jun 06:59",
+      "title": "The hantavirus disaster that wasn’t",
+      "tag": "u",
+      "url": "https://www.politico.com/newsletters/politico-pulse/2026/06/22/the-hantavirus-disaster-that-wasnt-00969426",
+      "live": true,
+      "added": "2026-06-22T16:30:00.426Z"
+    },
+    {
+      "src": "News",
+      "time": "22 Jun 07:19",
+      "title": "American passenger from hantavirus cruise ship leaves quarantine after 42 days: 'Forever grateful'",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/general/american-passenger-from-hantavirus-cruise-ship-leaves-quarantine-after-42-days-forever-grateful/ar-AA26glbB",
+      "live": true,
+      "added": "2026-06-22T16:30:00.425Z"
+    },
+    {
+      "src": "News",
       "time": "22 Jun 02:02",
       "title": "Irish survivor of Hantavirus cruise opens up about her terrifying ordeal and the hidden heroes on board",
       "tag": "u",
@@ -3298,51 +3343,6 @@
       "url": "https://edition.cnn.com/2026/06/01/health/hantavirus-passengers-home-quarantine",
       "live": true,
       "added": "2026-06-04T11:35:43.321Z"
-    },
-    {
-      "src": "News",
-      "time": "02 Jun 21:33",
-      "title": "First hantavirus death reported in Arizona in 2026",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/first-hantavirus-death-reported-in-arizona-in-2026/ar-AA24HDW9",
-      "live": true,
-      "added": "2026-06-03T19:59:09.030Z"
-    },
-    {
-      "src": "News",
-      "time": "02 Jun 03:17",
-      "title": "Hantavirus ‘Sin Nombre’ death confirmed in northwest Arizona",
-      "tag": "u",
-      "url": "https://www.yahoo.com/news/science/articles/hantavirus-sin-nombre-death-confirmed-014306181.html",
-      "live": true,
-      "added": "2026-06-02T12:58:35.216Z"
-    },
-    {
-      "src": "News",
-      "time": "02 Jun 02:55",
-      "title": "Ship at centre of Hantavirus outbreak gets ready to set sail again",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/ship-at-centre-of-hantavirus-outbreak-gets-ready-to-set-sail-again/ar-AA24Dpc7",
-      "live": true,
-      "added": "2026-06-02T12:58:35.215Z"
-    },
-    {
-      "src": "News",
-      "time": "01 Jun 08:45",
-      "title": "American who was exposed to hantavirus says he will remain in quarantine",
-      "tag": "u",
-      "url": "https://www.aol.com/articles/american-exposed-hantavirus-says-remain-145244000.html",
-      "live": true,
-      "added": "2026-06-01T19:28:57.722Z"
-    },
-    {
-      "src": "News",
-      "time": "01 Jun 09:47",
-      "title": "Cruise passengers isolated after hantavirus outbreak allowed to leave quarantine facility",
-      "tag": "u",
-      "url": "https://www.aol.com/news/cruise-passengers-isolated-hantavirus-outbreak-155633811.html",
-      "live": true,
-      "added": "2026-06-01T19:28:57.722Z"
     }
   ],
   "travel": [
