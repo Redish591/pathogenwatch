@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T14:29:36.591Z",
+  "last_updated": "2026-06-23T19:50:40.763Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "23 Jun 12:04",
+      "title": "American passenger aboard hantavirus ship details 42 days in quarantine",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/travel/news/american-passenger-aboard-hantavirus-ship-details-42-days-in-quarantine/vi-AA26neTk",
+      "live": true,
+      "added": "2026-06-23T19:50:38.889Z"
+    },
+    {
+      "src": "News",
+      "time": "23 Jun 10:55",
+      "title": "'No room for error': UNMC reflects as quarantine ends for hantavirus cruise ship passengers",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/general/no-room-for-error-unmc-reflects-as-quarantine-ends-for-hantavirus-cruise-ship-passengers/ar-AA26n9y8",
+      "live": true,
+      "added": "2026-06-23T19:50:38.888Z"
+    },
+    {
+      "src": "News",
       "time": "23 Jun 06:33",
       "title": "Live: Health officials discuss end of hantavirus monitoring operation in Omaha",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/general/new-hantavirus-case-confirmed-in-spain-after-cruise-ship-outbreak/ar-AA24Xq8H",
       "live": true,
       "added": "2026-06-06T15:58:50.055Z"
-    },
-    {
-      "src": "News",
-      "time": "27 May 13:37",
-      "title": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists",
-      "tag": "u",
-      "url": "https://www.nytimes.com/2026/05/27/science/ebola-hantavirus-species-strains.html",
-      "live": true,
-      "added": "2026-06-06T09:13:12.731Z"
-    },
-    {
-      "src": "News",
-      "time": "06 Jun 00:10",
-      "title": "Argentina expands hantavirus probe, sends teams to test rats in Mendoza",
-      "tag": "u",
-      "url": "https://www.cnbctv18.com/world/argentina-expands-hantavirus-probe-sends-teams-to-test-rats-in-mendoza-ws-el-19920745.htm",
-      "live": true,
-      "added": "2026-06-06T09:13:12.730Z"
     }
   ],
   "travel": [
