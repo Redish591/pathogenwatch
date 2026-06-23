@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T02:27:30.572Z",
+  "last_updated": "2026-06-23T08:59:49.881Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,33 @@
   "news": [
     {
       "src": "News",
+      "time": "22 Jun 22:19",
+      "title": "Hantavirus cruise ship passengers released from Perth quarantine",
+      "tag": "u",
+      "url": "https://www.newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/murray-olds-australian-correspondent-on-the-hantavirus-cruise-ship-passengers-being-released-from-quarantine/",
+      "live": true,
+      "added": "2026-06-23T08:59:47.052Z"
+    },
+    {
+      "src": "News",
+      "time": "22 Jun 23:04",
+      "title": "MV Hondius passengers cleared of hantavirus after 42 days of quarantine in WA",
+      "tag": "u",
+      "url": "https://www.msn.com/en-au/health/other/mv-hondius-passengers-cleared-of-hantavirus-after-42-days-of-quarantine-in-wa/ar-AA26i7k5",
+      "live": true,
+      "added": "2026-06-23T08:59:47.051Z"
+    },
+    {
+      "src": "News",
+      "time": "23 Jun 01:32",
+      "title": "Travel content creator walks free after 6 weeks inside hantavirus quarantine facility",
+      "tag": "u",
+      "url": "https://www.msn.com/en-za/news/other/travel-content-creator-walks-free-after-6-weeks-inside-hantavirus-quarantine-facility/ar-AA26khdz",
+      "live": true,
+      "added": "2026-06-23T08:59:47.050Z"
+    },
+    {
+      "src": "News",
       "time": "22 Jun 14:23",
       "title": "Quarantine ends for all 18 Americans exposed to hantavirus on cruise ship",
       "tag": "u",
@@ -3316,33 +3343,6 @@
       "url": "https://www.forbes.com/sites/maryroeloffs/2026/06/03/arizona-resident-dies-of-hantavirus-variant-just-as-deadly-as-cruise-ship-strain/",
       "live": true,
       "added": "2026-06-05T18:29:31.309Z"
-    },
-    {
-      "src": "News",
-      "time": "04 Jun 07:03",
-      "title": "CDC alert: Deadly hantavirus spreading — could reach US states",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/medical/cdc-alert-deadly-hantavirus-spreading-could-reach-us-states/vi-AA24Qp7U",
-      "live": true,
-      "added": "2026-06-04T19:48:04.233Z"
-    },
-    {
-      "src": "News",
-      "time": "02 Jun 16:17",
-      "title": "Panic as Arizona hantavirus case known as ‘Sin Nombre’ kills 1",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/panic-as-arizona-hantavirus-case-known-as-sin-nombre-kills-1/ar-AA24GvBj",
-      "live": true,
-      "added": "2026-06-04T11:35:43.324Z"
-    },
-    {
-      "src": "News",
-      "time": "01 Jun 13:25",
-      "title": "Cruise ship tied to hantavirus cleared to sail: Where it’s headed",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/cruise-ship-tied-to-hantavirus-cleared-to-sail-where-it-s-headed/ar-AA24yALr",
-      "live": true,
-      "added": "2026-06-04T11:35:43.323Z"
     }
   ],
   "travel": [
