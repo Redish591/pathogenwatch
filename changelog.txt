@@ -1064,3 +1064,10 @@ the bot are listed under the timestamp.
 [2026-06-22T20:35:10.112Z] 2 change(s):
   ~ AI filtered 1 low-quality item(s)
   + News | Quarantine comes to an end for the last of the hantavirus ship passeng
+
+[2026-06-23T02:27:30.573Z] 5 change(s):
+  + News | Hantavirus quarantine monitoring ends for M/V Hondius passengers at UN
+  + News | Passenger from hantavirus-infected cruise shares update as 42-day quar
+  + News | Major update for hantavirus passengers
+  + News | Australian hantavirus cruise ship passengers leave Perth quarantine fa
+  + News | Quarantine ends for all 18 Americans exposed to hantavirus on cruise s

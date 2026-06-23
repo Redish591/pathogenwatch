@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T20:35:10.111Z",
+  "last_updated": "2026-06-23T02:27:30.572Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,51 @@
   "news": [
     {
       "src": "News",
+      "time": "22 Jun 14:23",
+      "title": "Quarantine ends for all 18 Americans exposed to hantavirus on cruise ship",
+      "tag": "u",
+      "url": "https://www.yahoo.com/news/science/articles/quarantine-ends-18-americans-exposed-211224769.html",
+      "live": true,
+      "added": "2026-06-23T02:27:27.983Z"
+    },
+    {
+      "src": "News",
+      "time": "22 Jun 13:59",
+      "title": "Major update for hantavirus passengers",
+      "tag": "u",
+      "url": "https://www.msn.com/en-au/news/other/major-update-for-hantavirus-passengers/ar-AA26hVg2",
+      "live": true,
+      "added": "2026-06-23T02:27:27.982Z"
+    },
+    {
+      "src": "News",
+      "time": "22 Jun 18:19",
+      "title": "Australian hantavirus cruise ship passengers leave Perth quarantine facility after 42 days",
+      "tag": "u",
+      "url": "https://www.skynews.com.au/australia-news/politics/australian-hantavirus-cruise-ship-passengers-leave-perth-quarantine-facility-after-42-days/news-story/fc91676c5d02d4d64693457c2d02f34c",
+      "live": true,
+      "added": "2026-06-23T02:27:27.982Z"
+    },
+    {
+      "src": "News",
+      "time": "22 Jun 16:48",
+      "title": "Hantavirus quarantine monitoring ends for M/V Hondius passengers at UNMC",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/hantavirus-quarantine-monitoring-ends-for-mv-hondius-passengers-at-unmc/ar-AA26jafe",
+      "live": true,
+      "added": "2026-06-23T02:27:27.981Z"
+    },
+    {
+      "src": "News",
+      "time": "22 Jun 17:50",
+      "title": "Passenger from hantavirus-infected cruise shares update as 42-day quarantine finally comes to an end",
+      "tag": "u",
+      "url": "https://www.msn.com/en-gb/health/diseases-and-conditions/passenger-from-hantavirus-infected-cruise-shares-update-as-42-day-quarantine-finally-comes-to-an-end/ar-AA26iRTE",
+      "live": true,
+      "added": "2026-06-23T02:27:27.981Z"
+    },
+    {
+      "src": "News",
       "time": "22 Jun 12:06",
       "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska",
       "tag": "u",
@@ -3298,51 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/cruise-ship-tied-to-hantavirus-cleared-to-sail-where-it-s-headed/ar-AA24yALr",
       "live": true,
       "added": "2026-06-04T11:35:43.323Z"
-    },
-    {
-      "src": "News",
-      "time": "04 Jun 00:09",
-      "title": "Small number of hantavirus cases not uncommon in Arizona, data shows",
-      "tag": "u",
-      "url": "https://www.aol.com/news/small-number-hantavirus-cases-not-000937238.html",
-      "live": true,
-      "added": "2026-06-04T11:35:43.323Z"
-    },
-    {
-      "src": "News",
-      "time": "01 Jun 16:08",
-      "title": "State trooper guards and daily fever checks: Some hantavirus cruise ship passengers go home",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/state-trooper-guards-and-daily-fever-checks-some-hantavirus-cruise-ship-passengers-go-home/ar-AA24ABjc",
-      "live": true,
-      "added": "2026-06-04T11:35:43.323Z"
-    },
-    {
-      "src": "News",
-      "time": "02 Jun 07:57",
-      "title": "5 Americans exposed to hantavirus return home after weeks in quarantine",
-      "tag": "u",
-      "url": "https://www.usatoday.com/story/news/health/2026/06/02/hantavirus-exposed-americans-return-home-quarantine/90311304007/",
-      "live": true,
-      "added": "2026-06-04T11:35:43.322Z"
-    },
-    {
-      "src": "News",
-      "time": "02 Jun 10:44",
-      "title": "Five people have left hantavirus quarantine facility in Nebraska",
-      "tag": "u",
-      "url": "https://www.washingtonpost.com/health/2026/06/02/five-people-have-left-hantavirus-quarantine-facility-nebraska/",
-      "live": true,
-      "added": "2026-06-04T11:35:43.322Z"
-    },
-    {
-      "src": "News",
-      "time": "03 Jun 14:27",
-      "title": "Bend Doctor Returns Home to Finish Quarantine After Hantavirus Outbreak on Cruise Ship",
-      "tag": "u",
-      "url": "https://www.yahoo.com/news/videos/bend-doctor-returns-home-finish-211949597.html",
-      "live": true,
-      "added": "2026-06-04T11:35:43.322Z"
     }
   ],
   "travel": [
