@@ -1076,3 +1076,8 @@ the bot are listed under the timestamp.
   + News | Travel content creator walks free after 6 weeks inside hantavirus quar
   + News | MV Hondius passengers cleared of hantavirus after 42 days of quarantin
   + News | Hantavirus cruise ship passengers released from Perth quarantine
+
+[2026-06-23T14:29:36.592Z] 3 change(s):
+  + News | Live: Health officials discuss end of hantavirus monitoring operation 
+  + News | All US Passengers From Hantavirus-Hit Ship Return to Home States
+  + News | Hantavirus quarantine ends for Americans held for six weeks in Nebrask
