@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T19:50:40.763Z",
+  "last_updated": "2026-06-24T02:28:45.558Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "23 Jun 15:27",
+      "title": "Nebraska officials discuss end of hantavirus monitoring operation",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/news/us/nebraska-officials-discuss-end-of-hantavirus-monitoring-operation/vi-AA26nDqS?ocid=BingNewsVerp",
+      "live": true,
+      "added": "2026-06-24T02:28:43.269Z"
+    },
+    {
+      "src": "News",
+      "time": "23 Jun 14:25",
+      "title": "SNES: Hantavirus quarantine ends, as outbreak underscores need to control rodent populations",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/snes-hantavirus-quarantine-ends-as-outbreak-underscores-need-to-control-rodent-populations/ar-AA26nK6i",
+      "live": true,
+      "added": "2026-06-24T02:28:43.268Z"
+    },
+    {
+      "src": "News",
       "time": "23 Jun 12:04",
       "title": "American passenger aboard hantavirus ship details 42 days in quarantine",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://apnews.com/article/argentina-hantavirus-investigation-cdc-ushuaia-mendoza-1e375f0eb2120343bfde222bc47d53c5",
       "live": true,
       "added": "2026-06-07T10:13:26.724Z"
-    },
-    {
-      "src": "News",
-      "time": "01 Jun 21:00",
-      "title": "Oregonian exposed to hantavirus returns home, goes into quarantine",
-      "tag": "u",
-      "url": "https://golfweek.usatoday.com/story/news/local/oregon/2026/06/02/oregon-resident-hantavirus-quarantine/90375852007/",
-      "live": true,
-      "added": "2026-06-06T15:58:50.057Z"
-    },
-    {
-      "src": "News",
-      "time": "05 Jun 16:30",
-      "title": "New hantavirus case confirmed in Spain after cruise ship outbreak",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/general/new-hantavirus-case-confirmed-in-spain-after-cruise-ship-outbreak/ar-AA24Xq8H",
-      "live": true,
-      "added": "2026-06-06T15:58:50.055Z"
     }
   ],
   "travel": [
