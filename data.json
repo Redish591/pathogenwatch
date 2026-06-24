@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T14:08:55.892Z",
+  "last_updated": "2026-06-24T19:26:55.016Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "24 Jun 11:06",
+      "title": "Hantavirus self-isolation complete for 34 Canadians, Health Canada says",
+      "tag": "u",
+      "url": "https://www.msn.com/en-ca/health/other/hantavirus-self-isolation-complete-for-34-canadians-health-canada-says/ar-AA26rqf0?ocid=BingNewsVerp",
+      "live": true,
+      "added": "2026-06-24T19:26:52.382Z"
+    },
+    {
+      "src": "News",
+      "time": "24 Jun 12:23",
+      "title": "Hantavirus quarantine ends; no cases in the US",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/hantavirus-quarantine-ends-no-cases-in-the-us/ar-AA26rMDV",
+      "live": true,
+      "added": "2026-06-24T19:26:52.381Z"
+    },
+    {
+      "src": "News",
       "time": "23 Jun 15:27",
       "title": "Nebraska officials discuss end of hantavirus monitoring operation",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.yahoo.com/news/science/articles/texas-cruise-passengers-complete-hantavirus-000828746.html",
       "live": true,
       "added": "2026-06-07T10:13:26.725Z"
-    },
-    {
-      "src": "News",
-      "time": "07 Jun 00:47",
-      "title": "2 Singapore residents who were on board hantavirus-hit cruise ship complete quarantine",
-      "tag": "u",
-      "url": "https://www.straitstimes.com/singapore/two-singapore-residents-who-were-on-board-mv-hondius-complete-hantavirus-quarantine",
-      "live": true,
-      "added": "2026-06-07T10:13:26.725Z"
-    },
-    {
-      "src": "News",
-      "time": "05 Jun 20:26",
-      "title": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza",
-      "tag": "u",
-      "url": "https://apnews.com/article/argentina-hantavirus-investigation-cdc-ushuaia-mendoza-1e375f0eb2120343bfde222bc47d53c5",
-      "live": true,
-      "added": "2026-06-07T10:13:26.724Z"
     }
   ],
   "travel": [
