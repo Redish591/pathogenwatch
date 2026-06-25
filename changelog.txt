@@ -1093,3 +1093,8 @@ the bot are listed under the timestamp.
 [2026-06-24T19:26:55.017Z] 2 change(s):
   + News | Hantavirus quarantine ends; no cases in the US
   + News | Hantavirus self-isolation complete for 34 Canadians, Health Canada say
+
+[2026-06-25T08:48:21.827Z] 3 change(s):
+  ~ AI filtered 2 low-quality item(s)
+  + News | Global hantavirus response to end on July 2: WHO
+  + News | US ends its hantavirus response as quarantines expire and threat wanes

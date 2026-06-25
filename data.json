@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T19:26:55.016Z",
+  "last_updated": "2026-06-25T08:48:21.826Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "24 Jun 11:32",
+      "title": "US ends its hantavirus response as quarantines expire and threat wanes",
+      "tag": "u",
+      "url": "https://www.msn.com/en-nz/health/general/us-ends-its-hantavirus-response-as-quarantines-expire-and-threat-wanes/ar-AA26sGHI",
+      "live": true,
+      "added": "2026-06-25T08:48:19.442Z"
+    },
+    {
+      "src": "News",
+      "time": "24 Jun 23:01",
+      "title": "Global hantavirus response to end on July 2: WHO",
+      "tag": "u",
+      "url": "https://www.msn.com/en-in/health/diseases-and-conditions/global-hantavirus-response-to-end-on-july-2-who/ar-AA26uDYY",
+      "live": true,
+      "added": "2026-06-25T08:48:19.441Z"
+    },
+    {
+      "src": "News",
       "time": "24 Jun 11:06",
       "title": "Hantavirus self-isolation complete for 34 Canadians, Health Canada says",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.msn.com/en-my/public-safety-and-emergencies/health-and-safety-alerts/two-singaporeans-complete-quarantine-after-returning-from-cruise-with-deadly-hantavirus-outbreak/ar-AA2544lV",
       "live": true,
       "added": "2026-06-08T14:39:33.384Z"
-    },
-    {
-      "src": "News",
-      "time": "07 Jun 18:20",
-      "title": "Texans cleared after weeks of monitoring following potential hantavirus exposure",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/texans-cleared-after-weeks-of-monitoring-following-potential-hantavirus-exposure/vi-AA254djf",
-      "live": true,
-      "added": "2026-06-08T14:39:33.383Z"
-    },
-    {
-      "src": "News",
-      "time": "06 Jun 21:47",
-      "title": "Texas cruise passengers complete hantavirus monitoring with no infections, state says",
-      "tag": "u",
-      "url": "https://www.yahoo.com/news/science/articles/texas-cruise-passengers-complete-hantavirus-000828746.html",
-      "live": true,
-      "added": "2026-06-07T10:13:26.725Z"
     }
   ],
   "travel": [
