@@ -1098,3 +1098,10 @@ the bot are listed under the timestamp.
   ~ AI filtered 2 low-quality item(s)
   + News | Global hantavirus response to end on July 2: WHO
   + News | US ends its hantavirus response as quarantines expire and threat wanes
+
+[2026-06-25T14:05:41.789Z] 5 change(s):
+  ~ AI filtered 1 low-quality item(s)
+  + News | CDC concludes response to hantavirus outbreak on cruise
+  + News | CDC ends US Hantavirus response
+  + News | CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes
+  + News | CDC concludes hantavirus outbreak response
