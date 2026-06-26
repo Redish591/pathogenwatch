@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T14:05:04.445Z",
+  "last_updated": "2026-06-26T19:28:35.626Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "11 May 17:05",
+      "title": "Two Maryland residents monitored for hantavirus after sharing flight with infected cruise ship passenger",
+      "tag": "u",
+      "url": "https://www.foxnews.com/health/two-maryland-residents-monitored-hantavirus-after-sharing-flight-infected-cruise-ship-passenger",
+      "live": true,
+      "added": "2026-06-26T19:28:32.446Z"
+    },
+    {
+      "src": "News",
+      "time": "24 Jun 19:27",
+      "title": "Hantavirus outbreak should formally end on July 2: WHO",
+      "tag": "u",
+      "url": "https://www.msn.com/en-ph/health/general/hantavirus-outbreak-should-formally-end-on-july-2-who/ar-AA26tKVu",
+      "live": true,
+      "added": "2026-06-26T19:28:32.445Z"
+    },
+    {
+      "src": "News",
       "time": "05 Jun 20:26",
       "title": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.msn.com/en-us/news/other/3-more-hantavirus-patients-quarantining-in-omaha-leave-unmc/ar-AA25d2dj",
       "live": true,
       "added": "2026-06-09T19:34:49.913Z"
-    },
-    {
-      "src": "News",
-      "time": "08 Jun 23:51",
-      "title": "Canadian who tested positive for hantavirus has recovered, B.C. health officials say",
-      "tag": "u",
-      "url": "https://www.theglobeandmail.com/canada/article-canadian-with-hantavirus-recovers/",
-      "live": true,
-      "added": "2026-06-09T11:43:36.600Z"
-    },
-    {
-      "src": "News",
-      "time": "09 Jun 03:28",
-      "title": "BC health officials say the Canadian who tested positive for hantavirus has recovered",
-      "tag": "u",
-      "url": "https://www.nationalobserver.com/2026/06/09/news/bc-health-officials-say-canadian-who-tested-positive-hantavirus-has-recovered",
-      "live": true,
-      "added": "2026-06-09T11:43:36.599Z"
     }
   ],
   "travel": [

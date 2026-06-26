@@ -1113,3 +1113,8 @@ the bot are listed under the timestamp.
   ~ AI filtered 1 low-quality item(s)
   + News | CDC ends hantavirus response as US outbreak risk diminishes
   + News | Argentina expands hantavirus probe, sending teams to trap and test rat
+
+[2026-06-26T19:28:35.627Z] 3 change(s):
+  ~ AI filtered 1 low-quality item(s)
+  + News | Hantavirus outbreak should formally end on July 2: WHO
+  + News | Two Maryland residents monitored for hantavirus after sharing flight w
