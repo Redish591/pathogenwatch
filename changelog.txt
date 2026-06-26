@@ -1105,3 +1105,6 @@ the bot are listed under the timestamp.
   + News | CDC ends US Hantavirus response
   + News | CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes
   + News | CDC concludes hantavirus outbreak response
+
+[2026-06-26T02:32:37.231Z] 1 change(s):
+  + News | US hantavirus response concludes with no cases, CDC says
