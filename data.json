@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T02:32:37.230Z",
+  "last_updated": "2026-06-26T08:51:04.002Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "05 Jun 20:26",
+      "title": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza",
+      "tag": "u",
+      "url": "https://apnews.com/article/argentina-hantavirus-investigation-cdc-ushuaia-mendoza-1e375f0eb2120343bfde222bc47d53c5",
+      "live": true,
+      "added": "2026-06-26T08:51:02.007Z"
+    },
+    {
+      "src": "News",
+      "time": "24 Jun 10:48",
+      "title": "CDC ends hantavirus response as US outbreak risk diminishes",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/cdc-to-end-hantavirus-response-as-us-outbreak-risk-diminishes/ar-AA26pGWW",
+      "live": true,
+      "added": "2026-06-26T08:51:02.005Z"
+    },
+    {
+      "src": "News",
       "time": "25 Jun 12:03",
       "title": "US hantavirus response concludes with no cases, CDC says",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.nationalobserver.com/2026/06/09/news/bc-health-officials-say-canadian-who-tested-positive-hantavirus-has-recovered",
       "live": true,
       "added": "2026-06-09T11:43:36.599Z"
-    },
-    {
-      "src": "News",
-      "time": "09 Jun 01:03",
-      "title": "In the news today: MPs plan Taiwan trip, BC hantavirus recovery, energy show begins",
-      "tag": "u",
-      "url": "https://www.msn.com/en-ca/politics/government/in-the-news-today-mps-plan-taiwan-trip-bc-hantavirus-recovery-energy-show-begins/ar-AA25aBiq",
-      "live": true,
-      "added": "2026-06-09T11:43:36.598Z"
-    },
-    {
-      "src": "News",
-      "time": "08 Jun 21:46",
-      "title": "BC health officials say Canadian who tested positive for hantavirus has recovered",
-      "tag": "u",
-      "url": "https://www.msn.com/en-ca/news/other/bc-health-officials-say-canadian-who-tested-positive-for-hantavirus-has-recovered/ar-AA25aaRO",
-      "live": true,
-      "added": "2026-06-09T11:43:36.597Z"
     }
   ],
   "travel": [

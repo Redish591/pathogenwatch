@@ -1108,3 +1108,8 @@ the bot are listed under the timestamp.
 
 [2026-06-26T02:32:37.231Z] 1 change(s):
   + News | US hantavirus response concludes with no cases, CDC says
+
+[2026-06-26T08:51:04.003Z] 3 change(s):
+  ~ AI filtered 1 low-quality item(s)
+  + News | CDC ends hantavirus response as US outbreak risk diminishes
+  + News | Argentina expands hantavirus probe, sending teams to trap and test rat
