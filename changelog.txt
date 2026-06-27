@@ -1118,3 +1118,6 @@ the bot are listed under the timestamp.
   ~ AI filtered 1 low-quality item(s)
   + News | Hantavirus outbreak should formally end on July 2: WHO
   + News | Two Maryland residents monitored for hantavirus after sharing flight w
+
+[2026-06-27T13:12:30.667Z] 1 change(s):
+  + News | Ebola and hantavirus can start like the flu but turn deadly fast

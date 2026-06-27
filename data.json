@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T08:26:57.319Z",
+  "last_updated": "2026-06-27T13:12:30.666Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "21 Jun 23:47",
+      "title": "Ebola and hantavirus can start like the flu but turn deadly fast",
+      "tag": "u",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260622014257.htm",
+      "live": true,
+      "added": "2026-06-27T13:12:27.508Z"
+    },
+    {
+      "src": "News",
       "time": "11 May 17:05",
       "title": "Two Maryland residents monitored for hantavirus after sharing flight with infected cruise ship passenger",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/unmc-releases-three-more-hantavirus-cruise-ship-passengers/ar-AA25c5AV",
       "live": true,
       "added": "2026-06-09T19:34:49.914Z"
-    },
-    {
-      "src": "News",
-      "time": "09 Jun 09:45",
-      "title": "3 more hantavirus patients quarantining in Omaha leave UNMC",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/news/other/3-more-hantavirus-patients-quarantining-in-omaha-leave-unmc/ar-AA25d2dj",
-      "live": true,
-      "added": "2026-06-09T19:34:49.913Z"
     }
   ],
   "travel": [
