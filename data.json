@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T02:38:20.372Z",
+  "last_updated": "2026-06-28T13:18:58.608Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "23 Jun 14:18",
+      "title": "UNMC hantavirus operation wraps up, team ready if Ebola outbreak calls",
+      "tag": "u",
+      "url": "https://www.yahoo.com/news/science/articles/unmc-hantavirus-operation-wraps-team-210710047.html",
+      "live": true,
+      "added": "2026-06-28T13:18:51.353Z"
+    },
+    {
+      "src": "News",
       "time": "21 Jun 23:47",
       "title": "Ebola and hantavirus can start like the flu but turn deadly fast",
       "tag": "u",
@@ -3332,15 +3341,6 @@
       "title": "Three more US passengers from hantavirus-hit ship return to home states",
       "tag": "u",
       "url": "https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/three-more-us-passengers-from-hantavirus-hit-ship-return-to-home-states/ar-AA25cayM",
-      "live": true,
-      "added": "2026-06-09T19:34:49.914Z"
-    },
-    {
-      "src": "News",
-      "time": "09 Jun 07:26",
-      "title": "UNMC releases three more hantavirus cruise ship passengers",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/unmc-releases-three-more-hantavirus-cruise-ship-passengers/ar-AA25c5AV",
       "live": true,
       "added": "2026-06-09T19:34:49.914Z"
     }
