@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T02:38:40.467Z",
+  "last_updated": "2026-06-29T10:24:22.012Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "28 Jun 19:27",
+      "title": "Hantavirus outbreak nearing its end, WHO chief says",
+      "tag": "u",
+      "url": "https://www.msn.com/en-ca/health/other/hantavirus-outbreak-nearing-its-end-who-chief-says/ar-AA26KsZC",
+      "live": true,
+      "added": "2026-06-29T10:24:19.957Z"
+    },
+    {
+      "src": "News",
+      "time": "29 Jun 02:02",
+      "title": "Hantavirus outbreak nearing its end: WHO",
+      "tag": "u",
+      "url": "https://thepeninsulaqatar.com/article/29/06/2026/hantavirus-outbreak-nearing-its-end-who",
+      "live": true,
+      "added": "2026-06-29T10:24:19.956Z"
+    },
+    {
+      "src": "News",
       "time": "23 Jun 14:18",
       "title": "UNMC hantavirus operation wraps up, team ready if Ebola outbreak calls",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.indystar.com/story/news/health/2026/06/09/three-american-hantavirus-cruise-passengers-return-home/90476811007/",
       "live": true,
       "added": "2026-06-10T12:39:32.423Z"
-    },
-    {
-      "src": "News",
-      "time": "09 Jun 08:41",
-      "title": "Hantavirus update: three more cruise passengers leave Omaha quarantine unit",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/hantavirus-update-three-more-cruise-passengers-leave-omaha-quarantine-unit/ar-AA25cgbl",
-      "live": true,
-      "added": "2026-06-10T12:39:32.422Z"
-    },
-    {
-      "src": "News",
-      "time": "09 Jun 07:34",
-      "title": "Three more US passengers from hantavirus-hit ship return to home states",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/three-more-us-passengers-from-hantavirus-hit-ship-return-to-home-states/ar-AA25cayM",
-      "live": true,
-      "added": "2026-06-09T19:34:49.914Z"
     }
   ],
   "travel": [

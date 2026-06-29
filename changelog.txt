@@ -1124,3 +1124,8 @@ the bot are listed under the timestamp.
 
 [2026-06-28T13:18:58.609Z] 1 change(s):
   + News | UNMC hantavirus operation wraps up, team ready if Ebola outbreak calls
+
+[2026-06-29T10:24:22.013Z] 3 change(s):
+  ~ AI filtered 2 low-quality item(s)
+  + News | Hantavirus outbreak nearing its end: WHO
+  + News | Hantavirus outbreak nearing its end, WHO chief says
