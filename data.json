@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T02:33:12.818Z",
+  "last_updated": "2026-06-30T08:57:22.337Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "27 Jun 07:04",
+      "title": "Irish woman stuck on hantavirus ship says she can't believe she escaped virus",
+      "tag": "u",
+      "url": "https://www.msn.com/en-ie/health/other/irish-woman-stuck-on-hantavirus-ship-says-she-cant-believe-she-escaped-virus/ar-AA26GzYY",
+      "live": true,
+      "added": "2026-06-30T08:57:18.989Z"
+    },
+    {
+      "src": "News",
+      "time": "18 May 03:52",
+      "title": "No, Hantavirus Is Not COVID-26 And Other Misinformation Being Spread",
+      "tag": "u",
+      "url": "https://www.forbes.com/sites/brucelee/2026/05/18/no-hantavirus-is-not-covid-26-and-other-misinformation-being-spread/",
+      "live": true,
+      "added": "2026-06-30T08:57:18.989Z"
+    },
+    {
+      "src": "News",
       "time": "29 Jun 13:21",
       "title": "Experts: Hantavirus detected in Tierra del Fuego, but no link to cruise outbreak",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/prisoner-at-san-quentin-may-have-hantavirus-authorities-say/ar-AA25pyWc",
       "live": true,
       "added": "2026-06-11T23:10:34.550Z"
-    },
-    {
-      "src": "News",
-      "time": "03 Jun 16:31",
-      "title": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue",
-      "tag": "u",
-      "url": "https://www.orlandosentinel.com/2026/06/03/hantavirus-research/",
-      "live": true,
-      "added": "2026-06-11T13:04:24.519Z"
-    },
-    {
-      "src": "News",
-      "time": "11 Jun 00:30",
-      "title": "Hantavirus: UK reports confirmed case in Tristan da Cunha, says WHO chief",
-      "tag": "u",
-      "url": "https://www.msn.com/en-in/health/other/hantavirus-uk-reports-confirmed-case-in-tristan-da-cunha-says-who-chief/ar-AA25mmTp",
-      "live": true,
-      "added": "2026-06-11T13:04:24.518Z"
     }
   ],
   "travel": [
