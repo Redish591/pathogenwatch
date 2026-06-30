@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T19:44:15.966Z",
+  "last_updated": "2026-06-30T02:33:12.818Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "29 Jun 13:21",
+      "title": "Experts: Hantavirus detected in Tierra del Fuego, but no link to cruise outbreak",
+      "tag": "u",
+      "url": "https://www.batimes.com.ar/news/argentina/experts-hantavirus-detected-in-tierra-del-fuego-but-no-link-to-cruise-outbreak.phtml",
+      "live": true,
+      "added": "2026-06-30T02:33:10.826Z"
+    },
+    {
+      "src": "News",
+      "time": "29 Jun 16:33",
+      "title": "Canadians exposed to hantavirus on cruise ship complete isolation period",
+      "tag": "u",
+      "url": "https://www.msn.com/en-ca/health/other/canadians-exposed-to-hantavirus-on-cruise-ship-complete-isolation-period/ar-AA26POZ5",
+      "live": true,
+      "added": "2026-06-30T02:33:10.825Z"
+    },
+    {
+      "src": "News",
       "time": "24 Jun 10:48",
       "title": "CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.msn.com/en-in/health/other/hantavirus-uk-reports-confirmed-case-in-tristan-da-cunha-says-who-chief/ar-AA25mmTp",
       "live": true,
       "added": "2026-06-11T13:04:24.518Z"
-    },
-    {
-      "src": "News",
-      "time": "10 Jun 14:42",
-      "title": "San Quentin confirms 38-year-old male inmate contracted possible case of hantavirus",
-      "tag": "u",
-      "url": "https://abc7news.com/post/san-quentin-rehabilitation-center-confirms-38-year-old-male-inmate-contracted-possible-case-hantavirus/19271683/",
-      "live": true,
-      "added": "2026-06-10T23:15:37.838Z"
-    },
-    {
-      "src": "News",
-      "time": "10 Jun 03:32",
-      "title": "Hantavirus outbreaks rare, but not unheard of in U.S.",
-      "tag": "u",
-      "url": "https://www.butlereagle.com/20260610/hantavirus-outbreaks-rare-but-not-unheard-of-in-u-s/",
-      "live": true,
-      "added": "2026-06-10T12:39:32.424Z"
     }
   ],
   "travel": [
