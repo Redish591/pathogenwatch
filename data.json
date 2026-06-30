@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T13:58:24.608Z",
+  "last_updated": "2026-06-30T19:43:46.107Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "11 May 06:15",
+      "title": "Weather And Hantavirus — Are There Any Connections?",
+      "tag": "u",
+      "url": "https://www.forbes.com/sites/marshallshepherd/2026/05/11/weather-and-hantavirus---are-there-any-connections/",
+      "live": true,
+      "added": "2026-06-30T19:43:43.486Z"
+    },
+    {
+      "src": "News",
       "time": "27 Jun 07:04",
       "title": "Irish woman stuck on hantavirus ship says she can't believe she escaped virus",
       "tag": "u",
@@ -3332,15 +3341,6 @@
       "title": "Potential case of rare and deadly hantavirus investigated at Bay Area prison",
       "tag": "u",
       "url": "https://www.sfgate.com/bayarea/article/bay-area-hantavirus-22300995.php",
-      "live": true,
-      "added": "2026-06-11T23:10:34.550Z"
-    },
-    {
-      "src": "News",
-      "time": "11 Jun 13:25",
-      "title": "Prisoner at San Quentin may have hantavirus, authorities say",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/prisoner-at-san-quentin-may-have-hantavirus-authorities-say/ar-AA25pyWc",
       "live": true,
       "added": "2026-06-11T23:10:34.550Z"
     }
