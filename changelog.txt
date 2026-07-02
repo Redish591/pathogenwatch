@@ -1152,3 +1152,8 @@ the bot are listed under the timestamp.
 [2026-07-02T08:42:47.380Z] 2 change(s):
   ~ AI filtered 1 low-quality item(s)
   + News | French hantavirus patient is critically ill and on an artificial lung 
+
+[2026-07-02T13:39:44.664Z] 3 change(s):
+  ~ AI filtered 2 low-quality item(s)
+  + News | WHO declares hantavirus outbreak linked to cruise ship over
+  ~ extraction skipped: The proposed value of 11 cases appears in a headline but is not attributed to an official health authority (WHO, CDC, ECDC, or national ministry), and the current values of 13 cases and 3 deaths are not contradicted by any explicitly sourced official statement in the headlines.
