@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T14:10:59.834Z",
+  "last_updated": "2026-07-02T08:42:47.379Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "12 May 03:26",
+      "title": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11",
+      "tag": "u",
+      "url": "https://apnews.com/article/hantavirus-outbreak-hondius-cruise-ship-ac42357c5c3ae1694a93f1d43ba38bdb",
+      "live": true,
+      "added": "2026-07-02T08:42:44.520Z"
+    },
+    {
+      "src": "News",
       "time": "26 Jun 10:04",
       "title": "Hantavirus for the Dermatologist",
       "tag": "u",
@@ -3332,15 +3341,6 @@
       "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island",
       "tag": "u",
       "url": "https://apnews.com/article/hantavirus-ship-evacuation-american-yacht-33ba5ddb8374d0083271669e7ba52b04",
-      "live": true,
-      "added": "2026-06-11T23:10:34.551Z"
-    },
-    {
-      "src": "News",
-      "time": "11 Jun 11:53",
-      "title": "Hantavirus Cruise Passenger Says She’s Being Held ‘Hostage’ In Nebraska Quarantine (Latest Updates)",
-      "tag": "u",
-      "url": "https://www.forbes.com/sites/maryroeloffs/2026/06/11/hantavirus-cruise-passenger-says-shes-being-held-hostage-in-nebraska-quarantine-latest-updates/",
       "live": true,
       "added": "2026-06-11T23:10:34.551Z"
     }
