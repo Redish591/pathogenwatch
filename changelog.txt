@@ -1160,3 +1160,11 @@ the bot are listed under the timestamp.
 
 [2026-07-03T02:03:57.315Z] 1 change(s):
   + News | Hantavirus outbreak linked to cruise ship over after last contact comp
+
+[2026-07-03T19:03:43.044Z] 6 change(s):
+  ~ AI filtered 1 low-quality item(s)
+  + News | WHO declares deadly hantavirus outbreak over
+  + News | Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. 
+  + News | WHO declares hantavirus outbreak linked to cruise ship officially over
+  + News | WHO declares cruise-linked hantavirus outbreak officially over
+  ~ extraction skipped: The proposed cases=11 value appears in only one headline without attribution to an official health authority, while multiple headlines indicate the outbreak was officially declared over by WHO, contradicting an active case count update.

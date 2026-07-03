@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T02:03:57.314Z",
+  "last_updated": "2026-07-03T19:03:43.043Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,42 @@
   "news": [
     {
       "src": "News",
+      "time": "02 Jul 13:50",
+      "title": "WHO declares cruise-linked hantavirus outbreak officially over",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/who-declares-cruise-linked-hantavirus-outbreak-officially-over/ar-AA275If8",
+      "live": true,
+      "added": "2026-07-03T19:03:38.947Z"
+    },
+    {
+      "src": "News",
+      "time": "02 Jul 15:00",
+      "title": "Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says",
+      "tag": "u",
+      "url": "https://www.nytimes.com/2026/07/02/world/hantavirus-cruise-outbreak-timeline-events.html",
+      "live": true,
+      "added": "2026-07-03T19:03:38.946Z"
+    },
+    {
+      "src": "News",
+      "time": "02 Jul 21:18",
+      "title": "WHO declares hantavirus outbreak linked to cruise ship officially over",
+      "tag": "u",
+      "url": "https://www.msn.com/en-in/health/general/who-declares-hantavirus-outbreak-linked-to-cruise-ship-officially-over/ar-AA276MkS",
+      "live": true,
+      "added": "2026-07-03T19:03:38.946Z"
+    },
+    {
+      "src": "News",
+      "time": "03 Jul 05:04",
+      "title": "WHO declares deadly hantavirus outbreak over",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/who-declares-deadly-hantavirus-outbreak-over/ar-AA278Fcf",
+      "live": true,
+      "added": "2026-07-03T19:03:38.945Z"
+    },
+    {
+      "src": "News",
       "time": "02 Jul 15:50",
       "title": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO",
       "tag": "u",
@@ -3307,42 +3343,6 @@
       "url": "https://www.mercurynews.com/2026/06/12/san-quentin-prison-reports-possible-hantavirus-case/",
       "live": true,
       "added": "2026-06-12T19:55:21.144Z"
-    },
-    {
-      "src": "News",
-      "time": "12 Jun 11:30",
-      "title": "Officials investigating possible hantavirus case in San Quentin prison with inmates, staff monitored for symptoms",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/officials-investigating-possible-hantavirus-case-in-san-quentin-prison-with-inmates-staff-monitored-for-symptoms/ar-AA25vk3P",
-      "live": true,
-      "added": "2026-06-12T19:55:21.143Z"
-    },
-    {
-      "src": "News",
-      "time": "12 Jun 07:39",
-      "title": "Cruise passenger from deadly hantavirus outbreak says she's 'held hostage' in quarantine fight",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/cruise-passenger-from-deadly-hantavirus-outbreak-says-shes-held-hostage-in-quarantine-fight/ar-AA25uu1z",
-      "live": true,
-      "added": "2026-06-12T19:55:21.143Z"
-    },
-    {
-      "src": "News",
-      "time": "11 Jun 10:17",
-      "title": "Possible hantavirus case at San Quentin prompts testing, decontamination",
-      "tag": "u",
-      "url": "https://www.yahoo.com/news/science/articles/san-quentin-reports-possible-hantavirus-003023755.html",
-      "live": true,
-      "added": "2026-06-11T23:10:34.553Z"
-    },
-    {
-      "src": "News",
-      "time": "11 Jun 14:32",
-      "title": "Hantavirus symptoms detected in California superspreader hot spot",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/diseases-and-conditions/hantavirus-symptoms-detected-at-san-quentin-prison/ar-AA25pDbi",
-      "live": true,
-      "added": "2026-06-11T23:10:34.552Z"
     }
   ],
   "travel": [
