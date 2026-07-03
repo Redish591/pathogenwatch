@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T13:39:44.663Z",
+  "last_updated": "2026-07-03T02:03:57.314Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "02 Jul 15:50",
+      "title": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO",
+      "tag": "u",
+      "url": "https://www.mycentraloregon.com/2026/07/02/hantavirus-outbreak-linked-to-cruise-ship-over-after-last-contact-completes-quarantine-who/",
+      "live": true,
+      "added": "2026-07-03T02:03:54.072Z"
+    },
+    {
+      "src": "News",
       "time": "02 Jul 06:33",
       "title": "WHO declares hantavirus outbreak linked to cruise ship over",
       "tag": "u",
@@ -3332,15 +3341,6 @@
       "title": "Hantavirus symptoms detected in California superspreader hot spot",
       "tag": "u",
       "url": "https://www.msn.com/en-us/health/diseases-and-conditions/hantavirus-symptoms-detected-at-san-quentin-prison/ar-AA25pDbi",
-      "live": true,
-      "added": "2026-06-11T23:10:34.552Z"
-    },
-    {
-      "src": "News",
-      "time": "11 Jun 15:59",
-      "title": "CDC and Florida at odds over hantavirus cruise ship passenger’s quarantine",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/cdc-and-florida-at-odds-over-hantavirus-cruise-ship-passenger-s-quarantine/ar-AA25pKyA",
       "live": true,
       "added": "2026-06-11T23:10:34.552Z"
     }

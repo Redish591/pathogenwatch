@@ -1157,3 +1157,6 @@ the bot are listed under the timestamp.
   ~ AI filtered 2 low-quality item(s)
   + News | WHO declares hantavirus outbreak linked to cruise ship over
   ~ extraction skipped: The proposed value of 11 cases appears in a headline but is not attributed to an official health authority (WHO, CDC, ECDC, or national ministry), and the current values of 13 cases and 3 deaths are not contradicted by any explicitly sourced official statement in the headlines.
+
+[2026-07-03T02:03:57.315Z] 1 change(s):
+  + News | Hantavirus outbreak linked to cruise ship over after last contact comp
