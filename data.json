@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T13:02:14.269Z",
+  "last_updated": "2026-07-04T18:57:45.560Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "14 May 17:00",
+      "title": "The Hantavirus Is Also a Climate Warning",
+      "tag": "u",
+      "url": "https://newrepublic.com/article/210448/hantavirus-climate-warning-media-coverage",
+      "live": true,
+      "added": "2026-07-04T18:57:41.011Z"
+    },
+    {
+      "src": "News",
       "time": "03 Jul 23:15",
       "title": "WHO Ends Cruise Ship-Linked Hantavirus Outbreak",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.npr.org/2026/06/11/nx-s1-5854492/hantavirus-ebola-health-freedom",
       "live": true,
       "added": "2026-06-13T08:47:35.397Z"
-    },
-    {
-      "src": "News",
-      "time": "12 Jun 22:56",
-      "title": "US spends $750K to evacuate American stranded abroad hantavirus-struck cruise ship",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/news/world/us-spends-750k-to-evacuate-american-stranded-abroad-hantavirus-struck-cruise-ship/ar-AA25wE69",
-      "live": true,
-      "added": "2026-06-13T08:47:35.396Z"
     }
   ],
   "travel": [

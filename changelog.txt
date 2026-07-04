@@ -1180,3 +1180,7 @@ the bot are listed under the timestamp.
   + News | The hantavirus outbreak is over, WHO declares
   + News | WHO Ends Cruise Ship-Linked Hantavirus Outbreak
   ~ extraction skipped: The proposed cases=11 comes from one headline about a French patient, but the majority of headlines declare the outbreak officially over by WHO, making a case count update contradictory and not explicitly attributed to an official authority statement.
+
+[2026-07-04T18:57:45.561Z] 2 change(s):
+  + News | The Hantavirus Is Also a Climate Warning
+  ~ extraction skipped: The proposed cases=11 value comes from a headline about a French patient, but most headlines describe a cruise-linked outbreak that WHO declared officially over, creating conflicting information with no single authoritative statement supporting cases=11 and deaths=null simultaneously.
