@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T19:03:43.043Z",
+  "last_updated": "2026-07-04T08:25:22.674Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "02 Jul 17:04",
+      "title": "Andes hantavirus: operationalising science in real time",
+      "tag": "u",
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01227-4/fulltext",
+      "live": true,
+      "added": "2026-07-04T08:25:19.183Z"
+    },
+    {
+      "src": "News",
+      "time": "02 Jul 09:30",
+      "title": "WHO says hantavirus outbreak linked to ship is over",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/who-says-hantavirus-outbreak-linked-to-ship-is-over/ar-AA274z8P",
+      "live": true,
+      "added": "2026-07-04T08:25:19.182Z"
+    },
+    {
+      "src": "News",
       "time": "02 Jul 13:50",
       "title": "WHO declares cruise-linked hantavirus outbreak officially over",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.yahoo.com/news/science/articles/san-quentin-suspected-hantavirus-case-010516491.html",
       "live": true,
       "added": "2026-06-13T02:34:27.302Z"
-    },
-    {
-      "src": "News",
-      "time": "12 Jun 12:20",
-      "title": "Hantavirus One-Shot mRNA Vaccine Fully Protects in Syrian Hamster Model",
-      "tag": "u",
-      "url": "https://www.genengnews.com/topics/infectious-diseases/hantavirus-one-shot-mrna-vaccine-fully-protects-in-syrian-hamster-model/",
-      "live": true,
-      "added": "2026-06-12T19:55:21.145Z"
-    },
-    {
-      "src": "News",
-      "time": "12 Jun 04:25",
-      "title": "San Quentin prison reports possible hantavirus case",
-      "tag": "u",
-      "url": "https://www.mercurynews.com/2026/06/12/san-quentin-prison-reports-possible-hantavirus-case/",
-      "live": true,
-      "added": "2026-06-12T19:55:21.144Z"
     }
   ],
   "travel": [
