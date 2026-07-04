@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T08:25:22.674Z",
+  "last_updated": "2026-07-04T13:02:14.269Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "03 Jul 23:15",
+      "title": "WHO Ends Cruise Ship-Linked Hantavirus Outbreak",
+      "tag": "u",
+      "url": "https://www.medindia.net/news/who-ends-cruise-ship-linked-hantavirus-outbreak-223986-1.htm",
+      "live": true,
+      "added": "2026-07-04T13:02:11.049Z"
+    },
+    {
+      "src": "News",
+      "time": "02 Jul 11:15",
+      "title": "The hantavirus outbreak is over, WHO declares",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/the-hantavirus-outbreak-is-over-who-declares/ar-AA2751uH",
+      "live": true,
+      "added": "2026-07-04T13:02:11.048Z"
+    },
+    {
+      "src": "News",
       "time": "02 Jul 17:04",
       "title": "Andes hantavirus: operationalising science in real time",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.msn.com/en-us/news/world/us-spends-750k-to-evacuate-american-stranded-abroad-hantavirus-struck-cruise-ship/ar-AA25wE69",
       "live": true,
       "added": "2026-06-13T08:47:35.396Z"
-    },
-    {
-      "src": "News",
-      "time": "12 Jun 19:22",
-      "title": "No hantavirus found in second Argentine province: ministry",
-      "tag": "u",
-      "url": "https://health.economictimes.indiatimes.com/news/industry/no-hantavirus-found-in-second-argentine-province-ministry/131696227",
-      "live": true,
-      "added": "2026-06-13T02:34:27.303Z"
-    },
-    {
-      "src": "News",
-      "time": "12 Jun 18:22",
-      "title": "San Quentin suspected hantavirus case of 38-year-old inmate ruled a false positive, officials say",
-      "tag": "u",
-      "url": "https://www.yahoo.com/news/science/articles/san-quentin-suspected-hantavirus-case-010516491.html",
-      "live": true,
-      "added": "2026-06-13T02:34:27.302Z"
     }
   ],
   "travel": [
