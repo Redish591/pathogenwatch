@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T13:10:42.720Z",
+  "last_updated": "2026-07-05T19:03:09.437Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "05 Jul 05:44",
+      "title": "Video: WHO declares hantavirus outbreak that started on Dutch cruise ship over",
+      "tag": "u",
+      "url": "https://nltimes.nl/2026/07/05/video-declares-hantavirus-outbreak-started-dutch-cruise-ship",
+      "live": true,
+      "added": "2026-07-05T19:03:06.161Z"
+    },
+    {
+      "src": "News",
       "time": "14 May 17:00",
       "title": "The Hantavirus Is Also a Climate Warning",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.yahoo.com/news/science/articles/hantavirus-exposures-3-kansans-complete-090630830.html",
       "live": true,
       "added": "2026-06-13T19:09:40.864Z"
-    },
-    {
-      "src": "News",
-      "time": "11 Jun 10:45",
-      "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms",
-      "tag": "u",
-      "url": "https://www.npr.org/2026/06/11/nx-s1-5854492/hantavirus-ebola-health-freedom",
-      "live": true,
-      "added": "2026-06-13T08:47:35.397Z"
     }
   ],
   "travel": [

@@ -1184,3 +1184,8 @@ the bot are listed under the timestamp.
 [2026-07-04T18:57:45.561Z] 2 change(s):
   + News | The Hantavirus Is Also a Climate Warning
   ~ extraction skipped: The proposed cases=11 value comes from a headline about a French patient, but most headlines describe a cruise-linked outbreak that WHO declared officially over, creating conflicting information with no single authoritative statement supporting cases=11 and deaths=null simultaneously.
+
+[2026-07-05T19:03:09.438Z] 3 change(s):
+  ~ AI filtered 1 low-quality item(s)
+  + News | Video: WHO declares hantavirus outbreak that started on Dutch cruise s
+  ~ extraction skipped: The proposed cases=11 value comes from a headline about a French patient, but most headlines declare the outbreak officially over by WHO, making case count updates contradict the current status and lack explicit attribution to an official health authority statement.
