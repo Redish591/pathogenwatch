@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T19:03:09.437Z",
+  "last_updated": "2026-07-06T02:15:14.410Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "05 Jul 00:09",
+      "title": "Fact Check: Was Hantavirus Created for Global Elite Profits?",
+      "tag": "u",
+      "url": "https://en.tempo.co/read/2111989/fact-check-was-hantavirus-created-for-global-elite-profits",
+      "live": true,
+      "added": "2026-07-06T02:15:12.073Z"
+    },
+    {
+      "src": "News",
       "time": "05 Jul 05:44",
       "title": "Video: WHO declares hantavirus outbreak that started on Dutch cruise ship over",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-ca/money/general/rodents-in-your-hvac-system-can-spread-hantavirus-cause-fires-and-cost-you-thousands-how-to-protect-your-home-and-your-health/ar-AA25y561",
       "live": true,
       "added": "2026-06-13T19:09:40.865Z"
-    },
-    {
-      "src": "News",
-      "time": "13 Jun 05:58",
-      "title": "After hantavirus exposures, 3 Kansans complete observation period",
-      "tag": "u",
-      "url": "https://www.yahoo.com/news/science/articles/hantavirus-exposures-3-kansans-complete-090630830.html",
-      "live": true,
-      "added": "2026-06-13T19:09:40.864Z"
     }
   ],
   "travel": [

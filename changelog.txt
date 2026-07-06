@@ -1189,3 +1189,6 @@ the bot are listed under the timestamp.
   ~ AI filtered 1 low-quality item(s)
   + News | Video: WHO declares hantavirus outbreak that started on Dutch cruise s
   ~ extraction skipped: The proposed cases=11 value comes from a headline about a French patient, but most headlines declare the outbreak officially over by WHO, making case count updates contradict the current status and lack explicit attribution to an official health authority statement.
+
+[2026-07-06T02:15:14.412Z] 1 change(s):
+  + News | Fact Check: Was Hantavirus Created for Global Elite Profits?
