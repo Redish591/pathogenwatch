@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T15:13:58.579Z",
+  "last_updated": "2026-07-06T19:44:05.457Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "06 Jul 11:00",
+      "title": "If you catch hantavirus on a cruise, the cruise line probably doesn't owe you a cent — here's why",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/if-you-catch-hantavirus-on-a-cruise-the-cruise-line-probably-doesnt-owe-you-a-cent-heres-why/ar-AA27leJD?ocid=BingNewsVerp",
+      "live": true,
+      "added": "2026-07-06T19:44:00.337Z"
+    },
+    {
+      "src": "News",
       "time": "05 Jul 00:09",
       "title": "Fact Check: Was Hantavirus Created for Global Elite Profits?",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://nltimes.nl/2026/06/13/radboudumc-lifts-quarantine-staff-hantavirus-exposure",
       "live": true,
       "added": "2026-06-14T02:45:55.611Z"
-    },
-    {
-      "src": "News",
-      "time": "13 Jun 01:30",
-      "title": "Rodents in your HVAC system can spread hantavirus, cause fires and cost you thousands. How to protect your home and your health",
-      "tag": "u",
-      "url": "https://www.msn.com/en-ca/money/general/rodents-in-your-hvac-system-can-spread-hantavirus-cause-fires-and-cost-you-thousands-how-to-protect-your-home-and-your-health/ar-AA25y561",
-      "live": true,
-      "added": "2026-06-13T19:09:40.865Z"
     }
   ],
   "travel": [
