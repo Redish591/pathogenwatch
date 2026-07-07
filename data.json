@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T19:44:05.457Z",
+  "last_updated": "2026-07-07T02:10:44.776Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "06 Jul 13:29",
+      "title": "Oceanwide CEO Issues Statement Following Hantavirus Outbreak",
+      "tag": "u",
+      "url": "https://cruiseindustrynews.com/cruise-news/2026/07/oceanwide-ceo-issues-statement-following-hantavirus-outbreak/",
+      "live": true,
+      "added": "2026-07-07T02:10:42.145Z"
+    },
+    {
+      "src": "News",
       "time": "06 Jul 11:00",
       "title": "If you catch hantavirus on a cruise, the cruise line probably doesn't owe you a cent — here's why",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://theconversation.com/ebola-hantavirus-diphtheria-how-distrust-in-health-care-is-fuelling-multiple-outbreaks-across-the-globe-284432",
       "live": true,
       "added": "2026-06-15T02:50:31.131Z"
-    },
-    {
-      "src": "News",
-      "time": "13 Jun 07:55",
-      "title": "Radboudumc lifts quarantine for some staff after hantavirus exposure",
-      "tag": "u",
-      "url": "https://nltimes.nl/2026/06/13/radboudumc-lifts-quarantine-staff-hantavirus-exposure",
-      "live": true,
-      "added": "2026-06-14T02:45:55.611Z"
     }
   ],
   "travel": [
