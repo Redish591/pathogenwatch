@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T14:08:59.490Z",
+  "last_updated": "2026-07-07T19:42:46.496Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "06 Jul 12:22",
+      "title": "Korea University College of Medicine selected as the lead institution for hantavirus vaccine development project",
+      "tag": "u",
+      "url": "https://www.news-medical.net/news/20260706/Korea-University-College-of-Medicine-selected-as-the-lead-institution-for-hantavirus-vaccine-development-project.aspx",
+      "live": true,
+      "added": "2026-07-07T19:42:41.837Z"
+    },
+    {
+      "src": "News",
       "time": "06 Jul 13:29",
       "title": "Oceanwide CEO Issues Statement Following Hantavirus Outbreak",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/diseases-and-conditions/san-quentin-s-suspected-hantavirus-case-a-false-positive-additional-tests-show/ar-AA25EjIN",
       "live": true,
       "added": "2026-06-15T11:47:38.716Z"
-    },
-    {
-      "src": "News",
-      "time": "14 Jun 13:14",
-      "title": "Ebola, hantavirus, diphtheria: how distrust in health care is fuelling multiple outbreaks across the globe",
-      "tag": "u",
-      "url": "https://theconversation.com/ebola-hantavirus-diphtheria-how-distrust-in-health-care-is-fuelling-multiple-outbreaks-across-the-globe-284432",
-      "live": true,
-      "added": "2026-06-15T02:50:31.131Z"
     }
   ],
   "travel": [
