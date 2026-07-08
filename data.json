@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T01:51:18.293Z",
+  "last_updated": "2026-07-08T08:09:30.432Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "03 Jul 04:41",
+      "title": "WHO declares cruise ship hantavirus outbreak over",
+      "tag": "u",
+      "url": "https://medicalxpress.com/news/2026-07-declares-cruise-ship-linked-hantavirus.html",
+      "live": true,
+      "added": "2026-07-08T08:09:28.066Z"
+    },
+    {
+      "src": "News",
       "time": "02 Jul 08:38",
       "title": "Hantavirus outbreak linked to cruise ship over, WHO says",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.foxnews.com/health/everyday-places-americans-could-exposed-hantavirus-without-knowing",
       "live": true,
       "added": "2026-06-15T17:00:19.646Z"
-    },
-    {
-      "src": "News",
-      "time": "14 Jun 04:00",
-      "title": "Table for one: Exposed to deadly hantavirus, man is eating his way through quarantine",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/nutrition/table-for-one-exposed-to-deadly-hantavirus-man-is-eating-his-way-through-quarantine/ar-AA25BXnf",
-      "live": true,
-      "added": "2026-06-15T17:00:19.645Z"
     }
   ],
   "travel": [

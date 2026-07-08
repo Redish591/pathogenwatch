@@ -1204,3 +1204,6 @@ the bot are listed under the timestamp.
 
 [2026-07-08T01:51:18.294Z] 1 change(s):
   + News | Hantavirus outbreak linked to cruise ship over, WHO says
+
+[2026-07-08T08:09:30.433Z] 1 change(s):
+  + News | WHO declares cruise ship hantavirus outbreak over
