@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T08:09:30.432Z",
+  "last_updated": "2026-07-08T13:42:40.271Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "01 Jun 01:00",
+      "title": "Super El Ni&#241;o Could Mean More US Hantavirus Cases This Summer",
+      "tag": "u",
+      "url": "https://www.newsweek.com/super-el-nino-more-hantavirus-cases-this-summer-us-11994190",
+      "live": true,
+      "added": "2026-07-08T13:42:36.022Z"
+    },
+    {
+      "src": "News",
       "time": "03 Jul 04:41",
       "title": "WHO declares cruise ship hantavirus outbreak over",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.news-medical.net/news/20260610/Why-Andes-hantavirus-is-not-the-next-COVID-19.aspx",
       "live": true,
       "added": "2026-06-15T20:46:41.098Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 04:00",
-      "title": "The everyday places Americans could be exposed to hantavirus — without knowing it",
-      "tag": "u",
-      "url": "https://www.foxnews.com/health/everyday-places-americans-could-exposed-hantavirus-without-knowing",
-      "live": true,
-      "added": "2026-06-15T17:00:19.646Z"
     }
   ],
   "travel": [
