@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T02:04:07.962Z",
+  "last_updated": "2026-07-09T09:27:29.744Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "03 Jun 16:29",
+      "title": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue",
+      "tag": "u",
+      "url": "https://www.newsday.com/news/nation/hantavirus-vaccine-treatment-cruise-ship-chile-argentina-a68214",
+      "live": true,
+      "added": "2026-07-09T09:27:27.434Z"
+    },
+    {
+      "src": "News",
       "time": "01 Jun 01:00",
       "title": "Super El Ni&#241;o Could Mean More US Hantavirus Cases This Summer",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.foxnews.com/health/hantavirus-fears-spark-covid-flashbacks-experts-say-theres-one-major-difference",
       "live": true,
       "added": "2026-06-15T20:46:41.099Z"
-    },
-    {
-      "src": "News",
-      "time": "10 Jun 04:12",
-      "title": "Why Andes hantavirus is not the next COVID-19",
-      "tag": "u",
-      "url": "https://www.news-medical.net/news/20260610/Why-Andes-hantavirus-is-not-the-next-COVID-19.aspx",
-      "live": true,
-      "added": "2026-06-15T20:46:41.098Z"
     }
   ],
   "travel": [
