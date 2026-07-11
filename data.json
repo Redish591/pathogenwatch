@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T19:16:47.180Z",
+  "last_updated": "2026-07-11T07:41:19.441Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "29 May 06:23",
+      "title": "Hantavirus Patients Under Quarantine Could Go Home—If They Agree To 24/7 Surveillance, Report Says (Latest Updates)",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/oregon-doctor-who-tested-positive-for-hantavirus-treated-passengers-aboard-cruise-latest-updates/ar-AA22rrN8",
+      "live": true,
+      "added": "2026-07-11T07:41:17.126Z"
+    },
+    {
+      "src": "News",
       "time": "07 May 10:40",
       "title": "How a deadly hantavirus outbreak unfolded on a cruise ship for weeks before it was identified",
       "tag": "u",
@@ -3332,15 +3341,6 @@
       "title": "RFK Jr. orders American exposed to hantavirus to stay quarantined against medical advice",
       "tag": "u",
       "url": "https://www.msn.com/en-us/health/general/rfk-jr-orders-american-exposed-to-hantavirus-to-stay-quarantined-against-medical-advice/ar-AA25K0IR",
-      "live": true,
-      "added": "2026-06-16T10:55:30.955Z"
-    },
-    {
-      "src": "News",
-      "time": "15 Jun 19:04",
-      "title": "RFK Jr. orders hantavirus cruise passenger to remain in secure facility, overrules federal medical review",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/rfk-jr-orders-hantavirus-cruise-passenger-to-remain-in-secure-facility-overrules-federal-medical-review/ar-AA25ITZx",
       "live": true,
       "added": "2026-06-16T10:55:30.955Z"
     }
