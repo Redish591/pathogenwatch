@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T07:41:19.441Z",
+  "last_updated": "2026-07-11T12:57:33.167Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "14 May 11:23",
+      "title": "Hantavirus fears spark COVID flashbacks, but experts say there’s one major difference",
+      "tag": "u",
+      "url": "https://www.foxnews.com/health/hantavirus-fears-spark-covid-flashbacks-experts-say-theres-one-major-difference",
+      "live": true,
+      "added": "2026-07-11T12:57:29.974Z"
+    },
+    {
+      "src": "News",
       "time": "29 May 06:23",
       "title": "Hantavirus Patients Under Quarantine Could Go Home—If They Agree To 24/7 Surveillance, Report Says (Latest Updates)",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.yahoo.com/news/us/articles/hantavirus-cruise-passenger-says-she-041046774.html",
       "live": true,
       "added": "2026-06-16T10:55:30.956Z"
-    },
-    {
-      "src": "News",
-      "time": "15 Jun 21:02",
-      "title": "RFK Jr. orders American exposed to hantavirus to stay quarantined against medical advice",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/general/rfk-jr-orders-american-exposed-to-hantavirus-to-stay-quarantined-against-medical-advice/ar-AA25K0IR",
-      "live": true,
-      "added": "2026-06-16T10:55:30.955Z"
     }
   ],
   "travel": [
