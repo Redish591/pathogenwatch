@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T08:01:38.252Z",
+  "last_updated": "2026-07-12T12:58:23.391Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "12 Jul 01:54",
+      "title": "Mice hidden behind dishwasher sparks Kylie Kelce's hantavirus fears",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/mice-hidden-behind-dishwasher-sparks-kylie-kelces-hantavirus-fears/ar-AA27Jege",
+      "live": true,
+      "added": "2026-07-12T12:58:20.851Z"
+    },
+    {
+      "src": "News",
       "time": "11 Jul 16:23",
       "title": "Hantavirus outbreak offers lessons for the next pandemic",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.seattletimes.com/nation-world/nation/rfk-jr-orders-woman-to-stay-in-hantavirus-quarantine-despite-cdc-recommendation/",
       "live": true,
       "added": "2026-06-16T10:55:30.957Z"
-    },
-    {
-      "src": "News",
-      "time": "15 Jun 14:48",
-      "title": "Kennedy Orders Woman to Stay in Hantavirus Quarantine, Despite C.D.C. Recommendation",
-      "tag": "u",
-      "url": "https://www.nytimes.com/2026/06/15/health/hantavirus-quarantine-kennedy.html",
-      "live": true,
-      "added": "2026-06-16T10:55:30.956Z"
     }
   ],
   "travel": [
