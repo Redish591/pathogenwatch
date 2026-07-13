@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T18:52:12.805Z",
+  "last_updated": "2026-07-13T08:50:49.689Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "13 May 07:08",
+      "title": "HOMETOWN HEALTH: Hantavirus outbreak reaches 11 cases; local expert says strain differs from COVID-19",
+      "tag": "u",
+      "url": "https://www.wdbj7.com/2026/05/13/hometown-health-hantavirus-outbreak-reaches-11-cases-local-expert-says-strain-differs-covid-19/",
+      "live": true,
+      "added": "2026-07-13T08:50:47.578Z"
+    },
+    {
+      "src": "News",
       "time": "12 Jul 01:54",
       "title": "Mice hidden behind dishwasher sparks Kylie Kelce's hantavirus fears",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/kennedy-orders-american-exposed-to-hantavirus-to-stay-quarantined-against-her-will-wsj-reports/ar-AA25Nbru",
       "live": true,
       "added": "2026-06-16T20:39:59.591Z"
-    },
-    {
-      "src": "News",
-      "time": "15 Jun 17:48",
-      "title": "RFK Jr. orders woman to stay in hantavirus quarantine, despite CDC recommendation",
-      "tag": "u",
-      "url": "https://www.seattletimes.com/nation-world/nation/rfk-jr-orders-woman-to-stay-in-hantavirus-quarantine-despite-cdc-recommendation/",
-      "live": true,
-      "added": "2026-06-16T10:55:30.957Z"
     }
   ],
   "travel": [
