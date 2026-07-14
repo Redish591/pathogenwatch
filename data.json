@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T14:08:27.614Z",
+  "last_updated": "2026-07-14T01:41:58.421Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "13 Jul 11:00",
+      "title": "Experts warn rodents nesting in your HVAC unit can spark fires, cause damage and even spread hantavirus — here's how to keep your home safe",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/pets-and-animals/pets/experts-warn-rodents-nesting-in-your-hvac-unit-can-spark-fires-cause-damage-and-even-spread-hantavirus-here-s-how-to-keep-your-home-safe/ar-AA27PKe0",
+      "live": true,
+      "added": "2026-07-14T01:41:55.377Z"
+    },
+    {
+      "src": "News",
+      "time": "07 May 18:55",
+      "title": "Mysterious traders are betting on Hantavirus pandemic",
+      "tag": "u",
+      "url": "https://www.thestreet.com/crypto/markets/mysterious-traders-are-betting-on-hantavirus-pandemic",
+      "live": true,
+      "added": "2026-07-14T01:41:55.377Z"
+    },
+    {
+      "src": "News",
       "time": "13 May 07:08",
       "title": "HOMETOWN HEALTH: Hantavirus outbreak reaches 11 cases; local expert says strain differs from COVID-19",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/rfk-jr-orders-woman-to-remain-in-hantavirus-quarantine-against-medical-experts-advice/ar-AA25NLp7",
       "live": true,
       "added": "2026-06-16T20:39:59.592Z"
-    },
-    {
-      "src": "News",
-      "time": "16 Jun 08:29",
-      "title": "American says hantavirus quarantine order \"feels like retaliation\"",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/american-says-hantavirus-quarantine-order-feels-like-retaliation/ar-AA25NmHr",
-      "live": true,
-      "added": "2026-06-16T20:39:59.592Z"
-    },
-    {
-      "src": "News",
-      "time": "16 Jun 11:43",
-      "title": "Kennedy orders American exposed to hantavirus to stay quarantined against her will, WSJ reports",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/kennedy-orders-american-exposed-to-hantavirus-to-stay-quarantined-against-her-will-wsj-reports/ar-AA25Nbru",
-      "live": true,
-      "added": "2026-06-16T20:39:59.591Z"
     }
   ],
   "travel": [
