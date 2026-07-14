@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T07:48:01.334Z",
+  "last_updated": "2026-07-14T13:11:15.192Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "18 May 06:31",
+      "title": "Hantavirus in Africa: why climate change, rats and weak surveillance are worrying scientists",
+      "tag": "u",
+      "url": "https://theconversation.com/hantavirus-in-africa-why-climate-change-rats-and-weak-surveillance-are-worrying-scientists-282628",
+      "live": true,
+      "added": "2026-07-14T13:11:10.828Z"
+    },
+    {
+      "src": "News",
       "time": "13 Jul 11:00",
       "title": "Experts warn rodents nesting in your HVAC unit can spark fires, cause damage and even spread hantavirus — here's how to keep your home safe",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/rfk-jr-orders-passenger-from-hantavirus-stricken-cruise-to-remain-in-quarantine-in-nebraska-despite-cdc-recommendation/ar-AA25OK6H",
       "live": true,
       "added": "2026-06-17T02:49:11.755Z"
-    },
-    {
-      "src": "News",
-      "time": "16 Jun 12:18",
-      "title": "RFK Jr. orders woman to remain in hantavirus quarantine against medical expert's advice",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/rfk-jr-orders-woman-to-remain-in-hantavirus-quarantine-against-medical-experts-advice/ar-AA25NLp7",
-      "live": true,
-      "added": "2026-06-16T20:39:59.592Z"
     }
   ],
   "travel": [
