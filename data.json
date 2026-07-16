@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T01:48:23.698Z",
+  "last_updated": "2026-07-16T07:57:10.737Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "13 May 06:24",
+      "title": "Hantavirus questions grow in the wake of a cruise ship outbreak",
+      "tag": "u",
+      "url": "https://www.sciencenews.org/article/andes-hantavirus-cruise-ship-outbreak",
+      "live": true,
+      "added": "2026-07-16T07:57:08.667Z"
+    },
+    {
+      "src": "News",
       "time": "18 May 06:31",
       "title": "Hantavirus in Africa: why climate change, rats and weak surveillance are worrying scientists",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://apnews.com/article/hantavirus-cruise-ship-passenger-quarantine-rfk-d9872eff449cf62b9502b8dc6664fd5b",
       "live": true,
       "added": "2026-06-17T02:49:11.756Z"
-    },
-    {
-      "src": "News",
-      "time": "16 Jun 13:52",
-      "title": "RFK Jr. orders passenger from hantavirus-stricken cruise to remain in quarantine in Nebraska, despite CDC recommendation",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/rfk-jr-orders-passenger-from-hantavirus-stricken-cruise-to-remain-in-quarantine-in-nebraska-despite-cdc-recommendation/ar-AA25OK6H",
-      "live": true,
-      "added": "2026-06-17T02:49:11.755Z"
     }
   ],
   "travel": [
