@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T07:57:10.737Z",
+  "last_updated": "2026-07-16T18:57:04.829Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "11 May 11:06",
+      "title": "Passengers from hantavirus-linked ship may leave Nebraska under certain conditions, officials say",
+      "tag": "u",
+      "url": "https://www.foxnews.com/health/passengers-hantavirus-linked-ship-may-leave-nebraska-certain-conditions-officials-say",
+      "live": true,
+      "added": "2026-07-16T18:57:02.914Z"
+    },
+    {
+      "src": "News",
       "time": "13 May 06:24",
       "title": "Hantavirus questions grow in the wake of a cruise ship outbreak",
       "tag": "u",
@@ -3332,15 +3341,6 @@
       "title": "Hantavirus cruise passenger says she's being forced to quarantine in Nebraska",
       "tag": "u",
       "url": "https://www.msn.com/en-us/health/other/hantavirus-cruise-passenger-says-shes-being-forced-to-quarantine-in-nebraska/ar-AA25OhVj",
-      "live": true,
-      "added": "2026-06-17T02:49:11.756Z"
-    },
-    {
-      "src": "News",
-      "time": "16 Jun 15:59",
-      "title": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine",
-      "tag": "u",
-      "url": "https://apnews.com/article/hantavirus-cruise-ship-passenger-quarantine-rfk-d9872eff449cf62b9502b8dc6664fd5b",
       "live": true,
       "added": "2026-06-17T02:49:11.756Z"
     }
