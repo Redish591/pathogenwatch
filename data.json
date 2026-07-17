@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T13:07:00.579Z",
+  "last_updated": "2026-07-17T18:53:57.005Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "11 May 08:35",
+      "title": "Americans in Quarantine After Hantavirus Return Flight, One Tests Positive",
+      "tag": "u",
+      "url": "https://www.newsweek.com/hantavirus-cruise-ship-outbreak-update-american-positive-11935022",
+      "live": true,
+      "added": "2026-07-17T18:53:55.128Z"
+    },
+    {
+      "src": "News",
+      "time": "11 Jun 11:42",
+      "title": "Hantavirus symptoms detected in California superspreader hot spot",
+      "tag": "u",
+      "url": "https://www.yahoo.com/news/us/articles/hantavirus-symptoms-detected-san-quentin-184127148.html",
+      "live": true,
+      "added": "2026-07-17T18:53:55.128Z"
+    },
+    {
+      "src": "News",
       "time": "05 Jul 08:27",
       "title": "Infectious Disease Roundup: Ebola, West Nile, Hantavirus",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.msn.com/en-au/news/other/first-australian-hantavirus-cruise-ship-passenger-speaks-from-quarantine/ar-AA25UgHL",
       "live": true,
       "added": "2026-06-18T02:44:31.156Z"
-    },
-    {
-      "src": "News",
-      "time": "17 Jun 05:19",
-      "title": "Robert F Kennedy Jr. is forcing a hantavirus patient to remain in quarantine",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/medical/robert-f-kennedy-jr-is-forcing-a-hantavirus-patient-to-remain-in-quarantine/vi-AA25RPeA",
-      "live": true,
-      "added": "2026-06-17T14:52:57.631Z"
-    },
-    {
-      "src": "News",
-      "time": "16 Jun 15:50",
-      "title": "Woman exposed to hantavirus slams RFK Jr’s ‘arbitrary’ order to stay in quarantine facility",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/video/news/woman-exposed-to-hantavirus-slams-rfk-jr-s-arbitrary-order-to-stay-in-quarantine-facility/vi-AA25P7rk",
-      "live": true,
-      "added": "2026-06-17T10:27:28.169Z"
     }
   ],
   "travel": [

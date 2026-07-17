@@ -1252,3 +1252,7 @@ the bot are listed under the timestamp.
 
 [2026-07-17T13:07:00.580Z] 1 change(s):
   + News | Infectious Disease Roundup: Ebola, West Nile, Hantavirus
+
+[2026-07-17T18:53:57.006Z] 2 change(s):
+  + News | Americans in Quarantine After Hantavirus Return Flight, One Tests Posi
+  + News | Hantavirus symptoms detected in California superspreader hot spot
