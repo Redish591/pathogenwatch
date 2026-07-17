@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T07:53:43.982Z",
+  "last_updated": "2026-07-17T13:07:00.579Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "05 Jul 08:27",
+      "title": "Infectious Disease Roundup: Ebola, West Nile, Hantavirus",
+      "tag": "u",
+      "url": "https://www.labroots.com/trending/microbiology/30747/infectious-disease-roundup-ebola-west-nile-hantavirus",
+      "live": true,
+      "added": "2026-07-17T13:06:57.835Z"
+    },
+    {
+      "src": "News",
       "time": "16 Jul 13:31",
       "title": "The hantavirus outbreak has officially ended. Here are 5 lessons.",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-us/video/news/woman-exposed-to-hantavirus-slams-rfk-jr-s-arbitrary-order-to-stay-in-quarantine-facility/vi-AA25P7rk",
       "live": true,
       "added": "2026-06-17T10:27:28.169Z"
-    },
-    {
-      "src": "News",
-      "time": "16 Jun 15:05",
-      "title": "Secretario de Salud de EEUU ordena mantener en cuarentena a pasajera de crucero por hantavirus",
-      "tag": "u",
-      "url": "https://www.chicagotribune.com/2026/06/16/secretario-de-salud-de-eeuu-ordena-mantener-en-cuarentena-a-pasajera-de-crucero-por-hantavirus/",
-      "live": true,
-      "added": "2026-06-17T02:49:11.757Z"
     }
   ],
   "travel": [
