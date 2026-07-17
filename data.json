@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T18:57:04.829Z",
+  "last_updated": "2026-07-17T01:51:48.507Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "16 Jul 13:31",
+      "title": "The hantavirus outbreak has officially ended. Here are 5 lessons.",
+      "tag": "u",
+      "url": "https://www.washingtonpost.com/opinions/2026/07/16/hantavirus-cruise-ship-outbreak-has-ended-here-are-5-lessons/",
+      "live": true,
+      "added": "2026-07-17T01:51:46.533Z"
+    },
+    {
+      "src": "News",
       "time": "11 May 11:06",
       "title": "Passengers from hantavirus-linked ship may leave Nebraska under certain conditions, officials say",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.chicagotribune.com/2026/06/16/secretario-de-salud-de-eeuu-ordena-mantener-en-cuarentena-a-pasajera-de-crucero-por-hantavirus/",
       "live": true,
       "added": "2026-06-17T02:49:11.757Z"
-    },
-    {
-      "src": "News",
-      "time": "16 Jun 13:43",
-      "title": "Hantavirus cruise passenger says she's being forced to quarantine in Nebraska",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/hantavirus-cruise-passenger-says-shes-being-forced-to-quarantine-in-nebraska/ar-AA25OhVj",
-      "live": true,
-      "added": "2026-06-17T02:49:11.756Z"
     }
   ],
   "travel": [
