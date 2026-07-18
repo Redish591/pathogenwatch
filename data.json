@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T01:42:18.476Z",
+  "last_updated": "2026-07-18T07:28:38.579Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "12 May 18:15",
+      "title": "Cruise passenger shows life inside Nebraska quarantine after hantavirus exposure scare",
+      "tag": "u",
+      "url": "https://www.foxnews.com/health/cruise-passenger-shows-life-inside-nebraska-quarantine-after-hantavirus-exposure-scare",
+      "live": true,
+      "added": "2026-07-18T07:28:35.486Z"
+    },
+    {
+      "src": "News",
       "time": "11 May 08:35",
       "title": "Americans in Quarantine After Hantavirus Return Flight, One Tests Positive",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/officials-say-possible-hantavirus-case-in-san-quentin-prison-was-false-positive/ar-AA25vk3P",
       "live": true,
       "added": "2026-06-18T14:48:59.208Z"
-    },
-    {
-      "src": "News",
-      "time": "17 Jun 15:51",
-      "title": "First Australian hantavirus cruise ship passenger speaks from quarantine",
-      "tag": "u",
-      "url": "https://www.msn.com/en-au/news/other/first-australian-hantavirus-cruise-ship-passenger-speaks-from-quarantine/ar-AA25UgHL",
-      "live": true,
-      "added": "2026-06-18T02:44:31.156Z"
     }
   ],
   "travel": [
