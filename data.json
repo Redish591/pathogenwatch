@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T18:48:55.635Z",
+  "last_updated": "2026-07-19T01:50:16.497Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "07 May 11:11",
+      "title": "Maps Show Where Hantavirus Has Spread, New Suspected Cases Emerge",
+      "tag": "u",
+      "url": "https://www.newsweek.com/map-shows-where-hantavirus-has-spread-11924128",
+      "live": true,
+      "added": "2026-07-19T01:50:14.004Z"
+    },
+    {
+      "src": "News",
+      "time": "14 Jun 13:14",
+      "title": "Ebola, hantavirus, diphtheria: how distrust in health care is fuelling multiple outbreaks across the globe",
+      "tag": "u",
+      "url": "https://www.msn.com/en-au/health/other/ebola-hantavirus-diphtheria-how-distrust-in-health-care-is-fuelling-multiple-outbreaks-across-the-globe/ar-AA25DSWs",
+      "live": true,
+      "added": "2026-07-19T01:50:14.004Z"
+    },
+    {
+      "src": "News",
       "time": "12 May 18:15",
       "title": "Cruise passenger shows life inside Nebraska quarantine after hantavirus exposure scare",
       "tag": "u",
@@ -3323,24 +3341,6 @@
       "title": "What do Argentine scientists know about hantavirus so far?",
       "tag": "u",
       "url": "https://medicalxpress.com/news/2026-05-argentine-scientists-hantavirus.html",
-      "live": true,
-      "added": "2026-06-18T14:48:59.208Z"
-    },
-    {
-      "src": "News",
-      "time": "25 May 08:43",
-      "title": "Hantavirus ‘stable for now,’ WHO leader says",
-      "tag": "u",
-      "url": "https://www.yahoo.com/news/science/articles/hantavirus-stable-now-leader-says-154332994.html",
-      "live": true,
-      "added": "2026-06-18T14:48:59.208Z"
-    },
-    {
-      "src": "News",
-      "time": "12 Jun 11:30",
-      "title": "Officials say possible hantavirus case in San Quentin prison was false positive",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/officials-say-possible-hantavirus-case-in-san-quentin-prison-was-false-positive/ar-AA25vk3P",
       "live": true,
       "added": "2026-06-18T14:48:59.208Z"
     }
