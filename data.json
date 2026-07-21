@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T08:09:06.356Z",
+  "last_updated": "2026-07-21T13:18:28.784Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "21 Jul 02:01",
+      "title": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’",
+      "tag": "u",
+      "url": "https://www.nytimes.com/2026/07/21/health/hantavirus-quarantine-americans.html",
+      "live": true,
+      "added": "2026-07-21T13:18:25.982Z"
+    },
+    {
+      "src": "News",
       "time": "13 May 04:00",
       "title": "The everyday places Americans could be exposed to hantavirus — without knowing it",
       "tag": "u",
@@ -3332,15 +3341,6 @@
       "title": "5 Urgent Questions After The WHO Emergency Hantavirus Meeting",
       "tag": "u",
       "url": "https://www.forbes.com/sites/stephenbrozak/2026/05/15/4-urgent-questions-after-the-who-emergency-hantavirus-meeting/",
-      "live": true,
-      "added": "2026-06-18T14:48:59.209Z"
-    },
-    {
-      "src": "News",
-      "time": "15 May 06:26",
-      "title": "WHO reports 10 hantavirus cases, 3 deaths, tied to cruise ship",
-      "tag": "u",
-      "url": "https://www.upi.com/Top_News/World-News/2026/05/15/who-hantavirus-response-update-10-cases/2551778864423/",
       "live": true,
       "added": "2026-06-18T14:48:59.209Z"
     }
