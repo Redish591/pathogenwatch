@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T13:18:28.784Z",
+  "last_updated": "2026-07-21T19:04:36.853Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,42 @@
   "news": [
     {
       "src": "News",
+      "time": "21 Jul 11:15",
+      "title": "Hantavirus kills three in Venezuela",
+      "tag": "u",
+      "url": "https://www.jamaicaobserver.com/2026/07/21/hantavirus-kills-three-venezuela/",
+      "live": true,
+      "added": "2026-07-21T19:04:34.848Z"
+    },
+    {
+      "src": "News",
+      "time": "21 Jul 12:04",
+      "title": "Venezuela confirms 3 hantavirus deaths, rules out person-to-person transmission",
+      "tag": "u",
+      "url": "https://www.thestar.com.my/news/world/2026/07/22/venezuela-confirms-3-hantavirus-deaths-rules-out-person-to-person-transmission",
+      "live": true,
+      "added": "2026-07-21T19:04:34.848Z"
+    },
+    {
+      "src": "News",
+      "time": "21 Jul 08:29",
+      "title": "Venezuela says three people with confirmed hantavirus have died",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/venezuela-says-three-people-with-confirmed-hantavirus-have-died/ar-AA28o4O9",
+      "live": true,
+      "added": "2026-07-21T19:04:34.847Z"
+    },
+    {
+      "src": "News",
+      "time": "21 Jul 11:03",
+      "title": "Three people dead from Hantavirus in Venezuela spark outbreak concerns",
+      "tag": "u",
+      "url": "https://www.independent.co.uk/news/health/hantavirus-venezuela-dead-anzoategui-b3019007.html",
+      "live": true,
+      "added": "2026-07-21T19:04:34.847Z"
+    },
+    {
+      "src": "News",
       "time": "21 Jul 02:01",
       "title": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’",
       "tag": "u",
@@ -3307,42 +3343,6 @@
       "url": "https://www.msn.com/en-us/news/other/hantavirus-update-2-more-leave-national-quarantine-unit-in-omaha/ar-AA261L1p",
       "live": true,
       "added": "2026-06-19T10:13:35.950Z"
-    },
-    {
-      "src": "News",
-      "time": "17 Jun 06:26",
-      "title": "RFK Jr. orders American exposed to hantavirus to stay quarantined against her will",
-      "tag": "u",
-      "url": "https://www.usatoday.com/story/news/health/2026/06/17/rfk-jr-american-hantavirus-passenger-angela-perryman/90586533007/",
-      "live": true,
-      "added": "2026-06-18T20:12:18.341Z"
-    },
-    {
-      "src": "News",
-      "time": "17 Jun 16:22",
-      "title": "RFK Jr. orders hantavirus cruise ship passenger to stay in quarantine",
-      "tag": "u",
-      "url": "https://www.yahoo.com/news/us/articles/rfk-jr-orders-hantavirus-cruise-190724616.html",
-      "live": true,
-      "added": "2026-06-18T20:12:18.341Z"
-    },
-    {
-      "src": "News",
-      "time": "18 Jun 00:45",
-      "title": "Aussie trapped in six-week quarantine speaks out on cruise from hell after hantavirus broke out",
-      "tag": "u",
-      "url": "https://www.msn.com/en-xl/news/other/aussie-trapped-in-six-week-quarantine-speaks-out-on-cruise-from-hell-after-hantavirus-broke-out/ar-AA25WkFU",
-      "live": true,
-      "added": "2026-06-18T20:12:18.340Z"
-    },
-    {
-      "src": "News",
-      "time": "15 May 13:06",
-      "title": "5 Urgent Questions After The WHO Emergency Hantavirus Meeting",
-      "tag": "u",
-      "url": "https://www.forbes.com/sites/stephenbrozak/2026/05/15/4-urgent-questions-after-the-who-emergency-hantavirus-meeting/",
-      "live": true,
-      "added": "2026-06-18T14:48:59.209Z"
     }
   ],
   "travel": [
