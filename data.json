@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T19:04:36.853Z",
+  "last_updated": "2026-07-22T01:48:56.526Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "20 Jul 11:41",
+      "title": "After cruise ship outbreak, review examines how hantavirus affects the brain",
+      "tag": "u",
+      "url": "https://www.cidrap.umn.edu/hantavirus/after-cruise-ship-outbreak-review-examines-how-hantavirus-affects-brain",
+      "live": true,
+      "added": "2026-07-22T01:48:54.008Z"
+    },
+    {
+      "src": "News",
+      "time": "21 Jul 16:20",
+      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/general/venezuela-confirms-3-people-have-died-of-hantavirus-infections-with-2-more-deaths-suspected/ar-AA28p19z",
+      "live": true,
+      "added": "2026-07-22T01:48:54.007Z"
+    },
+    {
+      "src": "News",
       "time": "21 Jul 11:15",
       "title": "Hantavirus kills three in Venezuela",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.foxnews.com/health/american-evacuated-cruise-ship-tests-positive-hantavirus-another-symptoms-hhs-confirms",
       "live": true,
       "added": "2026-06-20T02:34:18.466Z"
-    },
-    {
-      "src": "News",
-      "time": "19 Jun 07:22",
-      "title": "2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/2-more-cruise-ship-passengers-leave-omaha-quarantine-after-deadly-hantavirus-outbreak/ar-AA2648gH",
-      "live": true,
-      "added": "2026-06-20T02:34:18.465Z"
-    },
-    {
-      "src": "News",
-      "time": "18 Jun 19:24",
-      "title": "Hantavirus update: 2 more leave National Quarantine Unit in Omaha",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/news/other/hantavirus-update-2-more-leave-national-quarantine-unit-in-omaha/ar-AA261L1p",
-      "live": true,
-      "added": "2026-06-19T10:13:35.950Z"
     }
   ],
   "travel": [
