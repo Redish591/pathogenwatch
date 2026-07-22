@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T01:48:56.526Z",
+  "last_updated": "2026-07-22T08:09:34.710Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,33 @@
   "news": [
     {
       "src": "News",
+      "time": "21 Jul 12:30",
+      "title": "Venezuela confirms 3 people have died of hantavirus infections, 2 more suspected",
+      "tag": "u",
+      "url": "https://www.timeslive.co.za/news/world/2026-07-22-venezuela-confirms-3-people-have-died-of-hantavirus-infections-2-more-suspected/",
+      "live": true,
+      "added": "2026-07-22T08:09:32.648Z"
+    },
+    {
+      "src": "News",
+      "time": "21 Jul 23:36",
+      "title": "Hantavirus Outbreak in Venezuela: 3 Dead, 2 More Suspected as Health Alert Grows",
+      "tag": "u",
+      "url": "https://www.timesnownews.com/health/hantavirus-outbreak-in-venezuela-3-dead-2-more-suspected-as-health-alert-grows-article-155149181",
+      "live": true,
+      "added": "2026-07-22T08:09:32.647Z"
+    },
+    {
+      "src": "News",
+      "time": "21 Jul 21:00",
+      "title": "Colchester nurses recognised for helping to stop hantavirus spread",
+      "tag": "u",
+      "url": "https://www.msn.com/en-gb/health/other/colchester-nurses-recognised-for-helping-to-stop-hantavirus-spread/ar-AA28pEb0",
+      "live": true,
+      "added": "2026-07-22T08:09:32.646Z"
+    },
+    {
+      "src": "News",
       "time": "20 Jul 11:41",
       "title": "After cruise ship outbreak, review examines how hantavirus affects the brain",
       "tag": "u",
@@ -3316,33 +3343,6 @@
       "url": "https://www.gmanetwork.com/news/pinoyabroad/dispatch/992117/38-filipinos-from-hantavirus-hit-mv-hondius-back-in-ph/story/",
       "live": true,
       "added": "2026-06-20T19:10:47.020Z"
-    },
-    {
-      "src": "News",
-      "time": "19 Jun 04:08",
-      "title": "What did we learn from the hantavirus cruise ship scare?",
-      "tag": "u",
-      "url": "https://www.msn.com/en-gb/health/other/what-did-we-learn-from-the-hantavirus-cruise-ship-scare/ar-AA263BdV",
-      "live": true,
-      "added": "2026-06-20T13:29:47.981Z"
-    },
-    {
-      "src": "News",
-      "time": "20 Jun 06:16",
-      "title": "Pinoy crew members of hantavirus ship return to PH",
-      "tag": "u",
-      "url": "https://www.manilatimes.net/2026/06/20/news/pinoy-crew-members-of-hantavirus-ship-return-to-ph/2369424",
-      "live": true,
-      "added": "2026-06-20T13:29:47.981Z"
-    },
-    {
-      "src": "News",
-      "time": "11 May 03:57",
-      "title": "American evacuated from cruise ship tests positive for hantavirus, another has symptoms, HHS confirms",
-      "tag": "u",
-      "url": "https://www.foxnews.com/health/american-evacuated-cruise-ship-tests-positive-hantavirus-another-symptoms-hhs-confirms",
-      "live": true,
-      "added": "2026-06-20T02:34:18.466Z"
     }
   ],
   "travel": [
