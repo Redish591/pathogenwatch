@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T08:09:34.710Z",
+  "last_updated": "2026-07-22T13:23:10.166Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "19 May 11:45",
+      "title": "What it’s like being stuck in a hantavirus quarantine for six weeks",
+      "tag": "u",
+      "url": "https://www.yahoo.com/news/articles/being-stuck-hantavirus-quarantine-six-184500221.html",
+      "live": true,
+      "added": "2026-07-22T13:23:06.379Z"
+    },
+    {
+      "src": "News",
+      "time": "22 Jul 01:24",
+      "title": "What is Hantavirus and what are the symptoms? All you need to know as three dead in Venezuela",
+      "tag": "u",
+      "url": "https://ca.news.yahoo.com/hantavirus-symptoms-know-three-dead-082537804.html",
+      "live": true,
+      "added": "2026-07-22T13:23:06.376Z"
+    },
+    {
+      "src": "News",
       "time": "21 Jul 12:30",
       "title": "Venezuela confirms 3 people have died of hantavirus infections, 2 more suspected",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.nbcnews.com/health/health-news/hantavirus-cruise-quarantine-ends-passengers-scientists-lessons-rcna349803",
       "live": true,
       "added": "2026-06-21T13:49:50.997Z"
-    },
-    {
-      "src": "News",
-      "time": "20 Jun 11:34",
-      "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine",
-      "tag": "u",
-      "url": "https://www.theguardian.com/world/2026/jun/20/rfk-jr-hantavirus-quarantine",
-      "live": true,
-      "added": "2026-06-21T09:36:59.195Z"
-    },
-    {
-      "src": "News",
-      "time": "19 Jun 20:48",
-      "title": "38 Filipinos from hantavirus-hit MV Hondius back in PH",
-      "tag": "u",
-      "url": "https://www.gmanetwork.com/news/pinoyabroad/dispatch/992117/38-filipinos-from-hantavirus-hit-mv-hondius-back-in-ph/story/",
-      "live": true,
-      "added": "2026-06-20T19:10:47.020Z"
     }
   ],
   "travel": [
