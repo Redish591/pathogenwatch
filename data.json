@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T08:13:08.048Z",
+  "last_updated": "2026-07-23T19:00:31.142Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "21 May 14:31",
+      "title": "How to Protect Yourself From Hantavirus: An Expert Guide",
+      "tag": "u",
+      "url": "https://www.everydayhealth.com/infectious-diseases/how-to-protect-yourself-from-hantavirus/",
+      "live": true,
+      "added": "2026-07-23T19:00:28.657Z"
+    },
+    {
+      "src": "News",
       "time": "22 Jul 02:25",
       "title": "What is Hantavirus – and what are the symptoms?",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.politico.com/newsletters/politico-pulse/2026/06/22/the-hantavirus-disaster-that-wasnt-00969426",
       "live": true,
       "added": "2026-06-22T16:30:00.426Z"
-    },
-    {
-      "src": "News",
-      "time": "22 Jun 07:19",
-      "title": "American passenger from hantavirus cruise ship leaves quarantine after 42 days: 'Forever grateful'",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/general/american-passenger-from-hantavirus-cruise-ship-leaves-quarantine-after-42-days-forever-grateful/ar-AA26glbB",
-      "live": true,
-      "added": "2026-06-22T16:30:00.425Z"
     }
   ],
   "travel": [
