@@ -1293,3 +1293,7 @@ the bot are listed under the timestamp.
   ~ AI filtered 1 low-quality item(s)
   + News | Venezuela confirms 3 people have died of hantavirus infections, 2 more
   + News | Hantavirus has no cure. Here's where researchers are at with treatment
+
+[2026-07-23T08:13:08.049Z] 2 change(s):
+  ~ AI filtered 1 low-quality item(s)
+  + News | What is Hantavirus – and what are the symptoms?

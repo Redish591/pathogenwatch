@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T01:56:08.587Z",
+  "last_updated": "2026-07-23T08:13:08.048Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "22 Jul 02:25",
+      "title": "What is Hantavirus – and what are the symptoms?",
+      "tag": "u",
+      "url": "https://www.msn.com/en-nz/news/other/what-is-hantavirus-and-what-are-the-symptoms/ar-AA28r0Eg",
+      "live": true,
+      "added": "2026-07-23T08:13:04.519Z"
+    },
+    {
+      "src": "News",
       "time": "16 May 01:01",
       "title": "Hantavirus has no cure. Here's where researchers are at with treatments and vaccines",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/general/american-passenger-from-hantavirus-cruise-ship-leaves-quarantine-after-42-days-forever-grateful/ar-AA26glbB",
       "live": true,
       "added": "2026-06-22T16:30:00.425Z"
-    },
-    {
-      "src": "News",
-      "time": "22 Jun 02:02",
-      "title": "Irish survivor of Hantavirus cruise opens up about her terrifying ordeal and the hidden heroes on board",
-      "tag": "u",
-      "url": "https://www.independent.ie/irish-news/health/irish-survivor-of-hantavirus-cruise-opens-up-about-her-terrifying-ordeal-and-the-hidden-heroes-on-board/a/157284394.html",
-      "live": true,
-      "added": "2026-06-22T11:36:24.098Z"
     }
   ],
   "travel": [
