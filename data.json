@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T19:00:31.142Z",
+  "last_updated": "2026-07-24T01:52:06.223Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "14 May 09:58",
+      "title": "Hantavirus Is Scary. Your Daily Habits Are More Dangerous",
+      "tag": "u",
+      "url": "https://www.forbes.com/sites/johnsamuels/2026/05/14/hantavirus-is-scary-your-daily-habits-are-more-dangerous/",
+      "live": true,
+      "added": "2026-07-24T01:52:03.854Z"
+    },
+    {
+      "src": "News",
       "time": "21 May 14:31",
       "title": "How to Protect Yourself From Hantavirus: An Expert Guide",
       "tag": "u",
@@ -3332,15 +3341,6 @@
       "title": "US hantavirus cruise passenger claims RFK Jr. is keeping her 'hostage'",
       "tag": "u",
       "url": "https://www.msn.com/en-us/health/other/us-hantavirus-cruise-passenger-claims-rfk-jr-is-keeping-her-hostage/ar-AA25TnM2",
-      "live": true,
-      "added": "2026-06-22T16:30:00.426Z"
-    },
-    {
-      "src": "News",
-      "time": "22 Jun 06:59",
-      "title": "The hantavirus disaster that wasn’t",
-      "tag": "u",
-      "url": "https://www.politico.com/newsletters/politico-pulse/2026/06/22/the-hantavirus-disaster-that-wasnt-00969426",
       "live": true,
       "added": "2026-06-22T16:30:00.426Z"
     }
