@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T19:14:04.418Z",
+  "last_updated": "2026-07-28T01:45:35.036Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "27 Jul 09:31",
+      "title": "World Health Organization says 3 people died in a suspected hantavirus outbreak aboard cruise ship",
+      "tag": "u",
+      "url": "https://apnews.com/video/world-health-organization-says-3-people-died-in-a-suspected-hantavirus-outbreak-aboard-cruise-ship-2561f6435ab7445ba71cabb001e37978",
+      "live": true,
+      "added": "2026-07-28T01:45:32.887Z"
+    },
+    {
+      "src": "News",
       "time": "14 May 09:58",
       "title": "Hantavirus Is Scary. Your Daily Habits Are More Dangerous",
       "tag": "u",
@@ -3332,15 +3341,6 @@
       "title": "Hypertension Drug Recall; Hantavirus Quarantine Ends; Bending Over and Miscarriage",
       "tag": "u",
       "url": "https://www.medpagetoday.com/cardiology/hypertension/121853",
-      "live": true,
-      "added": "2026-06-22T16:30:00.426Z"
-    },
-    {
-      "src": "News",
-      "time": "22 Jun 06:05",
-      "title": "US hantavirus cruise passenger claims RFK Jr. is keeping her 'hostage'",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/us-hantavirus-cruise-passenger-claims-rfk-jr-is-keeping-her-hostage/ar-AA25TnM2",
       "live": true,
       "added": "2026-06-22T16:30:00.426Z"
     }
