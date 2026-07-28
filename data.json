@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T01:45:35.036Z",
+  "last_updated": "2026-07-28T08:16:21.817Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "14 May 17:00",
+      "title": "What do Argentine scientists know about hantavirus so far?",
+      "tag": "u",
+      "url": "https://medicalxpress.com/news/2026-05-argentine-scientists-hantavirus.html",
+      "live": true,
+      "added": "2026-07-28T08:16:19.412Z"
+    },
+    {
+      "src": "News",
       "time": "27 Jul 09:31",
       "title": "World Health Organization says 3 people died in a suspected hantavirus outbreak aboard cruise ship",
       "tag": "u",
@@ -3332,15 +3341,6 @@
       "title": "Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship",
       "tag": "u",
       "url": "https://www.nytimes.com/2026/06/21/us/hantavirus-quarantine-end.html",
-      "live": true,
-      "added": "2026-06-22T16:30:00.426Z"
-    },
-    {
-      "src": "News",
-      "time": "22 Jun 06:39",
-      "title": "Hypertension Drug Recall; Hantavirus Quarantine Ends; Bending Over and Miscarriage",
-      "tag": "u",
-      "url": "https://www.medpagetoday.com/cardiology/hypertension/121853",
       "live": true,
       "added": "2026-06-22T16:30:00.426Z"
     }
