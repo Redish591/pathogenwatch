@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T08:22:15.295Z",
+  "last_updated": "2026-07-29T13:47:38.314Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "11 May 03:57",
+      "title": "American evacuated from cruise ship tests positive for hantavirus, another has symptoms, HHS confirms",
+      "tag": "u",
+      "url": "https://www.foxnews.com/health/american-evacuated-cruise-ship-tests-positive-hantavirus-another-symptoms-hhs-confirms",
+      "live": true,
+      "added": "2026-07-29T13:47:35.899Z"
+    },
+    {
+      "src": "News",
       "time": "14 May 17:00",
       "title": "What do Argentine scientists know about hantavirus so far?",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://apnews.com/article/hantavirus-cruise-ship-quarantine-e5a9fab58a9214c93f268595e730fc39",
       "live": true,
       "added": "2026-06-22T20:35:08.260Z"
-    },
-    {
-      "src": "News",
-      "time": "21 Jun 10:59",
-      "title": "Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship",
-      "tag": "u",
-      "url": "https://www.nytimes.com/2026/06/21/us/hantavirus-quarantine-end.html",
-      "live": true,
-      "added": "2026-06-22T16:30:00.426Z"
     }
   ],
   "travel": [
