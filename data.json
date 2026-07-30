@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T13:47:38.314Z",
+  "last_updated": "2026-07-30T01:29:57.762Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "28 Jul 17:02",
+      "title": "Chile decreta por primera vez alerta sanitaria por hantavirus en la mayor parte del pa&#237;s",
+      "tag": "u",
+      "url": "https://www.msn.com/es-co/salud/general/chile-decreta-por-primera-vez-alerta-sanitaria-por-hantavirus-en-la-mayor-parte-del-país/ar-AA28URWx",
+      "live": true,
+      "added": "2026-07-30T01:29:55.927Z"
+    },
+    {
+      "src": "News",
+      "time": "28 Jul 15:44",
+      "title": "Il Cile dichiara allerta sanitaria per hantavirus dopo le piogge, 18 morti nel 2026",
+      "tag": "u",
+      "url": "https://www.msn.com/it-it/notizie/mondo/il-cile-dichiara-allerta-sanitaria-per-hantavirus-dopo-le-piogge-18-morti-nel-2026/ar-AA28Ul9V",
+      "live": true,
+      "added": "2026-07-30T01:29:55.926Z"
+    },
+    {
+      "src": "News",
       "time": "11 May 03:57",
       "title": "American evacuated from cruise ship tests positive for hantavirus, another has symptoms, HHS confirms",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/hantavirus-quarantine-monitoring-ends-for-mv-hondius-passengers-at-unmc/ar-AA26jafe",
       "live": true,
       "added": "2026-06-23T02:27:27.981Z"
-    },
-    {
-      "src": "News",
-      "time": "22 Jun 17:50",
-      "title": "Passenger from hantavirus-infected cruise shares update as 42-day quarantine finally comes to an end",
-      "tag": "u",
-      "url": "https://www.msn.com/en-gb/health/diseases-and-conditions/passenger-from-hantavirus-infected-cruise-shares-update-as-42-day-quarantine-finally-comes-to-an-end/ar-AA26iRTE",
-      "live": true,
-      "added": "2026-06-23T02:27:27.981Z"
-    },
-    {
-      "src": "News",
-      "time": "22 Jun 12:06",
-      "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska",
-      "tag": "u",
-      "url": "https://apnews.com/article/hantavirus-cruise-ship-quarantine-e5a9fab58a9214c93f268595e730fc39",
-      "live": true,
-      "added": "2026-06-22T20:35:08.260Z"
     }
   ],
   "travel": [
