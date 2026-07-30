@@ -1317,3 +1317,9 @@ the bot are listed under the timestamp.
 [2026-07-30T01:29:57.763Z] 2 change(s):
   + News | Il Cile dichiara allerta sanitaria per hantavirus dopo le piogge, 18 m
   + News | Chile decreta por primera vez alerta sanitaria por hantavirus en la ma
+
+[2026-07-30T19:10:55.615Z] 4 change(s):
+  + News | Chile issues first-ever preventive hantavirus health alert
+  + News | Chile declares nationwide health alert after hantavirus fatality rate 
+  + News | Hantavirus fears heighten with 4 Californians exposed to the disease. 
+  ~ extraction skipped: verifier error: Unexpected non-whitespace character after JSON at position 205 (line 2 column 1)
