@@ -1323,3 +1323,7 @@ the bot are listed under the timestamp.
   + News | Chile declares nationwide health alert after hantavirus fatality rate 
   + News | Hantavirus fears heighten with 4 Californians exposed to the disease. 
   ~ extraction skipped: verifier error: Unexpected non-whitespace character after JSON at position 205 (line 2 column 1)
+
+[2026-07-31T01:57:18.927Z] 2 change(s):
+  + News | 3 sick passengers evacuated from hantavirus-hit cruise ship as new cas
+  ~ extraction skipped: The headline 'Il Cile dichiara allerta sanitaria per hantavirus dopo le piogge, 18 morti nel 2026' contains an implausible future date (2026) and is not corroborated by any other headlines; the other Chile-related headlines mention fatality rate increases but do not explicitly state 18 deaths from an official authority.
