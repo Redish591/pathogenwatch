@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T01:57:18.925Z",
+  "last_updated": "2026-07-31T08:35:40.008Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "30 Jul 20:27",
+      "title": "After hantavirus outbreak at sea, content creator finds hope during Omaha quarantine",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/general/after-hantavirus-outbreak-at-sea-content-creator-finds-hope-during-omaha-quarantine/ar-AA296tN5",
+      "live": true,
+      "added": "2026-07-31T08:35:37.624Z"
+    },
+    {
+      "src": "News",
       "time": "06 May 03:04",
       "title": "3 sick passengers evacuated from hantavirus-hit cruise ship as new case is confirmed in Switzerland",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-au/health/other/mv-hondius-passengers-cleared-of-hantavirus-after-42-days-of-quarantine-in-wa/ar-AA26i7k5",
       "live": true,
       "added": "2026-06-23T08:59:47.051Z"
-    },
-    {
-      "src": "News",
-      "time": "23 Jun 01:32",
-      "title": "Travel content creator walks free after 6 weeks inside hantavirus quarantine facility",
-      "tag": "u",
-      "url": "https://www.msn.com/en-za/news/other/travel-content-creator-walks-free-after-6-weeks-inside-hantavirus-quarantine-facility/ar-AA26khdz",
-      "live": true,
-      "added": "2026-06-23T08:59:47.050Z"
     }
   ],
   "travel": [
