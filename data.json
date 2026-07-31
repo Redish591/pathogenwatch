@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T13:43:23.929Z",
+  "last_updated": "2026-07-31T19:09:11.964Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "31 Jul 10:06",
+      "title": "'Most scared I've ever been': Man recalls 42 days in quarantine after deadly hantavirus outbreak on ship",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/other/most-scared-ive-ever-been-man-recalls-42-days-in-quarantine-after-deadly-hantavirus-outbreak-on-ship/ar-AA298v3W",
+      "live": true,
+      "added": "2026-07-31T19:09:10.240Z"
+    },
+    {
+      "src": "News",
       "time": "13 May 10:29",
       "title": "Can mice and rats spread hantavirus in Illinois? What to know after possible case",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.theguardian.com/us-news/2026/jun/23/hantavirus-quarantine-ends-nebraska",
       "live": true,
       "added": "2026-06-23T14:29:34.362Z"
-    },
-    {
-      "src": "News",
-      "time": "22 Jun 22:19",
-      "title": "Hantavirus cruise ship passengers released from Perth quarantine",
-      "tag": "u",
-      "url": "https://www.newstalkzb.co.nz/on-air/heather-du-plessis-allan-drive/audio/murray-olds-australian-correspondent-on-the-hantavirus-cruise-ship-passengers-being-released-from-quarantine/",
-      "live": true,
-      "added": "2026-06-23T08:59:47.052Z"
     }
   ],
   "travel": [
