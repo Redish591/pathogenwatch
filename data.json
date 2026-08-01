@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T19:09:11.964Z",
+  "last_updated": "2026-08-01T01:58:15.622Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "11 May 11:16",
+      "title": "California health officials address hantavirus concerns after cruise ship deaths linked to Andes virus",
+      "tag": "u",
+      "url": "https://www.turnto23.com/news/in-your-neighborhood/bakersfield/hantavirus-exposed-to-4-california-residents-kern-county-health-officials-urge-awareness",
+      "live": true,
+      "added": "2026-08-01T01:58:14.008Z"
+    },
+    {
+      "src": "News",
       "time": "31 Jul 10:06",
       "title": "'Most scared I've ever been': Man recalls 42 days in quarantine after deadly hantavirus outbreak on ship",
       "tag": "u",
@@ -3332,15 +3341,6 @@
       "title": "All US Passengers From Hantavirus-Hit Ship Return to Home States",
       "tag": "u",
       "url": "https://www.usnews.com/news/world/articles/2026-06-22/all-us-passengers-from-hantavirus-hit-ship-return-to-home-states",
-      "live": true,
-      "added": "2026-06-23T14:29:34.362Z"
-    },
-    {
-      "src": "News",
-      "time": "23 Jun 05:34",
-      "title": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska",
-      "tag": "u",
-      "url": "https://www.theguardian.com/us-news/2026/jun/23/hantavirus-quarantine-ends-nebraska",
       "live": true,
       "added": "2026-06-23T14:29:34.362Z"
     }
