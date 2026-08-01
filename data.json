@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T12:58:13.636Z",
+  "last_updated": "2026-08-01T18:55:46.139Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "04 May 12:43",
+      "title": "What to know about hantavirus amid a suspected cruise-ship outbreak",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/general/what-to-know-about-hantavirus-amid-a-suspected-cruise-ship-outbreak/ar-AA22mPsQ",
+      "live": true,
+      "added": "2026-08-01T18:55:42.544Z"
+    },
+    {
+      "src": "News",
       "time": "11 May 11:16",
       "title": "California health officials address hantavirus concerns after cruise ship deaths linked to Andes virus",
       "tag": "u",
@@ -3332,15 +3341,6 @@
       "title": "Live: Health officials discuss end of hantavirus monitoring operation in Omaha",
       "tag": "u",
       "url": "https://www.msn.com/en-us/health/other/live-health-officials-discuss-end-of-hantavirus-monitoring-operation-in-omaha/ar-AA26mgsv",
-      "live": true,
-      "added": "2026-06-23T14:29:34.362Z"
-    },
-    {
-      "src": "News",
-      "time": "22 Jun 16:12",
-      "title": "All US Passengers From Hantavirus-Hit Ship Return to Home States",
-      "tag": "u",
-      "url": "https://www.usnews.com/news/world/articles/2026-06-22/all-us-passengers-from-hantavirus-hit-ship-return-to-home-states",
       "live": true,
       "added": "2026-06-23T14:29:34.362Z"
     }
