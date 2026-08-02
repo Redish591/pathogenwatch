@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T13:00:44.365Z",
+  "last_updated": "2026-08-02T18:56:29.150Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "21 Jul 21:32",
+      "title": "Hantavirus Outbreak In Venezuela: 3 Dead, 2 More Suspected Deaths",
+      "tag": "u",
+      "url": "https://www.ndtv.com/health/venezuela-confirms-3-people-have-died-of-hantavirus-infections-with-2-more-deaths-suspected-11803630",
+      "live": true,
+      "added": "2026-08-02T18:56:27.034Z"
+    },
+    {
+      "src": "News",
       "time": "02 Jul 07:26",
       "title": "Hantavirus Cruise Ship Outbreak Officially Over After 13 Infected, 3 Dead",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-us/travel/news/american-passenger-aboard-hantavirus-ship-details-42-days-in-quarantine/vi-AA26neTk",
       "live": true,
       "added": "2026-06-23T19:50:38.889Z"
-    },
-    {
-      "src": "News",
-      "time": "23 Jun 10:55",
-      "title": "'No room for error': UNMC reflects as quarantine ends for hantavirus cruise ship passengers",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/general/no-room-for-error-unmc-reflects-as-quarantine-ends-for-hantavirus-cruise-ship-passengers/ar-AA26n9y8",
-      "live": true,
-      "added": "2026-06-23T19:50:38.888Z"
     }
   ],
   "travel": [
