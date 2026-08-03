@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T09:23:50.116Z",
+  "last_updated": "2026-08-03T14:17:51.359Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "13 May 09:32",
+      "title": "Should Rhode Islanders worry about hantavirus? Experts say no. Here's why.",
+      "tag": "u",
+      "url": "https://www.dispatch.com/story/news/healthcare/2026/05/13/how-likely-are-rhode-islanders-to-be-exposed-to-hantavirus/90046870007/",
+      "live": true,
+      "added": "2026-08-03T14:17:48.480Z"
+    },
+    {
+      "src": "News",
       "time": "21 Jul 21:32",
       "title": "Hantavirus Outbreak In Venezuela: 3 Dead, 2 More Suspected Deaths",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/snes-hantavirus-quarantine-ends-as-outbreak-underscores-need-to-control-rodent-populations/ar-AA26nK6i",
       "live": true,
       "added": "2026-06-24T02:28:43.268Z"
-    },
-    {
-      "src": "News",
-      "time": "23 Jun 12:04",
-      "title": "American passenger aboard hantavirus ship details 42 days in quarantine",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/travel/news/american-passenger-aboard-hantavirus-ship-details-42-days-in-quarantine/vi-AA26neTk",
-      "live": true,
-      "added": "2026-06-23T19:50:38.889Z"
     }
   ],
   "travel": [
