@@ -1352,3 +1352,7 @@ the bot are listed under the timestamp.
 
 [2026-08-03T14:17:51.360Z] 1 change(s):
   + News | Should Rhode Islanders worry about hantavirus? Experts say no. Here's 
+
+[2026-08-05T19:15:44.918Z] 2 change(s):
+  + News | Hantavirus outbreak linked to cruise ship over, says WHO
+  ~ extraction skipped: While the proposed source headline explicitly states '13 Infected, 3 Dead', it is not attributed to an official health authority (WHO, CDC, ECDC, or national ministry) in the provided evidence list.
