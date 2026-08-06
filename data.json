@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T08:16:46.771Z",
+  "last_updated": "2026-08-06T13:43:09.200Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "11 May 06:30",
+      "title": "Where did the hantavirus outbreak start, and where has it spread?",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/science/biology/where-did-the-hantavirus-outbreak-start-and-where-has-it-spread/ar-AA22UV4W",
+      "live": true,
+      "added": "2026-08-06T13:43:04.609Z"
+    },
+    {
+      "src": "News",
       "time": "02 Jul 10:35",
       "title": "Hantavirus outbreak linked to cruise ship over, says WHO",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/hantavirus-quarantine-ends-no-cases-in-the-us/ar-AA26rMDV",
       "live": true,
       "added": "2026-06-24T19:26:52.381Z"
-    },
-    {
-      "src": "News",
-      "time": "23 Jun 15:27",
-      "title": "Nebraska officials discuss end of hantavirus monitoring operation",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/news/us/nebraska-officials-discuss-end-of-hantavirus-monitoring-operation/vi-AA26nDqS?ocid=BingNewsVerp",
-      "live": true,
-      "added": "2026-06-24T02:28:43.269Z"
     }
   ],
   "travel": [
