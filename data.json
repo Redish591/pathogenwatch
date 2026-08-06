@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T13:43:09.200Z",
+  "last_updated": "2026-08-06T23:50:26.030Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "06 Aug 09:09",
+      "title": "Hantavirus: Tourist who transited France in July tests positive",
+      "tag": "u",
+      "url": "https://www.lemonde.fr/en/health/article/2026/08/06/hantavirus-tourist-who-transited-france-in-july-tests-positive_6756228_14.html",
+      "live": true,
+      "added": "2026-08-06T23:50:24.232Z"
+    },
+    {
+      "src": "News",
+      "time": "05 Aug 18:11",
+      "title": "Hantavirus detected in France tourist now isolated in Spain",
+      "tag": "u",
+      "url": "https://www.straitstimes.com/world/europe/hantavirus-detected-in-france-tourist-now-isolated-in-spain",
+      "live": true,
+      "added": "2026-08-06T23:50:24.231Z"
+    },
+    {
+      "src": "News",
       "time": "11 May 06:30",
       "title": "Where did the hantavirus outbreak start, and where has it spread?",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.msn.com/en-in/health/diseases-and-conditions/global-hantavirus-response-to-end-on-july-2-who/ar-AA26uDYY",
       "live": true,
       "added": "2026-06-25T08:48:19.441Z"
-    },
-    {
-      "src": "News",
-      "time": "24 Jun 11:06",
-      "title": "Hantavirus self-isolation complete for 34 Canadians, Health Canada says",
-      "tag": "u",
-      "url": "https://www.msn.com/en-ca/health/other/hantavirus-self-isolation-complete-for-34-canadians-health-canada-says/ar-AA26rqf0?ocid=BingNewsVerp",
-      "live": true,
-      "added": "2026-06-24T19:26:52.382Z"
-    },
-    {
-      "src": "News",
-      "time": "24 Jun 12:23",
-      "title": "Hantavirus quarantine ends; no cases in the US",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/hantavirus-quarantine-ends-no-cases-in-the-us/ar-AA26rMDV",
-      "live": true,
-      "added": "2026-06-24T19:26:52.381Z"
     }
   ],
   "travel": [

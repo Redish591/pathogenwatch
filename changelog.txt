@@ -1360,3 +1360,7 @@ the bot are listed under the timestamp.
 [2026-08-06T13:43:09.201Z] 2 change(s):
   + News | Where did the hantavirus outbreak start, and where has it spread?
   ~ extraction skipped: While the headline 'Hantavirus Cruise Ship Outbreak Officially Over After 13 Infected, 3 Dead' explicitly states these numbers, it is not attributed to an official health authority (WHO, CDC, ECDC, or national ministry) in the provided headlines list.
+
+[2026-08-06T23:50:26.031Z] 2 change(s):
+  + News | Hantavirus detected in France tourist now isolated in Spain
+  + News | Hantavirus: Tourist who transited France in July tests positive
