@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T02:09:52.849Z",
+  "last_updated": "2026-08-07T12:41:32.622Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,42 @@
   "news": [
     {
       "src": "News",
+      "time": "07 Aug 03:47",
+      "title": "France recommends home isolation for close contacts of hantavirus case, risk low",
+      "tag": "u",
+      "url": "https://www.msn.com/en-xl/health/general/france-recommends-home-isolation-for-close-contacts-of-hantavirus-case-risk-low/ar-AA29ATqs",
+      "live": true,
+      "added": "2026-08-07T12:41:28.762Z"
+    },
+    {
+      "src": "News",
+      "time": "11 May 09:07",
+      "title": "Here’s What’s Happening With The Quarantined Hantavirus Cruise Passengers",
+      "tag": "u",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/05/11/heres-whats-happening-with-the-quarantined-hantavirus-cruise-passengers/",
+      "live": true,
+      "added": "2026-08-07T12:41:28.762Z"
+    },
+    {
+      "src": "News",
+      "time": "06 Aug 21:27",
+      "title": "Hantavirus Detected In French Tourist, Patient Isolated In Spain",
+      "tag": "u",
+      "url": "https://www.ndtv.com/health/hantavirus-detected-in-france-tourist-now-isolated-in-spain-11876002",
+      "live": true,
+      "added": "2026-08-07T12:41:28.758Z"
+    },
+    {
+      "src": "News",
+      "time": "07 Aug 03:34",
+      "title": "Horror as new hantavirus case recorded in Europe",
+      "tag": "u",
+      "url": "https://www.msn.com/en-gb/science/microbiology/horror-as-new-hantavirus-case-recorded-in-europe/ar-AA29ACdI",
+      "live": true,
+      "added": "2026-08-07T12:41:28.757Z"
+    },
+    {
+      "src": "News",
       "time": "14 May 13:28",
       "title": "Staged claims and Israeli hoaxes: Debunking viral conspiracy theories about hantavirus",
       "tag": "u",
@@ -3307,42 +3343,6 @@
       "url": "https://www.ajmc.com/view/cdc-officially-ends-hantavirus-response-as-outbreak-risk-recedes",
       "live": true,
       "added": "2026-06-25T14:05:38.895Z"
-    },
-    {
-      "src": "News",
-      "time": "24 Jun 16:03",
-      "title": "CDC concludes hantavirus outbreak response",
-      "tag": "u",
-      "url": "https://www.yahoo.com/news/science/articles/cdc-concludes-hantavirus-outbreak-response-223215267.html",
-      "live": true,
-      "added": "2026-06-25T14:05:38.895Z"
-    },
-    {
-      "src": "News",
-      "time": "24 Jun 16:16",
-      "title": "CDC ends US Hantavirus response",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/general/cdc-ends-us-hantavirus-response/ar-AA26s2vL",
-      "live": true,
-      "added": "2026-06-25T14:05:38.894Z"
-    },
-    {
-      "src": "News",
-      "time": "24 Jun 15:17",
-      "title": "CDC concludes response to hantavirus outbreak on cruise",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/cdc-concludes-response-to-hantavirus-outbreak-on-cruise/ar-AA26ttTx",
-      "live": true,
-      "added": "2026-06-25T14:05:38.893Z"
-    },
-    {
-      "src": "News",
-      "time": "24 Jun 11:32",
-      "title": "US ends its hantavirus response as quarantines expire and threat wanes",
-      "tag": "u",
-      "url": "https://www.msn.com/en-nz/health/general/us-ends-its-hantavirus-response-as-quarantines-expire-and-threat-wanes/ar-AA26sGHI",
-      "live": true,
-      "added": "2026-06-25T08:48:19.442Z"
     }
   ],
   "travel": [
