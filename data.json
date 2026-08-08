@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T06:35:33.191Z",
+  "last_updated": "2026-08-08T12:28:23.596Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "08 Aug 04:10",
+      "title": "Rodents in your HVAC system can spread hantavirus, cause fires and cost you thousands. How to protect your home and your health",
+      "tag": "u",
+      "url": "https://www.msn.com/en-ca/pets-and-animals/wildlife/rodents-in-your-hvac-system-can-spread-hantavirus-cause-fires-and-cost-you-thousands-how-to-protect-your-home-and-your-health/ar-AA29ExKF",
+      "live": true,
+      "added": "2026-08-08T12:28:19.442Z"
+    },
+    {
+      "src": "News",
       "time": "07 Aug 03:47",
       "title": "France recommends home isolation for close contacts of hantavirus case, risk low",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.healio.com/news/infectious-disease/20260625/us-hantavirus-response-concludes-with-no-cases-cdc-says",
       "live": true,
       "added": "2026-06-26T02:32:35.598Z"
-    },
-    {
-      "src": "News",
-      "time": "23 Jun 17:00",
-      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes",
-      "tag": "u",
-      "url": "https://www.ajmc.com/view/cdc-officially-ends-hantavirus-response-as-outbreak-risk-recedes",
-      "live": true,
-      "added": "2026-06-25T14:05:38.895Z"
     }
   ],
   "travel": [
