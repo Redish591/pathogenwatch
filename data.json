@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T18:43:05.736Z",
+  "last_updated": "2026-08-11T06:50:40.513Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "13 May 16:45",
+      "title": "Americans from hantavirus cruise ship remain in quarantine to monitor for symptoms, CDC says",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/americans-from-hantavirus-cruise-ship-remain-in-quarantine-to-monitor-for-symptoms-cdc-says/ar-AA238o8F",
+      "live": true,
+      "added": "2026-08-11T06:50:36.168Z"
+    },
+    {
+      "src": "News",
       "time": "08 Aug 04:10",
       "title": "Rodents in your HVAC system can spread hantavirus, cause fires and cost you thousands. How to protect your home and your health",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/cdc-to-end-hantavirus-response-as-us-outbreak-risk-diminishes/ar-AA26pGWW",
       "live": true,
       "added": "2026-06-26T08:51:02.005Z"
-    },
-    {
-      "src": "News",
-      "time": "25 Jun 12:03",
-      "title": "US hantavirus response concludes with no cases, CDC says",
-      "tag": "u",
-      "url": "https://www.healio.com/news/infectious-disease/20260625/us-hantavirus-response-concludes-with-no-cases-cdc-says",
-      "live": true,
-      "added": "2026-06-26T02:32:35.598Z"
     }
   ],
   "travel": [
