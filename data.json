@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T07:10:04.015Z",
+  "last_updated": "2026-08-14T12:42:50.806Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "13 Aug 17:00",
+      "title": "Dermatologists Highlight Cutaneous Signs of Hantavirus Infections",
+      "tag": "u",
+      "url": "https://www.medscape.com/viewarticle/dermatologists-highlight-cutaneous-signs-hantavirus-2026a1000rth",
+      "live": true,
+      "added": "2026-08-14T12:42:46.926Z"
+    },
+    {
+      "src": "News",
       "time": "19 May 08:00",
       "title": "Will the Hantavirus Outbreak Cause a Lockdown? What Experts Want You to Know",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-ph/health/general/hantavirus-outbreak-should-formally-end-on-july-2-who/ar-AA26tKVu",
       "live": true,
       "added": "2026-06-26T19:28:32.445Z"
-    },
-    {
-      "src": "News",
-      "time": "05 Jun 20:26",
-      "title": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza",
-      "tag": "u",
-      "url": "https://apnews.com/article/argentina-hantavirus-investigation-cdc-ushuaia-mendoza-1e375f0eb2120343bfde222bc47d53c5",
-      "live": true,
-      "added": "2026-06-26T08:51:02.007Z"
     }
   ],
   "travel": [
