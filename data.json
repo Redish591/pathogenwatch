@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T12:25:51.213Z",
+  "last_updated": "2026-08-19T18:20:05.266Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "19 Aug 05:22",
+      "title": "Hantavirus dropped his oxygen below 90%... then his lungs and kidneys failed",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/medical/hantavirus-dropped-his-oxygen-below-90-then-his-lungs-and-kidneys-failed/vi-AA2at8wo",
+      "live": true,
+      "added": "2026-08-19T18:20:02.408Z"
+    },
+    {
+      "src": "News",
       "time": "14 Aug 05:40",
       "title": "He had a fever for seven days... then hantavirus flooded his lungs",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/06/260622014257.htm",
       "live": true,
       "added": "2026-06-27T13:12:27.508Z"
-    },
-    {
-      "src": "News",
-      "time": "11 May 17:05",
-      "title": "Two Maryland residents monitored for hantavirus after sharing flight with infected cruise ship passenger",
-      "tag": "u",
-      "url": "https://www.foxnews.com/health/two-maryland-residents-monitored-hantavirus-after-sharing-flight-infected-cruise-ship-passenger",
-      "live": true,
-      "added": "2026-06-26T19:28:32.446Z"
     }
   ],
   "travel": [
