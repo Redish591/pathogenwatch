@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T18:24:54.579Z",
+  "last_updated": "2026-08-21T00:45:03.613Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "20 Aug 16:00",
+      "title": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC",
+      "tag": "u",
+      "url": "https://www.yahoo.com/news/us/articles/hhs-secretary-rfk-jr-visits-230034931.html",
+      "live": true,
+      "added": "2026-08-21T00:45:00.775Z"
+    },
+    {
+      "src": "News",
+      "time": "20 Aug 17:15",
+      "title": "Health Secretary RFK Jr. visits Nebraska, praises UNMC's hantavirus response",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/health-secretary-rfk-jr-visits-nebraska-praises-unmc-s-hantavirus-response/ar-AA2aBhwS",
+      "live": true,
+      "added": "2026-08-21T00:45:00.774Z"
+    },
+    {
+      "src": "News",
       "time": "19 Aug 05:22",
       "title": "Hantavirus dropped his oxygen below 90%... then his lungs and kidneys failed",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://thepeninsulaqatar.com/article/29/06/2026/hantavirus-outbreak-nearing-its-end-who",
       "live": true,
       "added": "2026-06-29T10:24:19.956Z"
-    },
-    {
-      "src": "News",
-      "time": "23 Jun 14:18",
-      "title": "UNMC hantavirus operation wraps up, team ready if Ebola outbreak calls",
-      "tag": "u",
-      "url": "https://www.yahoo.com/news/science/articles/unmc-hantavirus-operation-wraps-team-210710047.html",
-      "live": true,
-      "added": "2026-06-28T13:18:51.353Z"
-    },
-    {
-      "src": "News",
-      "time": "21 Jun 23:47",
-      "title": "Ebola and hantavirus can start like the flu but turn deadly fast",
-      "tag": "u",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260622014257.htm",
-      "live": true,
-      "added": "2026-06-27T13:12:27.508Z"
     }
   ],
   "travel": [
