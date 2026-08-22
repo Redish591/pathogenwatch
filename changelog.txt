@@ -1396,3 +1396,6 @@ the bot are listed under the timestamp.
 [2026-08-21T00:45:03.614Z] 2 change(s):
   + News | Health Secretary RFK Jr. visits Nebraska, praises UNMC's hantavirus re
   + News | HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation a
+
+[2026-08-22T00:41:52.338Z] 1 change(s):
+  + News | Hantavirus detected on Pine Ridge Reservation as officials urge precau

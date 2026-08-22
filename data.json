@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T18:23:11.727Z",
+  "last_updated": "2026-08-22T00:41:52.337Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "21 Aug 13:30",
+      "title": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/medical/hantavirus-detected-on-pine-ridge-reservation-as-officials-urge-precautions/ar-AA2aFwH4",
+      "live": true,
+      "added": "2026-08-22T00:41:50.325Z"
+    },
+    {
+      "src": "News",
       "time": "20 Aug 16:00",
       "title": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-ca/health/other/hantavirus-outbreak-nearing-its-end-who-chief-says/ar-AA26KsZC",
       "live": true,
       "added": "2026-06-29T10:24:19.957Z"
-    },
-    {
-      "src": "News",
-      "time": "29 Jun 02:02",
-      "title": "Hantavirus outbreak nearing its end: WHO",
-      "tag": "u",
-      "url": "https://thepeninsulaqatar.com/article/29/06/2026/hantavirus-outbreak-nearing-its-end-who",
-      "live": true,
-      "added": "2026-06-29T10:24:19.956Z"
     }
   ],
   "travel": [
