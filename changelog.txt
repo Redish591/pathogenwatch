@@ -1399,3 +1399,6 @@ the bot are listed under the timestamp.
 
 [2026-08-22T00:41:52.338Z] 1 change(s):
   + News | Hantavirus detected on Pine Ridge Reservation as officials urge precau
+
+[2026-08-27T05:53:28.175Z] 1 change(s):
+  + News | Hantavirus exposure among wildlife farmers in Vietnam: A warning for S

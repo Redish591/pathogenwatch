@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T12:32:23.045Z",
+  "last_updated": "2026-08-27T05:53:28.174Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "26 Aug 19:25",
+      "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia",
+      "tag": "u",
+      "url": "https://theconversation.com/hantavirus-exposure-among-wildlife-farmers-in-vietnam-a-warning-for-southeast-asia-287173",
+      "live": true,
+      "added": "2026-08-27T05:53:26.387Z"
+    },
+    {
+      "src": "News",
       "time": "21 Aug 13:30",
       "title": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/cdc-ends-hantavirus-response-as-us-outbreak-risk-diminishes/ar-AA26pGWW",
       "live": true,
       "added": "2026-06-29T15:32:07.784Z"
-    },
-    {
-      "src": "News",
-      "time": "28 Jun 19:27",
-      "title": "Hantavirus outbreak nearing its end, WHO chief says",
-      "tag": "u",
-      "url": "https://www.msn.com/en-ca/health/other/hantavirus-outbreak-nearing-its-end-who-chief-says/ar-AA26KsZC",
-      "live": true,
-      "added": "2026-06-29T10:24:19.957Z"
     }
   ],
   "travel": [
