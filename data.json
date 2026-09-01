@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T02:44:32.743Z",
+  "last_updated": "2026-09-01T10:49:32.693Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,24 @@
   "news": [
     {
       "src": "News",
+      "time": "01 Sept 01:15",
+      "title": "Health ministry confirms second hantavirus case in Spain: two in quarantine in Madrid",
+      "tag": "u",
+      "url": "https://www.msn.com/en-ca/news/other/health-ministry-confirms-second-hantavirus-case-in-spain-two-in-quarantine-in-madrid/ar-AA2bkbOe",
+      "live": true,
+      "added": "2026-09-01T10:49:30.541Z"
+    },
+    {
+      "src": "News",
+      "time": "30 Aug 18:55",
+      "title": "Vietnam’s hantavirus warning for Southeast Asia",
+      "tag": "u",
+      "url": "https://www.thejakartapost.com/opinion/2026/09/01/vietnams-hantavirus-warning-for-southeast-asia",
+      "live": true,
+      "added": "2026-09-01T10:49:30.541Z"
+    },
+    {
+      "src": "News",
       "time": "26 Aug 19:25",
       "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia",
       "tag": "u",
@@ -3325,24 +3343,6 @@
       "url": "https://www.batimes.com.ar/news/argentina/experts-hantavirus-detected-in-tierra-del-fuego-but-no-link-to-cruise-outbreak.phtml",
       "live": true,
       "added": "2026-06-30T02:33:10.826Z"
-    },
-    {
-      "src": "News",
-      "time": "29 Jun 16:33",
-      "title": "Canadians exposed to hantavirus on cruise ship complete isolation period",
-      "tag": "u",
-      "url": "https://www.msn.com/en-ca/health/other/canadians-exposed-to-hantavirus-on-cruise-ship-complete-isolation-period/ar-AA26POZ5",
-      "live": true,
-      "added": "2026-06-30T02:33:10.825Z"
-    },
-    {
-      "src": "News",
-      "time": "24 Jun 10:48",
-      "title": "CDC Ends Hantavirus Response as U.S. Outbreak Risk Diminishes",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/cdc-ends-hantavirus-response-as-us-outbreak-risk-diminishes/ar-AA26pGWW",
-      "live": true,
-      "added": "2026-06-29T15:32:07.784Z"
     }
   ],
   "travel": [

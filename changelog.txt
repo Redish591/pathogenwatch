@@ -1402,3 +1402,7 @@ the bot are listed under the timestamp.
 
 [2026-08-27T05:53:28.175Z] 1 change(s):
   + News | Hantavirus exposure among wildlife farmers in Vietnam: A warning for S
+
+[2026-09-01T10:49:32.694Z] 2 change(s):
+  + News | Health ministry confirms second hantavirus case in Spain: two in quara
+  + News | Vietnam’s hantavirus warning for Southeast Asia
