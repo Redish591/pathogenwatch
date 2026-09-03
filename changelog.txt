@@ -1406,3 +1406,6 @@ the bot are listed under the timestamp.
 [2026-09-01T10:49:32.694Z] 2 change(s):
   + News | Health ministry confirms second hantavirus case in Spain: two in quara
   + News | Vietnam’s hantavirus warning for Southeast Asia
+
+[2026-09-03T15:30:25.904Z] 1 change(s):
+  + News | WHO declares cruise ship-linked hantavirus outbreak over

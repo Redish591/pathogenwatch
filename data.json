@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T02:10:34.324Z",
+  "last_updated": "2026-09-03T15:30:25.903Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "02 Jul 04:59",
+      "title": "WHO declares cruise ship-linked hantavirus outbreak over",
+      "tag": "u",
+      "url": "https://www.channelnewsasia.com/world/hantavirus-cruise-outbreak-over-who-6228436",
+      "live": true,
+      "added": "2026-09-03T15:30:24.064Z"
+    },
+    {
+      "src": "News",
       "time": "01 Sept 01:15",
       "title": "Health ministry confirms second hantavirus case in Spain: two in quarantine in Madrid",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.forbes.com/sites/brucelee/2026/05/18/no-hantavirus-is-not-covid-26-and-other-misinformation-being-spread/",
       "live": true,
       "added": "2026-06-30T08:57:18.989Z"
-    },
-    {
-      "src": "News",
-      "time": "29 Jun 13:21",
-      "title": "Experts: Hantavirus detected in Tierra del Fuego, but no link to cruise outbreak",
-      "tag": "u",
-      "url": "https://www.batimes.com.ar/news/argentina/experts-hantavirus-detected-in-tierra-del-fuego-but-no-link-to-cruise-outbreak.phtml",
-      "live": true,
-      "added": "2026-06-30T02:33:10.826Z"
     }
   ],
   "travel": [
