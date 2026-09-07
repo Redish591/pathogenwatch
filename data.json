@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T19:47:10.806Z",
+  "last_updated": "2026-09-07T01:59:57.666Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "07 Aug 09:33",
+      "title": "Health officials say new hantavirus patient in Spain may have been contagious for 10 days",
+      "tag": "u",
+      "url": "https://www.aa.com.tr/en/health/health-officials-say-new-hantavirus-patient-in-spain-may-have-been-contagious-for-10-days/4021248",
+      "live": true,
+      "added": "2026-09-07T01:59:55.424Z"
+    },
+    {
+      "src": "News",
       "time": "02 Jul 04:59",
       "title": "WHO declares cruise ship-linked hantavirus outbreak over",
       "tag": "u",
@@ -3332,15 +3341,6 @@
       "title": "Irish woman stuck on hantavirus ship says she can't believe she escaped virus",
       "tag": "u",
       "url": "https://www.msn.com/en-ie/health/other/irish-woman-stuck-on-hantavirus-ship-says-she-cant-believe-she-escaped-virus/ar-AA26GzYY",
-      "live": true,
-      "added": "2026-06-30T08:57:18.989Z"
-    },
-    {
-      "src": "News",
-      "time": "18 May 03:52",
-      "title": "No, Hantavirus Is Not COVID-26 And Other Misinformation Being Spread",
-      "tag": "u",
-      "url": "https://www.forbes.com/sites/brucelee/2026/05/18/no-hantavirus-is-not-covid-26-and-other-misinformation-being-spread/",
       "live": true,
       "added": "2026-06-30T08:57:18.989Z"
     }
