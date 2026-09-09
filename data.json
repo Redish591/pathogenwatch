@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T20:30:21.936Z",
+  "last_updated": "2026-09-09T02:15:22.759Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "08 Sept 18:30",
+      "title": "Midwest homeowner vacuumed mouse droppings for years, then learned hantavirus can be 40% fatal",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/news/other/midwest-homeowner-vacuumed-mouse-droppings-for-years-then-learned-hantavirus-can-be-40-fatal/ar-AA2bQqWl",
+      "live": true,
+      "added": "2026-09-09T02:15:19.964Z"
+    },
+    {
+      "src": "News",
       "time": "06 Sept 20:02",
       "title": "UNM researchers test animals for hantavirus in Taos",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.aad.org/member/clinical-quality/clinical-care/emerging-diseases/hantavirus",
       "live": true,
       "added": "2026-07-01T14:10:56.739Z"
-    },
-    {
-      "src": "News",
-      "time": "11 May 06:15",
-      "title": "Weather And Hantavirus — Are There Any Connections?",
-      "tag": "u",
-      "url": "https://www.forbes.com/sites/marshallshepherd/2026/05/11/weather-and-hantavirus---are-there-any-connections/",
-      "live": true,
-      "added": "2026-06-30T19:43:43.486Z"
     }
   ],
   "travel": [
