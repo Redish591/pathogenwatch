@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T17:28:36.175Z",
+  "last_updated": "2026-09-21T21:26:38.994Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "21 Sept 03:00",
+      "title": "Will WHO declare a Hantavirus emergency in 2026?",
+      "tag": "u",
+      "url": "https://jang.com.pk/en/73611-will-who-declare-a-hantavirus-emergency-in-2026-news",
+      "live": true,
+      "added": "2026-09-21T21:26:36.331Z"
+    },
+    {
+      "src": "News",
       "time": "30 Jun 08:30",
       "title": "Zero Americans Became Ill in a Cruise Ship Hantavirus Outbreak: Here's the Monitoring Process Behind It",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/who-declares-deadly-hantavirus-outbreak-over/ar-AA278Fcf",
       "live": true,
       "added": "2026-07-03T19:03:38.945Z"
-    },
-    {
-      "src": "News",
-      "time": "02 Jul 15:50",
-      "title": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO",
-      "tag": "u",
-      "url": "https://www.mycentraloregon.com/2026/07/02/hantavirus-outbreak-linked-to-cruise-ship-over-after-last-contact-completes-quarantine-who/",
-      "live": true,
-      "added": "2026-07-03T02:03:54.072Z"
     }
   ],
   "travel": [
