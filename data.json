@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T02:42:13.548Z",
+  "last_updated": "2026-09-28T12:24:52.164Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "22 Sept 07:38",
+      "title": "Study shows high need for respiratory support in patients with severe Andes hantavirus infections",
+      "tag": "u",
+      "url": "https://www.cidrap.umn.edu/hantavirus/study-shows-high-need-respiratory-support-patients-severe-andes-hantavirus-infections",
+      "live": true,
+      "added": "2026-09-28T12:24:49.241Z"
+    },
+    {
+      "src": "News",
       "time": "23 Sept 10:37",
       "title": "CDC testing finds no confirmed hantavirus infection in Pine Ridge",
       "tag": "u",
@@ -3332,15 +3341,6 @@
       "title": "Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says",
       "tag": "u",
       "url": "https://www.nytimes.com/2026/07/02/world/hantavirus-cruise-outbreak-timeline-events.html",
-      "live": true,
-      "added": "2026-07-03T19:03:38.946Z"
-    },
-    {
-      "src": "News",
-      "time": "02 Jul 21:18",
-      "title": "WHO declares hantavirus outbreak linked to cruise ship officially over",
-      "tag": "u",
-      "url": "https://www.msn.com/en-in/health/general/who-declares-hantavirus-outbreak-linked-to-cruise-ship-officially-over/ar-AA276MkS",
       "live": true,
       "added": "2026-07-03T19:03:38.946Z"
     }
