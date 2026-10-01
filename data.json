@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T21:40:59.966Z",
+  "last_updated": "2026-10-01T12:05:57.051Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "28 Jul 17:59",
+      "title": "Hantavirus Can Affect the Brain and Nerves in Rare Cases, a New Review of the Literature Finds",
+      "tag": "u",
+      "url": "https://www.medicaldaily.com/hantavirus-neurologic-complications-jama-neurology-review-476518",
+      "live": true,
+      "added": "2026-10-01T12:05:54.854Z"
+    },
+    {
+      "src": "News",
       "time": "22 Sept 07:38",
       "title": "Study shows high need for respiratory support in patients with severe Andes hantavirus infections",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/who-declares-cruise-linked-hantavirus-outbreak-officially-over/ar-AA275If8",
       "live": true,
       "added": "2026-07-03T19:03:38.947Z"
-    },
-    {
-      "src": "News",
-      "time": "02 Jul 15:00",
-      "title": "Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says",
-      "tag": "u",
-      "url": "https://www.nytimes.com/2026/07/02/world/hantavirus-cruise-outbreak-timeline-events.html",
-      "live": true,
-      "added": "2026-07-03T19:03:38.946Z"
     }
   ],
   "travel": [
