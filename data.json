@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T22:02:16.623Z",
+  "last_updated": "2026-10-07T03:25:52.835Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "22 Jul 06:00",
+      "title": "CDC Warns Ebola and Hantavirus Can Both Start Like the Flu: Why Early Diagnosis Matters",
+      "tag": "u",
+      "url": "https://www.medicaldaily.com/ebola-hantavirus-flu-like-symptoms-clinicians-warning-cmaj-cdc-2026-476241",
+      "live": true,
+      "added": "2026-10-07T03:25:50.600Z"
+    },
+    {
+      "src": "News",
       "time": "04 Oct 17:46",
       "title": "Hantavirus Can Cause Rare but Severe Neurological Complications, Suggests Study",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01227-4/fulltext",
       "live": true,
       "added": "2026-07-04T08:25:19.183Z"
-    },
-    {
-      "src": "News",
-      "time": "02 Jul 09:30",
-      "title": "WHO says hantavirus outbreak linked to ship is over",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/who-says-hantavirus-outbreak-linked-to-ship-is-over/ar-AA274z8P",
-      "live": true,
-      "added": "2026-07-04T08:25:19.182Z"
     }
   ],
   "travel": [
