@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T10:35:12.113Z",
+  "last_updated": "2026-10-15T20:44:22.035Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "15 Oct 08:05",
+      "title": "Norgen Biotek Expands Biodefence Portfolio with the Launch of Hantavirus and Ebola Virus Detection Kits",
+      "tag": "u",
+      "url": "https://www.providencejournal.com/press-release/story/133089/norgen-biotek-expands-biodefence-portfolio-with-the-launch-of-hantavirus-and-ebola-virus-detection-kits/",
+      "live": true,
+      "added": "2026-10-15T20:44:19.344Z"
+    },
+    {
+      "src": "News",
       "time": "22 Jul 06:00",
       "title": "CDC Warns Ebola and Hantavirus Can Both Start Like the Flu: Why Early Diagnosis Matters",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/the-hantavirus-outbreak-is-over-who-declares/ar-AA2751uH",
       "live": true,
       "added": "2026-07-04T13:02:11.048Z"
-    },
-    {
-      "src": "News",
-      "time": "02 Jul 17:04",
-      "title": "Andes hantavirus: operationalising science in real time",
-      "tag": "u",
-      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)01227-4/fulltext",
-      "live": true,
-      "added": "2026-07-04T08:25:19.183Z"
     }
   ],
   "travel": [
