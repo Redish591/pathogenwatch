@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T02:34:27.190Z",
+  "last_updated": "2026-10-22T10:52:43.808Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,42 @@
   "news": [
     {
       "src": "News",
+      "time": "21 Oct 15:39",
+      "title": "LSU Health Shreveport researchers unlock how hantavirus infects humans",
+      "tag": "u",
+      "url": "https://www.ktbs.com/news/incaseyoumissedit/lsu-health-shreveport-researchers-unlock-how-hantavirus-infects-humans/article_5cff8203-8f71-4230-bba4-389386e56bff.html",
+      "live": true,
+      "added": "2026-10-22T10:52:41.209Z"
+    },
+    {
+      "src": "News",
+      "time": "21 Oct 17:00",
+      "title": "Hantavirus spike structure reveals recessed protocadherin-1 binding pocket",
+      "tag": "u",
+      "url": "https://bioengineer.org/hantavirus-spike-structure-reveals-recessed-protocadherin-1-binding-pocket/",
+      "live": true,
+      "added": "2026-10-22T10:52:41.208Z"
+    },
+    {
+      "src": "News",
+      "time": "21 Oct 12:42",
+      "title": "LSU Health Shreveport Researchers Help Unlock How Deadly Hantavirus Infects Human Cells",
+      "tag": "u",
+      "url": "https://bossierpress.com/lsu-health-shreveport-researchers-help-unlock-how-deadly-hantavirus-infects-human-cells/",
+      "live": true,
+      "added": "2026-10-22T10:52:41.208Z"
+    },
+    {
+      "src": "News",
+      "time": "21 Oct 08:00",
+      "title": "Scientists reveal how deadly Andes hantavirus attaches to human cells",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/news/other/scientists-reveal-how-deadly-andes-hantavirus-attaches-to-human-cells/ar-AA2fKRXK",
+      "live": true,
+      "added": "2026-10-22T10:52:41.207Z"
+    },
+    {
+      "src": "News",
       "time": "15 Oct 08:05",
       "title": "Norgen Biotek Expands Biodefence Portfolio with the Launch of Hantavirus and Ebola Virus Detection Kits",
       "tag": "u",
@@ -3307,42 +3343,6 @@
       "url": "https://en.tempo.co/read/2111989/fact-check-was-hantavirus-created-for-global-elite-profits",
       "live": true,
       "added": "2026-07-06T02:15:12.073Z"
-    },
-    {
-      "src": "News",
-      "time": "05 Jul 05:44",
-      "title": "Video: WHO declares hantavirus outbreak that started on Dutch cruise ship over",
-      "tag": "u",
-      "url": "https://nltimes.nl/2026/07/05/video-declares-hantavirus-outbreak-started-dutch-cruise-ship",
-      "live": true,
-      "added": "2026-07-05T19:03:06.161Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 17:00",
-      "title": "The Hantavirus Is Also a Climate Warning",
-      "tag": "u",
-      "url": "https://newrepublic.com/article/210448/hantavirus-climate-warning-media-coverage",
-      "live": true,
-      "added": "2026-07-04T18:57:41.011Z"
-    },
-    {
-      "src": "News",
-      "time": "03 Jul 23:15",
-      "title": "WHO Ends Cruise Ship-Linked Hantavirus Outbreak",
-      "tag": "u",
-      "url": "https://www.medindia.net/news/who-ends-cruise-ship-linked-hantavirus-outbreak-223986-1.htm",
-      "live": true,
-      "added": "2026-07-04T13:02:11.049Z"
-    },
-    {
-      "src": "News",
-      "time": "02 Jul 11:15",
-      "title": "The hantavirus outbreak is over, WHO declares",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/the-hantavirus-outbreak-is-over-who-declares/ar-AA2751uH",
-      "live": true,
-      "added": "2026-07-04T13:02:11.048Z"
     }
   ],
   "travel": [

@@ -1448,3 +1448,9 @@ the bot are listed under the timestamp.
 
 [2026-10-15T20:44:22.036Z] 1 change(s):
   + News | Norgen Biotek Expands Biodefence Portfolio with the Launch of Hantavir
+
+[2026-10-22T10:52:43.809Z] 4 change(s):
+  + News | Scientists reveal how deadly Andes hantavirus attaches to human cells
+  + News | Hantavirus spike structure reveals recessed protocadherin-1 binding po
+  + News | LSU Health Shreveport Researchers Help Unlock How Deadly Hantavirus In
+  + News | LSU Health Shreveport researchers unlock how hantavirus infects humans
