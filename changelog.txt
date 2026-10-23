@@ -1454,3 +1454,6 @@ the bot are listed under the timestamp.
   + News | Hantavirus spike structure reveals recessed protocadherin-1 binding po
   + News | LSU Health Shreveport Researchers Help Unlock How Deadly Hantavirus In
   + News | LSU Health Shreveport researchers unlock how hantavirus infects humans
+
+[2026-10-23T20:48:54.687Z] 1 change(s):
+  + News | How Andes hantavirus grabs hold of human cells

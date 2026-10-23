@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T16:08:58.473Z",
+  "last_updated": "2026-10-23T20:48:54.686Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "22 Oct 17:00",
+      "title": "How Andes hantavirus grabs hold of human cells",
+      "tag": "u",
+      "url": "https://cen.acs.org/biological-chemistry/andes-hantavirus-spike-pocket-binds-to-receptor/104/web/2026/10",
+      "live": true,
+      "added": "2026-10-23T20:48:51.770Z"
+    },
+    {
+      "src": "News",
       "time": "21 Oct 15:39",
       "title": "LSU Health Shreveport researchers unlock how hantavirus infects humans",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/if-you-catch-hantavirus-on-a-cruise-the-cruise-line-probably-doesnt-owe-you-a-cent-heres-why/ar-AA27leJD?ocid=BingNewsVerp",
       "live": true,
       "added": "2026-07-06T19:44:00.337Z"
-    },
-    {
-      "src": "News",
-      "time": "05 Jul 00:09",
-      "title": "Fact Check: Was Hantavirus Created for Global Elite Profits?",
-      "tag": "u",
-      "url": "https://en.tempo.co/read/2111989/fact-check-was-hantavirus-created-for-global-elite-profits",
-      "live": true,
-      "added": "2026-07-06T02:15:12.073Z"
     }
   ],
   "travel": [
