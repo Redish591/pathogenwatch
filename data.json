@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T15:17:35.959Z",
+  "last_updated": "2026-10-25T20:10:20.243Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "25 Oct 10:53",
+      "title": "Expert analysis of LLM hantavirus outbreak responses finds 11.1% potentially misleading",
+      "tag": "u",
+      "url": "https://bioengineer.org/expert-analysis-of-llm-hantavirus-outbreak-responses-finds-11-1-potentially-misleading/",
+      "live": true,
+      "added": "2026-10-25T20:10:17.913Z"
+    },
+    {
+      "src": "News",
       "time": "22 Oct 17:00",
       "title": "How Andes hantavirus grabs hold of human cells",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://cruiseindustrynews.com/cruise-news/2026/07/oceanwide-ceo-issues-statement-following-hantavirus-outbreak/",
       "live": true,
       "added": "2026-07-07T02:10:42.145Z"
-    },
-    {
-      "src": "News",
-      "time": "06 Jul 11:00",
-      "title": "If you catch hantavirus on a cruise, the cruise line probably doesn't owe you a cent — here's why",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/if-you-catch-hantavirus-on-a-cruise-the-cruise-line-probably-doesnt-owe-you-a-cent-heres-why/ar-AA27leJD?ocid=BingNewsVerp",
-      "live": true,
-      "added": "2026-07-06T19:44:00.337Z"
     }
   ],
   "travel": [
