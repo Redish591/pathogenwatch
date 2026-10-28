@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T11:51:30.864Z",
+  "last_updated": "2026-10-28T17:40:25.590Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "28 Oct 04:54",
+      "title": "Cryo-EM reveals how Andes hantavirus grips its human cell receptor",
+      "tag": "u",
+      "url": "https://bioengineer.org/cryo-em-reveals-how-andes-hantavirus-grips-its-human-cell-receptor/",
+      "live": true,
+      "added": "2026-10-28T17:40:23.098Z"
+    },
+    {
+      "src": "News",
       "time": "25 Oct 10:53",
       "title": "Expert analysis of LLM hantavirus outbreak responses finds 11.1% potentially misleading",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.news-medical.net/news/20260706/Korea-University-College-of-Medicine-selected-as-the-lead-institution-for-hantavirus-vaccine-development-project.aspx",
       "live": true,
       "added": "2026-07-07T19:42:41.837Z"
-    },
-    {
-      "src": "News",
-      "time": "06 Jul 13:29",
-      "title": "Oceanwide CEO Issues Statement Following Hantavirus Outbreak",
-      "tag": "u",
-      "url": "https://cruiseindustrynews.com/cruise-news/2026/07/oceanwide-ceo-issues-statement-following-hantavirus-outbreak/",
-      "live": true,
-      "added": "2026-07-07T02:10:42.145Z"
     }
   ],
   "travel": [

@@ -1460,3 +1460,6 @@ the bot are listed under the timestamp.
 
 [2026-10-25T20:10:20.244Z] 1 change(s):
   + News | Expert analysis of LLM hantavirus outbreak responses finds 11.1% poten
+
+[2026-10-28T17:40:25.591Z] 1 change(s):
+  + News | Cryo-EM reveals how Andes hantavirus grips its human cell receptor
