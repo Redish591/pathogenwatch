@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T03:46:24.985Z",
+  "last_updated": "2026-11-09T14:44:28.313Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2445,6 +2445,15 @@
   ],
   "news": [
     {
+      "src": "News",
+      "time": "08 Nov 23:54",
+      "title": "No Hantavirus Spread Found After Cruise. Off-Ship Risk Likely 2% Or Less",
+      "tag": "u",
+      "url": "https://www.yahoo.com/news/science/articles/no-hantavirus-spread-found-cruise-075400239.html",
+      "live": true,
+      "added": "2026-11-09T14:44:26.289Z"
+    },
+    {
       "src": "WHO",
       "time": "26 Oct 20:00",
       "title": "Inside Cambodia’s virus research: A conversation with a virologist",
@@ -3334,15 +3343,6 @@
       "url": "https://medicalxpress.com/news/2026-07-declares-cruise-ship-linked-hantavirus.html",
       "live": true,
       "added": "2026-07-08T08:09:28.066Z"
-    },
-    {
-      "src": "News",
-      "time": "02 Jul 08:38",
-      "title": "Hantavirus outbreak linked to cruise ship over, WHO says",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/general/hantavirus-outbreak-linked-to-cruise-ship-over-who-says/ar-AA274Uxq",
-      "live": true,
-      "added": "2026-07-08T01:51:16.647Z"
     }
   ],
   "travel": [
