@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T22:39:50.946Z",
+  "last_updated": "2026-11-11T03:51:32.192Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "10 Nov 14:32",
+      "title": "Hantavirus Cases Highlight Climate-Driven Zoonotic Spillover Risks",
+      "tag": "u",
+      "url": "https://bioengineer.org/hantavirus-cases-highlight-climate-driven-zoonotic-spillover-risks/",
+      "live": true,
+      "added": "2026-11-11T03:51:29.917Z"
+    },
+    {
+      "src": "News",
       "time": "08 Nov 23:54",
       "title": "No Hantavirus Spread Found After Cruise. Off-Ship Risk Likely 2% Or Less",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.newsweek.com/super-el-nino-more-hantavirus-cases-this-summer-us-11994190",
       "live": true,
       "added": "2026-07-08T13:42:36.022Z"
-    },
-    {
-      "src": "News",
-      "time": "03 Jul 04:41",
-      "title": "WHO declares cruise ship hantavirus outbreak over",
-      "tag": "u",
-      "url": "https://medicalxpress.com/news/2026-07-declares-cruise-ship-linked-hantavirus.html",
-      "live": true,
-      "added": "2026-07-08T08:09:28.066Z"
     }
   ],
   "travel": [
