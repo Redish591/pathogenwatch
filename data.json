@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T14:18:40.038Z",
+  "last_updated": "2026-11-12T22:59:30.914Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "12 Nov 11:03",
+      "title": "Andes hantavirus outbreak examined by scientists through its genome",
+      "tag": "u",
+      "url": "https://www.lemonde.fr/en/science/article/2026/11/12/andes-hantavirus-outbreak-examined-by-scientists-through-its-genome_6778972_10.html",
+      "live": true,
+      "added": "2026-11-12T22:59:29.047Z"
+    },
+    {
+      "src": "News",
       "time": "10 Nov 14:32",
       "title": "Hantavirus Cases Highlight Climate-Driven Zoonotic Spillover Risks",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.newsday.com/news/nation/hantavirus-vaccine-treatment-cruise-ship-chile-argentina-a68214",
       "live": true,
       "added": "2026-07-09T09:27:27.434Z"
-    },
-    {
-      "src": "News",
-      "time": "01 Jun 01:00",
-      "title": "Super El Ni&#241;o Could Mean More US Hantavirus Cases This Summer",
-      "tag": "u",
-      "url": "https://www.newsweek.com/super-el-nino-more-hantavirus-cases-this-summer-us-11994190",
-      "live": true,
-      "added": "2026-07-08T13:42:36.022Z"
     }
   ],
   "travel": [
