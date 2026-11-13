@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T13:39:45.932Z",
+  "last_updated": "2026-11-13T23:01:45.070Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "13 Nov 07:20",
+      "title": "Human-to-human hantavirus spread confirmed on cruise ship",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/health/diseases-and-conditions/human-to-human-hantavirus-spread-confirmed-on-cruise-ship/ar-AA2hnHlR",
+      "live": true,
+      "added": "2026-11-13T23:01:43.545Z"
+    },
+    {
+      "src": "News",
       "time": "12 Nov 11:03",
       "title": "Andes hantavirus outbreak examined by scientists through its genome",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://apnews.com/article/hantavirus-outbreak-cruise-ship-timeline-a04e0f8097d068a00fe94bf19f840240",
       "live": true,
       "added": "2026-07-10T19:16:44.713Z"
-    },
-    {
-      "src": "News",
-      "time": "03 Jun 16:29",
-      "title": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue",
-      "tag": "u",
-      "url": "https://www.newsday.com/news/nation/hantavirus-vaccine-treatment-cruise-ship-chile-argentina-a68214",
-      "live": true,
-      "added": "2026-07-09T09:27:27.434Z"
     }
   ],
   "travel": [
