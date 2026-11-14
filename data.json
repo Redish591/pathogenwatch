@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T04:09:53.141Z",
+  "last_updated": "2026-11-14T12:44:21.594Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "14 Nov 01:24",
+      "title": "Review Identifies COVID-19 Insights to Strengthen Global Hantavirus Outbreak Preparedness",
+      "tag": "u",
+      "url": "https://bioengineer.org/review-identifies-covid-19-insights-to-strengthen-global-hantavirus-outbreak-preparedness/",
+      "live": true,
+      "added": "2026-11-14T12:44:20.016Z"
+    },
+    {
+      "src": "News",
       "time": "13 Nov 07:20",
       "title": "Human-to-human hantavirus spread confirmed on cruise ship",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/oregon-doctor-who-tested-positive-for-hantavirus-treated-passengers-aboard-cruise-latest-updates/ar-AA22rrN8",
       "live": true,
       "added": "2026-07-11T07:41:17.126Z"
-    },
-    {
-      "src": "News",
-      "time": "07 May 10:40",
-      "title": "How a deadly hantavirus outbreak unfolded on a cruise ship for weeks before it was identified",
-      "tag": "u",
-      "url": "https://apnews.com/article/hantavirus-outbreak-cruise-ship-timeline-a04e0f8097d068a00fe94bf19f840240",
-      "live": true,
-      "added": "2026-07-10T19:16:44.713Z"
     }
   ],
   "travel": [
