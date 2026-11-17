@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T01:18:23.382Z",
+  "last_updated": "2026-11-17T15:12:27.858Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "12 Nov 23:26",
+      "title": "Hantavirus on the M/V Hondius: human-to-human transmission confirmed",
+      "tag": "u",
+      "url": "https://www.unige.ch/medecine/en/public-outreach/media/Hantavirus-M-V-Hondius-Human-to-Human-Transmission-Confirmed",
+      "live": true,
+      "added": "2026-11-17T15:12:26.481Z"
+    },
+    {
+      "src": "News",
       "time": "14 Nov 01:24",
       "title": "Review Identifies COVID-19 Insights to Strengthen Global Hantavirus Outbreak Preparedness",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.foxnews.com/health/hantavirus-fears-spark-covid-flashbacks-experts-say-theres-one-major-difference",
       "live": true,
       "added": "2026-07-11T12:57:29.974Z"
-    },
-    {
-      "src": "News",
-      "time": "29 May 06:23",
-      "title": "Hantavirus Patients Under Quarantine Could Go Home—If They Agree To 24/7 Surveillance, Report Says (Latest Updates)",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/oregon-doctor-who-tested-positive-for-hantavirus-treated-passengers-aboard-cruise-latest-updates/ar-AA22rrN8",
-      "live": true,
-      "added": "2026-07-11T07:41:17.126Z"
     }
   ],
   "travel": [
