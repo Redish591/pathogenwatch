@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T00:14:32.179Z",
+  "last_updated": "2026-11-18T23:42:59.033Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "18 Nov 12:28",
+      "title": "Analysis finds no definitive link between hantavirus that caused cruise ship outbreak and outbreak strain in Argentina",
+      "tag": "u",
+      "url": "https://www.cidrap.umn.edu/hantavirus/analysis-finds-no-definitive-link-between-hantavirus-caused-cruise-ship-outbreak-and",
+      "live": true,
+      "added": "2026-11-18T23:42:56.697Z"
+    },
+    {
+      "src": "News",
       "time": "12 Nov 23:26",
       "title": "Hantavirus on the M/V Hondius: human-to-human transmission confirmed",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.earth.com/news/hantavirus-outbreak-offers-lessons-for-the-next-pandemic/",
       "live": true,
       "added": "2026-07-12T08:01:35.711Z"
-    },
-    {
-      "src": "News",
-      "time": "14 May 11:23",
-      "title": "Hantavirus fears spark COVID flashbacks, but experts say there’s one major difference",
-      "tag": "u",
-      "url": "https://www.foxnews.com/health/hantavirus-fears-spark-covid-flashbacks-experts-say-theres-one-major-difference",
-      "live": true,
-      "added": "2026-07-11T12:57:29.974Z"
     }
   ],
   "travel": [
