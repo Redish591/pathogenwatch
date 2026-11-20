@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T00:01:52.244Z",
+  "last_updated": "2026-11-20T14:38:21.268Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "19 Nov 11:30",
+      "title": "Unabomber's Brother, Somali Pirates & Hantavirus Docs Set At Nat Geo",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/news/other/unabombers-brother-somali-pirates-hantavirus-docs-set-at-nat-geo/ar-AA2hOd4N",
+      "live": true,
+      "added": "2026-11-20T14:38:19.353Z"
+    },
+    {
+      "src": "News",
       "time": "18 Nov 12:28",
       "title": "Analysis finds no definitive link between hantavirus that caused cruise ship outbreak and outbreak strain in Argentina",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.msn.com/en-us/health/other/mice-hidden-behind-dishwasher-sparks-kylie-kelces-hantavirus-fears/ar-AA27Jege",
       "live": true,
       "added": "2026-07-12T12:58:20.851Z"
-    },
-    {
-      "src": "News",
-      "time": "11 Jul 16:23",
-      "title": "Hantavirus outbreak offers lessons for the next pandemic",
-      "tag": "u",
-      "url": "https://www.earth.com/news/hantavirus-outbreak-offers-lessons-for-the-next-pandemic/",
-      "live": true,
-      "added": "2026-07-12T08:01:35.711Z"
     }
   ],
   "travel": [
