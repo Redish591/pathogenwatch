@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T04:53:03.826Z",
+  "last_updated": "2026-11-21T13:55:19.514Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "20 Nov 07:54",
+      "title": "Hantavirus Briefing Highlights Surveillance and Diagnostic Gaps Across Somalia Health Systems",
+      "tag": "u",
+      "url": "https://bioengineer.org/hantavirus-briefing-highlights-surveillance-and-diagnostic-gaps-across-somalia-health-systems/",
+      "live": true,
+      "added": "2026-11-21T13:55:17.328Z"
+    },
+    {
+      "src": "News",
       "time": "19 Nov 11:30",
       "title": "Unabomber's Brother, Somali Pirates & Hantavirus Docs Set At Nat Geo",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.wdbj7.com/2026/05/13/hometown-health-hantavirus-outbreak-reaches-11-cases-local-expert-says-strain-differs-covid-19/",
       "live": true,
       "added": "2026-07-13T08:50:47.578Z"
-    },
-    {
-      "src": "News",
-      "time": "12 Jul 01:54",
-      "title": "Mice hidden behind dishwasher sparks Kylie Kelce's hantavirus fears",
-      "tag": "u",
-      "url": "https://www.msn.com/en-us/health/other/mice-hidden-behind-dishwasher-sparks-kylie-kelces-hantavirus-fears/ar-AA27Jege",
-      "live": true,
-      "added": "2026-07-12T12:58:20.851Z"
     }
   ],
   "travel": [

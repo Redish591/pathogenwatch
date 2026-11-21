@@ -1492,3 +1492,6 @@ the bot are listed under the timestamp.
 
 [2026-11-20T14:38:21.269Z] 1 change(s):
   + News | Unabomber's Brother, Somali Pirates & Hantavirus Docs Set At Nat Geo
+
+[2026-11-21T13:55:19.516Z] 1 change(s):
+  + News | Hantavirus Briefing Highlights Surveillance and Diagnostic Gaps Across
