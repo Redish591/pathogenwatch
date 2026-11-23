@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T04:51:41.465Z",
+  "last_updated": "2026-11-23T16:53:46.507Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "22 Oct 17:00",
+      "title": "What Genomic Analysis Reveals About the MV Hondius Hantavirus",
+      "tag": "u",
+      "url": "https://www.medscape.com/viewarticle/what-genomic-analysis-reveals-about-mv-hondius-hantavirus-2026a10019cs",
+      "live": true,
+      "added": "2026-11-23T16:53:44.449Z"
+    },
+    {
+      "src": "News",
       "time": "20 Nov 07:54",
       "title": "Hantavirus Briefing Highlights Surveillance and Diagnostic Gaps Across Somalia Health Systems",
       "tag": "u",
@@ -3334,15 +3343,6 @@
       "url": "https://www.thestreet.com/crypto/markets/mysterious-traders-are-betting-on-hantavirus-pandemic",
       "live": true,
       "added": "2026-07-14T01:41:55.377Z"
-    },
-    {
-      "src": "News",
-      "time": "13 May 07:08",
-      "title": "HOMETOWN HEALTH: Hantavirus outbreak reaches 11 cases; local expert says strain differs from COVID-19",
-      "tag": "u",
-      "url": "https://www.wdbj7.com/2026/05/13/hometown-health-hantavirus-outbreak-reaches-11-cases-local-expert-says-strain-differs-covid-19/",
-      "live": true,
-      "added": "2026-07-13T08:50:47.578Z"
     }
   ],
   "travel": [
