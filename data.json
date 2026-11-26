@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T16:30:06.178Z",
+  "last_updated": "2026-11-26T01:20:14.601Z",
   "outbreak": "Hantavirus 2026 — MV Hondius (Andes virus)",
   "keywords": [
     "hantavirus",
@@ -2446,6 +2446,15 @@
   "news": [
     {
       "src": "News",
+      "time": "23 Nov 06:00",
+      "title": "Hantavirus symptoms can take up to 8 weeks to appear after exposure",
+      "tag": "u",
+      "url": "https://www.msn.com/en-us/news/other/hantavirus-symptoms-can-take-up-to-8-weeks-to-appear-after-exposure/vi-AA2i3apz",
+      "live": true,
+      "added": "2026-11-26T01:20:12.316Z"
+    },
+    {
+      "src": "News",
       "time": "22 Oct 17:00",
       "title": "What Genomic Analysis Reveals About the MV Hondius Hantavirus",
       "tag": "u",
@@ -3332,15 +3341,6 @@
       "title": "Experts warn rodents nesting in your HVAC unit can spark fires, cause damage and even spread hantavirus — here's how to keep your home safe",
       "tag": "u",
       "url": "https://www.msn.com/en-us/pets-and-animals/pets/experts-warn-rodents-nesting-in-your-hvac-unit-can-spark-fires-cause-damage-and-even-spread-hantavirus-here-s-how-to-keep-your-home-safe/ar-AA27PKe0",
-      "live": true,
-      "added": "2026-07-14T01:41:55.377Z"
-    },
-    {
-      "src": "News",
-      "time": "07 May 18:55",
-      "title": "Mysterious traders are betting on Hantavirus pandemic",
-      "tag": "u",
-      "url": "https://www.thestreet.com/crypto/markets/mysterious-traders-are-betting-on-hantavirus-pandemic",
       "live": true,
       "added": "2026-07-14T01:41:55.377Z"
     }

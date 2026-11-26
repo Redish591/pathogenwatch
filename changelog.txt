@@ -1498,3 +1498,6 @@ the bot are listed under the timestamp.
 
 [2026-11-23T16:53:46.508Z] 1 change(s):
   + News | What Genomic Analysis Reveals About the MV Hondius Hantavirus
+
+[2026-11-26T01:20:14.603Z] 1 change(s):
+  + News | Hantavirus symptoms can take up to 8 weeks to appear after exposure
